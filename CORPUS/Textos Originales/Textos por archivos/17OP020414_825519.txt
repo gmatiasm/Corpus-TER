@@ -1,0 +1,45 @@
+<DOC>
+
+<DOCNO>
+<s docid="17OP020414_825519" num="1" wdcount="1"> 825519 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="17OP020414_825519" num="2" wdcount="1">17OP020414_825519</s>
+</FILEID>
+
+<HEAD>
+<s docid="17OP020414_825519" num="3" wdcount="2"> Opinión de </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="17OP020414_825519" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="17OP020414_825519" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="17OP020414_825519" num="6" wdcount="44"> DRIVER.- Se anuncia con gran beneplácito la realización del Ochenta Aniversario del Tradicional Torneo de Semana Mayor “Copa INFINITUM” del “viejo” Club de Golf de Cuernavaca, certamen que durante todos esos años ha sido escenario de grandes y famosas contiendas entre excelentes jugadores amateurs</s>
+<s docid="17OP020414_825519" num="7" wdcount="34"> Nos hace recordar este torneo grandes batallas de jugadores como el gran Jesús “Chucho” Chahín, Tomas Lehman, José Luis Ortega, Miguel Quijano, Juan Salcedo, Javier Licea y muchos más que escapan a mi memoria</s>
+<s docid="17OP020414_825519" num="8" wdcount="42"> MADERA TRES.- El certamen se jugará del 15 al 19 de abril próximo, a 54 hoyos (18 diarios) con corte a los 36, bajo el sistema de Stableford con el 50 por ciento del hándicap registrado ante la Federación Mexicana de Golf</s>
+<s docid="17OP020414_825519" num="9" wdcount="78"> Habrá once categorías, profesional por invitación, Campeonato también por invitación de cero a 3.9 de hándicap; “AA” de 4.0 a 7.9; “A” de 8.0 a 11.9; “B” de 12.0 a a 15.9; la “C” de 16 a 19,9; “D” de 20 a 25.9; “E” de 26 a 36; Súper Sénior para 60 años cumplidos y mayores de 0 a 36; Damas de 0 a 36 y juveniles de 15 a 17 años de 0 a 36 de Hándicap</s>
+<s docid="17OP020414_825519" num="10" wdcount="20"> Creo que son demasiadas categorías para un campo que tiene solo nueve hoyos, pero ese es problema del Comité Organizador</s>
+<s docid="17OP020414_825519" num="11" wdcount="38"> MADERA CINCO.- Los premios y obsequios están muy llamativos ya que habrá un Auto Corvette Stingray 2014 al primer Hole in One en el Hoyo 7 y un carrito de golf y membresía individual en el Hoyo 5</s>
+<s docid="17OP020414_825519" num="12" wdcount="52"> A los mejores Oyeses del primero al quinto lugar una Moneda Conmemorativa Plata Libertad y a los tres primeros lugares de cada categoría el premio será una Moneda Conmemorativa Plata Libertad y Green Fees para el Club de Golf Cuernavaca, además, cada participante recibirá un Paquete de Regalos otorgados por distintos patrocinadores</s>
+<s docid="17OP020414_825519" num="13" wdcount="9"> Las inscripciones con la Señorita Sofía al 01-777-314 0207</s>
+<s docid="17OP020414_825519" num="14" wdcount="29"> HIERRO SIETE.- Por fin, se volvió a jugar la Gira Profesional de Golf mexicana, según nos dicen había problemas con los patrocinadores y por ello no se había celebrado</s>
+<s docid="17OP020414_825519" num="15" wdcount="31"> La primera etapa del ahora llamado Tour Profesional México 2014 presentado por SAMSUNG, tuvo como escenario el Paraíso Residencial & Country Club, situado a solo cinco minutos de Cuernavaca en Morelos</s>
+<s docid="17OP020414_825519" num="16" wdcount="15"> La bolsa en disputa fue de 600 mil pesos con 125 mil para el triunfador</s>
+<s docid="17OP020414_825519" num="17" wdcount="66"> HIERRO NUEVE.- Nos dio mucho gusto que el Campeón de esta primera etapa fue el estimado profesional Antonio Serna de El Bosque Country Club, quien cerro su actuación con parciales de 67-64-66-197 golpes, 19 bajo el Par de la cancha Par 72 de 7,051 yardas desde las marcas azules, cancha en la que implanto el record de campo nuestro querido amigo Juan Salcedo con 61 golpes</s>
+<s docid="17OP020414_825519" num="18" wdcount="59"> APPROACH.- También nos dio mucho gusto que el profesional Efrén Serna, padre de una gran dinastía de profesionales, a pesar de la edad, continúa figurando entre los primeros lugares, ya que en este torneo finalizó en tercer lugar con guarismos de 66-67-68-201, quince bajo el par, empatado con Juan Diego Fernández del Club Campestre de la Ciudad de México</s>
+<s docid="17OP020414_825519" num="19" wdcount="31"> PUTT.- Efrén Serna Sr., es padre del campeón Antonio Serna y también de los excelentes profesionales Efrén Serna Jr., y Oscar Serna, quien ha representado a nuestro País en diferentes eventos</s>
+<s docid="17OP020414_825519" num="20" wdcount="38"> Con lágrimas en los ojos, Antonio le dedicó a su padre el triunfo y con motivo de su cumpleaños número 60 le regaló el reloj CITIZEN, que normalmente se entrega al ganador de cada etapa de esta Tour</s>
+<s docid="17OP020414_825519" num="21" wdcount="44"> También debemos mencionar, la extraordinaria actuación del zurdo mexicano Armando Favela, quien se impuso en el NEC Series-PGA Tour Latinoamérica con parciales de 67-68-68-71-274, catorce bajo par de la cancha “Fuego Maya” Par 72 de 7,245 yardas de La Reunión Golf Resort de Guatemala</s>
+<s docid="17OP020414_825519" num="22" wdcount="5"> HASTA EL PRÓXIMO MIÉRCOLES jegove22@hotmail.com </s>
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,44 @@
+<DOC>
+
+<DOCNO>
+<s docid="16ES020414_825551" num="1" wdcount="1"> 825551 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="16ES020414_825551" num="2" wdcount="1">16ES020414_825551</s>
+</FILEID>
+
+<HEAD>
+<s docid="16ES020414_825551" num="3" wdcount="8"> Muestra Internacional de Cine recordará a María Félix </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="16ES020414_825551" num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="16ES020414_825551" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="16ES020414_825551" num="6" wdcount="39"> Por un azar del destino el próximo 8 de abril se cumplirán 100 años del natalicio de la primera actriz María Félix y al mismo tiempo 12 años han pasado desde que se veló su féretro en Bellas Artes</s>
+<s docid="16ES020414_825551" num="7" wdcount="42"> El próximo 11 de abril la Cineteca Nacional y Fundación Televisa unirán esfuerzos para recordarla en el marco de la edición 56 de la Muestra Internacional de Cine (en Primavera) con la proyección de la cinta La diosa arrodillada (1947, Roberto Gavaldón)</s>
+<s docid="16ES020414_825551" num="8" wdcount="50"> En conferencia de prensa, Alejandro Pelayo, director de la Cineteca, explicó que decidió que la muestra se realice dos veces por año, una en primavera y otra en noviembre, porque de esta manera el público tendrá la oportunidad de ver más películas, sin tener que esperar hasta fin de año</s>
+<s docid="16ES020414_825551" num="9" wdcount="42"> “Esta muestra reúne lo más destacado de los festivales de cine que se realizaron en el último semestre del año pasado y a inicios de éste, así que tendremos un equilibrio y un panorama más detallado del cine mundial”, expresó el funcionario</s>
+<s docid="16ES020414_825551" num="10" wdcount="48"> La Muestra podrá disfrutarse a partir del 11 de abril en la Cineteca Nacional y un amplio circuito del área metropolitana de la ciudad de México, además de viajar a varias sedes en el interior de la República a partir de mayo y junio en una primera etapa</s>
+<s docid="16ES020414_825551" num="11" wdcount="41"> Tras la proyección inaugural, en honor al centenario de María Félix, la Muestra continuará con la nueva cinta de Wes Anderson, El gran hotel Budapest, cinta ganadora del Premio del Jurado en la última edición del Festival de Cine de Berlín</s>
+<s docid="16ES020414_825551" num="12" wdcount="55"> Los 14 títulos que completan la programación tiene atractivas funciones como el regreso a la realización de Alejandro Jodorowski con La danza de la realidad; Polissía de Maïwenn Le Besco, ganadora del Premio del Jurado en Cannes; y el último filme de Hayao Miyazaki, Se levanta el viento, nominada al Oscar a Mejor Película Animada</s>
+<s docid="16ES020414_825551" num="13" wdcount="19"> Por su parte, Ninfomanía vol.1 (2013) llega para complacer a los muchos seguidores en México de Lars von Trier</s>
+<s docid="16ES020414_825551" num="14" wdcount="36"> Como es usual en el trabajo del cineasta danés, la película se ha rodeado de polémica esta vez al presentar la historia de una chica adicta al sexo y sus descabelladas acciones para satisfacer su impulso</s>
+<s docid="16ES020414_825551" num="15" wdcount="57"> Debuts afortunados en la dirección, como el del guionista argentino Armando Bo y su filme El último Elvis (2012), ganador del Premio Horizontes en el Festival Internacional de Cine de San Sebastián, y del islandés Benedikt Erlingsson, con su comedia dramática Historias de caballos y de hombres (2013), ganador en festivales como el de Tokio y Gotemborg</s>
+<s docid="16ES020414_825551" num="16" wdcount="19"> Los nombres de figuras más que conocidas por el público mexicano también aparecen en esta programación, como pasa con </s>
+<s docid="16ES020414_825551" num="17" wdcount="5"> ¡Qué extraño es llamarse Federico!</s>
+<s docid="16ES020414_825551" num="18" wdcount="25"> Scola cuenta a Fellini (2013), un filme en el que el cineasta de Treviño, Ettore Scola, evoca la memoria de su amigo y colega Fellini</s>
+<s docid="16ES020414_825551" num="19" wdcount="69"> Mientras que la película inglesa El gigante egoísta (2013), de la estadounidense Clio Barnard, llega precedida del reconocimiento europeo tras su nominación a los Premios LUX 2013; El japonés Shion Sono se hace presente con Vamos a jugar al infierno (2013); y un vistazo por el pasado de opresión en Brasil encontramos en Memorias que me contaron (2012) de la directora Lucía Murat, también forman parte de la programación</s>
+<s docid="16ES020414_825551" num="20" wdcount="69"> Finalmente, tras su exitoso paso por la Muestra de Venecia en 2013, el filme Tom en el granero (2013), del canadiense Xavier Dolan, llega a México con una interesante perspectiva sobre la homosexualidad y la exhibición se cierra con la cinta Un toque de pecado (2013), del chino Jia Zhangke, quien nuevamente disecciona el presente convulso de China como consecuencia del inapelable clima económico que impera en el país.</s>
+
+</TEXT>
+
+</DOC>

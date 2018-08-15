@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="07CU010414_825277" num="1" wdcount="1"> 825277 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="07CU010414_825277" num="2" wdcount="1">07CU010414_825277</s>
+</FILEID>
+
+<HEAD>
+<s docid="07CU010414_825277" num="3" wdcount="12"> La obra del Nobel viaja desde ayer por las estaciones del Metro </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="07CU010414_825277" num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="07CU010414_825277" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="07CU010414_825277" num="6" wdcount="63"> Con una placa conmemorativa, una tarjeta y boleto de viajero, el Sistema de Transporte Colectivo (STC) y la Secretaría de Cultura rindieron homenaje ayer a Octavio Paz, en el centenario de su natalicio mediante “Octavio Paz viaja en metro”, un programa que incluye actividades como un concierto de cuarteto de cuerdas, un documental y una conferencia sobre el poeta, en la estación Mixcoac</s>
+<s docid="07CU010414_825277" num="7" wdcount="60"> El secretario de Cultura del Distrito Federal, Eduardo Vázquez Martín y el subdirector general de Administración y Finanzas del STC, José Alfonso Suárez del Real, dieron a conocer los diseños de la tarjeta y el boleto que estarán en circulación hasta fin de año, en los que se muestran imágenes del autor de Árbol adentro y fragmentos de sus poemas</s>
+<s docid="07CU010414_825277" num="8" wdcount="53"> Este proyecto se caracteriza por la instalación, en la estación Mixcoac, del “Espacio Cultural de Paz”, a través de una placa conmemorativa, donde se realizará un concierto de cuarteto de cuerdas, la proyección de un documental y una conferencia sobre el escritor, justo en el espacio que une las líneas 7 y 12</s>
+<s docid="07CU010414_825277" num="9" wdcount="29"> En virtud de las conmemoraciones, se emitieron 10 millones de boletos y 100 mil tarjetas para los más de 5.3 millones de usuarios diarios que transitan por esta línea</s>
+<s docid="07CU010414_825277" num="10" wdcount="41"> Vázquez Martín señaló que Octavio Paz “es un poeta de la ciudad, de su tiempo y de las grandes pasiones de su tiempo: la revolución, el amor, el surrealismo; un poeta crítico que no temía a la polémica y a disentir</s>
+<s docid="07CU010414_825277" num="11" wdcount="23"> Era un poeta, un intelectual que le gustaba pensar en la polis y discutir el sentido de convivir, la justicia y la libertad”</s>
+<s docid="07CU010414_825277" num="12" wdcount="37"> Fue por esto, dijo, que junto con el STC decidieron difundir las palabras del poeta “para que sus versos sean anzuelos para aquel que tenga la curiosidad, la sensibilidad y el tiempo se acerque a su obra”</s>
+<s docid="07CU010414_825277" num="13" wdcount="37"> Por su parte, Suárez del Real dijo que la intención de este programa es que el poeta “encontrara y sorprendiera a cada uno de los metronautas con alguno de sus fragmentos, de sus poemas, de sus palabras”</s>
+
+
+</TEXT>
+
+</DOC>

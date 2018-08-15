@@ -1,0 +1,42 @@
+<DOC>
+
+<DOCNO>
+<s docid="08AC030414_825865" num="1" wdcount="1"> 825865 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="08AC030414_825865" num="2" wdcount="1">08AC030414_825865</s>
+</FILEID>
+
+<HEAD>
+<s docid="08AC030414_825865" num="3" wdcount="11"> Consumir alimentos orgánicos no reduce el riesgo de cáncer en mujeres </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="08AC030414_825865" num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="08AC030414_825865" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="08AC030414_825865" num="6" wdcount="38"> Las mujeres que generalmente consumen alimentos de producción biológica no tienen menos riesgo de contraer cánceres como el de mama que aquellas que siguen una dieta más convencional, según un estudio publicado en el "British Journal of Cancer"</s>
+<s docid="08AC030414_825865" num="7" wdcount="43"> Científicos de la universidad inglesa de Oxford analizaron los hábitos alimenticios y la progresión de salud en un periodo de 9,3 años de 623.080 mujeres británicas de más de 50 años, participantes en un programa nacional de investigación sobre la salud femenina, Millionwomenstudy</s>
+<s docid="08AC030414_825865" num="8" wdcount="28"> Los expertos concluyeron que "no hay pruebas de que consumir de forma regular una dieta de alimentos libres de pesticidas reduzca el riesgo de cáncer en la mujer"</s>
+<s docid="08AC030414_825865" num="9" wdcount="33"> El equipo de Tim Key preguntó a las mujeres si comían alimentos orgánicos y con qué regularidad, y siguió el desarrollo de los dieciséis cánceres más comunes en ese periodo de nueve años</s>
+<s docid="08AC030414_825865" num="10" wdcount="10"> En ese espacio de tiempo, 50.000 mujeres desarrollaron un cáncer</s>
+<s docid="08AC030414_825865" num="11" wdcount="28"> Los científicos no encontraron ninguna diferencia en el grado de riesgo entre las 180.000 mujeres que dijeron nunca consumir comida biológica y las 45.000 que afirmaron hacerlo regularmente</s>
+<s docid="08AC030414_825865" num="12" wdcount="51"> Al analizar cada uno de los dieciséis cánceres, hallaron un pequeño incremento del riesgo de contraer cáncer de pecho entre las consumidoras de comida orgánica y una pequeña reducción en el caso del linfoma no-Hodgkin, si bien los expertos subrayan que ello pudo deberse a otros factores independientes de la dieta</s>
+<s docid="08AC030414_825865" num="13" wdcount="37"> Key destacó que "en este gran estudio de mujeres de mediana edad en el Reino Unido no encontramos pruebas de que el riesgo general de una mujer de desarrollar cáncer se reduzca si habitualmente come alimentos orgánicos"</s>
+<s docid="08AC030414_825865" num="14" wdcount="23"> El experto señaló que se necesitan más estudios para determinar si puede haber una reducción del riesgo en el caso del linfoma no-Hodgkin</s>
+<s docid="08AC030414_825865" num="15" wdcount="41"> La directora de gestión de información de la organización Cancer Research UK -que patrocinó el estudio-, Claire Knight, dijo que este "se suma a otras pruebas que indican que los alimentos de producción biológica no reducen el riesgo general de cáncer"</s>
+<s docid="08AC030414_825865" num="16" wdcount="41"> "Los científicos valoran que alrededor de un 9 % de los cánceres en el Reino Unido pueden estar ligados a la dieta, de los cuales un 5 % se han relacionado con un bajo consumo de fruta y verdura", declaró Knight</s>
+<s docid="08AC030414_825865" num="17" wdcount="28"> "Por lo tanto, mantener una dieta equilibrada con un alto contenido de fruta y verdura -sea o no biológica- puede ayudar a reducir el riesgo de cáncer", añadió.</s>
+
+
+</TEXT>
+
+</DOC>

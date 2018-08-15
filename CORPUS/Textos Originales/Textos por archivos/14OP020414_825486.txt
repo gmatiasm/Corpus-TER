@@ -1,0 +1,50 @@
+<DOC>
+
+<DOCNO>
+<s docid="14OP020414_825486" num="1" wdcount="1"> 825486 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="14OP020414_825486" num="2" wdcount="1">14OP020414_825486</s>
+</FILEID>
+
+<HEAD>
+<s docid="14OP020414_825486" num="3" wdcount="4"> Los derechos sociales, ¿derechos? </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="14OP020414_825486" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="14OP020414_825486" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="14OP020414_825486" num="6" wdcount="7"> (Cuatra de cinco partes) A nuestro legisladores</s>
+<s docid="14OP020414_825486" num="7" wdcount="135"> Para que vayan entendiendo Si por derecho hay que entender todo aquello que demanda, de parte de un tercero, el cumplimiento de una obligación, entonces por “derecho” social hay que entender todo aquello que demanda, del gobierno, el cumplimiento de una obligación positiva, de tal manera que los “derechos” sociales a la alimentación, a la atención médica, a la educación, a la vivienda (y muchos otros –véase el artículo cuarto de la Constitución– que van desde el “derecho” al agua, pasando por el “derecho” a la cultura, hasta llegar al “derecho” al deporte, y los que se acumulen, desde “seguros” de desempleo hasta pensiones “universales”), tienen como contrapartida la obligación positiva del gobierno de proveer los satisfactores necesarios para la satisfacción de esas necesidades (ojo: necesidades, no verdaderos derechos), momento de hacer la pregunta decisiva: </s>
+<s docid="14OP020414_825486" num="8" wdcount="11"> ¿de dónde obtiene el gobierno los recursos para proveer tales satisfactores?, </s>
+<s docid="14OP020414_825486" num="9" wdcount="18"> misma que tiene una sola respuesta: de los impuestos (ayer, hoy o mañana; de una u otra manera)</s>
+<s docid="14OP020414_825486" num="10" wdcount="29"> La única manera de que el gobierno cumpla con las obligaciones positivas que le imponen los “derechos” sociales, es por medio de la redistribución, es decir, quitándole a A, </s>
+<s docid="14OP020414_825486" num="11" wdcount="6"> ¡lo que SÍ es de A!</s>
+<s docid="14OP020414_825486" num="12" wdcount="4">  para darle a B, </s>
+<s docid="14OP020414_825486" num="13" wdcount="6"> ¡lo que NO es de B!, </s>
+<s docid="14OP020414_825486" num="14" wdcount="6"> lo cual es un robo legal</s>
+<s docid="14OP020414_825486" num="15" wdcount="19"> Robo: se obliga a A, bajo amenaza de castigo, a entregarle al recaudador parte del producto de su trabajo</s>
+<s docid="14OP020414_825486" num="16" wdcount="35"> Legal: se “justifica” con una ley, misma que lo hace legal, pero de ninguna manera justo, por más que el positivismo jurídico, que afirma que es justo lo que el legislador dice que es justo, </s>
+<s docid="14OP020414_825486" num="17" wdcount="10"> ¡una de las peores aberraciones en el mundo del derecho!, </s>
+<s docid="14OP020414_825486" num="18" wdcount="41"> diga lo contrario, positivismo jurídico que en México es la regla, y buena muestra de ello es la invención de derechos que realmente no lo son, tal y como es el caso de los “derechos” sociales, que no pasan de ser, </s>
+<s docid="14OP020414_825486" num="19" wdcount="2"> ¡eso sí!, </s>
+<s docid="14OP020414_825486" num="20" wdcount="1"> necesidades</s>
+<s docid="14OP020414_825486" num="21" wdcount="81"> Al respecto hay que tener claro lo siguiente: dada la escasez (no todo alcanza para todos, y menos en las cantidades que cada uno quisiera), el gobierno no puede darle todo a todos, de tal manera que sólo es capaz de darle algo a algunos, y ese algo que les da a algunos previamente se lo tuvo que haber quitado a otros, sin olvidar que, dado que el gobierno cobra por quitar y dar, nunca devuelve la misma cantidad que quitó</s>
+<s docid="14OP020414_825486" num="22" wdcount="18"> Los “derechos” sociales “justifican” al Estado-benefactor, que no pasa de ser gobierno redistribuidor, que obliga, de manera indirecta,</s>
+<s docid="14OP020414_825486" num="23" wdcount="2"> ¡pero obliga!, </s>
+<s docid="14OP020414_825486" num="24" wdcount="46"> a que A beneficie a B, todo lo cual no deja de ser una injusticia, porque la única ayuda moralmente justificable, y por ello legalmente aceptable, es la que A le brinda voluntariamente a B, no la que alguien obliga a A a brindarle a B</s>
+<s docid="14OP020414_825486" num="25" wdcount="33"> Y esto, ni más ni menos, es a lo que obliga el gobierno redistribuidor, so pretexto de los “derechos” sociales, pretexto para la práctica del robo legal, para la redistribución gubernamental del ingreso</s>
+<s docid="14OP020414_825486" num="26" wdcount="3"> arturodamm@prodigy.net.mx Twitter: @ArturoDammArnal </s>
+
+
+</TEXT>
+
+</DOC>

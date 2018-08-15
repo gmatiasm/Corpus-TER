@@ -1,0 +1,37 @@
+
+
+<DOCNO>
+<s docid="10ES010414_825377" num="1" wdcount="1"> 825377 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="10ES010414_825377" num="2" wdcount="1">10ES010414_825377</s>
+</FILEID>
+
+<HEAD>
+<s docid="10ES010414_825377" num="3" wdcount="13"> Las Spice Girls recibirán 30 millones de dólares por actuar en Las Vegas </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="10ES010414_825377" num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="10ES010414_825377" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="10ES010414_825377" num="6" wdcount="77"> Aunque la diseñadora Victoria Beckham insistía recientemente en que no tiene ninguna intención de regresar al mundo de la música con las Spice Girls, su negativa no parece haber afectado al poder de convocatoria que todavía tienen sus antiguas cuatro compañeras -Mel B, Mel C, Geri Halliwell y Emma Bunton-, teniendo en cuenta que varios casinos de Las Vegas se están peleando por hacerse con sus servicios para organizar un ambicioso y rentable espectáculo en la ciudad</s>
+<s docid="10ES010414_825377" num="7" wdcount="32"> "Desde que las cuatro confirmaran que tienen muchas ganas de volver a los escenarios, varios hoteles y casinos de Las Vegas han estado proponiéndoles interesantes proyectos que se verían muy bien recompensados</s>
+<s docid="10ES010414_825377" num="8" wdcount="52"> Como Mel B es la que más tiempo ha estado viviendo en Estados Unidos, es ella la que dirige las negociaciones, y por ahora parece que se van a decantar por una serie de conciertos fijos en uno de estos establecimientos", reveló al diario Daily Star una fuente cercana al grupo británico</s>
+<s docid="10ES010414_825377" num="9" wdcount="65"> Siguiendo el ejemplo de Britney Spears, quien se comprometió a actuar regularmente durante dos años en el Planet Hollywood de la capital de Nevada, las Spice Girls inglesas empezarán a preparar en los próximos meses todos los detalles de un espectáculo previsto para el año 2016, cuando se cumple el 20 aniversario de su aterrizaje en la escena pop gracias a la ya emblemática ‘Wannabe‘</s>
+<s docid="10ES010414_825377" num="10" wdcount="81"> Pese a que no se ha desvelado todavía el nombre del afortunado local que contará con las cuatro vocalistas inglesas dentro de un par de años, algunos miembros de su equipo ya se frotan las manos pensando en los más de 30 millones de dólares (21 millones de euros) que les reportará su nueva aventura musical, un proyecto que, además, podría abrirles de nuevo la puerta de la prominencia comercial a través de nuevos discos y giras por todo el mundo</s>
+<s docid="10ES010414_825377" num="11" wdcount="39"> "Las Spice Girls son una marca que todavía genera mucho interés en Estados Unidos, por lo que no resulta tan extraño que vayan a cobrar aproximadamente 30 millones de dólares por sus actuaciones, según lo negociado por Mel B</s>
+<s docid="10ES010414_825377" num="12" wdcount="76"> Los beneficios podrían ser aún mayores si se confirma que los Backstreet Boys [quinteto masculino que rivalizaba con las Spice Girls en la década de los 90] se unirán al proyecto como teloneros", aseguró el mismo informante, quien está convencido de que las Spice Girls volverán a revivir en 2016 una exitosa serie de conciertos similar a la protagonizada en 2007, una gira mundial que en principio se concibió como una despedida definitiva de los escenarios</s>
+
+
+</TEXT>
+
+</DOC>

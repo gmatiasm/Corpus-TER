@@ -1,0 +1,53 @@
+<DOC>
+
+<DOCNO>
+<s docid="17DE030414_825768" num="1" wdcount="1"> 825768 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="17DE030414_825768" num="2" wdcount="1">17DE030414_825768</s>
+</FILEID>
+
+<HEAD>
+<s docid="17DE030414_825768" num="3" wdcount="7"> El Madrid, con un pie en semis </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="17DE030414_825768" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="17DE030414_825768" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="17DE030414_825768" num="6" wdcount="38"> El Real Madrid dio un paso importante hacia las semifinales de la Champions League, luego de imponerse de manera contundente 3-0 al Borussia Dortmund en el Santiago Bernabéu, en el juego de ida de los cuartos de final</s>
+<s docid="17DE030414_825768" num="7" wdcount="24"> Los merengues completaron la primera parte de la revancha ante el cuadro alemán, equipo que los eliminó en las semifinales de la edición anterior</s>
+<s docid="17DE030414_825768" num="8" wdcount="21"> Gareth Bale, al 3’, Isco, al 27’ y Cristiano Ronaldo, al 56’, hicieron los goles para la escuadra de Carlo Ancelotti</s>
+<s docid="17DE030414_825768" num="9" wdcount="10"> Los blancos comenzaron dominando y lo reflejaron en el marcador</s>
+<s docid="17DE030414_825768" num="10" wdcount="35"> Apenas a los tres minutos, gracias a una triangulación entre Karim Benzema, Danny Carvajal y Gareth Bale, el galés controló dentro del área y punteó ante la salida del arquero Roman Weidenfeller para el 1-0</s>
+<s docid="17DE030414_825768" num="11" wdcount="38"> El Madrid continuó con la presión sobre los alemanes, y esto rindió frutos nuevamente al 27’, cuando Isco recibió el balón fuera del área, controló y le pegó de derecha para colocarla en el rincón para el 2-0</s>
+<s docid="17DE030414_825768" num="12" wdcount="60"> Para el complemento, la tónica del partido no cambió, el equipo merengue siguió tocando la puerta alemana, y Cristiano Ronaldo en su partido 100 de Champions, consiguió el tercero gracias a un error en la salida del Borussia Dortmund, Luka Modric tomó el esférico y cedió para el portugués que se quitó al arquero al 57’, para el 3-0 definitivo</s>
+<s docid="17DE030414_825768" num="13" wdcount="26"> Con su gol, el portugués CR7 empató con 14 tantos el récord de Messi y Van Nistelrroy en una misma edición de la Copa de Europa</s>
+<s docid="17DE030414_825768" num="14" wdcount="69"> El Dortmund, que resintió la ausencia del delantero polaco Robert Lewandowski, quien podrá jugar el partido de vuelta, en donde buscarán el milagro en su campo el próximo 8 de abril.+ APROVECHA PSG LA LOCALÍA El Paris Saint-Germain sacó provecho de su condición de local y obtuvo ventaja sobre el Chelsea, al que venció 3-1 en el juego de ida de los Cuartos de Final de la Champions League</s>
+<s docid="17DE030414_825768" num="15" wdcount="19"> Al 2’, Ezequiel Lavezzi abrió el marcador al aprovechar un deficiente despeje al centro del área de John Terry</s>
+<s docid="17DE030414_825768" num="16" wdcount="18"> El argentino recibió con el pecho y sacó un tiro angulado imposible para la estirada de Petr Cech</s>
+<s docid="17DE030414_825768" num="17" wdcount="8"> El equipo inglés empató desde los once pasos</s>
+<s docid="17DE030414_825768" num="18" wdcount="12"> Edin Hazard convirtió de penal, luego de engañar al arquero al 26’</s>
+<s docid="17DE030414_825768" num="19" wdcount="12"> El zaguero brasileño David Luiz marcó en su propio arco al 63’</s>
+<s docid="17DE030414_825768" num="20" wdcount="11"> Las cifras definitivas las puso otro argentino, Javier Pastore, al 90’</s>
+<s docid="17DE030414_825768" num="21" wdcount="25"> A considerar… Cristiano Ronaldo empató el récord de goles en una edición de la Copa de Europa (14) que compartían Altafini, Van Nistelrooy y Messi</s>
+<s docid="17DE030414_825768" num="22" wdcount="24"> El portugués ha marcado en 11 partidos oficiales seguidos (club y selección) superando la mejor racha en la carrera profesional de Messi con 10</s>
+<s docid="17DE030414_825768" num="23" wdcount="9"> CR7 ha marcado en ocho partidos seguidos de Champions</s>
+<s docid="17DE030414_825768" num="24" wdcount="15"> Esta a uno de igualar el récord histórico de Rud Van Nisetlrooy, que sumó nueve</s>
+<s docid="17DE030414_825768" num="25" wdcount="24"> Cristiano igualó a Messi como máximo goleador en la fase de eliminación directa, en toda la historia de la Champions League, con 31 goles</s>
+<s docid="17DE030414_825768" num="26" wdcount="21"> El lusitano es el tercer jugador que marca en su partido 100 de Champions League, tras Thierry Henry y Zlatan Ibrahimovic</s>
+<s docid="17DE030414_825768" num="27" wdcount="25"> El Real Madrid ha marcado dos o más goles en 10 partidos seguidos de la Champions, igualando el registro fijado por el Sevilla en 2007-2009</s>
+<s docid="17DE030414_825768" num="28" wdcount="28"> CR7 empata a Di Stéfano con 49 goles, en un mismo club dentro de la Champ; Messi es el líder con 67 y le sigue Raúl con 66</s>
+
+
+</TEXT>
+
+</DOC>

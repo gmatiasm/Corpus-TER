@@ -1,0 +1,43 @@
+<DOC>
+
+<DOCNO>
+<s docid="12NA010414_825336" num="1" wdcount="1"> 825336 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="12NA010414_825336" num="2" wdcount="1">12NA010414_825336</s>
+</FILEID>
+
+<HEAD>
+<s docid="12NA010414_825336" num="3" wdcount="4"> IFE castiga turismo electoral </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="12NA010414_825336" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="12NA010414_825336" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="12NA010414_825336" num="6" wdcount="75"> Luego de que el Consejo General del IFE abordó y sancionó un caso de “turismo electoral” o bien “trata de electores” de Morelos y San Luis Potosí a Veracruz, el presidente interino de ese órgano, Benito Nacif llamó a la ciudadanía a no tramitar credenciales de elector con datos falsos, ya sea en su lugar de residencia o en alguna otra entidad, ya que ello constituye una falta administrativa que puede ser sancionada con cárcel</s>
+<s docid="12NA010414_825336" num="7" wdcount="17"> “Tramitar frívolamente credenciales para votar y/o reportar cambios de domicilio falsos, puede ser una falta grave”, advirtió</s>
+<s docid="12NA010414_825336" num="8" wdcount="30"> Por eso –dijo— es importante, comunicar a la ciudadanía que este tipo de acciones constituyen faltas administrativas y por otro lado, también, delitos que pueden ser sancionados con penas carcelarias</s>
+<s docid="12NA010414_825336" num="9" wdcount="45"> Ello, luego de que por primera vez, el Consejo General del IFE, sancionó con una amonestación pública a siete ciudadanos de San Luis Potosí y Morelos que realizaron trámites irregulares para inscribirse en el padrón electoral de Veracruz, en víspera de los comicios del 2010</s>
+<s docid="12NA010414_825336" num="10" wdcount="45"> Aunque el PAN y PRD les exigían castigar al PRI por esa situación, los consejeros no encontraron elementos para responsabilizar al tricolor de ese mecanismo que según el blanquiazul y sol azteca se utiliza para trasladar votantes de un estado a otro en cada elección</s>
+<s docid="12NA010414_825336" num="11" wdcount="30"> Sin embargo se dio vista a la Fiscalía Especializada de Atención a Delitos Electorales para ahondar en las investigaciones y proceder a eventuales sanciones por posibles delitos en esta materia</s>
+<s docid="12NA010414_825336" num="12" wdcount="38"> Nacif no descartó la posibilidad de que detrás de este “turismo electoral” se encuentren algunos partidos políticos, por lo cual pidió a los ciudadanos no incurrir en este delito pues se pueden hacer acreedores a sanciones incluso penales</s>
+<s docid="12NA010414_825336" num="13" wdcount="39"> “Hacemos un llamado a los ciudadanos, a la ciudadanía en general a que no se preste a este tipo de acciones y que, cuando haya un cambio de domicilio, efectivamente, vaya y lo reporte al Instituto Federal Electoral”, convocó</s>
+<s docid="12NA010414_825336" num="14" wdcount="29"> Nacif reconoció que en este caso no se castigó a los partidos porque no se encontraron elementos y al final fueron los ciudadanos los que proporcionaron la información falsa</s>
+<s docid="12NA010414_825336" num="15" wdcount="40"> “La falta la constituye el dar información falsa al Registro Federal de Electores y documentación falsa, por ejemplo, cuando se trata de reportar un cambio de domicilio; finalmente quien la da es el ciudadano que acude a los módulos”, explicó</s>
+<s docid="12NA010414_825336" num="16" wdcount="42"> Nacif Hernández reconoció que faltas de ese tipo no son sencillas de probar, por lo cual precisó que el Instituto ha estado y estará más vigilante para ver otras modalidades de instrucción o de investigación y llegar a fondo de estos asuntos</s>
+<s docid="12NA010414_825336" num="17" wdcount="35"> Lo importante, dijo, es ver “si nos encontramos ante el caso de partidos políticos o cualquier otro tipo de organización que esté involucrada en la promoción de este tipo movimientos espurios en el padrón electoral”.</s>
+
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,36 @@
+<DOC>
+
+<DOCNO>
+<s docid="19NE020414_825682" num="1" wdcount="1"> 825682 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="19NE020414_825682" num="2" wdcount="1">19NE020414_825682</s>
+</FILEID>
+
+<HEAD>
+<s docid="19NE020414_825682" num="3" wdcount="11"> Admiten amparos de Televisa y Grupo Carso contra resoluciones de IFT </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="19NE020414_825682" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="19NE020414_825682" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="19NE020414_825682" num="6" wdcount="34"> Las demandas de amparo que promovieron Televisa y los grupos Carso y Financiero Inbursa contra las resoluciones del Instituto Federal de Telecomunicaciones (IFT) fueron admitidas a trámite para su sustanciación, por dos juzgados federales</s>
+<s docid="19NE020414_825682" num="7" wdcount="46"> La demanda de Televisa y de sus filiales Cablemás, Cablevisión y Sky, contra la declaración de preponderancia en el campo de la radiodifusión, fue radicada en el Juzgado Primero Especializado en Telecomunicaciones y Competencia Económica, cuya titular, Irma Leticia Flores Díaz, emitió el acto de admisión</s>
+<s docid="19NE020414_825682" num="8" wdcount="46"> En tanto, la demanda de Carso y del Grupo Financiero Inbursa, empresas declaradas preponderantes en el campo de las telecomunicaciones, fue turnada al Juzgado Segundo Especializado en Telecomunicaciones y Competencia Económica, a cargo de la juez Silvia Cerón, quien también emitió el respectivo auto de admisión</s>
+<s docid="19NE020414_825682" num="9" wdcount="56"> Debido a la reforma constitucional en materia de telecomunicaciones, el acto reclamado en ambos casos no fue suspendido, lo que significa que la declaración se mantiene para todo efecto práctico el tiempo que duren los juicios de amparo, que puede ser años, en razón de la complejidad del asunto y los recursos interpuestos por las partes</s>
+<s docid="19NE020414_825682" num="10" wdcount="42"> Esta desventaja inicial de las empresas quejosas tiene su contraparte en el hecho de que si obtienen el amparo de la justicia federal, el Estado tendría que pagarles los daños y perjuicios derivados de haber sido declarados preponderantes en todo ese tiempo</s>
+<s docid="19NE020414_825682" num="11" wdcount="37"> Por otro lado, y de manera independiente a las demandas de Carso y Grupo Financiero Inbursa, América Móvil y sus filiales Telcel y Telmex, promovieron su propia demanda de amparo contra la resolución del (IFT)) sobre preponderancia</s>
+<s docid="19NE020414_825682" num="12" wdcount="14"> Ahora esta demanda será turnada a uno de los juzgados especializados que le corresponda.</s>
+
+</TEXT>
+
+</DOC>

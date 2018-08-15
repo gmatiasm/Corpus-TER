@@ -1,0 +1,41 @@
+<DOC>
+
+<DOCNO>
+<s docid="12CI010414_825414" num="1" wdcount="1"> 825414 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="12CI010414_825414" num="2" wdcount="1">12CI010414_825414</s>
+</FILEID>
+
+<HEAD>
+<s docid="12CI010414_825414" num="3" wdcount="11"> SSPDF reporta que disminuyó robo a usuarios de taxi y microbús </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="12CI010414_825414" num="4" wdcount="1"> Ciudad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="12CI010414_825414" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="12CI010414_825414" num="6" wdcount="44"> El operativo Pasajero Seguro que se aplica en 10 puntos estratégicos de la ciudad ha permitido disminuir los índices delictivos en robo a usuarios de taxi y microbús, afirmó el titular de la Secretaría de Seguridad Pública del Distrito Federal (SSPDF), Jesús Rodríguez Almeida</s>
+<s docid="12CI010414_825414" num="7" wdcount="48"> Entrevistado luego de acudir a la ceremonia de inauguración del XXIV Ciclo de Conferencias de Actualización Judicial 2014 en el Tribunal Superior de Justicia del Distrito Federal (TSJDF), señaló que en lo que va del año han sido detenidos casi 200 personas por robo a transporte de pasajeros</s>
+<s docid="12CI010414_825414" num="8" wdcount="34"> “Llevamos en lo que va del año 180 detenidos por robo a transporte, lo que representa una disminución de 40 por ciento a bordo de taxi y 26 por ciento a bordo de microbús</s>
+<s docid="12CI010414_825414" num="9" wdcount="15"> No vamos a dejar de realizar estos operativos en lugares donde tenemos esa problemática”, señaló</s>
+<s docid="12CI010414_825414" num="10" wdcount="41"> Destacó que desde las 6:00 horas de este martes se establecieron 10 puntos de revisión y en ese operativo participan 100 elementos de la Policía de Proximidad, 40 del transporte y 70 de Tránsito, apoyados con 20 patrullas y 40 motocicletas</s>
+<s docid="12CI010414_825414" num="11" wdcount="46"> La SSPDF precisó en un comunicado que en la zona poniente se establecieron filtros de revisión en Calzada Camarones y 22 de Febrero, en la delegación Azcapotzalco; y en Avenida Vasco de Quiroga y Pólvora, así como en el Pueblo Santa Fe, perímetro de Álvaro Obregón</s>
+<s docid="12CI010414_825414" num="12" wdcount="28"> En la zona sur se ubican en avenida Taxqueña y Escuela Naval Militar, así como en Canal de Miramontes y Calzada del Hueso, ambos en la delegación Coyoacán</s>
+<s docid="12CI010414_825414" num="13" wdcount="53"> En la zona oriente los puntos de revisión etán en calzada Ermita Iztapalapa a la altura de Plaza Aristeum; en Eje 10 Sur y Autopista México – Puebla, sobre Eje 10 y uno más en la lateral de calzada Ignacio Zaragoza, circulación Oriente – Poniente y el Aguacatillo, todas en la delegación Iztapalapa</s>
+<s docid="12CI010414_825414" num="14" wdcount="19"> En tanto, en la zona norte se ubican en Juan de Dios Bátiz y Miguel Bernard, delegación Gustavo A</s>
+<s docid="12CI010414_825414" num="15" wdcount="11"> Madero y calzada Ignacio Zaragoza y calle 79, en Venustiano Carranza</s>
+<s docid="12CI010414_825414" num="16" wdcount="26"> Para la zona centro el punto de revisión del operativo Pasajero Seguro se encuentra en Eje 1 Norte y avenida Paseo de la Reforma, delegación Cuauhtémoc.</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,51 @@
+<DOC>
+
+<DOCNO>
+<s docid="12DE020414_825512" num="1" wdcount="1"> 825512 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="12DE020414_825512" num="2" wdcount="1">12DE020414_825512</s>
+</FILEID>
+
+<HEAD>
+<s docid="12DE020414_825512" num="3" wdcount="6"> La Volpe, nuevo técnico de Chivas </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="12DE020414_825512" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="12DE020414_825512" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="12DE020414_825512" num="6" wdcount="35"> Tal como le ocurrió a Ricardo La Volpe en 1996, ahora le sucedió, al que va a sustituir en el Guadalajara: José Luis Real, a quienes el resultado de un Clásico los dejó sin trabajo</s>
+<s docid="12DE020414_825512" num="7" wdcount="31"> El 4-0 de América sobre Chivas en el Estadio Omnilife fue la gota que derramó el vaso sobre el Güero, a quien Jorge Vergara, propietario de Chivas, le dio las gracias</s>
+<s docid="12DE020414_825512" num="8" wdcount="11"> A través de un comunicado, el equipo hizo oficial la determinación</s>
+<s docid="12DE020414_825512" num="9" wdcount="32"> El estratega argentino, paradójicamente, vuelve a dirigir gracias al resultado en un Chivas-América; ahora tomará al equipo a partir de la próxima jornada y firmaría por este torneo y el Apertura 2014</s>
+<s docid="12DE020414_825512" num="10" wdcount="36"> A su más puro estilo, sin escuchar preguntas a su paso por la sala de llegadas nacionales, el entrenador argentino arribó al Aeropuerto Internacional de Guadalajara para formalizar su vinculación como nuevo director técnico de Chivas</s>
+<s docid="12DE020414_825512" num="11" wdcount="17"> Casi 18 años después, La Volpe volverá a dirigir a un equipo “grande” en el futbol mexicano</s>
+<s docid="12DE020414_825512" num="12" wdcount="28"> La goleada que recibieron las Chivas el domingo anterior en casa en la última edición del Clásico, le abrió la puerta para estar al frente del Rebaño Sagrado</s>
+<s docid="12DE020414_825512" num="13" wdcount="58"> El futbol, de la mano con los clásicos, le ha dado una nueva revancha al ex seleccionador tricolor, luego que una goleada de 5-0 en contra de sus Águilas en el torneo Invierno 96 ante las Chivas, que en ese entonces eran dirigidas por el Tuca Ferretti, marcó el adiós de Ricardo de la dirección técnica del América</s>
+<s docid="12DE020414_825512" num="14" wdcount="51"> El técnico campeón con Atlante en la temporada 1992-93, quien por cierto fue su último equipo al que dirigió en México en el 2013, ya había sido estratega de Chivas (1989-1990), donde tuvo dos juegos ganados, cinco empatados, siete perdidos y como local solo le ganó a Cobras de Ciudad Juárez</s>
+<s docid="12DE020414_825512" num="15" wdcount="12"> En aquella ocasión no fue del todo aceptado por la afición rojiblanca</s>
+<s docid="12DE020414_825512" num="16" wdcount="30"> La Volpe encontrará en Chivas a un equipo dominado por los jóvenes, que tienen en Aldo de Nigris, Omar Bravo, Rafael Márquez Lugo e Israel Castro, al toque de experiencia</s>
+<s docid="12DE020414_825512" num="17" wdcount="16"> El Guadalajara no es un equipo equilibrado y esa será la primera encomienda del nuevo timonel</s>
+<s docid="12DE020414_825512" num="18" wdcount="46"> El futbol da muchas revanchas y aunque Ricardo La Volpe jamás imaginó que regresaría a las Chivas en una situación como esta, ahora tendrá la oportunidad de volver a sentarse en un banquillo y de sembrar las bases para un nuevo proyecto en el equipo rojiblanco</s>
+<s docid="12DE020414_825512" num="19" wdcount="46"> En su papel de analista, La Volpe compartió mesa y micrófonos hace más de una semana con Vergara, cuando estuvo como invitado en un programa de ESPN para hablar sobre el momento que vivía el Rebaño hasta antes de jugar los Clásicos contra Atlas y América</s>
+<s docid="12DE020414_825512" num="20" wdcount="19"> Durante su gestión como seleccionador nacional de 2003 a 2006, Vergara fue un severo crítico del trabajo del argentino</s>
+<s docid="12DE020414_825512" num="21" wdcount="42"> Tras la estrepitosa caída en el Clásico Nacional ante América, Vergara habló sobre el futuro del club tapatío y de los refuerzos que necesitan para apuntalar al equipo, en el que Chivas estaría involucrado de manera importante en el tema del descenso</s>
+<s docid="12DE020414_825512" num="22" wdcount="17"> Jorge Vergara ofrece una recompensa a quien le ayude a contratar jugadores de cara al siguiente torneo</s>
+<s docid="12DE020414_825512" num="23" wdcount="35"> El dueño de Chivas rechazó que sea falta de inversión por lo que Chivas no tenga nuevos jugadores, pues está dispuesto a hacer un desembolso por el bien del equipo de cara al próximo torneo</s>
+<s docid="12DE020414_825512" num="24" wdcount="41"> “El que me esté escuchando que pueda conseguir un jugador, le doy el 10 por ciento de lo que cueste”, aseguró Vergara, “Soy muy baboso para poder negociar y comprar; como soy muy tonto, ofrezco recompensa a quien lo logre”, sentenció</s>
+<s docid="12DE020414_825512" num="25" wdcount="50"> Tras 13 jornadas, Chivas perdió en cuatro ocasiones, empató en cinco, y ganó cuatro duelos, mismos que le permiten mantenerse en la lucha por calificar, pese a todo, a la Liguilla, instancia a la que no llega desde el Apertura 2012, cuando eran dirigidos por el holandés John van´t Schip</s>
+<s docid="12DE020414_825512" num="26" wdcount="48"> En su segundo periodo al frente de Chivas, José Luis el Güero Real se mantuvo al frente por apenas 13 jornadas, en las que dejó al equipo en décimo lugar, con 17 unidades, al igual que Xolos y Atlas, pero con una diferencia de goles de menos cinco</s>
+
+
+</TEXT>
+
+</DOC>

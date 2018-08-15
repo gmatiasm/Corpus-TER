@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="08NA010414_825327" num="1" wdcount="1"> 825327 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="08NA010414_825327" num="2" wdcount="1">08NA010414_825327</s>
+</FILEID>
+
+<HEAD>
+<s docid="08NA010414_825327" num="3" wdcount="8"> SAT-Hidalgo extiende prórroga para ingreso a nuevo régimen </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="08NA010414_825327" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="08NA010414_825327" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="08NA010414_825327" num="6" wdcount="58"> Estableció el Sistema de Administración Tributaria (SAT) en Hidalgo un periodo de 10 días más, a partir de este 1 de abril, para que los contribuyentes entren al Régimen de Incorporación Fiscal, pues durante los últimos días de marzo fue suspendido el servicio para registro ante la gran demanda y la poca capacidad con que contaba dicha herramienta</s>
+<s docid="08NA010414_825327" num="7" wdcount="44"> Así lo dio a conocer el administrador en Pachuca, Juan Rubén Rojas Lugo, quien determinó que tal decisión fue tomada la semana pasada ante la gran demanda y considerando que quienes entren en el nuevo régimen deberán haber tramitado su Firma Electrónica Avanzada (Fiel)</s>
+<s docid="08NA010414_825327" num="8" wdcount="54"> A partir del 21 de marzo el portal web del organismo tuvo una pausa en sus operaciones con la finalidad de actualizar y ampliar las opciones de servicio que desde hace ya varias semanas contaba con algunas problemática para lograr gestiones a las que están obligados los contribuyentes desde el 1 del presente año</s>
+<s docid="08NA010414_825327" num="9" wdcount="51"> En este contexto, el administrador también dio a conocer que en el caso de quienes estén interesados en llevar a cabo los trámites relacionados con la afiliación de trabajadores para atender temas como las deducciones de nómina, los patrones sólo requieren de presentar su Código Único de Registro de Población (CURP)</s>
+<s docid="08NA010414_825327" num="10" wdcount="40"> Al determinar que la población no tiene pretexto para no cumplir con sus obligaciones fiscales, Juan Rubén Rojas Lugo expresó que hay opciones diversas tanto de manera física como digital o vía telefónica para atender el llamado de la autoridad</s>
+<s docid="08NA010414_825327" num="11" wdcount="28"> De esta forma está disponible el Infosat, número telefónico sin costo (01 800 46 36 728) donde la dependencia ofrece asesoría para atender los trámites de los interesados</s>
+<s docid="08NA010414_825327" num="12" wdcount="62"> Cabe destacar que, con la finalidad de que todos quienes deban dar de alta su FIEL o entrar en el Régimen de Incorporación Fiscal lo hagan, el SAT ofrecerá servicio especial también los sábados 5, 12 y 25 de abril, a lo que se suma el domingo 26 de abril con un horario a partir de las 8:30 a las 19:00 horas.</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="04ES010414_825264" num="1" wdcount="1"> 825264 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="04ES010414_825264" num="2" wdcount="1">04ES010414_825264</s>
+</FILEID>
+
+<HEAD>
+<s docid="04ES010414_825264" num="3" wdcount="13"> El Encuentro de Cocina Tradicional de Michoacán rescatará la identidad de las comunidades </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="04ES010414_825264" num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="04ES010414_825264" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="04ES010414_825264" num="6" wdcount="37"> Los sabores, ingredientes y olores de los platillos gastronómicos michoacanos, se encontrarán disponibles en el Encuentro de Cocina Tradicional de Michoacán, del 4 al 6 de abril en la capital del estado, Morelia, sede del evento culinario</s>
+<s docid="04ES010414_825264" num="7" wdcount="42"> “Somos el único país donde la cocina tradicional es considerada patrimonio de la humanidad, aunque no toda, sólo la que está clasificada como comunitaria y ancestral”, enfatizó en entrevista con Crónica, Cynthia Martínez, organizadora del encuentro y chef del restaurante San Miguelito</s>
+<s docid="04ES010414_825264" num="8" wdcount="53"> La responsable de la muestra aseguró que dicha mención mundial conlleva marcadas responsabilidades para la cocina: “Se necesita una cuidada difusión sobre las comunidades que son propensas a perder su identidad: detrás de cada platillo hay una historia que le da precisamente este elemento, además de las personas que colaboran en ello”, contó</s>
+<s docid="04ES010414_825264" num="9" wdcount="49"> “Ser una cocinera tradicional no es igual que tener una fonda y un restaurante; son platillos diferentes cuando perteneces a una comunidad, cuando lo transmites generación tras generación; no son las recetas de la abuelita sino aquellas que se quedaron en la historia a través del tiempo”, dijo Martínez</s>
+<s docid="04ES010414_825264" num="10" wdcount="31"> Los principales ingredientes característicos de la comida michoacana: el chile, el maíz y el frijol, logran fusionarse para obtener resultados como “el pozole batido o los tamales de harina y piloncillo</s>
+<s docid="04ES010414_825264" num="11" wdcount="24"> La sorpresa es que en una sola sentada puedes probar un grano de maíz en diferentes maneras, desde la entrada hasta el postre”, aseguró</s>
+<s docid="04ES010414_825264" num="12" wdcount="55"> La chef aseveró que la tarea de rescatar platillos no es algo que surgiera de la noche a la mañana: “Desde hace 30 años aproximadamente se comenzó a trabajar en este proyecto, con personas que han guardado recetas por más de 400 años hasta poder darlas a conocer para conquistar nuevos sabores con tradición”, señaló</s>
+<s docid="04ES010414_825264" num="13" wdcount="59"> En el encuentro se llevará a cabo un concurso interno donde las categorías consideradas son al Mejor Platillo Tradicional, otro para algunas de las Maestras Cocineras y otro al Platillo de Rescate, “que se otorga a alguien que cocina alguna comida que ya no se había hecho en la comunidad desde hace más de 30 o 40 años”, finalizó</s>
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+
+<DOCNO>
+<s docid="15NE020414_825488" num="1" wdcount="1"> 825488 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="15NE020414_825488" num="2" wdcount="1">15NE020414_825488</s>
+</FILEID>
+
+<HEAD>
+<s docid="15NE020414_825488" num="3" wdcount="10"> Nextel México trae al mercado los iPhone 5s y 5c </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="15NE020414_825488" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="15NE020414_825488" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="15NE020414_825488" num="6" wdcount="24"> Una vez más Nextel consolida su posición en el mercado mexicano, con la llegada de iPhone 5s y 5c a su portafolio de equipos</s>
+<s docid="15NE020414_825488" num="7" wdcount="37"> Para celebrarlo, Nextel organizó una serie de eventos el pasado viernes 28 de marzo en distintas ciudades de la república como: Ciudad de México, Guadalajara, Monterrey, Puebla, León y Querétaro, para agradecer la preferencia de sus clientes</s>
+<s docid="15NE020414_825488" num="8" wdcount="41"> Los invitados que pudieron disfrutar de esta gran experiencia, fueron clientes de Nextel, medios de comunicación, personalidades la sociedad mexicana y celebridades como Ana Claudia Talancón, embajadora de la marca quien estuvo presente en el evento de la Ciudad de México</s>
+<s docid="15NE020414_825488" num="9" wdcount="46"> “La llegada de iPhone a la compañía, sin duda fortalece nuestro abanico de smartphones y nos permite ofrecer a nuestros clientes uno de los equipos más avanzados e icónicos del mundo”, aseguró Cristina Ruiz de Velasco, Vicepresidenta de Relaciones Institucionales y Comunicación de Nextel de México</s>
+<s docid="15NE020414_825488" num="10" wdcount="55"> Por su parte Gustavo Cantu, Director Ejecutivo Comercial de Nextel de México, comentó: “A todos los que trabajamos en Nextel, nos llena de alegría el poder compartir con nuestros usuarios la llegada de iPhone 5s y 5c, ya que con este lanzamiento se refuerza nuestro interés por escuchar a nuestros clientes y cambiar la conversación</s>
+<s docid="15NE020414_825488" num="11" wdcount="40"> Ahora este lema se ha convertido en una cultura de trabajo en la compañía, por esta razón les ofrecemos lo que por tanto tiempo estaban esperando: la mejor red, los mejores servicios y los mejores equipos como el icónico iPhone”</s>
+
+</TEXT>
+
+</DOC>

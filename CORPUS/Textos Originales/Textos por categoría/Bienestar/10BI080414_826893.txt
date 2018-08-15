@@ -1,0 +1,41 @@
+<DOC>
+
+<DOCNO>
+<s docid="10BI080414_826893" num="1" wdcount="1"> 826893 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="10BI080414_826893" num="2" wdcount="1">10BI080414_826893</s>
+</FILEID>
+
+<HEAD>
+<s docid="10BI080414_826893" num="3" wdcount="7"> Internet te ayuda a planear tus vacaciones </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="10BI080414_826893" num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="10BI080414_826893" num="5" wdcount="1"> 2014-04-08 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="10BI080414_826893" num="6" wdcount="47"> Las vacaciones de Semana Santa están a la vuelta de la esquina, y con ellas no solamente el deseo de descansar y alejarse de la ciudad, también de planear todo lo necesario: desde elegir el destino, prepararse para viajar seguro y saludable, hasta hacer reservaciones y compras</s>
+<s docid="10BI080414_826893" num="7" wdcount="31"> Si aún no tienes planeadas tus vacaciones, Internet puede ser un gran aliado no sólo para organizar todo lo necesario para estos días de descanso, también para ahorrar en tu presupuesto</s>
+<s docid="10BI080414_826893" num="8" wdcount="65"> “Se estima que un 21% de los mexicanos utilizan Internet y sus smartphones para búsquedas relacionadas con vacacionar, sobre todo en la categoría de rentas vacacionales, con las cuales se puede ahorrar entre un 20% y un 40% durante Semana Santa por concepto de hospedaje” menciona Mariano Balcarce, Jefe de Desarrollo de Negocios para América Latina de Vivanuncios, sitio líder en anuncios clasificados en México</s>
+<s docid="10BI080414_826893" num="9" wdcount="73"> Si no has organizado tus planes para estas vacaciones de Semana Santa, los expertos de Vivanuncios te dan algunas recomendaciones para que saques provecho de Internet durante esta época: · Define tu presupuesto: Aunque nos emocionen las vacaciones, debes tomar en cuanta un presupuesto, es decir cuánto dinero tienes disponible y de ese monto, qué cantidad será utilizada en los diferentes aspectos de tu viaje, por ejemplo, para vuelos, hospedaje, comidas, y tours</s>
+<s docid="10BI080414_826893" num="10" wdcount="25"> Este paso no solamente garantizará unas vacaciones a tu medida, también que éstas no se conviertan en una pesadilla financiera al regreso de tu viaje</s>
+<s docid="10BI080414_826893" num="11" wdcount="18"> · Define tu destino turístico: Existen distintos tipos de destinos, desde playas, ecoturísticos, hasta coloniales y de gran tradición</s>
+<s docid="10BI080414_826893" num="12" wdcount="13"> Define qué clase de destino y vacaciones deseas, de ello dependerán tus actividades</s>
+<s docid="10BI080414_826893" num="13" wdcount="42"> · Ahorra en hospedaje: Uno de los aspectos donde más puedes ahorrar en tus vacaciones es en el hospedaje a través de rentas vacacionales, pues representan un ahorro de entre 20% a 40% comparados con las tarifas hoteleras, además de brindarte mayor privacidad</s>
+<s docid="10BI080414_826893" num="14" wdcount="76"> “Las rentas vacacionales representan ventajas para quien las oferta, como generar un ingreso extra en fechas de asueto o fines de semana; y para quien recurre a ellas significa estirar el presupuesto de hospedaje y comida, de tal manera que se puede aprovechar un mayor monto del presupuesto en disfrutar de otras cosas, como visitar centros nocturnos, contratar tours u otras actividades recreativas; o simplemente para ahorrar algo de dinero de regreso a casa” menciona Balcarce</s>
+<s docid="10BI080414_826893" num="15" wdcount="49"> · Check list y maleta: Organiza todos los artículos que no debes olvidar para tu viaje, si te hace falta alguno puedes comparar su precio y obtenerlo de manera fácil, rápida y local; ya sea un artículo nuevo o seminuevo también podrás ahorrar a la hora de hacer tu maleta</s>
+<s docid="10BI080414_826893" num="16" wdcount="22"> · No olvides todo lo que puede proteger a tu familia según tu destino, planea un botiquín sencillo, que contenga además protectores solares</s>
+<s docid="10BI080414_826893" num="17" wdcount="29"> Si viajas en auto no olvides revisarlo bien antes de salir a carretera y respetar las reglas de tránsito en ellas y en los lugares a los que asistas.</s>
+
+</TEXT>
+
+</DOC>

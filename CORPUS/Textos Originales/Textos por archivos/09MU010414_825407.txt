@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="09MU010414_825407" num="1" wdcount="1"> 825407 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="09MU010414_825407" num="2" wdcount="1">09MU010414_825407</s>
+</FILEID>
+
+<HEAD>
+<s docid="09MU010414_825407" num="3" wdcount="10"> Submarino nuclear se suma a la búsqueda del avión desaparecido </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="09MU010414_825407" num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="09MU010414_825407" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="09MU010414_825407" num="6" wdcount="44"> El Ministerio de Defensa del Reino Unido anunció hoy que el submarino nuclear "HMS Tireless" ha llegado a las aguas del océano Índico para colaborar en la búsqueda del avión de Malaysia Airlines que desapareció el 8 de marzo con 239 personas a bordo</s>
+<s docid="09MU010414_825407" num="7" wdcount="25"> El submarino se centrará en la búsqueda de las cajas negras del Boeing 777 que desapareció cuando realizaba el vuelo MH370 con destino a Pekín</s>
+<s docid="09MU010414_825407" num="8" wdcount="38"> El "HMS Tireless" se sumará a la fragata "HMS Echo", la otra embarcación que ha aportado el Reino Unido a las labores de búsqueda en una extensa zona del Índico, a unos 1.850 kilómetros al oeste de Pekín</s>
+<s docid="09MU010414_825407" num="9" wdcount="39"> El submarino, en activo desde 1984, cuenta con una tripulación de 148 personas, que se "coordinará de cerca" con las embarcaciones australianas y estadounidenses en la zona, según explicó un portavoz del Ministerio de Defensa a la cadena BBC</s>
+<s docid="09MU010414_825407" num="10" wdcount="21"> El "HMS Tireless" recibió la orden de dirigirse hacia aguas del Índico hace una semana y llegó ayer a la zona</s>
+<s docid="09MU010414_825407" num="11" wdcount="25"> El responsable australiano de la búsqueda, Angus Houston, afirmó hoy que la operación para encontrar los restos del avión malasio podría alargarse durante "mucho tiempo"</s>
+<s docid="09MU010414_825407" num="12" wdcount="34"> "No necesariamente es algo que se resuelva en las próximas dos semanas", dijo en una rueda de prensa en la ciudad australiana de Perth el primer responsable del Centro de Coordinación de Agencias Conjuntas.</s>
+
+
+
+</TEXT>
+
+</DOC>

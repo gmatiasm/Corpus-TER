@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="20MU030414_825933" num="1" wdcount="1"> 825933 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="20MU030414_825933" num="2" wdcount="1">20MU030414_825933</s>
+</FILEID>
+
+<HEAD>
+<s docid="20MU030414_825933" num="3" wdcount="11"> Senado de EU aprueba publicar informe sobre interrogatorios de la CIA </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="20MU030414_825933" num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="20MU030414_825933" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="20MU030414_825933" num="6" wdcount="36"> El Comité de Inteligencia del Senado aprobó hoy publicar un resumen de un extenso informe que ha elaborado sobre las técnicas de interrogatorios de la CIA durante los años de la Administración del presidente George W</s>
+<s docid="20MU030414_825933" num="7" wdcount="1"> Bush</s>
+<s docid="20MU030414_825933" num="8" wdcount="41"> El Senado ha votado desclasificar un resumen de unas 480 páginas del informe sobre los años más oscuros de la Agencia Central de Inteligencia (CIA) en su lucha contra el terrorismo islamista tras los atentados del 11 de septiembre de 2001</s>
+<s docid="20MU030414_825933" num="9" wdcount="38"> La investigación original ha llevado cinco años y consta de 6.200 páginas, en las que se detallan las tácticas de detención en cárceles clandestinas o interrogatorios con ahogamiento simulado de detenidos en la guerras contra el terrorismo islamista</s>
+<s docid="20MU030414_825933" num="10" wdcount="54"> La publicación del documento debe esperar a que el Buró Federal de Investigación (FBI) y el Pentágono revisen que la información no afecta a la seguridad nacional y a que evalúen el impacto que puede tener en los casos pendientes de juicio contra los detenidos más importante de la Base Naval de Guantánamo (Cuba)</s>
+<s docid="20MU030414_825933" num="11" wdcount="48"> Jalid Sheij Mohamed, uno de los detenidos más importantes del penal, acusado de ser el cerebro del 11S y sobre el que pende una condena a muerte, pasó desde 2003 tres años en cárceles secretas de la CIA y fue sometido hasta en 183 ocasiones al ahogamiento simulado</s>
+<s docid="20MU030414_825933" num="12" wdcount="31"> Con la llegada del presidente Barack Obama, Estados Unidos puso fin a los interrogatorios forzados, que incluían posturas incómodas, aislamiento, privación de sueño y el uso de perros o música estridente</s>
+<s docid="20MU030414_825933" num="13" wdcount="38"> Según indicó en un comunicado la senadora Dianne Feinstein, presidenta del Comité de Inteligencia responsable del estudio, "el propósito de esta revisión es revelar los hechos que están detrás de este programa secreto y los resultados son alarmantes"</s>
+<s docid="20MU030414_825933" num="14" wdcount="33"> "El informe expone una brutalidad que está en contra de nuestros valores como país, es una crónica de una mancha en nuestra historia que no debemos permitir que vuelva a suceder", afirmó Feinstein</s>
+<s docid="20MU030414_825933" num="15" wdcount="50"> Según el diario The Washington Post, la CIA exageró la utilidad de los interrogatorios forzados y ocultó la severidad de las técnicas utilizadas, que como en el caso de Sheij Mohamed no sirvieron para obtener información relevante sobre complots o el paradero del líder de Al Qaeda, Osama bin Landen.</s>
+
+</TEXT>
+
+</DOC>

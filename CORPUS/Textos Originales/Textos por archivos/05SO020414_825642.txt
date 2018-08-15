@@ -1,0 +1,46 @@
+<DOC>
+
+<DOCNO>
+<s docid="05SO020414_825642" num="1" wdcount="1"> 825642 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="05SO020414_825642" num="2" wdcount="1">05SO020414_825642</s>
+</FILEID>
+
+<HEAD>
+<s docid="05SO020414_825642" num="3" wdcount="12"> Al año, una persona desperdicia 300 kilos de alimentos, denuncia la FAO </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="05SO020414_825642" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="05SO020414_825642" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="05SO020414_825642" num="6" wdcount="42"> La Organización de Naciones Unidas para la Alimentación y la Agricultura (FAO) denunció hoy que de media cada habitante de la Tierra desperdicia casi 300 kilos de alimentos por año, cuando al mismo tiempo más de 800 millones de personas pasan hambre</s>
+<s docid="05SO020414_825642" num="7" wdcount="41"> Durante una conferencia regional de la FAO para Europa y Asia Central, enfocada en el desperdicio de alimentos, el director general de la organización, José Graziano da Silva, destacó que unos 1.300 millones de toneladas de alimentos se pierden cada año</s>
+<s docid="05SO020414_825642" num="8" wdcount="50"> "Si los desperdicios y pérdidas pudiesen reducirse simplemente a la mitad, el incremento de alimentos necesarios para alimentar a la población mundial en 2050 sería de solo un 25 por ciento, en lugar del 60 por ciento estimado actualmente", subrayó el exministro brasileño de Seguridad Alimentaria en declaraciones a Efe</s>
+<s docid="05SO020414_825642" num="9" wdcount="40"> Según datos de la FAO, cada habitante de la Tierra desperdicia de media unos 280 kilos de alimentos por año, mientras que al mismo tiempo 842 millones de los estimados 7.000 millones de habitantes del planeta pasan hambre a diario</s>
+<s docid="05SO020414_825642" num="10" wdcount="35"> Da Silva precisó que la pérdida de alimentos se produce sobre todo en "las granjas, durante el procesamiento, transporte y almacenamiento", y además por una "falta de regulación", lo que socava también la seguridad alimentaria</s>
+<s docid="05SO020414_825642" num="11" wdcount="33"> La crisis financiera y económica, que ha afectado también duramente a muchos Estados europeos, ha reducido el desperdicio de alimentos, aunque esta bajada sigue siendo insuficiente para la FAO, dijo Graziano da Silva</s>
+<s docid="05SO020414_825642" num="12" wdcount="19"> Las pérdidas económicas y medioambientales por esos desperdicios de alimentos ascienden a cientos de miles de millones de dólares</s>
+<s docid="05SO020414_825642" num="13" wdcount="22"> "El coste anual de los desperdicios y pérdidas de alimentos, expresado en precio al productor, es de unos 750.000 millones de dólares</s>
+<s docid="05SO020414_825642" num="14" wdcount="20"> Si considerásemos además los precios al por menor y los costos ambientales, esta cifra sería mucho mayor", destacó Da Silva</s>
+<s docid="05SO020414_825642" num="15" wdcount="49"> La conferencia de Bucarest reúne esta semana a más de 300 delegados de medio centenar de países de Europa y Asia Central, que debaten cómo reducir la pérdida de alimentos, además de cómo fomentar la agricultura familiar y cómo combatir los efectos del cambio climático sobre la producción agraria</s>
+<s docid="05SO020414_825642" num="16" wdcount="41"> "Necesitamos aumentar nuestros esfuerzos para mitigar (los efectos), para adaptarnos y, sobre todo, para cambiar hacia un sistema sostenible de alimentos", manifestó Graziano da Silva en referencia al más reciente informe el Panel Intergubernamental de la ONU sobre Cambio Climático, IPCC</s>
+<s docid="05SO020414_825642" num="17" wdcount="7"> "Esta es una de nuestras principales responsabilidades</s>
+<s docid="05SO020414_825642" num="18" wdcount="21"> Los más pobres del mundo son especialmente vulnerables al cambio climático", manifestó Graziano da Silva en una intervención ante el plenario</s>
+<s docid="05SO020414_825642" num="19" wdcount="28"> Por otra parte, el responsable máximo de la FAO relacionó el hambre y los movimientos migratorios procedentes de África con el recorte de los fondos de cooperación internacional</s>
+<s docid="05SO020414_825642" num="20" wdcount="21"> Graziano da Silva instó en ese sentido a los Estados europeos a que vuelvan a ayudar más a sus países vecinos</s>
+<s docid="05SO020414_825642" num="21" wdcount="32"> "Hay que recuperar su rol de donante importante", aseveró el antiguo ministro brasileño, uno de los artífices del programa "Fome Zero" (Hambre Cero) del Gobierno de Luiz Inácio "Lula" da Silva (2003-2010)</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,48 @@
+<DOC>
+
+<DOCNO>
+<s docid="11NE010414_825409" num="1" wdcount="1"> 825409 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="11NE010414_825409" num="2" wdcount="1">11NE010414_825409</s>
+</FILEID>
+
+<HEAD>
+<s docid="11NE010414_825409" num="3" wdcount="12"> Coloca México en mercado de euros bonos a 7 y 15 años </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="11NE010414_825409" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="11NE010414_825409" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="11NE010414_825409" num="6" wdcount="44"> El gobierno de México llevó a cabo una emisión de deuda en los mercados internacionales de capital, a través de la cual se colocaron mil millones de euros de Bonos Globales con vencimiento en 2021 y mil millones de euros con vencimiento en 2029</s>
+<s docid="11NE010414_825409" num="7" wdcount="32"> La Secretaría de Hacienda y Crédito Público (SHCP) informó que con estas operaciones se captaron recursos por un total de dos mil millones de euros, aproximadamente dos mil 760 millones de dólares</s>
+<s docid="11NE010414_825409" num="8" wdcount="38"> Destacó que los costos de financiamiento logrados en la colocación de los dos instrumentos son los más bajos que haya obtenido el gobierno federal en emisiones en el mercado de euros con plazos de 7 y 15 años</s>
+<s docid="11NE010414_825409" num="9" wdcount="30"> Asimismo, se alcanzaron las menores tasas de interés a 7 y 15 años en euros a las cuales ha obtenido financiamiento cualquier emisor soberano no europeo, añadió en un comunicado</s>
+<s docid="11NE010414_825409" num="10" wdcount="26"> Señaló que el gobierno federal es el primer emisor emergente que logra colocar bonos de mediano y largo plazo de manera simultánea (7 y 15 años)</s>
+<s docid="11NE010414_825409" num="11" wdcount="36"> Se alcanzó el mayor número de inversionistas participantes en una emisión del gobierno federal en los mercados internacionales de capital (413 inversionistas), lo que contribuye a diversificar y ampliar la base de inversionistas del gobierno mexicano</s>
+<s docid="11NE010414_825409" num="12" wdcount="54"> Con esta colocación, añadió, se logran establecer dos nuevos bonos de referencia en euros con vencimientos en 2021 y 2029, los cuales otorgaron una tasa de rendimiento de 2.40 por ciento y 3.75 por ciento, de manera respectiva y cuentan con un cupón de 2.375 por ciento y 3.625 por ciento, en ese orden</s>
+<s docid="11NE010414_825409" num="13" wdcount="36"> La SHCP apuntó que las condiciones de financiamiento alcanzadas y la extensa participación de los inversionistas muestran la confianza en el manejo macroeconómico del gobierno federal y el efecto favorable de las reformas estructurales aprobadas recientemente</s>
+<s docid="11NE010414_825409" num="14" wdcount="58"> Apuntó que los beneficios de la emisión de dos nuevos bonos de referencia en euros a siete y 15 años, por mil millones de euros cada uno, son cubrir las necesidades de financiamiento del gobierno Federal a un bajo costo, así como ampliar la base de inversionistas y preservar la diversidad del acceso al crédito en diferentes mercados</s>
+<s docid="11NE010414_825409" num="15" wdcount="43"> Asimismo, promover el desarrollo de mercados líquidos y profundos con curvas de rendimiento que faciliten el acceso al financiamiento a una amplia gama de agentes económicos públicos y privados; y, extender el perfil de amortizaciones de los bonos de referencia en moneda extranjera</s>
+<s docid="11NE010414_825409" num="16" wdcount="52"> Detalló que el bono con vencimiento en abril del 2021 contará con un monto total en circulación de mil millones de euros, pagará un cupón de 2.375 por ciento y otorgará un rendimiento al vencimiento de 2.40 por ciento (diferencial de 105 puntos base respecto a la tasa de interés swap interbancaria)</s>
+<s docid="11NE010414_825409" num="17" wdcount="56"> Por su parte, agregó, el bono de referencia con vencimiento en abril de 2029 contará con un monto total en circulación de mil millones de euros, pagará un cupón de 3.625 por ciento y otorgará un rendimiento al vencimiento de 3.75 por ciento (diferencial de 150 puntos base respecto a la tasa de interés swap interbancaria)</s>
+<s docid="11NE010414_825409" num="18" wdcount="22"> “Estos costos de financiamiento son los más bajos obtenidos por cualquier emisor latinoamericano en euros a dichos plazos”, resaltó la dependencia federal</s>
+<s docid="11NE010414_825409" num="19" wdcount="26"> Indicó que la operación tuvo una demanda de 3.4 veces el monto emitido, con una participación de 413 inversionistas institucionales de Europa, Asia y Medio Oriente</s>
+<s docid="11NE010414_825409" num="20" wdcount="41"> Con ello, se alcanzó el mayor número de inversionistas que ha participado en una emisión del gobierno federal en los mercados internacionales de capital, lo que refleja la amplia aceptación de sus títulos de deuda entre la comunidad financiera internacional, anotó</s>
+<s docid="11NE010414_825409" num="21" wdcount="30"> El secretario de Hacienda, Luis Videgaray Caso señaló que con esta emisión de deuda se confirma la confianza de la comunidad financiera internacional en la conducción de las finanzas públicas</s>
+<s docid="11NE010414_825409" num="22" wdcount="44"> Asimismo, en el efecto positivo que tendrán sobre la economía mexicana las reformas estructurales impulsadas por el presidente Enrique Peña Nieto y aprobadas por el Congreso de la Unión, que se traducirá en mejores condiciones de financiamiento para las empresas y las familias mexicanas</s>
+<s docid="11NE010414_825409" num="23" wdcount="46"> “La Administración del presidente de la República, Enrique Peña Nieto, reitera su compromiso de utilizar el endeudamiento público de manera responsable y en congruencia con los objetivos de política pública necesarios para contar con finanzas públicas sanas, elemento indispensable para el crecimiento económico”, añadió la SHCP.</s>
+
+
+</TEXT>
+
+</DOC>

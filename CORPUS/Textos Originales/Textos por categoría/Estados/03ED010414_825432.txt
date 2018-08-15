@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="03ED010414_825432" num="1" wdcount="1"> 825432 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="03ED010414_825432" num="2" wdcount="1">03ED010414_825432</s>
+</FILEID>
+
+<HEAD>
+<s docid="03ED010414_825432" num="3" wdcount="12"> EZLN anuncia encuentro; podría asistir Marcos "si su salud se lo permite" </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="03ED010414_825432" num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="03ED010414_825432" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="03ED010414_825432" num="6" wdcount="38"> El próximo mes de mayo el Ejército Zapatista de Liberación Nacional (EZLN) realizará un encuentro con al menos 30 pueblos indígenas con el propósito de definir un plan de lucha contra el despojo que enfrentan de manera sistemática</s>
+<s docid="03ED010414_825432" num="7" wdcount="41"> A través de un comunicado, el subcomandante Moisés informó que el grupo insurgente rendirá un homenaje, el próximo 1 de junio, al filósofo y escritor Luis Villoro Toranzo, quien falleció el pasado 5 de marzo a los 91 años de edad</s>
+<s docid="03ED010414_825432" num="8" wdcount="53"> El encuentro de pueblos se realizará del 26 al 30 de mayo, en uno de los cinco caracoles zapatistas, en donde se calcula la participación de 30 poblaciones indígenas del territorio nacional, con el motivo de definir un plan de resistencia contra el despojo que padecen e intercambiar pensamientos e historias de lucha</s>
+<s docid="03ED010414_825432" num="9" wdcount="23"> El Subcomandante Moisés indicó que para esta primera reunión se reservará el derecho de admisión, pues es sólo para los pueblos originarios invitados</s>
+<s docid="03ED010414_825432" num="10" wdcount="15"> Motivo por el cual no se permitirá la entrada a quienes no hayan sido convocados</s>
+<s docid="03ED010414_825432" num="11" wdcount="41"> En el texto enviado por el integrante del EZLN se informa que el próximo 31 de mayo, en el Caracol de Oventik, los pueblos originarios darán a conocer las conclusiones y una declaración referente a esta reunión, el evento será público</s>
+<s docid="03ED010414_825432" num="12" wdcount="27"> Referente al homenaje que se rendirá Luis Villoro Toranzo, se especifica que se realizará también en el Caracol de Oventik, donde estará presente su hijo Juan Villoro</s>
+<s docid="03ED010414_825432" num="13" wdcount="36"> El evento, en el que participarán comandantes y comandantas del Comité Clandestino Revolucionario Indígena-Comandancia General del EZLN, está convocado para el primer día del mes de junio, a las 14:00 horas, y será de carácter público</s>
+<s docid="03ED010414_825432" num="14" wdcount="65"> Además informó que del lunes 2 de junio del 2014 y hasta el día domingo 8 de junio de este año, se realizará en el Caracol de Oventik y en las instalaciones del CIDECI de San Cristóbal de Las Casas, Chiapas, un seminario, o sea unas pláticas con el tema de “ÉTICA FRENTE AL DESPOJO”, también en honor a nuestro compañero Don Luis Villoro Toranzo</s>
+<s docid="03ED010414_825432" num="15" wdcount="25"> El comunicado concluye con la indicación que si la salud del compañero Subcomandante Insurgente Marcos se integrará a algunos de los eventos que son abiertos</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,58 @@
+<DOC>
+
+<DOCNO>
+<s docid="16DE030414_825765" num="1" wdcount="1"> 825765 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="16DE030414_825765" num="2" wdcount="1">16DE030414_825765</s>
+</FILEID>
+
+<HEAD>
+<s docid="16DE030414_825765" num="3" wdcount="7">  Llego a la mejor institución de México </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="16DE030414_825765" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="16DE030414_825765" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="16DE030414_825765" num="6" wdcount="19"> El director técnico Ricardo La Volpe fue nombrado, de manera oficial, como nuevo timonel de las Chivas de Guadalajara</s>
+<s docid="16DE030414_825765" num="7" wdcount="46"> En su presentación, el estratega pidió el apoyo de los jugadores, ya que considera que no llega en el momento óptimo, a cuatro duelos de que acabe la temporada, y por esto necesita ser arropado para que en el próximo torneo ya se vea su mano</s>
+<s docid="16DE030414_825765" num="8" wdcount="33"> “Llego al mejor equipo de México, como institución, a la afición tan grande que tiene Chivas, que atrás tal vez no se pasa por mejor momento, pero por eso se dan las contrataciones</s>
+<s docid="16DE030414_825765" num="9" wdcount="65"> Tengo experiencia, la lógica sería, como se lo dije a los jugadores, sería asumir en junio, porque faltan cuatro juegos, pero bueno, los riesgos en la vida hay que tomarlos, y uno se siente con la capacidad de asumir esta responsabilidad y queremos darle al aficionado la Liguilla”, comentó, “tenemos un reto y tenemos que buscar lo mejor, ¿y qué es lo mejor?, un título</s>
+<s docid="16DE030414_825765" num="10" wdcount="15"> Claro, hay que solucionar los problemas que hay ahora, pero la meta debe ser alta</s>
+<s docid="16DE030414_825765" num="11" wdcount="14"> Se debe trabajar para darle al hincha un título, poner a ese equipo arriba</s>
+<s docid="16DE030414_825765" num="12" wdcount="18"> Eso ya lo hablé con los jugadores, deben entender que están en la primera división con Chivas”, aseguró</s>
+<s docid="16DE030414_825765" num="13" wdcount="24"> El cuerpo técnico del ex seleccionador nacional estará conformado por su yerno Flavio Davino, quien será su auxiliar y Milton Graneolatti como preparador físico</s>
+<s docid="16DE030414_825765" num="14" wdcount="21"> Por otro lado comentó que le solicitó al Doctor Ortega que le ayudara, ya que él conoce bien a la institución</s>
+<s docid="16DE030414_825765" num="15" wdcount="20"> Aclaró que Davino sólo estará de manera temporal: “En el caso de Flavio, ya veremos, porque él ya quiere dirigir</s>
+<s docid="16DE030414_825765" num="16" wdcount="6"> Vamos a ver hasta dónde llegamos”</s>
+<s docid="16DE030414_825765" num="17" wdcount="60"> Tras la derrota del pasado domingo frente a las Águilas, la directiva del Rebaño Sagrado decidió remover de su cargo a José Luis Real, quien seguirá en la institución del Guadalajara y fichar al técnico argentino para lo que resta del torneo y el Apertura 2014, de acuerdo a lo anunciado por el conjunto rojiblanco a través de un comunicado</s>
+<s docid="16DE030414_825765" num="18" wdcount="44"> El nuevo estratega del Guadalajara aseguró que las palabras en su contra que tuvo el dueño del club, Jorge Vergara, quedaron en el pasado y nunca fueron un tema que impidiera su llegada al Guadalajara, por lo que pidió no hablar más del tema</s>
+<s docid="16DE030414_825765" num="19" wdcount="33"> “Creo que las diferencias fueron en algún momento feliz para Guadalajara porque estaba orgulloso de aportar nueve jugadores a la Selección, Chivas era el que más aportaba cuando yo era técnico del Tri</s>
+<s docid="16DE030414_825765" num="20" wdcount="6"> Esas diferencias no vienen al caso</s>
+<s docid="16DE030414_825765" num="21" wdcount="6"> Estoy de lleno ahora en Chivas</s>
+<s docid="16DE030414_825765" num="22" wdcount="27"> No puedo pensar lo que hice o no hice”, sostuvo el estratega, quien reveló las causas por las cuales chocó con el dueño del Rebaño en 2006</s>
+<s docid="16DE030414_825765" num="23" wdcount="46"> “Hubo diferencias de cuando yo venía acá a hablar sobre los seleccionados, y él, en su interés, quería cuidar a sus jugadores, pero es una diferencia que paso y quizás hoy Vergara piensa que no tenemos ningún jugador en la Selección, y eso es lo problemático</s>
+<s docid="16DE030414_825765" num="24" wdcount="18"> Que se vuelva a enojar con el técnico de la Selección cuando le llamen a los jugadores”, apuntó</s>
+<s docid="16DE030414_825765" num="25" wdcount="33"> La Volpe no ve como una revancha llegar a Chivas, sino simplemente como una oportunidad de trabajar en un club grande, al cual espera apoyar, pero primero necesita el respaldo de los jugadores</s>
+<s docid="16DE030414_825765" num="26" wdcount="9"> “Yo comparo al futbol con todo en la vida</s>
+<s docid="16DE030414_825765" num="27" wdcount="6"> ¿Cómo vamos a llegar a corregir? </s>
+<s docid="16DE030414_825765" num="28" wdcount="16"> Hablando, llegándole a ellos y que me entreguen su corazón y todo lo que tienen ellos</s>
+<s docid="16DE030414_825765" num="29" wdcount="14"> Tengo que hacer un énfasis en cómo están preparados, es decir, que oficio tienen</s>
+<s docid="16DE030414_825765" num="30" wdcount="18"> El equipo tiene que entrar a la cancha sabiendo la A, B y C, pero no la D</s>
+<s docid="16DE030414_825765" num="31" wdcount="5"> Al futuro tendremos más variantes</s>
+<s docid="16DE030414_825765" num="32" wdcount="14"> Primero, ellos mismos tienen que decir que lo que paso está en el olvido</s>
+<s docid="16DE030414_825765" num="33" wdcount="6"> El sábado tenemos una revancha”, finalizó.</s>
+
+
+</TEXT>
+
+</DOC>

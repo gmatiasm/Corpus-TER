@@ -1,0 +1,49 @@
+<DOC>
+
+<DOCNO>
+<s docid="19MU030414_825919" num="1" wdcount="1"> 825919 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="19MU030414_825919" num="2" wdcount="1">19MU030414_825919</s>
+</FILEID>
+
+<HEAD>
+<s docid="19MU030414_825919" num="3" wdcount="9"> Subraya EU que twitter cubano carecía de contenido político  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="19MU030414_825919" num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="19MU030414_825919" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="19MU030414_825919" num="6" wdcount="33"> El Departamento de Estado, del país del norte, negó hoy que la plataforma de una red social financiada por el gobierno estadounidense para empoderar la disidencia en Cuba, haya tenido algún contenido político</s>
+<s docid="19MU030414_825919" num="7" wdcount="34"> “Esta era una plataforma, no estábamos generando contenido político de ningún tipo (...) estábamos dejando al pueblo cubano hacer eso por ellos mismos”, dijo este jueves la portavoz del Departamento de Estado, Marie Harf</s>
+<s docid="19MU030414_825919" num="8" wdcount="18"> La funcionaria negó la noción de que Estados Unidos estuviera fomentando “agitación” o avanzando una agenda política específica</s>
+<s docid="19MU030414_825919" num="9" wdcount="30"> “Nada podría estar más alejado de la verdad, nosotros creemos que el pueblo cubano necesita plataformas con esta para usarla ellos mismos para decidir cómo se vislumbrará su futuro”, enfatizó</s>
+<s docid="19MU030414_825919" num="10" wdcount="35"> Indicó que la historia publicada este jueves por la agencia de noticias Prensa Asociada (AP) sobre el programa -que empezó a operar en 2009 y concluyó de manera abrupta en 2012- contenía varias “ideas equivocadas”</s>
+<s docid="19MU030414_825919" num="11" wdcount="39"> Apuntó que el gobierno estadunidenses sólo trató de aumentar el espacio de expresión para los cubanos, en el que pudieran expresar incluso puntos de vista anti-estadunidenses y resaltó que Estados Unidos no tuvo oportunidad de monitorear lo expresado ahí</s>
+<s docid="19MU030414_825919" num="12" wdcount="20"> Reiteró -como lo hizo horas antes la Casa Blanca- que el programa denominado ZunZuneo, fuera algo secreto, clasificado o encubierto</s>
+<s docid="19MU030414_825919" num="13" wdcount="7"> “Discreto, no es igual a encubierto”, remarcó</s>
+<s docid="19MU030414_825919" num="14" wdcount="29"> Explicó que la definición legal de acción encubierta incluye la “habilidad y necesidad” de negar de manera legal, la existencia del programa “y ese no es el caso”, puntualizó</s>
+<s docid="19MU030414_825919" num="15" wdcount="17"> Justificó que se trató de un programa realizado “discretamente” por el ambiente “hostil” que impera en Cuba</s>
+<s docid="19MU030414_825919" num="16" wdcount="35"> Harf anotó que el documento asociado a las compañías contratistas que implementaron la plataforma ZunZuneo no es clasificado y que se puede de manera abierta conocer que el gobierno de Estados Unidos financió el programa</s>
+<s docid="19MU030414_825919" num="17" wdcount="28"> Indicó que la cuenta bancaria en las Islas Caimán por medio de la cual se realizó el financiamiento del programa no significa que la operación haya sido encubierta</s>
+<s docid="19MU030414_825919" num="18" wdcount="32"> “La discreción sobre de dónde proviene el financiamiento fue para que el gobierno cubano no lo cancelara (y) ellos no reprimieran a los cubanos promedio tratando de hablar uno con otro”, enfatizó</s>
+<s docid="19MU030414_825919" num="19" wdcount="27"> Anotó que el programa no fue autorizado por la entonces secretaria de Estado, Hillary Clinton, o por el actual encargado de la cartera diplomática estadunidense John Kerry</s>
+<s docid="19MU030414_825919" num="20" wdcount="30"> “Él (Kerry) tampoco conocía este programa, pasó a través de la cadena normal del USAID (la Agencia de Estados Unidos para el Desarrollo Internacional) en términos de aprobación también”, remarcó</s>
+<s docid="19MU030414_825919" num="21" wdcount="35"> Clarificó que el financiamiento no fue desviado de fondos aprobados para Paquistán como se publicó, sino que fue destinado en una partida especial para Cuba por un monto de más seis millones 850 mil dólares</s>
+<s docid="19MU030414_825919" num="22" wdcount="20"> Remarcó que el Congreso fue notificado en 2008 sobre éste y otros programas que llamó de promoción de la democracia</s>
+<s docid="19MU030414_825919" num="23" wdcount="20"> La funcionaria negó que el programa pusiera en riesgo al estadunidense Alan Gross, encarcelado en Cuba bajo acusaciones de espionaje</s>
+<s docid="19MU030414_825919" num="24" wdcount="11"> “Creemos que ellos deberían dejarlo en libertad por razones humanitarias”, sostuvo</s>
+<s docid="19MU030414_825919" num="25" wdcount="45"> “Hemos dejado muy en claro que nosotros promovemos la libertad de expresión en Cuba, eso no es un secreto, si alguien piensa que ese es un secreto, entonces no ha prestado atención a lo que hemos hablado acerca de Cuba en la década pasada”, manifestó.</s>
+
+</TEXT>
+
+</DOC>

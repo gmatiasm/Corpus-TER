@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="13CU020414_825535" num="1" wdcount="1"> 825535 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="13CU020414_825535" num="2" wdcount="1">13CU020414_825535</s>
+</FILEID>
+
+<HEAD>
+<s docid="13CU020414_825535" num="3" wdcount="7"> Descubren asentamiento teotihuacano en municipio de Hidalgo </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="13CU020414_825535" num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="13CU020414_825535" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="13CU020414_825535" num="6" wdcount="29"> Arqueólogos del INAH descubrieron un asentamiento teotihuacano que posiblemente data de entre 300 y 500 d.C., de tipo habitacional con arquitectura que sugiere fue habitado por diferentes estratos sociales</s>
+<s docid="13CU020414_825535" num="7" wdcount="61"> Alicia Bonfil Olivera, quien coordina los trabajos de salvamento, dijo que los vestigios se encontraron durante los trabajos de construcción de la Planta de Tratamiento de Aguas Residuales Atotonilco, y la hipótesis es que fue construido para controlar las minas de cal de la región, al ser éste un material con el que se elaboraba el estuco para cubrir sus edificios</s>
+<s docid="13CU020414_825535" num="8" wdcount="34"> Agrega que el sitio fue integrado al Catálogo de Registro Nacional de Sitios y Monumentos del Instituto Nacional de Antropología e Historia (INAH), con el nombre de Acoculco y está en proceso de estudio</s>
+<s docid="13CU020414_825535" num="9" wdcount="27"> Los elementos arqueológicos localizados consisten en vestigios de construcciones teotihuacanas, algunas hechas a flor de tierra y otras con patios y escalinatas para entrar a las habitaciones</s>
+<s docid="13CU020414_825535" num="10" wdcount="4"> “Ninguna edificación es monumental”</s>
+<s docid="13CU020414_825535" num="11" wdcount="32"> De este complejo, añade, sólo están los cimientos de cuartos, pisos y patios y una escalinata recubierta con estuco que fue retirada del sitio donde se encontró, pero que está bien conservada</s>
+<s docid="13CU020414_825535" num="12" wdcount="48"> “En el asentamiento descubrieron más de 80 entierros humanos, unos depositados en fosas mortuorias y otros a manera de ofrendas constructivas; aproximadamente 60 son de adultos, orientados en su mayoría en dirección norte-sur, en tanto que el resto corresponden a infantes que fueron dispuestos de este a oeste</s>
+<s docid="13CU020414_825535" num="13" wdcount="12"> En tres de los casos los personajes inhumados estaban acompañados por canes”</s>
+<s docid="13CU020414_825535" num="14" wdcount="37"> La mayor parte de los entierros de adultos fueron acompañados de vasijas miniatura de estilo teotihuacano y de los cuales se recuperaron los tipos emparentados con aquellos de filiación oaxaqueña, presentes en el barrio oaxaqueño de Teotihuacán</s>
+<s docid="13CU020414_825535" num="15" wdcount="28"> El hallazgo del sitio teotihuacano ocurrió durante los trabajos de construcción de la Planta de Tratamiento de Aguas Residuales Atotonilco, en el municipio de Atotonilco de Tula, Hidalgo</s>
+
+
+</TEXT>
+
+</DOC>

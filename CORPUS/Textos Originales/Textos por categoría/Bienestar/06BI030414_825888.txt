@@ -1,0 +1,41 @@
+<DOC>
+
+<DOCNO>
+<s docid="06BI030414_825888" num="1" wdcount="1"> 825888 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="06BI030414_825888" num="2" wdcount="1">06BI030414_825888</s>
+</FILEID>
+
+<HEAD>
+<s docid="06BI030414_825888" num="3" wdcount="10"> Yoga de la Risa, importante factor para reducir el estrés </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="06BI030414_825888" num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="06BI030414_825888" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="06BI030414_825888" num="6" wdcount="46"> La vida cotidiana, el tráfico de la ciudad y el estrés laboral han limitado el acto sencillo de emitir una sonora carcajada que puede movilizar alrededor de 400 músculos en el cuerpo, además de liberar oxitocina, una hormona que al ser segregada causa un efecto positivo</s>
+<s docid="06BI030414_825888" num="7" wdcount="46"> De acuerdo con estudios clínicos sobre la risa en las universidades de Graz, en Austria, en Bangalore, India, así como de Estados Unidos, la risa puede generar un descenso en los sentimientos de depresión, angustia, ansiedad y en las hormonas causantes del estrés en la sangre</s>
+<s docid="06BI030414_825888" num="8" wdcount="43"> En ese sentido, el master trainer en Yoga de la Risa, Luis Gómez, fundador de Las Clases del Jajaja en 2007, detalló en entrevista con Notimex que la risa libera endorfinas, fortalece el sistema inmunológico, aumenta la creatividad y ayuda a liberar emociones</s>
+<s docid="06BI030414_825888" num="9" wdcount="58"> Al respecto, Rodrigo García, especialista de la disciplina en dicha organización, quien estuvo en situación de cárcel durante 10 años y actualmente imparte lo que llama “Desencadena la alegría” a las personas que están en los presidios, dijo que con la práctica de Yoga de la Risa aumenta también el proceso creativo y la liberación de situaciones emocionales</s>
+<s docid="06BI030414_825888" num="10" wdcount="49"> Al respecto, expuso que “es reírte de la nada, reír de la situación que tienes enfrente, puedes estar en una cárcel, en una celda de cuatro por cuatro, con barrotes y aun así reírte de esa situación, con respeto, sin burla, pero reírte, pues de nada sirve estar tenso”</s>
+<s docid="06BI030414_825888" num="11" wdcount="45"> En cuanto a la manera de implementar el programa Desencadena Tu Alegría en las cárceles, García refirió que al principio es difícil, pero al final quienes lo practican cambian su modo de ver las cosas debido a que observan las repercusiones positivas en su cuerpo</s>
+<s docid="06BI030414_825888" num="12" wdcount="35"> En su oportunidad, Luis Gómez explicó que las bases de esta actividad tienen fundamento en técnicas de respiración para yoga, las cuales combinan con ejercicios de risa, sin utilizar recursos como la ofensa o chistes</s>
+<s docid="06BI030414_825888" num="13" wdcount="60"> Indicó que realizar este tipo de actividad es posible para cualquier tipo de personas, además de que son “dosis de risa portátiles” debido a que se puede ejecutar en casi cualquier espacio y las sesiones se llevan a cabo en la avenida Paseo de la Reforma todos los domingos, además de que cuentan con una línea de atención telefónica gratuita</s>
+<s docid="06BI030414_825888" num="14" wdcount="27"> Expuso que el Yoga de la Risa fue inventado por Madan Kataria, médico originario de la India, quien observó las propiedades de la risa en pacientes terminales</s>
+<s docid="06BI030414_825888" num="15" wdcount="37"> Además de poder realizar las actividades de la asociación, explicó, también es posible obtener las certificaciones de Líderes y Maestros de Yoga de la Risa, que consisten en impartir clases y en calificar a más personas, respectivamente</s>
+<s docid="06BI030414_825888" num="16" wdcount="49"> A su vez, abundó que al inicio de la creación de la asociación se tenían que hacer las actividades de yoga de manera gratuita para darlas a conocer y hoy ya se cuenta con el apoyo de autoridades públicas y el sistema penitenciario del país, en donde colaboran ampliamente.</s>
+
+
+</TEXT>
+
+</DOC>

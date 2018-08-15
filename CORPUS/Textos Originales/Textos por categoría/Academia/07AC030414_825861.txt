@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="07AC030414_825861" num="1" wdcount="1"> 825861 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="07AC030414_825861" num="2" wdcount="1">07AC030414_825861</s>
+</FILEID>
+
+<HEAD>
+<s docid="07AC030414_825861" num="3" wdcount="9"> Cirujanos españoles realizan con éxito un trasplante de brazos </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="07AC030414_825861" num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="07AC030414_825861" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="07AC030414_825861" num="6" wdcount="39"> Un equipo de cirujanos españoles llevó a cabo con éxito el segundo trasplante de brazos de España y quinto en el mundo a un paciente de 41 años, que presentaba complicaciones tras haber sufrido graves quemaduras por una electrocución</s>
+<s docid="07AC030414_825861" num="7" wdcount="34"> En la operación, que se desarrolló en el Hospital La Paz de Madrid durante doce horas, participaron más de veinte profesionales, debido a la dificultad que supone reemplazar el brazo por encima del codo</s>
+<s docid="07AC030414_825861" num="8" wdcount="44"> Luis, el receptor de los órganos, casado y con dos hijos, sufrió la amputación de los dos brazos a la altura de la axila a causa de una grave quemadura eléctrica, que le causó además otras heridas graves en el abdomen y las piernas</s>
+<s docid="07AC030414_825861" num="9" wdcount="48"> El director de la Organización Nacional española de Trasplante, Rafael Matesanz, explicó hoy que se trató de un trasplante alogénico de tejidos compuestos, que consiste en transferir bloques de tejidos vascularizados de las manos, la cara o la pared abdominal, aunque el más común es el de brazos</s>
+<s docid="07AC030414_825861" num="10" wdcount="22"> Matesanz ha comentado que la metodología para este tipo de operaciones está "muy protocolizada" y los pacientes se benefician en muchos aspectos</s>
+<s docid="07AC030414_825861" num="11" wdcount="37"> Ha explicado que antes de la cirugía, el paciente es sometido a una serie de evaluaciones psicológicas, dada la complejidad de la operación y las repercusiones psicológicas que la nueva vida pudiera tener para las personas intervenidas</s>
+<s docid="07AC030414_825861" num="12" wdcount="23"> Al ser considerado este trasplante de tipo experimental, es preciso la aprobación por parte del comité de ética y de la mesa interterritorial</s>
+<s docid="07AC030414_825861" num="13" wdcount="24"> Tras numerosas pruebas, el equipo de médicos encontró un donante multiorgánico válido, cuya identidad permanecerá en el anonimato por expreso deseo de la familia</s>
+<s docid="07AC030414_825861" num="14" wdcount="32"> Luis, que tendrá que tomar una medicación durante el resto de su vida para combatir el rechazo, fue elegido entre diez posibles candidatos a someterse a uno de los trasplantes más complicados</s>
+<s docid="07AC030414_825861" num="15" wdcount="56"> En este momento no tiene funcionalidad y no puede moverse ya que las cicatrices en los brazos todavía están en proceso de curación, pero el jefe de Cirugía de La Paz, César Casado, prevé que dentro de un máximo de seis meses podrá "flexionar" los codos, y, en algo más de un año, usar las manos</s>
+<s docid="07AC030414_825861" num="16" wdcount="35"> "Hay que prestar mucha atención a la carga inmunológica que lleva la operación", destacó Casado, tras comentar que es muy probable que el paciente pueda todavía tener dificultades con la adaptación de los miembros implantados.</s>
+
+</TEXT>
+
+</DOC>

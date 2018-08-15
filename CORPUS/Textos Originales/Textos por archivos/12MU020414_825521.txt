@@ -1,0 +1,45 @@
+<DOC>
+
+<DOCNO>
+<s docid="12MU020414_825521" num="1" wdcount="1"> 825521 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="12MU020414_825521" num="2" wdcount="1">12MU020414_825521</s>
+</FILEID>
+
+<HEAD>
+<s docid="12MU020414_825521" num="3" wdcount="11"> El programa de salud Obamacare supera los 7.1 millones de inscritos </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="12MU020414_825521" num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="12MU020414_825521" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="12MU020414_825521" num="6" wdcount="49"> Al cumplirse ayer en Estados Unidos el plazo oficial para la inscripción en el nuevo sistema de seguros médicos privados para el Cuidado de Salud Asequible, conocido como Obamacare, se rebasaron los objetivos marcados al registrarse ayer los 7,1 millones de inscritos en este programa, reportó la Casa Blanca</s>
+<s docid="12MU020414_825521" num="7" wdcount="48"> Tras conocerse la cifra, el presidente de EU, Barack Obama, subrayó que se dio “un gran paso adelante” con su reforma de salud con más de 7 millones de personas inscritas, un objetivo que parecía imposible hace seis meses debido al fiasco del lanzamiento de la web www.Healthacare.gov</s>
+<s docid="12MU020414_825521" num="8" wdcount="36"> A través de un mensaje a la nación desde la Casa Blanca y acompañado del vicepresidente Joe Biden, Obama subrayó que el llamado Obamacare representa un gran paso adelante y no hay razón para volver atrás</s>
+<s docid="12MU020414_825521" num="9" wdcount="1"> AHORRO</s>
+<s docid="12MU020414_825521" num="10" wdcount="26"> Obama dijo que incluso beneficia a quienes ya tienen seguro médico y que su implementación implicará millones de dólares en ahorros a la economía del país</s>
+<s docid="12MU020414_825521" num="11" wdcount="31"> El presidente admitió que su proyecto no soluciona todos los problemas y que aún queda mucha gente sin cobertura médica, según aseguró, porque algunos gobernadores estatales se han negado a extenderla</s>
+<s docid="12MU020414_825521" num="12" wdcount="16"> El pasado lunes 31 de marzo vencía el plazo para inscribirse en el plan de salud</s>
+<s docid="12MU020414_825521" num="13" wdcount="1"> OVACIÓN</s>
+<s docid="12MU020414_825521" num="14" wdcount="42"> El anuncio de Obama sobre las 7.1 millones de inscripciones en los seguros médicos entre el 1 de octubre y el 31 de marzo estuvo seguido de una prolongada ovación, igual que cuando aseguró rotundo: “El debate sobre derogar la ley terminó</s>
+<s docid="12MU020414_825521" num="15" wdcount="6"> Esta ley está aquí para quedarse”</s>
+<s docid="12MU020414_825521" num="16" wdcount="28"> A la medianoche del lunes venció el plazo para contratar un seguro médico privado acorde con los parámetros de la reforma sanitaria para no enfrentarse a una multa</s>
+<s docid="12MU020414_825521" num="17" wdcount="31"> No obstante, la semana pasada el gobierno anunció una extensión del plazo más allá del 31 de marzo únicamente para las personas que ya iniciaron el proceso de contratación del seguro</s>
+<s docid="12MU020414_825521" num="18" wdcount="37"> La reforma, considerada el mayor logro en política doméstica del mandato de Obama, “está haciendo lo que se supone que debería, está funcionando”, y ha hecho que el sistema sanitario estadunidense sea “mucho mejor”, aseguró el presidente</s>
+<s docid="12MU020414_825521" num="19" wdcount="1"> META</s>
+<s docid="12MU020414_825521" num="20" wdcount="51"> La superación de la meta de los siete millones de inscritos representa un logro importante para el Gobierno, sobre todo teniendo en cuenta la desastrosa apertura de los mercados de seguros en octubre pasado, y ayer Obama, consciente de ello, fue muy crítico con los republicanos que buscan eliminar la reforma.</s>
+
+
+</TEXT>
+
+</DOC>

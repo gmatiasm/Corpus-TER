@@ -1,0 +1,60 @@
+<DOC>
+
+<DOCNO>
+<s docid="06AC030414_825787"num="1" wdcount="1"> 825787 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="06AC030414_825787"num="2" wdcount="1">06AC030414_825787</s>
+</FILEID>
+
+<HEAD>
+<s docid="06AC030414_825787"num="3" wdcount="10"> Kaspárov promoverá la educación del ajedrez en Iberoamérica desde México </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="06AC030414_825787"num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="06AC030414_825787"num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="06AC030414_825787" num="6" wdcount="19"> Gary Kaspárov lanzó en México la creación de su Fundación de Ajedrez, la cual será sede para toda Iberoamérica</s>
+<s docid="06AC030414_825787" num="7" wdcount="37"> La institución buscará acercar a niños y jóvenes al ajedrez a través de diversos programas de enseñanza para ser empleados en la educación básica, además de organizar torneos, competencias, festivales, talleres, cursos y conferencias, entre otras actividades</s>
+<s docid="06AC030414_825787" num="8" wdcount="35"> La Fundación Kaspárov de Ajedrez para Iberoamérica —que tendrá presencia activa en 20 países de la región— será la cuarta iniciada por el ajedrecista, después de constituir otras en Estados Unidos, Asia, Europa y África</s>
+<s docid="06AC030414_825787" num="9" wdcount="36"> “México se une Nueva York, Singapur, Bruselas y Johannesburgo, para concluir una red global que promueva la educación del ajedrez en el mundo”, dijo ayer en conferencia, previo a la presentación oficial en el Museo Soumaya</s>
+<s docid="06AC030414_825787" num="10" wdcount="43"> De acuerdo con el campeón de ajedrez 1985-2000, en la fundación han tenido muchas experiencias en diferentes países que continúan recopilando, pero han comprobado que desarrollar la educación en ajedrez en escuelas primarias mejora dramáticamente su desempeño, principalmente en aquellas de bajos recursos</s>
+<s docid="06AC030414_825787" num="11" wdcount="26"> También destacó que además en cada continente es perceptible el incremento del interés en los padres por despertar el gusto por el ajedrez en sus hijos</s>
+<s docid="06AC030414_825787" num="12" wdcount="26"> El interés cambia gradualmente la idea que por muchos años predominó en la sociedad, acotó, sobre que el ajedrez era una forma agresiva de deporte intelectual</s>
+<s docid="06AC030414_825787" num="13" wdcount="34"> En México, apuntó Kaspárov, previamente había hablado con el secretario de Educación, Emilio Chuayffet, la posibilidad de integrar este tipo de programas a las escuelas del país, lo que ha tenido una respuesta favorable</s>
+<s docid="06AC030414_825787" num="14" wdcount="26"> Pero parte del proyecto global de la fundación incluye además un plan integral sobre educación del ajedrez en tres temas clave: educación, tecnología y redes sociales</s>
+<s docid="06AC030414_825787" num="15" wdcount="9"> No habría que sorprenderse sobre el último punto, aclara</s>
+<s docid="06AC030414_825787" num="16" wdcount="26"> Como deporte, el ajedrez no podría competir con el futbol u otros más populares dentro de la “pantalla grande”, es decir televisores u otros medios convencionales</s>
+<s docid="06AC030414_825787" num="17" wdcount="19"> Pero en la “pequeña pantalla” (donde los anteriores ya no son tan atractivos de seguir) tendría una enorme ventaja</s>
+<s docid="06AC030414_825787" num="18" wdcount="16"> Esto se refiere a dispositivos móviles donde se puede seguir una partida y aprender sobre ajedrez</s>
+<s docid="06AC030414_825787" num="19" wdcount="36"> “Veo el futuro del ajedrez como una enorme red social: no como una estructura vertical que viene de arriba hacia abajo, sino como una cooperación a nivel regional que también se base en el lenguaje compartido”</s>
+<s docid="06AC030414_825787" num="20" wdcount="16"> Eso busca con su fundación, pero sería más efectivo si contara con apoyo de la FIDE</s>
+<s docid="06AC030414_825787" num="21" wdcount="2"> JUGADA POLÍTICA</s>
+<s docid="06AC030414_825787" num="22" wdcount="31"> El “movimiento” de Kaspárov con su fundación y su red en el orbe tiene además otro objetivo, uno político, en un tablero en el que lleva jugando desde hace mucho tiempo</s>
+<s docid="06AC030414_825787" num="23" wdcount="52"> Y es que el personaje que compitió por primera vez contra una computadora y la derrotó —para posteriormente empatar y ser vencido polémicamente por la Deep Blue de IBM— busca el apoyo en el mundo con diversas federaciones nacionales para postularse en la dirección de la Federación Internacional de Ajedrez (FIDE), puntualiza</s>
+<s docid="06AC030414_825787" num="24" wdcount="23"> “El enorme reto del ajedrez es la falta de patrocinios y eso es porque la actual administración no ha sido capaz de obtenerla</s>
+<s docid="06AC030414_825787" num="25" wdcount="9"> Incluso ha fallado en encontrar licitaciones para los campeonatos”</s>
+<s docid="06AC030414_825787" num="26" wdcount="42"> Tras cuestionar la calidad moral y profesional del actual presidente de la federación, Kirsán Iliumzhínov, refirió que en todo el mundo ha visto el mismo problema: el juego no está listo para avanzar a completa velocidad por falta de financiamiento y promoción</s>
+<s docid="06AC030414_825787" num="27" wdcount="14"> “El ajedrez tiene un enorme potencial, es un producto que habla por sí mismo”</s>
+<s docid="06AC030414_825787" num="28" wdcount="28"> El maestro del ajedrez refirió que la comunidad debe aceptar que han perdido 20 años con la actual administración del FIDE y que no ha contribuido en nada</s>
+<s docid="06AC030414_825787" num="29" wdcount="26"> Agregó que es un tema que debe de discutirse públicamente y debatirse en sociedad y “no dejarlo en manos de funcionarios con una mente tan limitada”</s>
+<s docid="06AC030414_825787" num="30" wdcount="12"> Kaspárov lleva tiempo planeando su jugada y se allega sigilosamente ganando simpatías</s>
+<s docid="06AC030414_825787" num="31" wdcount="32"> Ajedrecista y activista político, el personaje habla sobre la combinación de su habilidad en ambas ante la pregunta de una periodista en el evento en un hotel de la ciudad de México</s>
+<s docid="06AC030414_825787" num="32" wdcount="32"> Como jugador de ajedrez, explica, tiene mucha presión lo que ha sido útil para sus estimaciones políticas, le ha permitido ver una macroimagen, la película completa sobre la complejidad de un problema</s>
+<s docid="06AC030414_825787" num="33" wdcount="11"> “Ver el efecto de una acción en ambos lados del tablero”</s>
+<s docid="06AC030414_825787" num="34" wdcount="26"> Estamos en un mundo de “microgestión” y vemos muchos políticos separar problemas y manejarlos uno a uno, pero cuando solucionamos uno puede tener impacto los demás</s>
+<s docid="06AC030414_825787" num="35" wdcount="29"> “Esa es la lección más importantes en el juego del ajedrez, todos los movimientos están conectados y si no haces tus movimientos pensando en cómo afecta un todo perderás”</s>
+
+
+</TEXT>
+
+</DOC>

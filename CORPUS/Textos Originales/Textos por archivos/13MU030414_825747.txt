@@ -1,0 +1,50 @@
+<DOC>
+
+<DOCNO>
+<s docid="13MU030414_825747" num="1" wdcount="1"> 825747 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="13MU030414_825747" num="2" wdcount="1">13MU030414_825747</s>
+</FILEID>
+
+<HEAD>
+<s docid="13MU030414_825747" num="3" wdcount="11"> Chile reactiva alerta de tsunami tras fuerte réplica de 7.8 grados </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="13MU030414_825747" num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="13MU030414_825747" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="13MU030414_825747" num="6" wdcount="40"> Tras casi un centenar de réplicas, un nuevo terremoto de 7.8 grados en la escala de Richter afectó ayer al norte de Chile, la misma zona donde la noche del martes se sintió con fuerza un terremoto de 8.2 grados</s>
+<s docid="13MU030414_825747" num="7" wdcount="16"> El Ministerio del Interior de ese país ordenó la evacuación preventiva de todas las ciudades costeras</s>
+<s docid="13MU030414_825747" num="8" wdcount="33"> Chile había vuelto relativamente a la normalidad luego de ser azotado por un intenso terremoto el martes, que generó alertas de tsunami en gran parte del Pacífico latinoamericano y que dejó seis muertos</s>
+<s docid="13MU030414_825747" num="9" wdcount="3"> Réplicas durante meses</s>
+<s docid="13MU030414_825747" num="10" wdcount="34"> El Centro Sismológico Nacional informó que luego del sismo se registraron casi un centenar de réplicas de mediana magnitud, una de ellas de 6.8 grados, y advirtió que éstas se podrían repetirse durante meses</s>
+<s docid="13MU030414_825747" num="11" wdcount="6"> Amenaza de sismo de 9 grados</s>
+<s docid="13MU030414_825747" num="12" wdcount="28"> En tanto, sismólogos de EU incluso consideraron que existe la amenaza de un gran terremoto de unos 9.0 grados de magnitud que puede afectar el norte del país</s>
+<s docid="13MU030414_825747" num="13" wdcount="39"> Sin embargo, el director del Centro Sismológico de Chile, Sergio Barrientos, sostuvo que “es probable” que un gran terremoto en esa zona “pueda ser descartado” , aunque indicó que podrían registrarse nuevos sismos de una magnitud similar al último</s>
+<s docid="13MU030414_825747" num="14" wdcount="3"> Visita de Bachelet</s>
+<s docid="13MU030414_825747" num="15" wdcount="40"> “No habrá restricciones en el uso de recursos para enfrentar la emergencia”, anunció el ministro de Hacienda, Alberto Arenas, tras la gira de la presidenta Michelle Bachelet a las urbes más afectadas por la tragedia en el norte del país</s>
+<s docid="13MU030414_825747" num="16" wdcount="33"> “El gobierno está acá para apoyarlos, ustedes han dado un tremendo ejemplo”, confirmó Bachelet desde Iquique, epicentro del sismo que provocó alertas de tsunami en Perú, Colombia, Panamá, Ecuador, Nicaragua y Costa Rica</s>
+<s docid="13MU030414_825747" num="17" wdcount="16"> “Sabemos que muchos pescadores perdieron sus embarcaciones y que hay problemas de conectividad”, añadió la mandataria</s>
+<s docid="13MU030414_825747" num="18" wdcount="21"> No obstante los daños en 2,500 viviendas y ocho carreteras principales, las autoridades emitieron señales e informes llamando a la calma</s>
+<s docid="13MU030414_825747" num="19" wdcount="33"> “Todos los aeropuertos y carreteras vuelven a estar operativos”, dijo por ejemplo el director de la Oficina Nacional de Emergencias, el general retirado Ricardo Toro, tras la suspensión de vuelos para 3,000 pasajeros</s>
+<s docid="13MU030414_825747" num="20" wdcount="3"> 970 mil evacuados</s>
+<s docid="13MU030414_825747" num="21" wdcount="28"> El gobierno, que canceló paulatinamente la alerta de tsunami en distintas ciudades, detalló además que unas 970,000 personas fueron evacuadas a lo largo de 4,000 kilómetros de costa</s>
+<s docid="13MU030414_825747" num="22" wdcount="31"> La presidenta Michelle Bachelet, acompañada de sus ministros, voló en un avión militar hacia el norte del país, donde hay una “cuasi normalidad”, como sostuvo el alcalde de Arica, Salvador Urrutia</s>
+<s docid="13MU030414_825747" num="23" wdcount="42"> Laguna sísmica de 137 años Entre los expertos en sismología aún no hay consenso si el terremoto del martes corresponde al mega movimiento de placas tectónicas previsto para el norte de Chile, donde se ha producido una “laguna sísmica” de 137 años</s>
+<s docid="13MU030414_825747" num="24" wdcount="36"> El director del Centro Sismológico Nacional, Sergio Barrientos, sostuvo que “es probable” que un gran terremoto en esa zona “pueda ser descartado”, aunque indicó que podrían registrarse nuevos sismos de una magnitud similar al del martes</s>
+<s docid="13MU030414_825747" num="25" wdcount="27"> No obstante, sismólogos de Estados Unidos consideraron que la amenaza de un gran terremoto de unos 9.0 grados de magnitud sigue vigente en el norte de Chile</s>
+
+
+</TEXT>
+
+</DOC>

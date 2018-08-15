@@ -1,0 +1,64 @@
+<DOC>
+
+<DOCNO>
+<s docid="01DE010414_825288" num="1" wdcount="1"> 825288 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="01DE010414_825288" num="2" wdcount="1">01DE010414_825288</s>
+</FILEID>
+
+<HEAD>
+<s docid="01DE010414_825288" num="3" wdcount="7"> Chivas, en riesgo de descender para 2015 </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="01DE010414_825288" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="01DE010414_825288" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="01DE010414_825288" num="6" wdcount="31"> La goleada del América ante las Chivas por 0-4 en el Estadio Omnilife pasará a la historia como una de las peores que las Águilas le han propinado al Rebaño Sagrado</s>
+<s docid="01DE010414_825288" num="7" wdcount="22"> Desde el 20 de febrero de 1944 (7-2), no se presentaba una diferencia mayor a tres goles a favor del equipo azulcrema</s>
+<s docid="01DE010414_825288" num="8" wdcount="18"> Desde ese encuentro, celebrado en el Parque Asturias, el América nunca había goleado por tanta diferencia a Chivas</s>
+<s docid="01DE010414_825288" num="9" wdcount="22"> Los antecedentes más cercanos eran un 5-2 el 4 de febrero de 1971 y un 3-0 el 16 de junio de 1991</s>
+<s docid="01DE010414_825288" num="10" wdcount="45"> La última ocasión que el América le anotó cuatro goles a Chivas fue el 13 de noviembre de 1994, cuando ganaron 3-4 en el Estadio Jalisco, sin embargo, las goleadas que ha recibido el conjunto rojiblanco por parte del acérrimo rival quedan en segundo plano</s>
+<s docid="01DE010414_825288" num="11" wdcount="9"> ‘’Chivas no puede descender’’ se escucha entre sus aficionados</s>
+<s docid="01DE010414_825288" num="12" wdcount="12"> Las conversaciones han cambiado; los aficionados ya no hablan de lo mismo</s>
+<s docid="01DE010414_825288" num="13" wdcount="14"> Las palabras ‘’títulos’’ o ‘’campeonatos’’, e incluso ‘’liguilla’’, fueron sustituidas por ‘’porcentaje’’ y ‘’descenso’’</s>
+<s docid="01DE010414_825288" num="14" wdcount="34"> La derrota en el clásico parece ser, al día de hoy, el menos importante de los problemas de Chivas, ya que hoy está a 15 puntos del Atlante, último lugar en la tabla porcentual</s>
+<s docid="01DE010414_825288" num="15" wdcount="41"> Es una ventaja considerable, aunque se ha recortado abruptamente en el último año, sin embargo, la crisis comenzó a llegar en los cinco años que tiene el equipo acumulando malos resultados, son 11 las veces que se ha cambiado de timonel</s>
+<s docid="01DE010414_825288" num="16" wdcount="43"> Efraín Flores, Omar Arellano, Francisco Ramírez, Raúl Arias, José Luis Real, Fernando Quirarte, Ignacio Ambriz, Alberto Coyote (interino), John Van’t Schip, Benjamín Galindo y ahora Juan Carlos Ortega han desfilado por el banquillo rojiblanco desde que la crisis azotó a la institución tapatía</s>
+<s docid="01DE010414_825288" num="17" wdcount="10"> Hoy ocupan el lugar 13 en la tabla del descenso</s>
+<s docid="01DE010414_825288" num="18" wdcount="27"> Torneos de 12 unidades (Apertura 2013), 15 puntos (Clausura 2012), 16 (Clausura 2013), 19 (Apertura 2009), dejaron claro el mal paso del equipo en la última época</s>
+<s docid="01DE010414_825288" num="19" wdcount="25"> Sólo en el Bicentenario 2010 (30 puntos) y Clausura 2011 (25) y Apertura 2012 (23) se salvan de la nube que cae sobre la institución</s>
+<s docid="01DE010414_825288" num="20" wdcount="31"> En la suma de los puntos acumulados en los dos torneos del año futbolístico, el Guadalajara apenas suma 29 puntos, mismos que Pumas y Atlas, pero con peor diferencia de goles</s>
+<s docid="01DE010414_825288" num="21" wdcount="30"> Jorge Vergara ve cómo un proyecto millonario no jala, un DT que no convence, problemas de descenso, fuera de Liguilla y con la peor goleada recibida por América en Guadalajara</s>
+<s docid="01DE010414_825288" num="22" wdcount="36"> El propietario del equipo más popular de México ha vivido más momentos nefastos que de gloria; como el tirar millones a la basura en refuerzos inservibles, declaraciones fuera de sitio o decisiones fuera de todo sentido</s>
+<s docid="01DE010414_825288" num="23" wdcount="22"> Cargará en la espalda y los números nunca olvidarán que su Guadalajara sufrió la peor humillación en un Clásico disputado en Jalisco</s>
+<s docid="01DE010414_825288" num="24" wdcount="17"> Y lo hizo ante un equipo que iba atravesando, sí no una crisis, si un verdadero bache</s>
+<s docid="01DE010414_825288" num="25" wdcount="14"> El Rebaño Sagrado llegó a tres partidos sin vencer y sin anotarle al América</s>
+<s docid="01DE010414_825288" num="26" wdcount="9"> Poco más de 290 minutos sin marcar un gol</s>
+<s docid="01DE010414_825288" num="27" wdcount="8"> Pero lo más preocupante es el tema porcentual</s>
+<s docid="01DE010414_825288" num="28" wdcount="9"> Un descenso de Guadalajara está fuera de toda proporción</s>
+<s docid="01DE010414_825288" num="29" wdcount="31"> Y aunque en México hay mil métodos para evitarlo, el simple hecho de ver a ese equipo de tanta tradición en los puestos de quema, ya es motivo de gran sorpresa</s>
+<s docid="01DE010414_825288" num="30" wdcount="9"> Hoy es imposible pensar en un descenso de Chivas</s>
+<s docid="01DE010414_825288" num="31" wdcount="17"> Son 15 puntos los que le saca al Atlante en dicha tabla, con 12 unidades en disputa</s>
+<s docid="01DE010414_825288" num="32" wdcount="24"> El tema es que para el próximo año, el cociente meterá presión a un Guadalajara que lleva bastante tiempo metido en dichos puestos porcentuales</s>
+<s docid="01DE010414_825288" num="33" wdcount="25"> Chivas ha perdido dos duelos claves en su torneo, con Cruz Azul y América, mientras que en el Clásico Tapatío no pudo vencer al Atlas</s>
+<s docid="01DE010414_825288" num="34" wdcount="36"> Hoy, el Guadalajara se ubica en el lugar 13 de la tabla porcentual, cinco puntos arriba de Chiapas, cinco de Chiapas, seis de Veracruz, ocho de Atlas, a 10 de Puebla y a 15 del Atlante</s>
+<s docid="01DE010414_825288" num="35" wdcount="119"> LOS “GRANDES” TAMBIÉN DESCIENDEN Si bien en México (copiado de Argentina) se inventó la tabla de cocientes para dificultar que los llamados ‘’cuatro grandes’’ tuvieran que enfrentarse a problemas de descenso, tenemos ejemplos a escala mundial que demuestran que el descenso no es sólo un problema de los equipos modestos o de bajo perfil: En Argentina, donde se protege más que en casi ningún lugar a los equipos con más afición y títulos, han bajado a la segunda categoría: Independiente, el otrora ‘’Rey de Copas’’, en este 2013; River Plate al perder la promoción ante Belgrano de Córdoba en una noche trágica en el Monumental de Núñez (2011); San Lorenzo y Racing Club en la década de los ochenta</s>
+<s docid="01DE010414_825288" num="36" wdcount="22"> Es decir, de los cinco grandes de Argentina, solamente Boca Juniors nunca ha jugado en lo que los argentinos llaman la ‘’B’’</s>
+<s docid="01DE010414_825288" num="37" wdcount="11"> En Europa, los clubes ricos también han llorado por el descenso</s>
+<s docid="01DE010414_825288" num="38" wdcount="18"> El caso más recordado es el descenso de la Juventus de Turín por problemas relacionados con las apuestas</s>
+<s docid="01DE010414_825288" num="39" wdcount="15"> En España, los casos del Valencia y el Atlético de Madrid (1985 y 2000, respectivamente)</s>
+<s docid="01DE010414_825288" num="40" wdcount="14"> O también en Francia, cuando en 2001 el Olympique de Marsella perdió la categoría</s>
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,34 @@
+<DOC>
+
+<DOCNO>
+<s docid="04CI010414_825250"  num="1" wdcount="1"> 825250 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="04CI010414_825250"  num="2" wdcount="1">04CI010414_825250</s>
+</FILEID>
+
+<HEAD>
+<s docid="04CI010414_825250"  num="3" wdcount="12">  Se suda la gota gorda para que la gente entregue sus armas </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="04CI010414_825250"  num="4" wdcount="1"> Ciudad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="04CI010414_825250"  num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="04CI010414_825250" num="6" wdcount="71"> Al dar el “banderazo” a la tercera etapa del programa “Por tu familia desarme voluntario” en la delegación Tláhuac, el secretario de Seguridad Pública, Jesús Rodríguez Almeida, reconoció que “definitivamente no es una tarea fácil; más bien resulta complicado caminar por las calles de todas las colonias de la ciudad y tocar casa por casa, sudando la gota gorda para convencer a las personas a entregar las armas que tienen guardadas”</s>
+<s docid="04CI010414_825250" num="7" wdcount="71"> Aclaró que “es un trabajo arduo el que realiza el ejército rosa para lograr que haya paz en la ciudad, evitando tragedias, lesionados e, incluso, pérdida de vidas”, sostuvo ante la atenta mirada de funcionarios y vecinos presentes, ante quienes reiteró que sin el apoyo del Ejército, la Secretaría de Desarrollo Social del DF y demás instancias que participan en el trabajo de calle “no sería posible este programa de desarme”</s>
+<s docid="04CI010414_825250" num="8" wdcount="47"> Sin embargo, destacó que el éxito del programa “se debe también a la coordinación interinstitucional y la participación ciudadana, ya que por cada arma que entregan, pues evidentemente generamos menos problemas a la ciudad, menos problemas a la familia y por su puesto tenemos más seguridad”, sostuvo</s>
+<s docid="04CI010414_825250" num="9" wdcount="27"> Y aún cuando la tarea “es difícil”, el jefe de la Policía Preventiva del DF aseguró que seguirá trabajando con vecinos y vecinas de todas las demarcaciones</s>
+
+</TEXT>
+
+</DOC>
+

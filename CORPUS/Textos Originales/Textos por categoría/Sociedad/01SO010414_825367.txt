@@ -1,0 +1,43 @@
+<DOC>
+
+<DOCNO>
+<s docid="01SO010414_825367" num="1" wdcount="1"> 825367 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="01SO010414_825367" num="2" wdcount="1">01SO010414_825367</s>
+</FILEID>
+
+<HEAD>
+<s docid="01SO010414_825367" num="3" wdcount="7"> Satélite mexicano transmitirá canonización de dos Papas </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="01SO010414_825367" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="01SO010414_825367" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="01SO010414_825367" num="6" wdcount="35"> El satélite mexicano Satmex 8 formará parte de la red de nueve aparatos en órbita que permitirán la transmisión a todo el mundo de la canonización de los Papas Juan Pablo II y Juan XXIII</s>
+<s docid="01SO010414_825367" num="7" wdcount="41"> Según informó Eutelsat Communications, el Satmex 8 permitirá la distribución al Continente Americano de la señal de video que se generará en la Plaza de San Pedro durante la ceremonia que presidirá el Papa Francisco el próximo domingo 27 de abril</s>
+<s docid="01SO010414_825367" num="8" wdcount="4"> “Es una página histórica</s>
+<s docid="01SO010414_825367" num="9" wdcount="19"> Con las últimas adquisiciones de operador Satmex alcanzamos una flota de 36 satélites y ahora cubrimos todo el mundo</s>
+<s docid="01SO010414_825367" num="10" wdcount="24"> Para este evento nueve satélites de la flota estarán ocupados para cinco horas de transmisión en directo”, señaló Renato Farina, director de Eutelsat Italia</s>
+<s docid="01SO010414_825367" num="11" wdcount="13"> En enero pasado Eutelsat adquirió el 100 por ciento de Satélites Mexicanos S.A</s>
+<s docid="01SO010414_825367" num="12" wdcount="10"> de C.V, una operación que costó 831 millones de dólares</s>
+<s docid="01SO010414_825367" num="13" wdcount="23"> Para la transmisión de la ceremonia se utilizarán tres satélites que cubrirán el Continente Europeo y dos respectivamente para Asia, África y América</s>
+<s docid="01SO010414_825367" num="14" wdcount="21"> Las imágenes permanecerán a disposición de los canales gratuitamente desde las 09:00 a las 14:00 horas local (07:00 a 12:00 GMT)</s>
+<s docid="01SO010414_825367" num="15" wdcount="41"> “El satélite representa siempre un aliado válido para superar los confines geográficos y facilitar la difusión del mensaje del Papa en todo el mundo”, afirmó Dario Edoardo Viganò, director del Centro Televisivo Vaticano (CTV), el organismo que generará la señal madre</s>
+<s docid="01SO010414_825367" num="16" wdcount="9"> “Asistiremos a una verdadera transmisión mundial en alta definición</s>
+<s docid="01SO010414_825367" num="17" wdcount="26"> Este es un récord en la historia de las telecomunicaciones fundado sobre la alta calidad de las imágenes, que representa un requisito irrenunciable para todos”, agregó</s>
+<s docid="01SO010414_825367" num="18" wdcount="27"> De hecho las imágenes que serán transmitidas desde El Vaticano tendrán ya un formato de alta definición y contarán con la tecnología 3D (tres dimensiones), más avanzada</s>
+<s docid="01SO010414_825367" num="19" wdcount="36"> Los equipos de producción incluirán 13 cámaras en 3D de última generación ubicadas de tal manera que permitirán una perspectiva capaz de hacer sentir a los telespectadores que están presentes en la Plaza de San Pedro.</s>
+
+</TEXT>
+
+</DOC>

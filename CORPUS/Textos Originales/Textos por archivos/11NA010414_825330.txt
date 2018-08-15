@@ -1,0 +1,44 @@
+<DOC>
+
+<DOCNO>
+<s docid="11NA010414_825330" num="1" wdcount="1"> 825330 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="11NA010414_825330" num="2" wdcount="1">11NA010414_825330</s>
+</FILEID>
+
+<HEAD>
+<s docid="11NA010414_825330" num="3" wdcount="14"> Hay 30 mil maestros de permiso y 39 mil sin identificar su función: SEP </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="11NA010414_825330" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="11NA010414_825330" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="11NA010414_825330" num="6" wdcount="65"> En las escuelas de educación básica y especial del país existen 30 mil 695 profesores que no están frente a grupo, debido a que se detectó que se hallan con licencia o “comisionados”, en tanto que de otros 39 mil 222 maestros no se identificó su función, porque —dijo el titular de la SEP, Emilio Chuayffet Chemor— en el centro educativo simplemente “no los conocen”</s>
+<s docid="11NA010414_825330" num="7" wdcount="43"> Así fue informado anoche al ser dados a conocer los resultados definitivos del Censo de Escuelas, Maestros y Alumnos de Educación Básica y Especial, elaborado por el Instituto Nacional de Estadística y Geografía (INEGI), a petición de la Secretaría de Educación Pública (SEP)</s>
+<s docid="11NA010414_825330" num="8" wdcount="49"> Al respecto, Chuayffet puntualizó que habrá que hacer un análisis riguroso de esos 30 mil 695 maestros con licencia, para poder determinar cuántos de ellos están en esta condición, y si es con o sin goce de sueldo, y cuántos de ellos están comisionados y gozando de su sueldo</s>
+<s docid="11NA010414_825330" num="9" wdcount="40"> Tendrá que ser así, dijo, porque “las comisiones están prohibidas desde 1946 en el reglamento de las condiciones generales de trabajo; están prohibidas en la ley reglamentaria del B del 123 Constitucional de 1963, y en la reciente reforma educativa”</s>
+<s docid="11NA010414_825330" num="10" wdcount="39"> Respecto a los 39 mil 222 mentores que “sencillamente no sabemos en dónde están”, el funcionario advirtió que pueden ser casos de gente que estén cobrando como maestros y se desempeñen en una función distinta a la de grupo</s>
+<s docid="11NA010414_825330" num="11" wdcount="31"> Aunque –añadió— habrá que verificar escuela por escuela “para saber en dónde están”, porque “al no haber sido censados podrían quedar fuera de la Nómina Única que se elaborará más adelante”</s>
+<s docid="11NA010414_825330" num="12" wdcount="67"> En su oportunidad, el presidente del INEGI, Eduardo Sojo precisó que en el país hay 978 mil 118 profesores en todo el país, aunque el número se eleva a un millón 128 mil 319 el personal que desempeña función de maestro frente a grupo –incluidos directores de plantel que también están frente a grupo-, debido a que muchos mentores dan clases en diferentes grupos, incluso distintos planteles</s>
+<s docid="11NA010414_825330" num="13" wdcount="70"> Respecto a los planteles identificados en situación de riesgo, Chuayffet Chemor precisó que este año se cuenta con un fondo de 10 mil 500 millones de pesos a través de los programas Escuela Digna y Escuela de Excelencia —3,000 y 7,500 millones, respectivamente— recursos que se destinarán para dotar a esos planteles tanto de material para construcción como didáctico, “para los planteles ubicados en las regiones más pobres del país”</s>
+<s docid="11NA010414_825330" num="14" wdcount="36"> Adelantó que a principios del próximo año se elaborará el censo en escuelas de educación media superior, similar al recién presentado para educación básica, con el fin de saber en qué condiciones se encuentran esos planteles</s>
+<s docid="11NA010414_825330" num="15" wdcount="41"> Respecto a los estados de Chiapas, Oaxaca y Michoacán, entidades que registraron el mayor rechazo para la realización del referido Censo, el titular de la SEP, indicó que se tendrán que realizar ejercicios con los gobiernos estatales para completar los resultados</s>
+<s docid="11NA010414_825330" num="16" wdcount="22"> Sólo respondieron 41 por ciento en el caso de Oaxaca y 27 por ciento en los casos de Chiapas y Michoacán, dijo</s>
+<s docid="11NA010414_825330" num="17" wdcount="38"> “Si descartamos estas entidades, tenemos sólo el 0.4 por ciento de distorsión en los resultados del Censo, y si las consideramos, como debemos hacerlo, el Censo tuvo un éxito de alrededor del 94 por ciento”, sostuvo el funcionario</s>
+<s docid="11NA010414_825330" num="18" wdcount="67"> El Censo, que tuvo un costo de 26 millones de pesos menos de los 750 presupuestados, podrá consultarse en las páginas del INEGI y de la SEP, en donde se podrá observar información detallada de todos y cada uno de los planteles educativos del país, así como la infraestructura con la que cuentan incluidas las carencias como servicio de luz, electricidad, agua potable, acceso a internet, etcétera</s>
+</s>
+
+
+</TEXT>
+
+</DOC>

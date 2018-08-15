@@ -1,0 +1,43 @@
+<DOC>
+
+<DOCNO>
+<s docid="13BI080414_826900"num="1" wdcount="1"> 826900 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="13BI080414_826900"num="2" wdcount="1">13BI080414_826900</s>
+</FILEID>
+
+<HEAD>
+<s docid="13BI080414_826900"num="3" wdcount="9"> Desarrollan dispositivos de estimulación sensorial para niños con autismo </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="13BI080414_826900"num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="13BI080414_826900"num="5" wdcount="1"> 2014-04-08 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="13BI080414_826900" num="6" wdcount="32"> Estudiantes del Tecnológico de Monterrey, campus Guadalajara, desarrollaron un kit de cuatro herramientas con funcionalidad didáctica llamado Abby, destinado a mejorar la educación y el aprendizaje de los infantes que padecen autismo</s>
+<s docid="13BI080414_826900" num="7" wdcount="28"> Las herramientas de Abby pueden funcionar como estimuladores sensoriales para apoyar la enseñanza de diversos conceptos, identificar personas y como objeto de aprendizaje para disciplinas como las matemáticas</s>
+<s docid="13BI080414_826900" num="8" wdcount="44"> Arturo Hernández Martínez, alumno de Ingeniería en Tecnologías Electrónicas, quien forma parte del equipo de desarrolladores de Abby, explicó que cuando se presenta un caso de autismo en infantes predomina la idea de que los niños no pueden comunicarse adecuadamente dado su funcionamiento mental</s>
+<s docid="13BI080414_826900" num="9" wdcount="22"> “Sin embargo, mediante Abby pretendemos que se establezca un canal de comunicación a través de estímulos a sus sentidos”, expresó el estudiante</s>
+<s docid="13BI080414_826900" num="10" wdcount="28"> Agregó que los cuatro dispositivos que integran la tecnología son: un cubo y una mesa que opera mediante vibración, así como dos objetos similares que operan con iluminación</s>
+<s docid="13BI080414_826900" num="11" wdcount="50"> José Kaled Ávila, otro de los integrantes del equipo de desarrolladores, señaló que en el objetivo de validar el funcionamiento de las herramientas de Abby, actualmente éstas son ocupadas para llevar a cabo implementaciones terapéuticas en diversas asociaciones civiles enfocadas en el tratamiento y cuidado de los niños con autismo</s>
+<s docid="13BI080414_826900" num="12" wdcount="22"> Añadió que en conjunto con terapeutas especializados al día de hoy se busca un protocolo para conocer la efectividad de la tecnología</s>
+<s docid="13BI080414_826900" num="13" wdcount="30"> Kaled Ávila señaló que durante la implementación de Abby se detectó la necesidad de flexibilizar la tecnología de acuerdo con las diversas necesidades terapéuticas que se suscitan en cada paciente</s>
+<s docid="13BI080414_826900" num="14" wdcount="36"> “Cada pequeño que padece autismo tiene necesidades particulares; mientras que a algunos puede agradarles la luz, a otros sencillamente no les importa, y lo mismo se observa con otros estímulos como el sonido o el movimiento</s>
+<s docid="13BI080414_826900" num="15" wdcount="19"> De ahí la necesidad de establecer un kit de herramientas en lugar de una sola tecnología”, detalló el estudiante</s>
+<s docid="13BI080414_826900" num="16" wdcount="20"> El desarrollo de los estudiantes del Tecnológico de Monterrey ha sido galardonado recientemente en el concurso global Dell Education Challenge</s>
+<s docid="13BI080414_826900" num="17" wdcount="47"> A propósito, José Manuel Beltrán, otro de los estudiantes que forman parte del equipo de desarrolladores, manifestó que a través de estímulos tecnológicos similares se busca una reinversión para la investigación y desarrollo sobre nuevas cualidades que permitan hacer de Abby una tecnología utilizable en otros países</s>
+<s docid="13BI080414_826900" num="18" wdcount="52"> Finalmente, las profesoras Ana Esquivel y Yolanda Cham, coincidieron en que Abby es un reflejo de los buenos resultados que detona la investigación multidisciplinaria, ya que en el desarrollo de esa tecnología participaron especialistas en salud, terapeutas, ingenieros industriales en sinergia con terapeutas de distintas asociaciones civiles focalizadas en el autismo infantil.</s>
+
+
+</TEXT>
+
+</DOC>

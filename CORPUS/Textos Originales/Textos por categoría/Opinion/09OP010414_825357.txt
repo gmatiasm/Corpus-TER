@@ -1,0 +1,64 @@
+<DOC>
+
+<DOCNO>
+<s docid="09OP010414_825357" num="1" wdcount="1"> 825357 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="09OP010414_825357" num="2" wdcount="1">09OP010414_825357</s>
+</FILEID>
+
+<HEAD>
+<s docid="09OP010414_825357" num="3" wdcount="4"> Más allá del discurso </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="09OP010414_825357" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="09OP010414_825357" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="09OP010414_825357" num="6" wdcount="32"> “Los discursos inspiran menos confianza que las acciones” Aristóteles Quizá una imagen valga más que mil palabras, quizá la palabra presume en la retórica lo que en los hechos no puede sostener</s>
+<s docid="09OP010414_825357" num="7" wdcount="17"> Quizá hemos abusado de ella, la hemos puesto de rehén y la hemos vendido al mejor postor</s>
+<s docid="09OP010414_825357" num="8" wdcount="13"> Quizá la palabra dejó de ser argumento para convertirse en origen de conflicto</s>
+<s docid="09OP010414_825357" num="9" wdcount="13"> Quizá la palabra comenzó a ser objeto de muchos y razón de pocos</s>
+<s docid="09OP010414_825357" num="10" wdcount="16"> Por eso, hoy el tiempo político exige sensatez en la acción y honradez en la palabra</s>
+<s docid="09OP010414_825357" num="11" wdcount="15"> Exige dejar de aplazar las obligaciones porque México merece una política sana, honesta e inteligente</s>
+<s docid="09OP010414_825357" num="12" wdcount="16"> Una política que reconozca el deber como principio y no el interés personal como único objetivo</s>
+<s docid="09OP010414_825357" num="13" wdcount="9"> Hoy, la palabra no puede alejarse de la realidad</s>
+<s docid="09OP010414_825357" num="14" wdcount="8"> No puede desprenderse del valor de la humildad</s>
+<s docid="09OP010414_825357" num="15" wdcount="14"> No puede alabar la complicidad, preferir el grito para disfrazar la incapacidad de dialogar</s>
+<s docid="09OP010414_825357" num="16" wdcount="22"> No podemos presumir a la democracia como instrumento de negociación cuando en la primera oportunidad utilizamos la palabra como método de chantaje</s>
+<s docid="09OP010414_825357" num="17" wdcount="18"> Utilizamos la palabra sin antes conocer su verdadero significado, la presumimos sin reconocer el valor de sus alcances</s>
+<s docid="09OP010414_825357" num="18" wdcount="8"> Nuestra palabra debe de representar acuerdo, ejemplificar respeto</s>
+<s docid="09OP010414_825357" num="19" wdcount="15"> No se trata de legitimar la agresión verbal mientras nos acostumbramos a la regresión institucional</s>
+<s docid="09OP010414_825357" num="20" wdcount="21"> No se trata de utilizar a la palabra en la política como excusa para la restricción, para la simulación e intimidación</s>
+<s docid="09OP010414_825357" num="21" wdcount="19"> Por el contrario, debe ser conciliación y definición, debe ser un instrumento útil para convertir la promesa en acción</s>
+<s docid="09OP010414_825357" num="22" wdcount="16"> La política no puede definirse como un espectáculo, como un espacio que invita a la descalificación</s>
+<s docid="09OP010414_825357" num="23" wdcount="11"> La palabra en la política no puede transmitir rencor y burla</s>
+<s docid="09OP010414_825357" num="24" wdcount="10"> Nuestro país necesita sentirse seguro, necesita confiar en sus instituciones</s>
+<s docid="09OP010414_825357" num="25" wdcount="22"> Hoy, la realidad exige entendimiento, exige un comportamiento digno entre la clase política, donde el resentimiento no vulnere la esencia del debate</s>
+<s docid="09OP010414_825357" num="26" wdcount="43"> Necesitamos sensatez para rescatar la madurez en la palabra, necesitamos congruencia para darnos cuenta que la pobreza no se soluciona solamente con discursos y que la grandeza política se consolida haciendo lo que se debe y no sólo hablando lo que se quiere</s>
+<s docid="09OP010414_825357" num="27" wdcount="22"> La tolerancia se aplica en la práctica, no en la retórica discursiva que plantea ilusiones, historias y percepciones ajenas a una realidad</s>
+<s docid="09OP010414_825357" num="28" wdcount="33"> La tolerancia en las discusiones hace que las soluciones no sean resultado de la coincidencia porque el desprecio al problema de origen hace que el silencio valide el fracaso de políticas públicas insuficientes</s>
+<s docid="09OP010414_825357" num="29" wdcount="14"> Hace que las elecciones se conviertan en un mero trámite que exige la democracia</s>
+<s docid="09OP010414_825357" num="30" wdcount="39"> Racionalizar la actividad política evitará manipulaciones, hará que se construyan herramientas eficientes que siempre sean revisadas y mejoradas, permitirá descubrir una visión acertada y completa de la realidad, bajo enfoques especializados y técnicos que permitan la ansiada evolución política</s>
+<s docid="09OP010414_825357" num="31" wdcount="17"> No se trata de apostarle a la demagogia, para dejar que la palabra siga condicionando la percepción</s>
+<s docid="09OP010414_825357" num="32" wdcount="19"> La palabra en la política debe de transmitir respeto, debe de pensarse para que después no tenga que actuarse</s>
+<s docid="09OP010414_825357" num="33" wdcount="13"> No habrá peor error que sobornar la palabra con visiones cortas y mediocres</s>
+<s docid="09OP010414_825357" num="34" wdcount="23"> Nos engañamos, creemos que el costo de hoy necesariamente se traduce en el beneficio de mañana, que el dicho se convierte en hecho</s>
+<s docid="09OP010414_825357" num="35" wdcount="13"> Hacemos de la política mexicana un mundo de palabras mudas y expresiones sordas</s>
+<s docid="09OP010414_825357" num="36" wdcount="32"> Hacemos de la política mexicana el espacio ideal para distorsionar significados, al final la palabra dicha ayer se pierde por su falta de sentido y capacidad de obtener eco en algún hecho</s>
+<s docid="09OP010414_825357" num="37" wdcount="29"> El presente político requiere de inteligencia que distinga entre la frivolidad de quienes violentan la palabra y la prudencia de quienes encuentran en ella el respeto y el progreso</s>
+<s docid="09OP010414_825357" num="38" wdcount="9"> Si la palabra se traiciona, la ignorancia se estimula</s>
+<s docid="09OP010414_825357" num="39" wdcount="27"> Si la palabra se utiliza como moneda de cambio, entonces su valor se devaluará a tal grado que ni siquiera seremos capaces de creer en nosotros mismos..</s>
+<s docid="09OP010414_825357" num="40" wdcount="8"> Gracias, padre *Senadora del Partido Nueva Alianza arriolamonica@hotmail.com </s>
+
+
+</TEXT>
+
+</DOC>

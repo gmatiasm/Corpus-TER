@@ -1,0 +1,46 @@
+<DOC>
+
+<DOCNO>
+<s docid="18AC080414_826865" num="1" wdcount="1"> 826865 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="18AC080414_826865" num="2" wdcount="1">18AC080414_826865</s>
+</FILEID>
+
+<HEAD>
+<s docid="18AC080414_826865" num="3" wdcount="11"> Reaparece especie de ardilla considerada extinta hace 500 años en Portugal </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="18AC080414_826865" num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="18AC080414_826865" num="5" wdcount="1"> 2014-04-08 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="18AC080414_826865" num="6" wdcount="48"> La ambición de los portugueses por descubrir nuevo mundo dejó a la ardilla roja sin su particular hábitat en el siglo XV debido a la enorme cantidad de madera que se extrajo en los bosques lusos para construir las embarcaciones que se usaban en las rutas del descubrimiento</s>
+<s docid="18AC080414_826865" num="7" wdcount="36"> Pero en los últimos años, el popular, sociable y simpático animal atravesó la frontera de Galicia para hacer las paces con los osados portugueses y dar inicio a un largo viaje hacia el sur del país</s>
+<s docid="18AC080414_826865" num="8" wdcount="33"> "Estos años más recientes se ha constatado un incremento del área de distribución de las ardillas en Portugal", relató a EFE Carlos Fonseca, biólogo de la Universidad de Aveiro, al norte del país</s>
+<s docid="18AC080414_826865" num="9" wdcount="48"> "Y todo hace pensar que hay una relación entre la expansión de la superficie forestal en el norte de España y Portugal, y la expansión de la ardilla", según Fonseca, también promotor de un proyecto innovador que invita a todo el país a interesarse por el pequeño animal</s>
+<s docid="18AC080414_826865" num="10" wdcount="31"> Como fórmula para evaluar la repentina reaparición del roedor, el proyecto, denominado "Ardilla roja en Portugal", recoge los testimonios de personas, de norte a sur del país, que han visto ejemplares</s>
+<s docid="18AC080414_826865" num="11" wdcount="51"> Es una iniciativa con una vertiente de "voluntariado" muy grande, según el biólogo, quien se declara satisfecho porque en estos dos meses desde su puesta en marcha, "la participación ha sido extraordinaria" y ya son alrededor de 100 observaciones las recogidas, muchas de ellas con registro fotográfico, "lo que es fantástico"</s>
+<s docid="18AC080414_826865" num="12" wdcount="45"> El proyecto cuenta actualmente con una página en las redes sociales llena de fotografías, vídeos y relatos, además de una encuesta online, en la que se recogen indicaciones más precisas acerca de la coloración del pelo, los nidos u otros detalles relacionados con el animal</s>
+<s docid="18AC080414_826865" num="13" wdcount="39"> Las valiosas informaciones que llegan cada día a Carlos Fonseca van a permitir no solo comprender los factores que hay detrás de la rápida expansión de la ardilla, sino también delimitar los límites de su distribución en suelo portugués</s>
+<s docid="18AC080414_826865" num="14" wdcount="56"> En apenas 15 años, el roedor atravesó prácticamente toda la región centro del país, destacó el biólogo, antes de precisar que "la distribución de la ardilla estaba hasta el norte del río Duero (al norte de Portugal) a finales del siglo XX y en estos momentos ya está muy próxima al río Tajo (en el centro)"</s>
+<s docid="18AC080414_826865" num="15" wdcount="45"> El proceso de reintroducción del animal en algunos parques naturales, -como el Parque Biológico de Gaia y el Jardín Botánico de Coimbra, al norte de Portugal, y el Parque Ecológico de Mosanto, en la capital-, dieron un pequeño empujón al largo viaje de la ardilla</s>
+<s docid="18AC080414_826865" num="16" wdcount="13"> Su trayecto por suelo luso es muy favorable y prácticamente exento de obstáculos</s>
+<s docid="18AC080414_826865" num="17" wdcount="24"> "Puede haber algún tipo de persecución, ya sea humana o de cualquier otro predador, pero no son factores que puedan causar desequilibrio", relató Fonseca</s>
+<s docid="18AC080414_826865" num="18" wdcount="44"> La ardilla se alimenta de frutas y simientes que son posteriormente devueltas al suelo a través de las heces, por lo que tiene un papel importante en la conservación del bosque, además de servir de predador natural para algunos reptiles y aves de rapiña</s>
+<s docid="18AC080414_826865" num="19" wdcount="26"> No obstante, por la gran simpatía que despierta, el biólogo considera que el papel más importante del pequeño roedor es la sensibilización ambiental de la población</s>
+<s docid="18AC080414_826865" num="20" wdcount="23"> "La especie puede ser utilizada para promover los espacios naturales y la conservación y usufructo de la naturaleza en toda su plenitud", defiende</s>
+<s docid="18AC080414_826865" num="21" wdcount="38"> Los parques biológicos son el lugar ideal para interactuar con el animal, habituado a la presencia humana, ya que interferir con el roedor en estado salvaje "puede limitar algún tipo de comportamientos, lo que no es recomendable", resaltó</s>
+<s docid="18AC080414_826865" num="22" wdcount="49"> Actualmente, la ardilla roja tiene el estatuto de "poco preocupante" en el Libro Rojo de los Vertebrados de Portugal que clasifica las especies vertebradas que habitan en territorio luso y, según los expertos, se espera que ocupe un lugar destacado en la edición de 2014 por su significativa expansión.</s>
+
+</TEXT>
+
+</DOC>

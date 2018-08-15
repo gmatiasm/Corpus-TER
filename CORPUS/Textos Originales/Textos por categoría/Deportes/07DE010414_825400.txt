@@ -1,0 +1,44 @@
+<DOC>
+
+<DOCNO>
+<s docid="07DE010414_825400" num="1" wdcount="1"> 825400 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="07DE010414_825400" num="2" wdcount="1">07DE010414_825400</s>
+</FILEID>
+
+<HEAD>
+<s docid="07DE010414_825400" num="3" wdcount="12"> El PSG es favorito porque tiene algunos de los mejores atacantes: Mourinho </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="07DE010414_825400" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="07DE010414_825400" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="07DE010414_825400" num="6" wdcount="51"> El entrenador del Chelsea, José Mourinho, afirmó hoy que lo que convierte al París Saint-Germain en favorito en la eliminatoria de cuartos de final de la Liga de Campeones es que tiene a algunos de los mejores delanteros de Europa y "a estas alturas eso es lo que marca la diferencia"</s>
+<s docid="07DE010414_825400" num="7" wdcount="17"> "Si miras los mejores atacantes del momento encuentras a Messi, Ronaldo, Lewandoski, Diego Costa, Ibrahimovic, Cavani, Lavezzi</s>
+<s docid="07DE010414_825400" num="8" wdcount="18"> Es muy importante en un momento de la competición como este", afirmó el técnico en rueda de prensa</s>
+<s docid="07DE010414_825400" num="9" wdcount="38"> El entrenador portugués agregó que el club francés tiene grandes jugadores en todas las líneas y señaló que se espera que el PSG juegue con su filosofía de siempre, dispuesto a dominar el juego y tener la pelota</s>
+<s docid="07DE010414_825400" num="10" wdcount="18"> A diferencia de su oponente, Laurent Blanc, Mourinho indicó que la experiencia no será clave en la eliminatoria</s>
+<s docid="07DE010414_825400" num="11" wdcount="26"> "Puede que como club el Chelsea tenga más experiencia, pero ellos tienen jugadores con mucha y nosotros, a parte de Peter Cech, no tenemos tanta", afirmó</s>
+<s docid="07DE010414_825400" num="12" wdcount="22"> Mourinho indicó que no cambiará la filosofía de su juego y que jugarán tal y como vienen haciendo en las últimas semanas</s>
+<s docid="07DE010414_825400" num="13" wdcount="34"> El entrenador afirmó que "es una pena" que Zlatan Ibrahimovic no quiera jugar en Inglaterra porque "con todo el palmarés que tiene se retirará sin ganar ningún título en la mejor liga del mundo"</s>
+<s docid="07DE010414_825400" num="14" wdcount="15"> "Pero debe jugar donde es feliz y ya tiene ganadas muchas cosas con grandes clubes</s>
+<s docid="07DE010414_825400" num="15" wdcount="13"> Yo coincidí con él en el Inter y la relación fue muy buena</s>
+<s docid="07DE010414_825400" num="16" wdcount="19"> La única diferencia que tuvimos es que yo quería que se quedara y él quería irse al Barcelona", afirmó</s>
+<s docid="07DE010414_825400" num="17" wdcount="11"> "Dicen que tiene una personalidad complicada, pero yo no lo creo</s>
+<s docid="07DE010414_825400" num="18" wdcount="17"> Los que tienen una personalidad complicada son los que no quieren ganar y él es un ganador</s>
+<s docid="07DE010414_825400" num="19" wdcount="12"> Tiene un gran ego, pero sabe que es un gran jugador", aseguró</s>
+<s docid="07DE010414_825400" num="20" wdcount="40"> El técnico señaló que el proyecto catarí del PSG "tiene cosas en común" con el que formó el ruso Roman Abramovich en el Chelsea hace unos años y que el objetivo de ambos es similar, montar un gran club europeo.</s>
+
+</TEXT>
+
+</DOC>

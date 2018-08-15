@@ -1,0 +1,81 @@
+<DOC>
+
+<DOCNO>
+<s docid="14AC060414_826340" num="1" wdcount="1"> 826340 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="14AC060414_826340" num="2" wdcount="1">14AC060414_826340</s>
+</FILEID>
+
+<HEAD>
+<s docid="14AC060414_826340" num="3" wdcount="6"> La física biológica cambiará nuestra vida </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="14AC060414_826340" num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="14AC060414_826340" num="5" wdcount="1"> 2014-04-06 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="14AC060414_826340" num="6" wdcount="55"> Imagínese lo que sucede dento de una célula —para darse una idea más cercana puede consultar el video The inner life of the cell, o La vida interior de una célula (una versión más corta), en Youtube—, es un universo elaborado por membranas, receptores, canales, proteínas, iones, ADN… que compone esta “maquinaria” de la vida</s>
+<s docid="14AC060414_826340" num="7" wdcount="10"> Ahora, imagine ese ambiente casi alienígena estructurado en una ecuación</s>
+<s docid="14AC060414_826340" num="8" wdcount="39"> Parece inverosímil, pero al igual que la física y las matemáticas pueden describir desde una estructuración subatómica, hasta la existencia de agujeros negros o la colisión de galaxias, también permiten ayudar a modelar los diversos mundos de la biología</s>
+<s docid="14AC060414_826340" num="9" wdcount="61"> En este panorama, el mexicano Leonardo Dagdug Lima, investigador del Departamento de Física de la Universidad Autónoma Metropolitana (UAM) Unidad Iztapalapa y de los Institutos Nacionales de Salud (NIH, por sus siglas en ingles) de EU se ha adentrado a este mundo mediante el lenguaje de los números y ha sido pionero del desarrollo de la física biológica en el país</s>
+<s docid="14AC060414_826340" num="10" wdcount="59"> El físico conoció esta área de investigación al final de su doctorado, que al igual que su maestría lo realizó con Leopoldo García-Colín —uno de los científicos más prominentes del país y quien falleció en octubre pasado—, quien prácticamente lo convirtió en investigador, quien me recibe en su oficina de la UAM, que alguna vez perteneció a su mentor</s>
+<s docid="14AC060414_826340" num="11" wdcount="21"> Mientras transcurría el periodo en el cual su tesis estaba en revisión, Dagdug recuerda haber entrado a una conferencia sobre ADN</s>
+<s docid="14AC060414_826340" num="12" wdcount="33"> El estudiante se dio cuenta en que los temas trabajados con el doctor García-Colín en la teoría de formación de vidrios se podían aplicar para estudiar cómo la cadena del ADN se abría</s>
+<s docid="14AC060414_826340" num="13" wdcount="18"> En tanto el académico daba su conferencia, el joven sacó una hoja y empezó a hacer los cálculos</s>
+<s docid="14AC060414_826340" num="14" wdcount="24"> Se dio cuenta de que tenía el valor de la temperatura a la cual se abre el ADN que obtenían en los experimentos expuestos</s>
+<s docid="14AC060414_826340" num="15" wdcount="25"> Publicó un artículo sobre ello y se lo enseñó al físico miembro de El Colegio Nacional, quien hizo una relación de partes que podría fructificar</s>
+<s docid="14AC060414_826340" num="16" wdcount="35"> Le dijo que conocía a George Weiss, con quien hizo su doctorado, especialista en aplicar física y matemáticas a sistemas biológicos y fundador de uno de los laboratorios más importantes del área en la institución</s>
+<s docid="14AC060414_826340" num="17" wdcount="12"> Lo inmejorable hubiera sido realizar un posdoctorado con él, y así fue</s>
+<s docid="14AC060414_826340" num="18" wdcount="38"> Cuando vino a México a las celebraciones del cumpleaños 70 de García-Colín, lo conoció y después de platicar con él –y posterior a varias preguntas al estilo de un judío ortodoxo y pedirle conocer a su familia- aceptó</s>
+<s docid="14AC060414_826340" num="19" wdcount="24"> Así llegó a la física y matemática aplicada a la biología al instituto más importante del área, título que comparte con el Max Planck</s>
+<s docid="14AC060414_826340" num="20" wdcount="48"> Después de terminar el posgrado, a inicios del 2000, el mexicano trabajó contratado por el NIH; dado el nivel de conocimiento que estaba adquiriendo fue llamado por García-Colín y el entonces rector de la UAM, Luis Mier y Terán, para que regresara a hacer escuela en la Metropolitana</s>
+<s docid="14AC060414_826340" num="21" wdcount="60"> En 2010, volvió al NIH para trabajar con grandes personalidades, pero un año más tarde decidió regresar a México tras acordar ser investigador honorario del instituto, donde trabajaba con el coloso de la química Attila Szabo y se podía llegar a encontrar con James Watson o, en su momento, a Marshall Nirenberg a la hora del lunch, relata en entrevista</s>
+<s docid="14AC060414_826340" num="22" wdcount="2"> MOVIMIENTO BROWNIANO</s>
+<s docid="14AC060414_826340" num="23" wdcount="32"> Dagdug Lima se especializó en el sistema de movimiento browniano, descrito por primera vez por Robert Brown, que busca entender, por ejemplo, la forma en que se movía el polen en agua</s>
+<s docid="14AC060414_826340" num="24" wdcount="40"> Tiempo después, Albert Einsten explicaría que se debía a los golpes de los átomos del fluido en el que estaba; aunque estos fueran más pequeños que el polen le dan una inmensa cantidad de golpes, cuyas fluctuaciones generan el movimiento</s>
+<s docid="14AC060414_826340" num="25" wdcount="20"> Ahora bien, el mexicano analiza este fenómeno en sistemas confinados para describir con ecuaciones qué sucede en el mundo celular</s>
+<s docid="14AC060414_826340" num="26" wdcount="14"> “Casi todo lo que se mueve dentro de la célula es por movimiento browniano</s>
+<s docid="14AC060414_826340" num="27" wdcount="33"> Dentro hay un fluido que le da ese golpeteo a todas estas cosas para que se muevan, así la célula puede hacer una cantidad impresionante de cosas: formar cadenas de ADN, proteínas, transportarlas...”</s>
+<s docid="14AC060414_826340" num="28" wdcount="11"> En resumen, sin este fenómeno, no habría vida en la célula</s>
+<s docid="14AC060414_826340" num="29" wdcount="21"> “Que esto pase en la célula es impactante y que uno pueda ponerse a escribir ecuaciones para describirlas es súper interesante”</s>
+<s docid="14AC060414_826340" num="30" wdcount="28"> En ésta área de la física, los especialistas han enfocado buena parte de sus estudios para modelar cómo pasan y transportan iones y proteínas por los canales celulares</s>
+<s docid="14AC060414_826340" num="31" wdcount="23"> Cuando se estropean estos sistemas se pueden generar enfermedades, sin embargo estudiarlos desde el punto de vista biológico es sumamente caro y complejo</s>
+<s docid="14AC060414_826340" num="32" wdcount="22"> Por lo tanto, los físicos desarrollan teorías y modelos para simplificar muchos experimentos y problemas a los que se enfrentan los biólogos</s>
+<s docid="14AC060414_826340" num="33" wdcount="4"> IMPACTO EN LA HUMANIDAD</s>
+<s docid="14AC060414_826340" num="34" wdcount="43"> Uno de los últimos trabajos que ha hecho el mexicano en el NIH es modelar con sus ecuaciones los canales y receptores que están en la membrana de la célula, que incluye proteínas, cuyo movimiento en ciertos momentos forman cúmulos y los deshacen</s>
+<s docid="14AC060414_826340" num="35" wdcount="11"> Los biólogos ya habían observado esto pero no sabían por qué</s>
+<s docid="14AC060414_826340" num="36" wdcount="26"> Leonardo Dagdug hizo la teoría y las simulaciones ante la pregunta para saber si había algunos cambios en cómo se transportan las cosas en los flujos</s>
+<s docid="14AC060414_826340" num="37" wdcount="8"> Modeló y acercó gradualmente los canales hasta juntarlos</s>
+<s docid="14AC060414_826340" num="38" wdcount="21"> Los datos arrojaban que el flujo aumenta increíblemente y el tiempo en el que salen las partículas es mucho más lento</s>
+<s docid="14AC060414_826340" num="39" wdcount="8"> “Eso no lo podían hacer en sus experimentos”</s>
+<s docid="14AC060414_826340" num="40" wdcount="32"> En otro problema, les pidieron al mexicano y a George Weiss que obtuvieran un modelo para ver qué pasa cuando pasa luz por piel si hay un tumor y estimar su volumen</s>
+<s docid="14AC060414_826340" num="41" wdcount="31"> Hicieron la teoría y establecieron cuánto tiempo se tarda en atravesar la piel, lo que permitirá ahora desarrollar un aparato en el NIH que medirá exactamente el volumen de un tumor</s>
+<s docid="14AC060414_826340" num="42" wdcount="18"> Será un dispositivo no invasivo con luz que puede referir cómo cambian los tumores y hacer seguimientos diarios</s>
+<s docid="14AC060414_826340" num="43" wdcount="3"> Está casi terminado</s>
+<s docid="14AC060414_826340" num="44" wdcount="24"> Pero entre otras aplicaciones, este conocimiento científico incidirá además en el diseño de nanotubos o en la liberación de fármacos de manera controlada, acota</s>
+<s docid="14AC060414_826340" num="45" wdcount="28"> De hecho, uno de los últimos proyectos en que ha participado, refiere, es diseñar el contenedor de un fármaco que prevén inyectar en el cerebro para deshacer tumores</s>
+<s docid="14AC060414_826340" num="46" wdcount="25"> Le pidieron que modelara una cápsula y que del fármaco salga cierta cantidad en cierto tiempo para destruir el tumor y no afecte otros tejidos</s>
+<s docid="14AC060414_826340" num="47" wdcount="19"> “La física aplicada a la biología va a cambiar por completo la forma en que los seres humanos vivimos”</s>
+<s docid="14AC060414_826340" num="48" wdcount="25"> Y México está dentro del desarrollo de esta ciencia, en buena medida al trabajo de Dagdug y de otros esfuerzos en instituciones como la UNAM</s>
+<s docid="14AC060414_826340" num="49" wdcount="20"> De hecho hay diversos grupos de investigación aunque desarticulados pero que podrían constituirse en un nuevo instituto de investigación, señala</s>
+<s docid="14AC060414_826340" num="50" wdcount="31"> Para muestra está la serie de libros que coordinó con el doctor García-Colín, editados por El Colegio Nacional, sobre la ciencia que se ha desarrollado en el país en el área</s>
+<s docid="14AC060414_826340" num="51" wdcount="18"> Además hay un gran interés por los jóvenes universitarios por estudiar este campo, “ha habido un boom impresionante”</s>
+<s docid="14AC060414_826340" num="52" wdcount="37"> Además, acaba de recibir la noticia del Colegio que el último libro que editó junto con su maestro (Introducción a la física biológica, dividido en tres tomos) se ha terminado, y que buscarán sacar una tercera reimpresión</s>
+<s docid="14AC060414_826340" num="53" wdcount="24"> “El doctor García-Colín decía que el siglo pasado había sido el de la física cuántica y que esté sería el de la física biológica</s>
+<s docid="14AC060414_826340" num="54" wdcount="15"> A tal grado que los descubrimientos más importantes en física serán respecto a la vida”</s>
+<s docid="14AC060414_826340" num="55" wdcount="27"> El doctor Leonardo Dagdug nos brindó una colección de los tres ejemplares de la segunda edición de Introducción a la física biológica, que regalaremos mediante Facebook: CrónicaCienciayCultura</s>
+<s docid="14AC060414_826340" num="56" wdcount="19"> Sólo tienen que darle like a nuestra página y justificar por qué les sería útil para su formación académica.</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="15ED020414_825623" num="1" wdcount="1"> 825623 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="15ED020414_825623" num="2" wdcount="1">15ED020414_825623</s>
+</FILEID>
+
+<HEAD>
+<s docid="15ED020414_825623" num="3" wdcount="11"> Confirman captura de presunto líder del cártel del Golfo en Tamaulipas </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="15ED020414_825623" num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="15ED020414_825623" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="15ED020414_825623" num="6" wdcount="43"> Los bloqueos y enfrentamientos ocurridos la tarde del martes en Reynosa, Tamaulipas, ocurrieron en respuesta a la detención de Jesús Alejandro Leal Flores, apodado “El Metro 24”, presunto líder del cártel del Golfo, confirmó el Gabinete de Seguridad del Gobierno de la República</s>
+<s docid="15ED020414_825623" num="7" wdcount="53"> En un comunicado conjunto, informó que elementos de las secretarías de la Defensa Nacional (Sedena), de Marina (Semar) y de la Policía Federal ubicaron al presunto delincuente en un domicilio de la colonia Jardines Colonial, que era usado como centro de operaciones, por lo que se aplicó un dispositivo para cercar la vivienda</s>
+<s docid="15ED020414_825623" num="8" wdcount="52"> Las dependencias destacaron que el sujeto, de 31 años de edad, fue detenido sin que se hiciera un sólo disparo, se le aseguró un rifle AK-47 y un arma corta, además de dos equipos de comunicación, sin embargo integrantes de su grupo criminal detectaron varias acciones violentas en represalia a esta detención</s>
+<s docid="15ED020414_825623" num="9" wdcount="39"> En este sentido, señalaron que sujetos armados se apoderaron de 20 vehículos pesados, con lo que bloquearon distintas vialidades del municipio, mientras que sus cómplices trataron de liberarlo durante su traslado para ser puesto a disposición del Ministerio Público</s>
+<s docid="15ED020414_825623" num="10" wdcount="21"> Durante esta agresión a las fuerzas federales para liberar al presunto delincuente, sin que lograran su objetivo, no hubo elementos lesionados</s>
+<s docid="15ED020414_825623" num="11" wdcount="43"> No obstante a las 17:45 horas sujetos armados a bordo de una camioneta dispararon contra una unidad de la Policía Federal que hacía patrullajes sobre el Bulevar Hidalgo, y causaron la muerte del policía Arnulfo Gómez Hernández, quien recibió un impacto de bala</s>
+<s docid="15ED020414_825623" num="12" wdcount="39"> El Gabinete de Seguridad agregó que las vialidades de Reynosa fueron desbloqueadas por las autoridades locales y que se llevan a cabo las investigaciones correspondientes para dar con los responsables de los bloqueos y agresiones contra las fuerzas federales </s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,43 @@
+<DOC>
+
+<DOCNO>
+<s docid="15CI010414_825441" num="1" wdcount="1"> 825441 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="15CI010414_825441" num="2" wdcount="1">15CI010414_825441</s>
+</FILEID>
+
+<HEAD>
+<s docid="15CI010414_825441" num="3" wdcount="6"> Desempleo, talón de Aquiles del GDF  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="15CI010414_825441" num="4" wdcount="1"> Ciudad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="15CI010414_825441" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="15CI010414_825441" num="6" wdcount="32"> A pesar de que bajó un punto porcentual con respecto al año pasado, pues se ubicaba en 6.4, el desempleo sigue siendo el talón de Aquiles del Gobierno del Distrito Federal (GDF)</s>
+<s docid="15CI010414_825441" num="7" wdcount="55"> Al presentar el Reporte Económico de la Ciudad de México 2013, el secretario de Desarrollo Económico (Sedeco), Salomón Chertorivsky Woldenberg, afirmó que actualmente la tasa se ubica en 5.4 por ciento por encima de la nacional que es de 4.65 por ciento, según el último reporte del Instituto Nacional de Estadística, Geografía e Informática (INEGI)</s>
+<s docid="15CI010414_825441" num="8" wdcount="14"> “Es un poco por encima de la tasa de desempleo nacional”, señaló el funcionario</s>
+<s docid="15CI010414_825441" num="9" wdcount="36"> Acompañado del secretario de Finanzas del DF, Edgar Amador Zamora, Chertorivsky Woldenberg dijo que lo anterior se debe a que la capital requiere generar al menos 120 mil empleos para jóvenes que se gradúan cada año</s>
+<s docid="15CI010414_825441" num="10" wdcount="19"> Además de que 167 mil personas vienen diariamente a la capital de otras entidades a buscar una oportunidad laboral</s>
+<s docid="15CI010414_825441" num="11" wdcount="38"> Sin embargo, el funcionario destacó que el año pasado se crearon casi 120 mil puestos de trabajo registrados ante el Instituto Mexicano del Seguro Social (IMSS), que representan el 28 por ciento de los empleos a nivel nacional</s>
+<s docid="15CI010414_825441" num="12" wdcount="26"> “Este es un hecho económico y social de la mayor relevancia y merece la atención pública de los que toman decisiones económicas en el país”, expresó</s>
+<s docid="15CI010414_825441" num="13" wdcount="28"> Al respecto, la secretaria del Trabajo y Fomento al Empleo del Distrito Federal (STyFE), Patricia Mercado Castro, reconoció que la preocupación de los capitalinos sigue siendo el desempleo</s>
+<s docid="15CI010414_825441" num="14" wdcount="26"> La ex candidata presidencial aseguró que la creación de empleo en la capital, dependerá de la conexión entre la capacitación y las necesidades del sector productivo</s>
+<s docid="15CI010414_825441" num="15" wdcount="17"> “Con la formación del Instituto para la Capacitación del Trabajo vamos a poder conectar todavía más”, indicó</s>
+<s docid="15CI010414_825441" num="16" wdcount="18"> Asimismo, Mercado Castro dijo que otro de los objetivos es formalizar a los informales dentro de las empresas</s>
+<s docid="15CI010414_825441" num="17" wdcount="20"> “Esta sería una buena ruta para los empresarios de la ciudad de México para bajar nuestros datos de informalidad”, expresó</s>
+<s docid="15CI010414_825441" num="18" wdcount="42"> Por último, Chertorivsky Woldenberg reveló que el DF recibió 21 mil 800 millones de pesos de Inversión Extranjera Directa (IED) en 2013, estos recursos, dijo, se volvieron un soporte importante para recuperarse de la situación económica que se registró el año pasado</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="05ED010414_825444" num="1" wdcount="1"> 825444 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="05ED010414_825444" num="2" wdcount="1">05ED010414_825444</s>
+</FILEID>
+
+<HEAD>
+<s docid="05ED010414_825444" num="3" wdcount="7"> Hallan fosa con cinco cuerpos en Sinaloa  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="05ED010414_825444" num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="05ED010414_825444" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="05ED010414_825444" num="6" wdcount="29"> Al menos cinco cuerpos en avanzado estado de descomposición fueron encontrados en las últimas horas en una fosa clandestina hallada en el estado de Sinaloa, informaron hoy fuentes oficiales</s>
+<s docid="05ED010414_825444" num="7" wdcount="28"> El subprocurador general de Sinaloa, Evaristo Castro Borbolla, dijo a Efe que los restos fueron localizados en las inmediaciones del poblado de San José, del municipio de Ahome</s>
+<s docid="05ED010414_825444" num="8" wdcount="33"> Dos de los cuerpos fueron hallados el lunes por la tarde y los otros tres este martes, aunque la búsqueda continúa porque se sospecha que puede haber más restos enterrados en la fosa</s>
+<s docid="05ED010414_825444" num="9" wdcount="40"> Después de los estudios practicados se ha determinado que los restos de estas personas tenían aproximadamente seis meses bajo tierra, por lo que el avanzado estado de descomposición en el que se encontraban no ha permitido identificarlos, añadió la fuente</s>
+<s docid="05ED010414_825444" num="10" wdcount="13"> El reporte a las autoridades se hizo cuando civiles encontraran algunas ropas semienterradas</s>
+<s docid="05ED010414_825444" num="11" wdcount="33"> Según el subprocurador general, los cuerpos encontrados fueron llevados a una funeraria de la ciudad de Los Mochis, hasta donde han llegado familiares de jóvenes desaparecidos para tratar de identificarlos por sus prendas</s>
+<s docid="05ED010414_825444" num="12" wdcount="27"> En la región en donde fueron encontrados los restos opera el capo Isidro Meza Flores, alias El Chapo Isidro, que lidera el Cártel de los Meza Flores</s>
+<s docid="05ED010414_825444" num="13" wdcount="35"> En la zona hay centenares de familias que han reportado a alguno de sus parientes como desaparecidos o secuestrados, y se cree que son muchos los cuerpos que se pudieran encontrar enterrados en la región.</s>
+
+
+</TEXT>
+
+</DOC>

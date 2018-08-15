@@ -1,0 +1,45 @@
+<DOC>
+
+<DOCNO>
+<s docid="02ED010414_825366"num="1" wdcount="1"> 825366 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="02ED010414_825366"num="2" wdcount="1">02ED010414_825366</s>
+</FILEID>
+
+<HEAD>
+<s docid="02ED010414_825366"num="3" wdcount="8"> Alertan por vientos fuertes al norte del país </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="02ED010414_825366"num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="02ED010414_825366"num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="02ED010414_825366" num="6" wdcount="34"> En Sonora, Nuevo León, Tamaulipas, Durango, Zacatecas, Chihuahua y Coahuila podrían registrar vientos de 60 kilómetros por hora con rachas y tolvaneras, debido a una zona de inestabilidad ubicada en los últimos dos estados</s>
+<s docid="02ED010414_825366" num="7" wdcount="41"> Además, el Servicio Meteorológico Nacional (SMN) prevé lluvias ligeras a moderadas aisladas en los estados del centro, sur y sureste del país, así como en la Península de Yucatán como consecuencia del ingreso de humedad del Océano Pacífico y Mar Caribe</s>
+<s docid="02ED010414_825366" num="8" wdcount="26"> Mientras que en el suroeste de Estados Unidos, muy cerca de la frontera con Baja California, un canal de baja presión causará potencial de precipitaciones ligeras</s>
+<s docid="02ED010414_825366" num="9" wdcount="47"> Se prevén temperaturas mínimas de cero a cinco grados centígrados con potencial de heladas en las regiones serranas de Aguascalientes, Baja California, Coahuila, Estado de México, Nuevo León, Puebla, San Luis Potosí, Sonora, Tlaxcala y Zacatecas, y de menos cinco a cero grados en Chihuahua y Durango</s>
+<s docid="02ED010414_825366" num="10" wdcount="30"> En su pronóstico por regiones, el SMN indicó que en el Pacífico Norte dominará cielo despejado a medio nublado y 20 por ciento probabilidad de lluvia ligera en Baja California</s>
+<s docid="02ED010414_825366" num="11" wdcount="38"> También, en esa región, persistirán temperaturas frescas por la mañana y la noche, calurosas por la tarde y viento de oeste y noroeste de 25 a 40 kilómetros por hora con rachas de hasta 60 kilómetros por hora</s>
+<s docid="02ED010414_825366" num="12" wdcount="33"> El Pacífico Centro mostrará clima despejado la mayor parte del día, temperatura templada por la mañana y calurosas durante la tarde, así como viento del oeste de 20 a 35 kilómetros por hora</s>
+<s docid="02ED010414_825366" num="13" wdcount="32"> En el Pacífico Sur prevalecerá cielo despejado por la mañana con incremento de nublados por la tarde y 40 por ciento potencial de lluvia ligera a moderada con tormentas eléctricas y granizo</s>
+<s docid="02ED010414_825366" num="14" wdcount="28"> Además de temperaturas templadas a cálidas por la mañana y la noche, calurosas durante el día y viento de dirección variable de 25 a 40 kilómetros por hora</s>
+<s docid="02ED010414_825366" num="15" wdcount="38"> La Península de Yucatán presentará clima despejado a medio nublado, probabilidad de precipitación ligera a moderada acompañada de tormentas eléctricas, temperaturas cálidas a muy calurosas y viento de este de 20 a 35 kilómetros por hora con rachas</s>
+<s docid="02ED010414_825366" num="16" wdcount="42"> En la Mesa del Norte se espera cielo despejado con aumento de nubosidad por la tarde, potencial de precipitación ligera aislada en Coahuila, temperaturas frías a muy frías por la mañana y la noche, así como templadas a calurosas durante el día</s>
+<s docid="02ED010414_825366" num="17" wdcount="31"> También soplarán vientos del oeste y suroeste de 25 a 40 kilómetros por hora con rachas de 60 kilómetros por hora y tolvaneras en Chihuahua, Coahuila, Nuevo León, Durango y Zacatecas</s>
+<s docid="02ED010414_825366" num="18" wdcount="29"> La Mesa Central tendrá clima despejado a medio nublado la mayor parte del día, 40 por ciento de probabilidad de lluvia ligera a moderada con tormentas eléctricas y granizo</s>
+<s docid="02ED010414_825366" num="19" wdcount="41"> En esta zona, explicó, también se prevén temperaturas localmente frías en zonas montañosas, frescas por la mañana y la noche en gran parte de la región, cálidas durante el día y viento del suroeste de 20 a 35 kilómetros por hora</s>
+<s docid="02ED010414_825366" num="20" wdcount="38"> El organismo de la Comisión Nacional del Agua (Conagua) detalló que durante las últimas 24 horas la temperatura máxima ocurrió en Los Pinzanes, Michoacán, con 44 grados y la mínima en La Rosilla, Durango, con menos seis grados</s>
+<s docid="02ED010414_825366" num="21" wdcount="36"> Se prevén precipitaciones moderadas con chubascos aislados en Chiapas, Estado de México, Quintana Roo y el Distrito Federal, y lloviznas o lluvia ligera en Baja California, Coahuila, Guanajuato, Hidalgo, Oaxaca, Puebla, Querétaro, Tabasco, Veracruz y Yucatán</s>
+
+</TEXT>
+
+</DOC>

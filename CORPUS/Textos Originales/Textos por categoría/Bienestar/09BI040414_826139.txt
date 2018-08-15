@@ -1,0 +1,50 @@
+<DOC>
+
+<DOCNO>
+<s docid="09BI040414_826139" num="1" wdcount="1"> 826139 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="09BI040414_826139" num="2" wdcount="1">09BI040414_826139</s>
+</FILEID>
+
+<HEAD>
+<s docid="09BI040414_826139" num="3" wdcount="11"> Hallan reloj biológico que refleja la edad de tejidos y órganos </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="09BI040414_826139" num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="09BI040414_826139" num="5" wdcount="1"> 2014-04-04 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="09BI040414_826139" num="6" wdcount="67"> Las causas del envejecimiento son desconocidas para los científicos, pero un estudio efectuado en la Universidad de California en Los Ángeles (UCLA) reveló la existencia de un reloj biológico en nuestra información genética Las causas del envejecimiento son desconocidas para los científicos, pero un estudio efectuado en la Universidad de California en Los Ángeles (UCLA) reveló la existencia de un reloj biológico en nuestra información genética (genomas)</s>
+<s docid="09BI040414_826139" num="7" wdcount="16"> Hecho que podría ser el inicio del conocimiento sobre las causas del envejecimiento y su retraso</s>
+<s docid="09BI040414_826139" num="8" wdcount="21"> Este nuevo enfoque permite medir con precisión a través del ADN la edad de diversos órganos, tejidos, y tipos de células</s>
+<s docid="09BI040414_826139" num="9" wdcount="22"> En el caso del tejido de los senos de la mujer se identificó que envejecen más rápido que el resto del cuerpo</s>
+<s docid="09BI040414_826139" num="10" wdcount="30"> Al respecto, el genetista, autor del estudio, Steve Horvath comentó que el tejido mamario es aproximadamente dos o tres años más viejo que el resto del organismo de las mujeres</s>
+<s docid="09BI040414_826139" num="11" wdcount="27"> “Si además la mujer padece cáncer de mama, el tejido sano próximo al tumor es en promedio 12 años mayor que el del resto de su cuerpo</s>
+<s docid="09BI040414_826139" num="12" wdcount="22"> Estos resultados podrían explicar por qué el cáncer de mama es el más común entre las mujeres”, explicó el autor del estudio</s>
+<s docid="09BI040414_826139" num="13" wdcount="43"> En cuanto al tejido tumoral, el estudio muestra que éste tiene en promedio 36 años más que el tejido sano, lo que podría explicar la causa de que la edad sea un factor de riesgo para muchos tipos de cáncer en ambos sexos</s>
+<s docid="09BI040414_826139" num="14" wdcount="28"> El descubrimiento del reloj biológico se dio mediante un proceso conocido como metilación, el cual consiste en la adhesión de “etiquetas” químicas, denominadas grupos metilos, a genes específicos</s>
+<s docid="09BI040414_826139" num="15" wdcount="34"> Por lo tanto, conocer la edad de la metilación del ADN y poder informar sobre la edad real de la mayoría de los tejidos y tipos de células, el genetista desarrolló un predictor especializado</s>
+<s docid="09BI040414_826139" num="16" wdcount="20"> Éste fue creado a partir de 8,000 muestras de 51 tipos de tejidos y de células de todo el cuerpo</s>
+<s docid="09BI040414_826139" num="17" wdcount="27"> A partir de ellos, se pudo establecerse cómo afecta la edad a los niveles de metilación del ADN desde antes del nacimiento y hasta los 101 años</s>
+<s docid="09BI040414_826139" num="18" wdcount="49"> Se descubrió que la edad de la metilación del ADN está cercana a cero en el estado embrionario y también en células madre pluripotentes inducidas, un tipo de células madre capaz de generar la mayoría de los tejidos y derivadas artificialmente de una célula que inicialmente no era pluripotencial</s>
+<s docid="09BI040414_826139" num="19" wdcount="18"> El análisis de las células madre pluripotente inducidas mostró que éstas son similares a las células “recién nacidas”</s>
+<s docid="09BI040414_826139" num="20" wdcount="28"> Por tanto, de acuerdo con el investigador, el proceso de transformación de las células de una persona en células madre pluripotentes podría reajustar el reloj celular a cero</s>
+<s docid="09BI040414_826139" num="21" wdcount="23"> La eficiencia del sistema de medición fue probada comparando la edad de los tejidos establecida por el reloj versus su edad cronológica real</s>
+<s docid="09BI040414_826139" num="22" wdcount="25"> En el estudio el genetista también descubrió que el ritmo del reloj se acelera o se ralentiza en función de la edad de la persona</s>
+<s docid="09BI040414_826139" num="23" wdcount="34"> Por otra parte, resultó sorprendente e inexplicable, la constatación de que las células de niños con progeria, un trastorno genético caracterizado por envejecimiento brusco y prematuro, parecían normales y reflejaban su verdadera edad cronológica</s>
+<s docid="09BI040414_826139" num="24" wdcount="46"> “El hallazgo de este reloj podría funcionar como biomarcador para el estudio de nuevos métodos terapéuticos que nos mantengan jóvenes, así como para tratar una gran cantidad de cuestiones de la biología del desarrollo y de la investigación sobre el cáncer y el envejecimiento”, asegura Horvath</s>
+<s docid="09BI040414_826139" num="25" wdcount="24"> Los siguientes pasos en la investigación es analizar si detener el reloj retrasaría el proceso de envejecimiento o incrementaría el riesgo de desarrollar cáncer</s>
+<s docid="09BI040414_826139" num="26" wdcount="10"> Asimismo, se investigará si este reloj es similar en ratones.</s>
+
+</TEXT>
+
+</DOC>

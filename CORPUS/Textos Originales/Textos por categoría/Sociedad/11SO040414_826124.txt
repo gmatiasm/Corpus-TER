@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="11SO040414_826124" num="1" wdcount="1"> 826124 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="11SO040414_826124" num="2" wdcount="1">11SO040414_826124</s>
+</FILEID>
+
+<HEAD>
+<s docid="11SO040414_826124" num="3" wdcount="11"> Google permite hacer una visita digital a los templos de Angkor </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="11SO040414_826124" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="11SO040414_826124" num="5" wdcount="1"> 2014-04-04 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="11SO040414_826124" num="6" wdcount="36"> Google presentó el primer mapa digital de los templos de Angkor, situados en el noroeste de Camboya, que permite realizar una visita virtual del complejo monumental declarado Patrimonio de la Humanidad, informó hoy la prensa local</s>
+<s docid="11SO040414_826124" num="7" wdcount="40"> El gigante de internet tomó más de un millón de fotografías para crear unas 90.000 imágenes panorámicas de 360 grados de un centenar de templos del parque arqueológico, que permiten la exploración del recinto a través de Google Street View</s>
+<s docid="11SO040414_826124" num="8" wdcount="38"> Las imágenes fueron tomadas desde julio por un coche y un grupo de cinco personas, que recorrieron el interior de los templos con mochilas equipadas con un sistema de 15 objetivos que tomaban una fotografía cada 2,5 segundos</s>
+<s docid="11SO040414_826124" num="9" wdcount="29"> Estas incluyen detalles de los relieves que decoran los monumentos y perspectivas generales, y se añadirán a Google Cultural Institute, que ya aloja unas 300 imágenes relacionadas con Angkor</s>
+<s docid="11SO040414_826124" num="10" wdcount="39"> El proyecto es el de mayor envergadura de este tipo realizado hasta ahora por Google, que anteriormente ya digitalizó el Taj Mahal, en India; el Palacio de Versalles, en Francia; Pompeya, en Italia; o el Monte Fuji, en Japón</s>
+<s docid="11SO040414_826124" num="11" wdcount="33"> El director de proyectos de Google Maps, Manik Gupta, dijo que en este tipo de proyectos culturales la compañía mantiene su propósito de "organizar la información del mundo" y hacerla de acceso gratuito</s>
+<s docid="11SO040414_826124" num="12" wdcount="45"> "Todo el mundo sabe que Angkor es la octava maravilla del mundo, pero es difícil de imaginar la pura belleza de este lugar y su relevancia cultural si no se visita", dijo Gupta en la presentación ayer del proyecto en la localidad de Siem Reap</s>
+<s docid="11SO040414_826124" num="13" wdcount="38"> "Para nosotros se trata de ayudar a Asia y al resto del mundo a llevar su cultura online, esta es la razón por la que hacemos esto", añadió Gupta en declaraciones recogidas por el diario "Phnom Penh Post"</s>
+<s docid="11SO040414_826124" num="14" wdcount="32"> El parque arqueológico de Angkor, situado en Siem Reap, acoge los restos de varias capitales del Imperio Khmer, que dominó gran parte del Sudeste de Asia entre los siglos IX y XV</s>
+<s docid="11SO040414_826124" num="15" wdcount="23"> Más de dos millones de turistas visitan cada año los templos de Angkor, declarados Patrimonio de la Humanidad por la UNESCO en 1993.</s>
+
+
+</TEXT>
+
+</DOC

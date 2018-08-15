@@ -1,0 +1,64 @@
+<DOC>
+
+<DOCNO>
+<s docid="13OP010414_825364" num="1" wdcount="1"> 825364 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="13OP010414_825364" num="2" wdcount="1">13OP010414_825364</s>
+</FILEID>
+
+<HEAD>
+<s docid="13OP010414_825364" num="3" wdcount="3"> Paz, el incómodo </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="13OP010414_825364" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="13OP010414_825364" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="13OP010414_825364" num="6" wdcount="19"> En la celebración del centenario de Octavio Paz se ha comprobado que todo cabe en un jarrito, sabiéndolo acomodar</s>
+<s docid="13OP010414_825364" num="7" wdcount="4"> Hasta el incómodo Paz</s>
+<s docid="13OP010414_825364" num="8" wdcount="49"> Me sumaré alegremente a la celebración, en el entendido de que, como todos los demás, no puedo hablar del poeta sino cuando habla por mí, cuando considero que hay vasos comunicantes entre nuestros intereses y nuestra visión (y esa es, precisamente, la misión que Paz daba a la palabra)</s>
+<s docid="13OP010414_825364" num="9" wdcount="20"> Entiendo a Paz como un hombre estrictamente del siglo XX, con los intereses y obsesiones político-culturales que caracterizaron ese siglo</s>
+<s docid="13OP010414_825364" num="10" wdcount="26"> En particular, los problemas de la libertad humana y el papel del erotismo en la búsqueda de esa libertad y de la comunicación entre las personas</s>
+<s docid="13OP010414_825364" num="11" wdcount="52"> A Paz le tocó vivir en su infancia y su primera juventud el nacimiento de dos movimientos que habrían de marcar el siglo: los opuestos totalitarismos fascista y bolchevique, y durante las décadas siguientes, la preeminencia en el mundo intelectual de una ideología derivada del segundo: el marxismo en su simplificación leninista</s>
+<s docid="13OP010414_825364" num="12" wdcount="29"> Su tendencia vitalista llama a Paz a participar en las misiones educativas de Lázaro Cárdenas y a solidarizarse activamente con la lucha de la República Española contra el fascismo</s>
+<s docid="13OP010414_825364" num="13" wdcount="39"> El viaje a la España en guerra lo marcará para siempre, porque ahí es capaz de ver no solamente la barbarie franquista, sino también, en el otro lado del espejo, las atrocidades de los comunistas en el lado republicano</s>
+<s docid="13OP010414_825364" num="14" wdcount="9"> La ruptura con el socialismo será paulatina, pero definitiva</s>
+<s docid="13OP010414_825364" num="15" wdcount="21"> Buena parte de la posterior obra político-poética de Paz será una suerte de duro diálogo consigo mismo, con su propia ingenuidad</s>
+<s docid="13OP010414_825364" num="16" wdcount="36"> Será una defensa a toda costa de la libertad, acompañada de una crítica despiadada —porque dotada de una visión muy aguda de su actualidad— a los sistemas de pensamiento que doblegaban, confinaban o mediatizaban esa libertad</s>
+<s docid="13OP010414_825364" num="17" wdcount="30"> Al mismo tiempo, y esto me parece particularmente relevante, Paz nunca dejó de acariciar las utopías, de escuchar fascinado sus cantos de sirena, aún a sabiendas de que no existen</s>
+<s docid="13OP010414_825364" num="18" wdcount="41"> Ejemplo de ello es su estudio-introducción sobre El Nuevo Mundo Amoroso de Charles Fourier, el delirante utopista francés, que imagina una suerte de socialismo corporativo, libertario, feminista y poliamoroso; un pensador que imaginaba, escandalosamente para Occidente, que el placer era bondadoso</s>
+<s docid="13OP010414_825364" num="19" wdcount="13"> Paz deshace a Fourier y, al mismo tiempo, no puede esconder su encanto</s>
+<s docid="13OP010414_825364" num="20" wdcount="61"> Sabe, a diferencia del francés, que el ser humano no es naturalmente bueno y que la sociedad tiende a ser represiva, pero encuentra en él un puente para refrendar el hallazgo de vasos comunicantes de sus intereses: la relación entre poesía y lenguaje, que en Paz es similar a la que hay entre erotismo y sexualidad o entre libertad y democracia</s>
+<s docid="13OP010414_825364" num="21" wdcount="7"> Las primeras son siempre las formas superiores</s>
+<s docid="13OP010414_825364" num="22" wdcount="20"> Poesía y erotismo son formas de búsqueda de la libertad en sociedad, porque son búsqueda del otro, de lo otro</s>
+<s docid="13OP010414_825364" num="23" wdcount="30"> El amor implica ir en pos del “más allá erótico” y significa, a su vez, ir en pos de la libertad, pero ya no la propia, sino la del otro</s>
+<s docid="13OP010414_825364" num="24" wdcount="24"> En ese sentido, Paz entiende la libertad como algo que no es y no puede ser estrictamente individual, sino resultado de una relación social</s>
+<s docid="13OP010414_825364" num="25" wdcount="29"> Y el erotismo, como algo que se da en la búsqueda de otredad, en la “sed de otredad” (que, por otra parte, también nos explica mucho de las religiones)</s>
+<s docid="13OP010414_825364" num="26" wdcount="8"> Libertad, poesía y erotismo se funden en Paz</s>
+<s docid="13OP010414_825364" num="27" wdcount="8"> Son los ejes, creo yo, de su cosmovisión</s>
+<s docid="13OP010414_825364" num="28" wdcount="28"> Una visión completa, cumplida y totalizante, que se convierte —en el paso de los años— en una visión que pretende ser hegemónica en la vida cultural de México</s>
+<s docid="13OP010414_825364" num="29" wdcount="18"> En esa visión con pretensiones de hegemonía, Paz realiza una crítica severa al sistema político y cultural mexicano</s>
+<s docid="13OP010414_825364" num="30" wdcount="57"> Lo primero que hace es intentar explicarse, en su ensayo más famoso, el por qué de las especificidades nacionales (que alejan a México de cualquier encuadre analítico liberal o marxista); después desmenuza las coyunturas, que siempre desembocan en el mito incumplido de la Revolución, en la estructura autoritaria y en el uso político de la ideología nacionalista</s>
+<s docid="13OP010414_825364" num="31" wdcount="21"> Estas críticas —y su rechazo al liberalismo capitalista de corte democristiano— hacen de Paz un outlier en el mundo político mexicano</s>
+<s docid="13OP010414_825364" num="32" wdcount="36"> Alejado del catolicismo de Acción Nacional, crítico de la ideología y el sistema priistas, peleado con las izquierdas, aun con las que se decían democráticas, el poeta mantuvo una actitud desafiante, fragorosa, y a veces pontificante</s>
+<s docid="13OP010414_825364" num="33" wdcount="4"> Fue un polemista constante</s>
+<s docid="13OP010414_825364" num="34" wdcount="26"> A estas alturas, está claro que, en sus polémicas más relevantes, las que sostuvo contra la izquierda, la historia le dio la razón a Octavio Paz</s>
+<s docid="13OP010414_825364" num="35" wdcount="45"> Pero suele interesadamente olvidarse que Paz no estaba en un bando de la guerra fría, que criticaba con su acostumbrada ferocidad al capitalismo salvaje que se imponía con el disfraz de liberalismo y que preveía ya una “gangrena moral” en las sociedades que lo sucederían</s>
+<s docid="13OP010414_825364" num="36" wdcount="37"> Hoy, salvo algunos despistados que veneran a Paz “sólo por su poesía” (como si estuviera desconectada de todo lo demás), el intelectual fallecido hace ya 16 años es objeto de homenajes de parte de tirios y troyanos</s>
+<s docid="13OP010414_825364" num="37" wdcount="15"> Estoy seguro de que le hubiera encantado verlos, porque así es esto de la vanidad</s>
+<s docid="13OP010414_825364" num="38" wdcount="11"> Pero esos homenajes no le van a quitar nunca lo incómodo</s>
+<s docid="13OP010414_825364" num="39" wdcount="6"> Porque la inteligencia suele ser incómoda</s>
+<s docid="13OP010414_825364" num="40" wdcount="3"> fabaez@gmail.com www.panchobaez.blogspot.com twitter</s>
+<s docid="13OP010414_825364" num="41" wdcount="1"> @franciscobaezr </s>
+
+</TEXT>
+
+</DOC>

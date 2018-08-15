@@ -1,0 +1,53 @@
+<DOC>
+
+<DOCNO>
+<s docid="16OP020414_825502" num="1" wdcount="1"> 825502 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="16OP020414_825502" num="2" wdcount="1">16OP020414_825502</s>
+</FILEID>
+
+<HEAD>
+<s docid="16OP020414_825502" num="3" wdcount="4"> De cochineros a cochineros </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="16OP020414_825502" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="16OP020414_825502" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="16OP020414_825502" num="6" wdcount="26"> Conforme pasan los días y avanzan las investigaciones sobre el fraude que representa la Línea 12 del Metro, comienzan a vislumbrarse nombres de los posibles responsables</s>
+<s docid="16OP020414_825502" num="7" wdcount="30"> La Contraloría Interna trabaja a marchas forzadas y, al mismo tiempo, con pies de plomo para no cometer errores, determinar bien a los culpables y proceder conforme marca el reglamento</s>
+<s docid="16OP020414_825502" num="8" wdcount="36"> Su titular Hiram Almeida ha sido cauto en sus declaraciones al respecto, esperó a tener todos los pelos de la burra en la mano, y entonces sí proceder legal, mediática y hasta penalmente si es necesario</s>
+<s docid="16OP020414_825502" num="9" wdcount="44"> No obstante, con lo declarado por la Secretaría de la Función Pública es evidente que el secretario de Finanzas en el 2008, Mario Delgado, es responsable, por lo menos de omisión, al no vigilar la aplicación de los recursos etiquetados que mandó la federación</s>
+<s docid="16OP020414_825502" num="10" wdcount="50"> Otros de los personajes que seguramente cargarán con la mayor parte de la culpabilidad y quienes tienen un negro panorama enfrente son Enrique Horcasitas, ex director del Proyecto Metro, y José Pascual Santoyo, cuyo nombre no se ha mencionado y era el director de administración de Contratos del Proyecto Metro</s>
+<s docid="16OP020414_825502" num="11" wdcount="36"> Ellos hicieron y deshicieron con la asignación de los contratos y pagos de los mismos, muchos de ellos con el aval o el mandato de Mario Delgado, hoy flamante senador y que goza de fuero constitucional</s>
+<s docid="16OP020414_825502" num="12" wdcount="39"> También están los representantes de la constructora ICA, quienes han sido los más reacios a aceptar su responsabilidad y, por el contrario, cuestionado todas y cada una de las propuestas de las autoridades para echar a andar este proyecto</s>
+<s docid="16OP020414_825502" num="13" wdcount="12"> Podríamos hablar de Ricardo Moscoso Mora, quien compareció en la Asamblea Legislativa</s>
+<s docid="16OP020414_825502" num="14" wdcount="33"> Es de recordar la demanda que sostiene ICA contra el GDF por más de cinco mil millones de pesos por las obras que realizó fuera de contrato y que no se le reconocen</s>
+<s docid="16OP020414_825502" num="15" wdcount="18"> Esta querella se encuentra en la congeladora y su futuro dependerá de lo que resulte de las investigaciones</s>
+<s docid="16OP020414_825502" num="16" wdcount="26"> Si a ICA lo inhabilitan para concursar en la administración pública local, téngalo por seguro que sí procederán, pero de lo contrario no pasará a mayores</s>
+<s docid="16OP020414_825502" num="17" wdcount="37"> También están todas las empresas que cobraron una millonada por la supuesta certificación de la Línea Dorada, que mañana comparecen en la Asamblea, y que dieron un certificado más balín que los que hacen en Santo Domingo</s>
+<s docid="16OP020414_825502" num="18" wdcount="22"> Para ello, la Contraloría contrató ya una empresa externa que va a evaluar el trabajo que realizaron como el de las constructoras</s>
+<s docid="16OP020414_825502" num="19" wdcount="9"> Como se puede avizorar las cosas van para largo</s>
+<s docid="16OP020414_825502" num="20" wdcount="1"> COYOACÁN</s>
+<s docid="16OP020414_825502" num="21" wdcount="14"> Aquí es donde se da el otro cochinero o guerra sucia, como quieran llamarle</s>
+<s docid="16OP020414_825502" num="22" wdcount="44"> Los panistas están que trinan de coraje por un panfleto que andan distribuyendo en el que señalan a la diputada Laura Ballesteros como jefa de las autodefensas y junto con la imagen de su compañera Priscila Vera se lee la leyenda de “Se buscan”</s>
+<s docid="16OP020414_825502" num="23" wdcount="20"> Las legisladoras acusan de toda esta campaña al delegado Mauricio Toledo y por lo pronto ya presentaron una denuncia penal</s>
+<s docid="16OP020414_825502" num="24" wdcount="16"> Pero eso no es todo, adelantan que ahora sí llevarán toda su artillería en su contra</s>
+<s docid="16OP020414_825502" num="25" wdcount="9"> No cabe duda que ya es un tiro cantado</s>
+<s docid="16OP020414_825502" num="26" wdcount="1"> FESTEJOS</s>
+<s docid="16OP020414_825502" num="27" wdcount="25"> El que anda de plácemes es el presidente del Tribunal Electoral del Distrito Federal, Alejandro Delint, con la celebración del XV aniversario de la institución</s>
+<s docid="16OP020414_825502" num="28" wdcount="38"> Las cosas le han salido bien con los foros organizados en los que se destaca la necesidad de tener órganos electorales fuertes y autónomos, además de que contó con el respaldo del jefe de gobierno, Miguel Ángel Mancera</s>
+<s docid="16OP020414_825502" num="29" wdcount="1"> Joelruiz71@yahoo.com.mx </s>
+
+
+</TEXT>
+
+</DOC>

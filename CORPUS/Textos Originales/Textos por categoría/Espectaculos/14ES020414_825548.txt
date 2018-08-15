@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="14ES020414_825548" num="1" wdcount="1"> 825548 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="14ES020414_825548" num="2" wdcount="1">14ES020414_825548</s>
+</FILEID>
+
+<HEAD>
+<s docid="14ES020414_825548" num="3" wdcount="6"> Los Rolling Stones superan el luto </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="14ES020414_825548" num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="14ES020414_825548" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="14ES020414_825548" num="6" wdcount="45"> Ayer Los Rolling Stones anunciaron que reanudarán su gira mundial titulada 14 On Fire, a finales de mayo en Europa, esto después de las suspensiones de conciertos por la muerte de la estadunidense L’Wren Scott, novia del vocalista y líder de la banda, Mick Jagger</s>
+<s docid="14ES020414_825548" num="7" wdcount="55"> La gira mundial de los llamados abuelos del rock comenzará el 26 de mayo en Oslo, Noruega, y tiene previstas un total de 14 presentaciones musicales en Europa hasta julio, incluida su participación en España, el 25 de junio en el Estadio Santiago Bernabéu de Madrid, así lo indica la página oficial del grupo británico</s>
+<s docid="14ES020414_825548" num="8" wdcount="46"> La banda aplazó siete conciertos previstos entre el 19 de marzo y el 5 de abril en Australia y Nueva Zelanda, mismos que todavía no han sido reprogramados, y sobre los que los organizadores afirmaron que “hacemos todo lo posible” por fijar en octubre y noviembre</s>
+<s docid="14ES020414_825548" num="9" wdcount="37"> El inesperado suicidio el pasado 17 de marzo de la diseñadora y novia de Jagger en Nueva York les obligó a interrumpir su tour mundial tras el último concierto celebrado el pasado 15 de marzo en Singapur</s>
+<s docid="14ES020414_825548" num="10" wdcount="43"> Entre las citas anunciadas en la web oficial se encuentran las actuaciones del 13 de junio en París; el 29 de mayo en el X festival lisboeta Rock in Rio-Lisboa; y el 7 de junio en el festival Pinkpop Festival de Landgraaf, Holanda</s>
+<s docid="14ES020414_825548" num="11" wdcount="34"> Además, hay previstas otras visitas a ciudades europeas como Berlín, el día 10 de junio; en Düsseldorf, Alemania, el 19; en Roma el 22, y en Werchter, Bélgica, el 28 de ese mismo mes</s>
+<s docid="14ES020414_825548" num="12" wdcount="51"> Se espera que la venta de entradas vuelva a batir récords, tal y como sucedió con el Pinkpop Festival de Holanda, para el que se agotaron todas las entradas en tan solo 30 minutos, o en el Werchter Classic Festival de Bélgica, que vendió todas sus entradas en apenas una hora.</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+
+<DOCNO>
+<s docid="07SO030414_825850" num="1" wdcount="1"> 825850 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="07SO030414_825850" num="2" wdcount="1">07SO030414_825850</s>
+</FILEID>
+
+<HEAD>
+<s docid="07SO030414_825850" num="3" wdcount="8"> Las autoridades turcas levantan el bloqueo a Twitter </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="07SO030414_825850" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="07SO030414_825850" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="07SO030414_825850" num="6" wdcount="40"> El acceso a la red social Twitter en Turquía quedó desbloqueado hoy sobre las 15.00 GMT poco después de que el Boletín Oficial del Estado publicará la sentencia que declaró ilegal el cierre, dictada el miércoles por el Tribunal Constitucional</s>
+<s docid="07SO030414_825850" num="7" wdcount="45"> La Dirección de Telecomunicaciones de Turquía retiró hoy de su página web la advertencia de bloqueo, vigente desde el pasado 20 de marzo, cuando el Gobierno ordenó el cierre de esta red, en la que se han filtrado acusaciones de corrupción que afectan al Ejecutivo</s>
+<s docid="07SO030414_825850" num="8" wdcount="37"> El presidente turco, Abdullah Gül, ya había pedido anoche que la decisión judicial se ejecutará lo antes posible y también solicitó que se levantara el bloqueo al portal de intercambio de vídeos Youtube, informa el diario "Radikal"</s>
+<s docid="07SO030414_825850" num="9" wdcount="36"> Gül se ha manifestado en todo momento contrario al bloqueo, incluso mediante mensajes enviados a través de su cuenta en Twitter, a la que el acceso ha seguido siendo posible mediante herramientas informáticas de navegación anónima</s>
+<s docid="07SO030414_825850" num="10" wdcount="42"> En una nota enviada a la prensa el sábado pasado, la oficina del primer ministro justificó el cierre de Youtube y de otros medios sociales con el argumento de que servían para difundir información obtenida mediante el espionaje a altos cargos turcos</s>
+
+
+</TEXT>
+
+</DOC>

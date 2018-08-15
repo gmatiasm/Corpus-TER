@@ -1,0 +1,52 @@
+<DOC>
+
+<DOCNO>
+<s docid="19DE030414_825785" num="1" wdcount="1"> 825785 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="19DE030414_825785" num="2" wdcount="1">19DE030414_825785</s>
+</FILEID>
+
+<HEAD>
+<s docid="19DE030414_825785" num="3" wdcount="5"> Un Tri de dos caras </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="19DE030414_825785" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="19DE030414_825785" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="19DE030414_825785" num="6" wdcount="27"> Después de un primer tiempo para el olvido, la Selección Mexicana pudo rescatar el empate 2-2 ante Estados Unidos en partido amistoso, en la Universidad de Phoenix</s>
+<s docid="19DE030414_825785" num="7" wdcount="23"> Los goles del encuentro fueron obra de Michael Bradley al 15’ y Chris Wondolowski por el equipo de las barras y las estrellas</s>
+<s docid="19DE030414_825785" num="8" wdcount="15"> Por México anotaron Rafael Márquez al 50’ y Alan Pulido al 67’ para la igualada</s>
+<s docid="19DE030414_825785" num="9" wdcount="31"> El técnico nacional mandó de inicio a los dos elementos de Cruz Azul, Marco Fabián y Rogelio Chávez, para observarlos, después del buen torneo que han tenido en el Clausura 2014</s>
+<s docid="19DE030414_825785" num="10" wdcount="68"> A los 15’, el cuadro local abrió el marcador, luego de un tiro de esquina cobrado Graham Zusi -quien por cierto fue el autor del gol ante Costa Rica, con el que México pudo ir a la repesca mundialista- el esférico paso de largo sin que la defensa despejara el peligro, y Michael Bradley le ganó la marca a Jesús Zavala, para anotar con marco abierto el 1-0</s>
+<s docid="19DE030414_825785" num="11" wdcount="24"> Dos minutos después, Alan Pulido recibió un servicio al espacio pero Matt Besler se barrió a tiempo, para destruir la opción del delantero mexicano</s>
+<s docid="19DE030414_825785" num="12" wdcount="24"> Clint Dempsey recibió el balón dentro del área y metió disparo que tapó bien Rafael Márquez e impidió el segundo tanto de Estados Unidos</s>
+<s docid="19DE030414_825785" num="13" wdcount="27"> Miguel Layún apareció por el costado izquierdo a los 23’, recortó a Brad Davis y sacó disparo que se fue por encima el arco de Nick Rimando</s>
+<s docid="19DE030414_825785" num="14" wdcount="19"> México fue superado en el terreno de juego y en el marcador tras la primera media hora de juego</s>
+<s docid="19DE030414_825785" num="15" wdcount="45"> El segundo tanto de los estadunidenses llegó a los 27’, tras un centro por la derecha que remató Bradley, el portero Moisés Muñoz se amarró en la salida, y Juan Carlos Valenzuela fue rebasado por Chris Wondolowski para mandar el esférico adentro de la portería</s>
+<s docid="19DE030414_825785" num="16" wdcount="19"> El tricolor no reaccionó ante la adversidad, no generó ninguna llegada de peligro sobre la puerta de Nick Rimando</s>
+<s docid="19DE030414_825785" num="17" wdcount="50"> Para la segunda parte, el técnico Miguel Herrera trató de ajustar a su equipo y mandó al terreno de juego a Raúl Alonso Jiménez, Juan Carlos Medina y el portero Alfredo Talavera, y sacó a Calos Peña, Jesús Zavala y Moisés Muñoz, para darle otra cara a la escuadra mexicana</s>
+<s docid="19DE030414_825785" num="18" wdcount="39"> El representativo mexicano logró acercarse en el marcador a los 50’, en un tiro de esquina, Rafael Márquez entró solo para meter un cabezazo y poner el 2-1, aprovechando que Raúl Jiménez y Alan Pulido, le jalaron la marca</s>
+<s docid="19DE030414_825785" num="19" wdcount="28"> Miguel Layún probó suerte de nuevo al meter un disparo desde fuera del área buscando el ángulo, pero el balón se fue desviado del arco de los locales</s>
+<s docid="19DE030414_825785" num="20" wdcount="24"> Con las modificaciones el tricolor se veía mejor en el terreno de juego, y se empezó a jugar en la cancha de los estadunidenses</s>
+<s docid="19DE030414_825785" num="21" wdcount="21"> Por lo que de inmediato el estratega Jürgen Klinsmann realizó movimientos para recuperar el control del balón en el medio campo</s>
+<s docid="19DE030414_825785" num="22" wdcount="24"> Raúl Jiménez a los 60’ metió un tiro de larga distancia que exigió al arquero Nick Rimando, quien rechazó al recostar a su derecha</s>
+<s docid="19DE030414_825785" num="23" wdcount="29"> México seguía tocando la puerta, en un tiro de esquina que cobró raso Luis Montes, Michael Bradley estuvo cerca de mandar el balón al fondo de su propio arco</s>
+<s docid="19DE030414_825785" num="24" wdcount="60"> Los cambios del Piojo Herrera le funcionaron, Luis Montes se agregó por la banda derecha y sacó servicio para Paul Aguilar quien de media vuelta metió disparo que se estrelló en la base del poste, pero el rebote le quedó a Alan Pulido, quien mandó el balón al fondo de la red, para poner el empate 2-2 a los 67’</s>
+<s docid="19DE030414_825785" num="25" wdcount="24"> La igualada fue un duro golpe para el equipo de las barras y las estrellas, que se veía desconcertado en el terreno de juego</s>
+<s docid="19DE030414_825785" num="26" wdcount="33"> A los 76’, apareció el arquero Alfredo Talavera para cortar un arribo de Clint Dempsey, quien se hizo espacio con una jugada de fantasía, pero se topó con la oportuna salida del guardameta</s>
+<s docid="19DE030414_825785" num="27" wdcount="19"> Todavía al 85’, Miguel Ponce metió un disparo con la pierna derecha que se fue por encima del travesaño</s>
+<s docid="19DE030414_825785" num="28" wdcount="17"> En la última del encuentro, Raúl Jiménez sacó un disparo demasiado cruzado del poste de Nick Rimando.</s>
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,42 @@
+<DOC>
+
+<DOCNO>
+<s docid="02CU010414_825270" num="1" wdcount="1"> 825270 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="02CU010414_825270" num="2" wdcount="1">02CU010414_82527</s>
+</FILEID>
+
+<HEAD>
+<s docid="02CU010414_825270" num="3" wdcount="13"> La palabra poética en voz alta rinde homenaje a Paz en Bellas Artes </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="02CU010414_825270" num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="02CU010414_825270" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="02CU010414_825270" num="6" wdcount="52"> Con el recital Poetas del mundo y Octavio Paz, ocho poetas de distintas lenguas y nacionalidades rindieron homenaje al Nobel de Literatura 1990, a través de lecturas de sus poemas como “Un pasado en claro”, “Conversar” o “Entre irse y quedarse”, así como de versos escritos por cada uno de los invitados</s>
+<s docid="02CU010414_825270" num="7" wdcount="72"> El domingo pasado el escenario de la Sala Principal del Palacio de Bellas Artes adquirió personalidad a través de sillones rojos vintage, con lámparas del estilo, para acoger las palabras de los Nobel de Literatura Wole Soyinka y Derek Walcott, y los poetas Eduardo Lizalde, Homero Aridjis, Valerio Magrelli, Ida Vitale, Lasse Soderberg y Charles Simic, cuyas voces llegaron ante cientos de espectadores que se reunieron para escuchar las obras de Paz</s>
+<s docid="02CU010414_825270" num="8" wdcount="37"> Previamente al recital, la sala guardó un minuto de silencio en memoria de Helena Paz Garro, hija única del matrimonio entre el poeta y la escritora Elena Garro, fallecida ese mismo día por la mañana en Cuernavaca</s>
+<s docid="02CU010414_825270" num="9" wdcount="33"> Luego, el escritor nigeriano Soyinka leyó con la voz enérgica que lo caracteriza sus poemas “Una visión de la paz” y “El viaje”, para concluir con “Como quien oye llover”, de Octavio Paz</s>
+<s docid="02CU010414_825270" num="10" wdcount="11"> David Huerta fue el encargado de leer estos poemas en español</s>
+<s docid="02CU010414_825270" num="11" wdcount="43"> Eduardo Lizalde leyó sus poemas “Tercera Tenochtitlan” y “Algaida”, para finalizar con el poema de Paz, “Pasado en claro”, tras el cual tocó turno al italiano Valeriao Magrelli de leer “Abrazo” y “La Cuerva” para terminar con “Si toda irá bien”, del homenajeado</s>
+<s docid="02CU010414_825270" num="12" wdcount="5"> Fabio Morabito leyó en español</s>
+<s docid="02CU010414_825270" num="13" wdcount="20"> Luego vinieron las lecturas de la uruguaya Ida Vitale: “Nuevas obligaciones” para seguir con “Entre irse y quedarse”, de Paz</s>
+<s docid="02CU010414_825270" num="14" wdcount="17"> Y continuó el sueco Lasse Soderberg con “Cara a cara”, “El esqueleto” y de Paz “El otro”</s>
+<s docid="02CU010414_825270" num="15" wdcount="6"> En español leyó Pura López Colomé</s>
+<s docid="02CU010414_825270" num="16" wdcount="14"> Homero Aridjis recitó “Moctezuma y los tamemes”, “En tiempos de violencia” y “El Movimiento”</s>
+<s docid="02CU010414_825270" num="17" wdcount="36"> Charles Simic leyó “Shelley”, “Cuando leo libro de historia” y de Octavio Paz “Decidir: Hacer”, para cerrar con la aparición, en silla de ruedas, del Nobel de Literatura Derek Walcott, con “Islas” y “Juncos de mar”</s>
+<s docid="02CU010414_825270" num="18" wdcount="23"> El cierre del recital estuvo a cargo de un video en el que el mismo Octavio Paz recitó su poema “Piedra de sol”.</s>
+
+</TEXT>
+
+</DOC>

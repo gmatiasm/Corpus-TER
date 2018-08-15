@@ -1,0 +1,35 @@
+
+
+<DOCNO>
+<s docid="16CU020414_825635"num="1" wdcount="1"> 825635 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="16CU020414_825635"num="2" wdcount="1">16CU020414_825635</s>
+</FILEID>
+
+<HEAD>
+<s docid="16CU020414_825635"num="3" wdcount="11"> Descubren un mosaico bizantino en un monasterio del desierto del Néguev </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="16CU020414_825635"num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="16CU020414_825635"num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="16CU020414_825635" num="6" wdcount="37"> Un mosaico del período bizantino fechado en el siglo VI ha sido hallado entre los restos de un monasterio a la entrada de una aldea beduina situada en el desierto del Néguev, en el sur de Israel</s>
+<s docid="16CU020414_825635" num="7" wdcount="42"> El mosaico, descubierto por la Autoridad de Antigüedades de Israel descubrió, está salpicado con "excepcionales" colores y formaba parte de un monasterio que tenía una extensión de 35 metros de largo por 20 de ancho, según un comunicado oficial de ese organismo</s>
+<s docid="16CU020414_825635" num="8" wdcount="33"> La Autoridad de Antigüedades había trabajado en la zona próxima a la población de Hura durante un mes antes de descubrir los restos del mosaico, que contiene tanto diseños comunes como singulares ilustraciones</s>
+<s docid="16CU020414_825635" num="9" wdcount="58"> El monasterio contaba en su interior con cuatro salas, incluidos un refectorio y un oratorio, La sala de oraciones está decorada con colores asociados tradicionalmente al cristianismo como el rojo y el azul, y también se encontraron piedras amarillas y verdes que resultan más excepcionales y que no han sido vistas antes en ruinas halladas en el país</s>
+<s docid="16CU020414_825635" num="10" wdcount="40"> Como particularidad, se identificaron varias formas de cruces dibujadas en el suelo contrarias a una prohibición ejercida a través de un edicto imperial que no permitía incluir cruces en los suelos de mosaico para evitar que la gente las pisara</s>
+<s docid="16CU020414_825635" num="11" wdcount="27"> A principios de este año otro mosaico parte de un monasterio perteneciente al mismo periodo pero de menores dimensiones fue encontrado en la región suroeste de Jerusalén</s>
+
+</TEXT>
+
+</DOC>

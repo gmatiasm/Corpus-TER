@@ -1,0 +1,36 @@
+<DOC>
+
+<DOCNO>
+<s docid="02NA010414_825320" num="1" wdcount="1"> 825320 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="02NA010414_825320" num="2" wdcount="1">02NA010414_825320</s>
+</FILEID>
+
+<HEAD>
+<s docid="02NA010414_825320" num="3" wdcount="10"> Presenta Corte protocolo para garantizar impartición de justicia a discapacitados </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="02NA010414_825320" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="02NA010414_825320" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="02NA010414_825320" num="6" wdcount="65"> El presidente de la Suprema Corte de Justicia de la Nación (SCJN), Juan Silva Meza, presentó ayer el “Protocolo de actuación para quienes imparten justicia en casos que involucren derechos de personas con discapacidad”, que incidirá, dijo, en la implementación de medidas que garanticen de manera progresiva que los órganos de impartición de justicia cuenten con personal debidamente “sensibilizado y entrenado en materia de discapacidad”</s>
+<s docid="02NA010414_825320" num="7" wdcount="29"> Sostuvo que “es un imperativo de equidad alcanzar el reconocimiento efectivo de la capacidad jurídica de las personas con discapacidad, a quienes tradicionalmente se les han desconocido sus derechos</s>
+<s docid="02NA010414_825320" num="8" wdcount="54"> Resaltó que la Suprema Corte confía en que este protocolo coadyuve a modificar una cultura jurídica que tradicionalmente ha desconocido a las personas con discapacidad y les ha negado el ejercicio de derechos por ellas mismas, entre los que se encuentran, destacadamente, los derechos a participar en la toma de decisiones que les afectan”</s>
+<s docid="02NA010414_825320" num="9" wdcount="59"> El ministro presidente explicó que el protocolo cuenta con un apartado central que aborda los principios rectores para cualquier caso que involucre a una persona con discapacidad, además de una sección que retoma sentencias y buenas prácticas en la materia para proporcionar ejemplos asequibles de protección de los derechos de este grupo social, desarrollados por tribunales internacionales y regionales</s>
+<s docid="02NA010414_825320" num="10" wdcount="39"> Silva Meza dijo que la aplicación de las normas, principios y prácticas contenidas en el protocolo representa una oportunidad para garantizar la vigencia de los derechos de las personas con discapacidad por parte del Poder Judicial de la Federación</s>
+<s docid="02NA010414_825320" num="11" wdcount="50"> Destacó que las acciones afirmativas que pueden adoptarse desde el Poder Judicial implican actitudes proactivas dirigidas a generar consecuencias diversas y benéficas, entre ellas, facilitar a los juzgadores el conocimiento de primera mano de las necesidades y el entorno de vida de las personas con discapacidad y sus condiciones específicas</s>
+
+
+</TEXT>
+
+</DOC>

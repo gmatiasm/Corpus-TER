@@ -1,0 +1,58 @@
+<DOC>
+
+<DOCNO>
+<s docid="05OP010414_825309" num="1" wdcount="1"> 825309 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="05OP010414_825309" num="2" wdcount="1">05OP010414_825309</s>
+</FILEID>
+
+<HEAD>
+<s docid="05OP010414_825309" num="3" wdcount="7"> La fiesta de la que nos autoexcluimos </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="05OP010414_825309" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="05OP010414_825309" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="05OP010414_825309" num="6" wdcount="3"> SAO PAULO, Brasil</s>
+<s docid="05OP010414_825309" num="7" wdcount="13"> Si identificamos a Brasil con la fiesta, el día de hoy pudimos comprobarlo</s>
+<s docid="05OP010414_825309" num="8" wdcount="60"> Rodeado de los principales directivos de 14 aerolíneas, el gerente general de TAM, Marco Bologna, firmó el protocolo de incorporación de la principal aerolínea de Brasil a la alianza de aerolíneas One World, donde al mismo tiempo se anunciaba que US Airways pasa a formar parte de este gran conglomerado y en fechas próximas también lo hará la aerolínea SriLankan</s>
+<s docid="05OP010414_825309" num="9" wdcount="39"> Con la llegada de estas aerolíneas, One World se posiciona como la principal alianza en Estados Unidos y en América Latina, al tiempo que se muestra como la red más interesante en cuanto a unir a los cinco continentes</s>
+<s docid="05OP010414_825309" num="10" wdcount="31"> De hoy en adelante, One World servirá a casi 1,000 aeropuertos en 150 países, tendrá 14,250 salidas diarias y transportará 500 millones de pasajeros al año en alrededor de 3,300 aeronaves</s>
+<s docid="05OP010414_825309" num="11" wdcount="35"> Estas sinergias generarán 140 mil millones de dólares de ingresos anuales para las empresas miembro, las cuales ofrecerán 600 salones VIP en los aeropuertos que sirven, muchos de ellos considerados entre los mejores del mundo</s>
+<s docid="05OP010414_825309" num="12" wdcount="70"> One World tendrá, así, un tercio de los pasajeros transportados en la aviación comercial y, si se mira bien su mapa de aliados, esta alianza global ha logrado posicionarse en los lugares más estratégicos: La integración inicia en los Estados Unidos, en donde American Airlines (aerolínea fundadora) suma a US Airways, con lo cual la nueva American se convierte en la principal aerolínea estadunidense y la más grande del mundo</s>
+<s docid="05OP010414_825309" num="13" wdcount="19"> Juntas darán servicio a 330 destinos en más de 50 países y transportarán 190 millones de pasajeros por año</s>
+<s docid="05OP010414_825309" num="14" wdcount="30"> Hacia el sur, One World añade a Lan Chile con sus filiales en Argentina, Colombia, Ecuador y Perú y ahora a TAM de Brasil y en breve TAM de Paraguay</s>
+<s docid="05OP010414_825309" num="15" wdcount="21"> Hacia Europa, esta alianza incluye nada menos que a British Airways, Iberia, Airberlin, la finlandesa Finnair y la rusa S7 airlines</s>
+<s docid="05OP010414_825309" num="16" wdcount="22"> El medio oriente está representado por Qatar (la única aerolínea del Golfo Pérsico que está en una alianza global) más Royal Jordanian</s>
+<s docid="05OP010414_825309" num="17" wdcount="16"> En Asia se incluyen Malaysian Airlines, próximamente SriLankan, Cathay Pacific en Hong Kong y Japan Airlines</s>
+<s docid="05OP010414_825309" num="18" wdcount="11"> Finalmente, como cerecita del pastel, se encuentra Qantas, la aerolínea australiana</s>
+<s docid="05OP010414_825309" num="19" wdcount="30"> Es decir, esta alianza incluye a las principales regiones y sus potencialidades, en esta nueva geopolítica de la integración comercial, de negocios y turismo en donde destaca la ausencia de…</s>
+<s docid="05OP010414_825309" num="20" wdcount="1"> ¡claro! </s>
+<s docid="05OP010414_825309" num="21" wdcount="3"> Mexicana de Aviación</s>
+<s docid="05OP010414_825309" num="22" wdcount="59"> Como se recordará, hace años Mexicana decidió dejar su participación en Star Alliance, de la que fue miembro fundador, y unirse a One World, merced a los acuerdos que inició con American Arlines e Iberia con esa proverbial visión que tuvieron sus directores, en este caso Fernando Flores, antes de que el huracán Gastón devastara a nuestra aerolínea emblemática</s>
+<s docid="05OP010414_825309" num="23" wdcount="25"> Es cierto que el “hubiera” es un verbo inexistente, pero, retomando las lecciones de los economistas estilo Fisher y Dornbush, existe el “costo de oportunidad”</s>
+<s docid="05OP010414_825309" num="24" wdcount="40"> En este caso, nuestro costo ha sido no tener por lo pronto un candidato a pertenecer a este club que se disputa el mundo con las otras dos alianzas, Sky Team a la que ya pertenece Aeroméxico, y Star Alliance</s>
+<s docid="05OP010414_825309" num="25" wdcount="17"> ¿Cuánto tiempo nos tomará como país volver a estar en posibilidades de jugar en estas grandes ligas? </s>
+<s docid="05OP010414_825309" num="26" wdcount="47"> Como dijo Bologna, gerente general de TAM, esta alianza, la One World, representa la primera alineación del sector y esta vez no hubo manera de que México se incluyera en el grupo, ni siquiera en la repesca, para alinear en esta gran fiesta de la aviación global</s>
+<s docid="05OP010414_825309" num="27" wdcount="24"> Es cierto que la aviación doméstica se ha recuperado, pero apenas alcanza un poco más (3.5 por ciento) de lo que teníamos en 2008</s>
+<s docid="05OP010414_825309" num="28" wdcount="47"> La flota comercial que en julio de 2010 era de 273 aeronaves, hoy apenas añadió 6 aviones más y el problema se agudizó hacia el exterior, porque en términos reales hay una reducción de 7.2 puntos porcentuales en la participación de nuestras aerolíneas en el mercado externo</s>
+<s docid="05OP010414_825309" num="29" wdcount="43"> Según las cifras de ALTA, entre 2008 y 2013 la región de América Latina creció a tasas superiores al 6 por ciento, lo que significa que México tiene un déficit acumulado de 18 por ciento en comparación con el resto de la región</s>
+<s docid="05OP010414_825309" num="30" wdcount="50"> Urge mucho que México regrese a competir como los grandes, como estábamos acostumbrados antes de que tuviéramos un gobierno irresponsable que pensaba que estar ausente del concierto internacional de la aviación era un “asunto entre particulares”, como dijo el ex secretario Molinar en su momento para dejar languidecer a Mexicana</s>
+<s docid="05OP010414_825309" num="31" wdcount="37"> Y en el mapa de grandes hubs de aeropuertos, donde se inscriben Madrid, Londres, Hong Kong, Los Ángeles y Sao Paulo, hace falta la ciudad de México con un aeropuerto que esté a la altura del reto</s>
+<s docid="05OP010414_825309" num="32" wdcount="45"> Para lograr la recuperación nos hace falta una política de Estado y jugar nuestras cartas con sabiduría: una empresa que compita necesita personal con experiencia y alta especialización; nuestra aviación necesita de estrategia y de institucionalización; nuestro país necesita tomarse en serio sus ventajas competitivas</s>
+<s docid="05OP010414_825309" num="33" wdcount="32"> Lo oí en 123.45: Además: se debe investigar y hacer justicia en el caso de Mexicana de Aviación: anular las irregularidades, castigar a los responsables y resarcirle a los trabajadores su patrimonio</s>
+<s docid="05OP010414_825309" num="34" wdcount="1"> raviles_2@prodigy.net.mx </s>
+
+
+</TEXT>
+
+</DOC>

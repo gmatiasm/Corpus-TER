@@ -1,0 +1,44 @@
+<DOC>
+
+<DOCNO>
+<s docid="18MU030414_825902" num="1" wdcount="1"> 825902 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="18MU030414_825902" num="2" wdcount="1">18MU030414_825902</s>
+</FILEID>
+
+<HEAD>
+<s docid="18MU030414_825902" num="3" wdcount="12"> En estado crítico tres de los heridos en tiroteo en Fuerte Hood </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="18MU030414_825902" num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="18MU030414_825902" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="18MU030414_825902" num="6" wdcount="34"> Tres de los 16 lesionados en el tiroteo registrado la víspera en el Fuerte Hood, Texas, en el que murieron también cuatro personas, incluido el atacante, permanecían hoy en estrado crítico, informaron fuentes hospitalarias</s>
+<s docid="18MU030414_825902" num="7" wdcount="40"> Los tres pacientes presentan lesiones en columna vertebral, el cuello y el abdomen, y permanecen con respiración artificial en el Hospital Scott & White Memorial en Temple, cerca del Fuerte Hood, señaló el director de traumatología del nosocomiom, Matthew Davis</s>
+<s docid="18MU030414_825902" num="8" wdcount="24"> Asimismo, nueve militares -ocho hombres y una mujer- permanecen aún internados en el Hospital Scott & White, pero sus identidades no han sido reveladas</s>
+<s docid="18MU030414_825902" num="9" wdcount="28"> Dos de los pacientes se encuentran en condiciones estables y otros cuatro están en buen estado, por lo que podrían ser dados de alta este jueves, dijo Davis</s>
+<s docid="18MU030414_825902" num="10" wdcount="15"> Otros de los lesionados están siendo atendidos en el Centro Médico del Ejército Carl R</s>
+<s docid="18MU030414_825902" num="11" wdcount="6"> Darnall, ubicado dentro del Fuerte Hood</s>
+<s docid="18MU030414_825902" num="12" wdcount="11"> Los detalles sobre sus condiciones no han sido dados a conocer</s>
+<s docid="18MU030414_825902" num="13" wdcount="42"> El atacante, el soldado de origen puertorriqueño Iván López, de 34 años y quien conducía un camión del ejército, abrió fuego la tarde del miércoles en el Fuerte Hood matando a tres personas, antes de suicidarse mientras se enfrentaba a la policía</s>
+<s docid="18MU030414_825902" num="14" wdcount="21"> López estaba siendo evaluado para determinar si padecía del trastorno de estrés post-traumático y era tratado por depresión, revelaron las autoridades</s>
+<s docid="18MU030414_825902" num="15" wdcount="19"> El atacante estaba casado y vivía en un departamento en la comunidad de Killeen, cerca de la base castrense</s>
+<s docid="18MU030414_825902" num="16" wdcount="16"> Los investigadores están revisando el pasado del militar puertorriqueño y registraron su casa durante la noche</s>
+<s docid="18MU030414_825902" num="17" wdcount="23"> Las autoridades castrenses desconocen aún el motivo y consideran poco probable que la masacre se haya debido a un posible acto de terrorismo</s>
+<s docid="18MU030414_825902" num="18" wdcount="28"> “Hay informes iniciales de que pudo haber habido una discusión en una de las áreas de la unidad”, reveló el comandante general del Fuerte Hood, general Marcos Milley</s>
+<s docid="18MU030414_825902" num="19" wdcount="29"> El funcionario militar precisó que López cometió el atentado utilizando su propia arma, una pistola semiautomática Smith & Wesson calibre 45, que compró después de llegar al Fuerte Hood</s>
+<s docid="18MU030414_825902" num="20" wdcount="9"> “Esta arma no estaba registrada en la base”, añadió</s>
+
+</TEXT>
+
+</DOC>

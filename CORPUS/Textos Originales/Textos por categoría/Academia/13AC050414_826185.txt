@@ -1,0 +1,54 @@
+<DOC>
+
+<DOCNO>
+<s docid="13AC050414_826185" num="1" wdcount="1"> 826185 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="13AC050414_826185" num="2" wdcount="1">13AC050414_826185</s>
+</FILEID>
+
+<HEAD>
+<s docid="13AC050414_826185" num="3" wdcount="10"> Hallan evidencia de gran océano subterráneo en la luna Encelado </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="13AC050414_826185" num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="13AC050414_826185" num="5" wdcount="1"> 2014-04-05 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="13AC050414_826185" num="6" wdcount="43"> La nave espacial Cassini y la Red de Espacio Profundo de la NASA descubrieron evidencias de que la luna Encelado, de Saturno, alberga un gran océano subterráneo de agua, fomentando el interés científico en este satélite como un hogar potencial de microbios extraterrestres</s>
+<s docid="13AC050414_826185" num="7" wdcount="30"> En 2005, los investigadores teorizaron la presencia de un depósito interior de agua, cuando Cassini halló vapor de agua y hielo emanando de los respiraderos cerca de su polo sur</s>
+<s docid="13AC050414_826185" num="8" wdcount="29"> Los nuevos datos proporcionan las primeras mediciones geofísicas de la estructura interna de Encelado, en consonancia con la existencia de un océano oculto en el interior de la luna</s>
+<s docid="13AC050414_826185" num="9" wdcount="12"> Los resultados de las mediciones se publican ayer en la revista Science</s>
+<s docid="13AC050414_826185" num="10" wdcount="52"> “La forma en que calculamos variaciones de la gravedad es un concepto en la física llamado efecto Doppler, el mismo principio se utiliza con una pistola de radar para la medición de la velocidad”, dijo Sami Asmar, del Laboratorio de Propulsión a Chorro de la NASA en Pasadena, California, coautor del artículo</s>
+<s docid="13AC050414_826185" num="11" wdcount="24"> “A medida que la nave espacial vuela por Encelado, su velocidad es perturbada por variaciones en el campo gravitacional que estamos tratando de medir</s>
+<s docid="13AC050414_826185" num="12" wdcount="31"> Vemos el cambio en la velocidad como un cambio en la frecuencia de radio, recibida en nuestras estaciones de Tierra tras recorrer todo el camino a través del sistema solar”, explicó</s>
+<s docid="13AC050414_826185" num="13" wdcount="2"> UN OCÉANO</s>
+<s docid="13AC050414_826185" num="14" wdcount="30"> Las mediciones de gravedad sugieren un océano grande, posiblemente regional, de unos 10 kilómetros de profundidad, debajo de una capa de hielo de aproximadamente 30 a 40 kilómetros de espesor</s>
+<s docid="13AC050414_826185" num="15" wdcount="24"> La evidencia de este océano subsuperficial apoya la inclusión de Encelado entre los lugares más probables en nuestro sistema solar para albergar vida microbiana</s>
+<s docid="13AC050414_826185" num="16" wdcount="39"> “Esto proporciona entonces una historia posible para explicar por qué el agua está brotando de estas fracturas que vemos en el polo sur “, dijo David Stevenson, del Instituto de Tecnología de Pasadena, uno de los co-autores del artículo</s>
+<s docid="13AC050414_826185" num="17" wdcount="7"> Cassini voló cerca de Encélado 19 veces</s>
+<s docid="13AC050414_826185" num="18" wdcount="13"> Tres sobrevuelos , de 2010 a 2012, produjeron mediciones precisas de la trayectoria </s>
+<s docid="13AC050414_826185" num="19" wdcount="18"> El tirón gravitatorio de un cuerpo planetario como Encelado altera la trayectoria de vuelo de una nave espacial</s>
+<s docid="13AC050414_826185" num="20" wdcount="32"> La técnica de análisis de una señal de radio entre Cassini y la red de espacio profundo puede detectar cambios en la velocidad tan pequeños como menos de 30 centímetros por hora</s>
+<s docid="13AC050414_826185" num="21" wdcount="30"> Con esta precisión, los datos del sobrevuelo dieron pruebas de una zona en el interior del extremo sur de la luna con una mayor densidad que otras partes del interior</s>
+<s docid="13AC050414_826185" num="22" wdcount="50"> “Las mediciones de la gravedad de la Cassini muestran una anomalía de gravedad negativa en el polo sur, que no es tan grande como se esperaba de la profunda depresión detectada por la cámara a bordo”, dijo el autor principal del artículo, Luciano Less de la Universidad Sapienza de Roma</s>
+<s docid="13AC050414_826185" num="23" wdcount="34"> “De ahí la conclusión de que debe ser un material más denso en profundidad que compensa la masa perdida: agua líquida muy probablemente, que es un siete por ciento más densa que el hielo</s>
+<s docid="13AC050414_826185" num="24" wdcount="14"> La magnitud de la anomalía nos dio el tamaño del depósito de agua”, explicó</s>
+<s docid="13AC050414_826185" num="25" wdcount="26"> No hay certeza de que el océano subterráneo genere el penacho de agua pulverizado por las fracturas de la superficie cerca del polo sur de Encelado</s>
+<s docid="13AC050414_826185" num="26" wdcount="10"> Sin embargo, los científicos razonan que es una posibilidad real</s>
+<s docid="13AC050414_826185" num="27" wdcount="35"> “El material de los chorros del polo sur de Encelado contiene agua salada y moléculas orgánicas , los componentes químicos básicos para la vida “, dijo Linda Spilker, científico del proyecto Cassini en el JPL</s>
+<s docid="13AC050414_826185" num="28" wdcount="22"> “Su descubrimiento amplió nuestra visión de la zona habitable dentro de nuestro sistema solar y en los sistemas planetarios de otras estrellas</s>
+<s docid="13AC050414_826185" num="29" wdcount="20"> Esta nueva validación de que un océano de agua subyace en los chorros fomenta la comprensión sobre este ambiente intrigante”.</s>
+
+
+</TEXT>
+
+</DOC>

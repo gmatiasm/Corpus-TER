@@ -1,0 +1,119 @@
+<DOC>
+
+<DOCNO>
+<s docid="11ES010414_825461" num="1" wdcount="1"> 825461 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="11ES010414_825461" num="2" wdcount="1">11ES010414_825461</s>
+</FILEID>
+
+<HEAD>
+<s docid="11ES010414_825461" num="3" wdcount="8"> El universo está en manos de un niño </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="11ES010414_825461" num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="11ES010414_825461" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="11ES010414_825461" num="6" wdcount="34"> A partir del 7 de abril, llega la primera serie original de la red de dibujos animados creada por una mujer: Rebecca Sugar, quien se inspiróen su hermano para crear el personaje de Steven</s>
+<s docid="11ES010414_825461" num="7" wdcount="10"> Steven no es muy listo y tampoco es tan poderoso</s>
+<s docid="11ES010414_825461" num="8" wdcount="8"> Es encantador, pero también algo despistado e inexperto</s>
+<s docid="11ES010414_825461" num="9" wdcount="17"> Si no es el centro de la atención, pronto encuentra la forma de que todos lo miren</s>
+<s docid="11ES010414_825461" num="10" wdcount="35"> A pesar de todo eso, y si el universo está en peligro, se convertirá en el héroe más enérgico y positivo dispuesto a salvar a la humanidad usando el arma más poderosa que pueda existir: </s>
+<s docid="11ES010414_825461" num="11" wdcount="2"> ¡su ombligo! </s>
+<s docid="11ES010414_825461" num="12" wdcount="22"> A partir del lunes 7 de abril, a las 08:00pm, Cartoon Network presenta el estreno de su nuevo show original steven universe</s>
+<s docid="11ES010414_825461" num="13" wdcount="20"> Steven es el hermano menor de un equipo de mágicas guardianas de la humanidad, que se hacen llamar Crystal Gems</s>
+<s docid="11ES010414_825461" num="14" wdcount="14"> Lo cierto es que él no es tan fuerte como ellas, ni tan astuto</s>
+<s docid="11ES010414_825461" num="15" wdcount="17"> Es probable que no tenga el menor control sobre los poderes mágicos que salen de su ombligo..</s>
+<s docid="11ES010414_825461" num="16" wdcount="28"> pero eso no le impide unirse a Garnet, Amatista y Perla en sus aventuras mágicas, en las que Steven siempre encuentra una manera sorprendente de arreglar las cosas</s>
+<s docid="11ES010414_825461" num="17" wdcount="38"> En cada episodio, Steven se enreda en alguna desventura cómica, ya sea porque sus excentricidades humanas arruinan una misión mágica de las Gemas o porque la magia de las Gemas se estrella contra el costado humano de Steven</s>
+<s docid="11ES010414_825461" num="18" wdcount="13"> Pero no importa de qué problema se trate, Steven siempre encuentra la solución</s>
+<s docid="11ES010414_825461" num="19" wdcount="14"> Su inocente visión del mundo le permite encontrar maneras únicas de resolver los problemas</s>
+<s docid="11ES010414_825461" num="20" wdcount="6"> Claro que puede fracasar alguna vez</s>
+<s docid="11ES010414_825461" num="21" wdcount="22"> De vez en cuando, algo puede volar por los aires, pero es imposible enojarse con un chico como Steven por mucho tiempo</s>
+<s docid="11ES010414_825461" num="22" wdcount="5"> ¿Quiénes son las Crystal Gems? </s>
+<s docid="11ES010414_825461" num="23" wdcount="27"> Antiguamente, en la Tierra habitaban los seres humanos junto a una gran variedad de Gemas, unos seres mágicos con poderes asombrosos y más potentes que los humanos</s>
+<s docid="11ES010414_825461" num="24" wdcount="18"> Las únicas Gemas que hoy quedan son las Crystal Gems: Garnet, Amatista, Perla, más el miembro más joven, </s>
+<s docid="11ES010414_825461" num="25" wdcount="1"> ¡Steven! </s>
+<s docid="11ES010414_825461" num="26" wdcount="23"> Autoproclamadas protectoras de la humanidad, las Gemas van hasta los confines del mundo, a sitios remotos que aún quedan de la Era Mágica</s>
+<s docid="11ES010414_825461" num="27" wdcount="21"> Exploran templos y mazmorras, buscan artefactos mágicos y combaten a monstruos para recuperar las piedras que están ocultas en esos lugares</s>
+<s docid="11ES010414_825461" num="28" wdcount="27"> Todo eso es parte de la continua misión de las Crystal Gems de impedir que el mundo mágico ponga en peligro al mundo de los seres humanos</s>
+<s docid="11ES010414_825461" num="29" wdcount="3"> ¿Dónde vive Steven? </s>
+<s docid="11ES010414_825461" num="30" wdcount="18"> Steven vive en Beach City, un pueblo soñoliento en Delmarva, Estados Unidos, construido alrededor de una pequeña rambla</s>
+<s docid="11ES010414_825461" num="31" wdcount="30"> Está habitado por los Residentes, seres humanos comunes y corrientes que no entienden mucho a las Crystal Gems ni se enteran de que muchas veces ellas les salvan el pellejo</s>
+<s docid="11ES010414_825461" num="32" wdcount="28"> Por su parte, Garnet, Perla y Amatista tampoco los comprenden mucho en sus complejidades humanas, pero Steven es amigo de todos y suele lograr que todos se entiendan</s>
+<s docid="11ES010414_825461" num="33" wdcount="35"> Algunas de las tiendas que hay son Seaside Fries, cuyos dueños son Fryman y sus hijos, Peedee y Ronaldo, y Funland, un salón de juegos y parque de diversiones regenteado por el siempre sonriente Sr.Smiley</s>
+<s docid="11ES010414_825461" num="34" wdcount="31"> También hay otras tiendas en el pueblo que a Steven le encanta frecuentar, como Big Donut y Fish Stew Pizza, una pizzería al estilo de Ghana que atiende la familia Pizza</s>
+<s docid="11ES010414_825461" num="35" wdcount="10"> Ninguno de esos establecimientos tiene demasiado trabajo fuera de temporada</s>
+<s docid="11ES010414_825461" num="36" wdcount="15"> Beach City es un poco decadente y burdo, pero a Steven le encanta vivir allí</s>
+<s docid="11ES010414_825461" num="37" wdcount="18"> Al final de la playa está el enorme y antiguo templo donde vive Steven con las Crystal Gems</s>
+<s docid="11ES010414_825461" num="38" wdcount="15"> Cada una de las Gemas puede abrir una puerta mágica para entrar en su santuario</s>
+<s docid="11ES010414_825461" num="39" wdcount="12"> Steven no puede entrar solo al templo porque no controla sus poderes</s>
+<s docid="11ES010414_825461" num="40" wdcount="19"> Por eso vive en la extensión que Greg y las Crystal Gems construyeron para él al lado del templo</s>
+<s docid="11ES010414_825461" num="41" wdcount="4"> Descripción de los personajes</s>
+<s docid="11ES010414_825461" num="42" wdcount="6"> · Steven: es el típico hermano menor</s>
+<s docid="11ES010414_825461" num="43" wdcount="6"> Torpe, lleno de energía y positivo</s>
+<s docid="11ES010414_825461" num="44" wdcount="17"> Puede mostrar entusiasmo por una estatua mágica como por una mochila con forma de hamburguesa con queso</s>
+<s docid="11ES010414_825461" num="45" wdcount="14"> Le encanta inventar juegos, comer papas fritas quemadas y ser el centro de atención</s>
+<s docid="11ES010414_825461" num="46" wdcount="27"> Si no lo es por un segundo siquiera, se pone a contar chistes, a cantar canciones con el ukelele y a hacer payasadas hasta recuperar su protagonismo</s>
+<s docid="11ES010414_825461" num="47" wdcount="7"> Steven es mitad mágico y mitad humano</s>
+<s docid="11ES010414_825461" num="48" wdcount="28"> Su madre, Rose-Quartz, era una Crystal Gem, pero se enamoró de un aspirante a músico llamado Greg Universe y renunció a su forma física para tener un bebé: </s>
+<s docid="11ES010414_825461" num="49" wdcount="1"> ¡Steven! </s>
+<s docid="11ES010414_825461" num="50" wdcount="14"> Él heredó la gema Rose-Quartz de su madre y la tiene en el ombligo</s>
+<s docid="11ES010414_825461" num="51" wdcount="10"> Pero aún no sabe muy bien cómo usar su poder</s>
+<s docid="11ES010414_825461" num="52" wdcount="22"> Las Gemas hacen lo posible por ayudarlo a perfeccionar sus poderes y lo llevan a sus misiones especiales cuando no es peligroso</s>
+<s docid="11ES010414_825461" num="53" wdcount="9"> · Garnet: es la Gema más seria del grupo</s>
+<s docid="11ES010414_825461" num="54" wdcount="20"> Es una guerrera fuerte y disciplinada que siempre aborda las cosas en forma tan sensata y directa que causa gracia</s>
+<s docid="11ES010414_825461" num="55" wdcount="18"> Pone la misma intensidad en luchar contra un monstruo que en jugar un partido de paddle con Steven</s>
+<s docid="11ES010414_825461" num="56" wdcount="11"> Es de pocas palabras y es la más distante del equipo</s>
+<s docid="11ES010414_825461" num="57" wdcount="17"> Se queda imperturbable ante las bromas de Steven, y a él eso lo pone incómodo y nervioso</s>
+<s docid="11ES010414_825461" num="58" wdcount="11"> Garnet es la misteriosa y poderosa líder de las Crystal Gems</s>
+<s docid="11ES010414_825461" num="59" wdcount="18"> Sus armas son dos manoplas que conjura de las gemas que tiene en las palmas de las manos</s>
+<s docid="11ES010414_825461" num="60" wdcount="18"> Se entrenó para usar su destreza con máxima eficiencia, y aprovecha su increíble fuerza física y su pericia</s>
+<s docid="11ES010414_825461" num="61" wdcount="10"> Garnet es como una madre estricta, pero cariñosa para Steven</s>
+<s docid="11ES010414_825461" num="62" wdcount="14"> Muchas veces también tiene que dedicarse a detener pequeñas riñas entre Amatista y Perla</s>
+<s docid="11ES010414_825461" num="63" wdcount="13"> Garnet nunca habla por hablar y, por eso, cuando habla, todos la escuchan</s>
+<s docid="11ES010414_825461" num="64" wdcount="16"> · Perla: es la perfecta perfeccionista que le pone límite a las inocentes bufonerías de Steven</s>
+<s docid="11ES010414_825461" num="65" wdcount="19"> Le gustan las cosas formales, estructuradas y lógicas, y se fastidia enseguida cuando algo no sale según sus planes</s>
+<s docid="11ES010414_825461" num="66" wdcount="15"> Y, en general, ese algo es Steven… muchas veces con una rosquilla en la boca</s>
+<s docid="11ES010414_825461" num="67" wdcount="9"> De las Crystal Gems, Perla es la estratega intelectual</s>
+<s docid="11ES010414_825461" num="68" wdcount="22"> Su arma es una lanza que conjura de la gema que tiene en la frente y que ella blande con increíble precisión</s>
+<s docid="11ES010414_825461" num="69" wdcount="9"> Cuando arroja su lanza, siempre da en el blanco</s>
+<s docid="11ES010414_825461" num="70" wdcount="21"> Perla es el cerebro del equipo, y sus vastos conocimientos hacen quesea la Gema perfecta para explicarle la magia a Steven</s>
+<s docid="11ES010414_825461" num="71" wdcount="26"> Ella es como la hermana mayor sobreprotectora de Steven: siempre trata de cuidarlo de los peligros para los que ella cree que él no está preparado</s>
+<s docid="11ES010414_825461" num="72" wdcount="18"> Además, se considera la maestra perfecta para Steven, solo que él dista mucho de ser el alumno perfecto</s>
+<s docid="11ES010414_825461" num="73" wdcount="15"> Su torpeza y su habilidad para resolver problemas “de la manera incorrecta” la dejan perpleja</s>
+<s docid="11ES010414_825461" num="74" wdcount="18"> Perla es mandona a veces, pero en realidad sólo quiere proteger a Steven y ser un buen ejemplo</s>
+<s docid="11ES010414_825461" num="75" wdcount="11"> · Amatista: es la salvaje e imprevisible de las Crystal Gems</s>
+<s docid="11ES010414_825461" num="76" wdcount="17"> Adora instigar bromas pesadas y hacer payasadas, incluso frente al peligro, pero sobre todo frente a Perla</s>
+<s docid="11ES010414_825461" num="77" wdcount="11"> Espontánea y libre, Amatista no suele preocuparse mucho por los demás</s>
+<s docid="11ES010414_825461" num="78" wdcount="19"> Como consecuencia, siempre hay algún desprevenido como Steven que acaba en el radio de la explosión de sus locuras</s>
+<s docid="11ES010414_825461" num="79" wdcount="15"> Su arma es un látigo que conjura de la gema que tiene en el pecho</s>
+<s docid="11ES010414_825461" num="80" wdcount="17"> Confía más en su intuición y en su espíritu que en su destreza o en su inteligencia</s>
+<s docid="11ES010414_825461" num="81" wdcount="22"> Le gusta jugarles bromas a Steven y a las Gemas transformándose en un gato travieso o en una oficial de policía violeta</s>
+<s docid="11ES010414_825461" num="82" wdcount="9"> Para Amatista, Steven es una fuente inagotable de entretenimiento</s>
+<s docid="11ES010414_825461" num="83" wdcount="9"> Le encanta armar alboroto con él e intercambiar bromas</s>
+<s docid="11ES010414_825461" num="84" wdcount="17"> El comportamiento de Amatista les resulta infantil a Perla y a Garnet, pero a Steven le encanta</s>
+<s docid="11ES010414_825461" num="85" wdcount="18"> Amatista quiere a Steven tanto como las demás Crystal Gems, solo que no es tan buena para demostrarlo</s>
+<s docid="11ES010414_825461" num="86" wdcount="17"> · Greg Universe: en sus años mozos, cuando tenía cabello en toda la cabeza, Greg era músico</s>
+<s docid="11ES010414_825461" num="87" wdcount="13"> Se la pasaba de gira por todo el país, aunque con poco éxito</s>
+<s docid="11ES010414_825461" num="88" wdcount="13"> Cuando pasó por Beach City, nadie fue a ver su espectáculo, salvo Rose-Quartz</s>
+<s docid="11ES010414_825461" num="89" wdcount="14"> Greg canceló la gira y se quedó en Beach City para estar con ella</s>
+<s docid="11ES010414_825461" num="90" wdcount="25"> Ahora Greg tiene un lavadero de autos llamado It’s a Wash y vive en su camioneta, igual que en sus días de músico de rock</s>
+<s docid="11ES010414_825461" num="91" wdcount="16"> Está a la vuelta del Templo, donde vive y se entrena Steven con las Crystal Gems</s>
+<s docid="11ES010414_825461" num="92" wdcount="17"> A ellas les cae bien Greg, pero no les resulta fácil comprender sus modos desaliñados y humanos</s>
+<s docid="11ES010414_825461" num="93" wdcount="7"> No entienden bien qué le vio Rose-Quartz</s>
+<s docid="11ES010414_825461" num="94" wdcount="15"> Pero Steven siempre defiende a su papá, porque él y Greg son los mejores amigos</s>
+
+
+</TEXT>
+
+</DOC>

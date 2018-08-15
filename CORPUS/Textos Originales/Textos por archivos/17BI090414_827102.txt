@@ -1,0 +1,46 @@
+<DOC>
+
+<DOCNO>
+<s docid="17BI090414_827102"num="1" wdcount="1"> 827102 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="17BI090414_827102"num="2" wdcount="1">17BI090414_827102</s>
+</FILEID>
+
+<HEAD>
+<s docid="17BI090414_827102"num="3" wdcount="9"> Cuando los niños sufren de intolerancia a la lactosa </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="17BI090414_827102"num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="17BI090414_827102"num="5" wdcount="1"> 2014-04-09 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="17BI090414_827102" num="6" wdcount="33"> Para muchos niños, tomar leche o algún producto lácteo significa dolor, incomodidad y muchas visitas al pediatra, y para sus padres un constante peregrinar entre una leche y otra sin encontrar una solución</s>
+<s docid="17BI090414_827102" num="7" wdcount="11"> Esto se debe principalmente a que son intolerantes a la lactosa</s>
+<s docid="17BI090414_827102" num="8" wdcount="52"> La intolerancia a la lactosa es causada por la incapacidad de digerir la lactosa, el principal azúcar de la leche y los productos lácteos, se presenta cuando el cuerpo produce poca cantidad de enzima lactasa, la cual es necesaria para dividir la lactosa en dos azúcares más pequeños llamados glucosa y galactosa</s>
+<s docid="17BI090414_827102" num="9" wdcount="71"> Cuando no hay suficiente lactasa en el cuerpo, la lactosa no se divide en el intestino delgado y pasa hacia el intestino grueso donde las bacterias la fermentan y la transforman en gases y ácidos, proceso que puede ocasionar dolor abdominal, gases y diarrea y hasta calambres, entre 30 minutos y 2 horas después de haber consumido cualquier alimento o bebida con lactosa y en ocasiones los síntomas pueden ser graves</s>
+<s docid="17BI090414_827102" num="10" wdcount="50"> El problema es que la leche sigue siendo el alimento ideal para el crecimiento y desarrollo de un niño sobre todo durante sus primeros años de vida, por lo que la solución no está en eliminarla de su dieta, sino en buscar opciones para que no le falte este alimento</s>
+<s docid="17BI090414_827102" num="11" wdcount="26"> Sin embargo ahora, la intolerancia a la lactosa se puede controlar, y se puede reducir el malestar estomacal, por medio de algunos cambios en la dieta</s>
+<s docid="17BI090414_827102" num="12" wdcount="15"> Si sospecha que su hijo sufre de intolerancia a la lactosa, comuníquese con su médico</s>
+<s docid="17BI090414_827102" num="13" wdcount="47"> NIDO®, líder en nutrición infantil con más de 60 años de experiencia, lanza al mercado NIDO® kínder deslactosado para niños de 1 a 3 años, siendo la primera y única leche en polvo especialmente creada para cubrir las necesidades nutricionales de los niños intolerantes a la lactosa</s>
+<s docid="17BI090414_827102" num="14" wdcount="30"> Cuando los niños alcanzan los primeros años de vida, hay ocasiones en que sus cuerpos producen menores cantidades de la enzima que desdobla la lactosa (azúcar natural de la leche)</s>
+<s docid="17BI090414_827102" num="15" wdcount="30"> Esta acción permite que este azúcar sea asimilado por el organismo; la alteración de este proceso provoca que el consumo de ciertos productos lácteos cause algunos problemas en su digestión</s>
+<s docid="17BI090414_827102" num="16" wdcount="85"> Hoy, las mamás mexicanas pueden dejar de preocuparse y sentirse seguras de que, a pesar de que sus pequeños tengan esta condición de intolerancia, podrán aportarles los mismos nutrimentos de siempre con la fórmula única de NIDO® Kinder Deslactosado, ya que además de evitar las molestias de la intolerancia a la lactosa, contiene las vitaminas, minerales y nutrimentos específicos que necesitan los pequeños de 1 a 3 años de edad durante su desarrollo, además de un delicioso sabor que sólo la marca Nido puede ofrecer</s>
+<s docid="17BI090414_827102" num="17" wdcount="30"> Con la nueva NIDO® Kinder Deslactosado, las mamás tendrán un producto pensado no sólo para satisfacer aspectos nutricionales, sino también para cubrir necesidades especiales del sistema digestivo de sus hijos</s>
+<s docid="17BI090414_827102" num="18" wdcount="28"> Además, contarán con la seguridad y respaldo de los Centros de Investigación de Nestlé así como su compromiso con la Nutrición, Salud y Bienestar de toda la familia</s>
+<s docid="17BI090414_827102" num="19" wdcount="80"> Y para que la pruebes, La Crónica online y NIDO® Kinder Deslactosado, te regalan un frasco de leche el polvo, que contiene lacdtobacillus protectus más preio 1 y una toalla de baño para niño, si nos dices tres motivos por los que los niños pequeños deben tomar leche diariamente y nos mandas tu correo a promocionescronica@yahoo.com.mx No olvides mandar tu nombre, dirección y teléfono, ya que si ganas, un representante de la Crónica podría llevar tu premio hasta tu hogar</s>
+<s docid="17BI090414_827102" num="20" wdcount="6"> (Promoción válida únicamente en el D.F</s>
+<s docid="17BI090414_827102" num="21" wdcount="11"> y con vigencia del 9 al 23 de abril de 2014) </s>
+
+
+</TEXT>
+
+</DOC>

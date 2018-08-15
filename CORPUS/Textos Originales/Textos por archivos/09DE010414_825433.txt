@@ -1,0 +1,35 @@
+
+
+<DOCNO>
+<s docid="09DE010414_825433" num="1" wdcount="1"> 825433 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="09DE010414_825433" num="2" wdcount="1">09DE010414_825433</s>
+</FILEID>
+
+<HEAD>
+<s docid="09DE010414_825433" num="3" wdcount="9"> Chivas despide a José Luis Real y busca técnico </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="09DE010414_825433" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="09DE010414_825433" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="09DE010414_825433" num="6" wdcount="39"> La directiva de Chivas de Guadalajara informó este martes el término de la relación laboral con el técnico José Luis Real, como consecuencia de la derrota por 4-0 ante América el pasado domingo en la cancha del estadio Omnilife</s>
+<s docid="09DE010414_825433" num="7" wdcount="32"> “Club Deportivo Guadalajara informa que a partir de este día José Luis Real Casillas ha dejado el cargo de director técnico del primer equipo de Chivas”, dice el comunicado de la institución</s>
+<s docid="09DE010414_825433" num="8" wdcount="40"> El presidente deportivo, Juan Manuel Herrero, y el director deportivo, Juan Francisco Palencia, analizan a los candidatos para elegir al nuevo entrenador, y ya se habla de Ricardo La Volpe como el hombre que se hará cargo del “Rebaño sagrado”</s>
+<s docid="09DE010414_825433" num="9" wdcount="53"> José Luis Real fue contratado para sacar a Chivas de una larga crisis de resultados negativos, pero la derrota del domingo en casa ante el acérrimo rival dejó muy molesto al dueño Jorge Vergara, quien de inmediato pidió a Herrero y Palencia hacer un minucioso análisis hasta llegar a la decisión de hoy</s>
+<s docid="09DE010414_825433" num="10" wdcount="42"> Real dirigió esta vez al equipo en 13 encuentros, de los cuales ganó tres, empató cinco y perdió cuatro; su equipo anotó nueve goles y recibió 14 para 17 puntos en el lugar diez de la clasificación general del Torneo Clausura 2014</s>
+
+
+</TEXT>
+
+</DOC>

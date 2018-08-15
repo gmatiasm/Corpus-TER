@@ -1,0 +1,43 @@
+<DOC>
+
+<DOCNO>
+<s docid="18NA010414_825345" num="1" wdcount="1"> 825345 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="18NA010414_825345" num="2" wdcount="1">18NA010414_825345</s>
+</FILEID>
+
+<HEAD>
+<s docid="18NA010414_825345" num="3" wdcount="10"> Anuncia Eruviel cese de 4 mil policías que reprobaron exámenes </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="18NA010414_825345" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="18NA010414_825345" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="18NA010414_825345" num="6" wdcount="37"> El gobernador del Estado de México, Eruviel Ávila Villegas, anunció ayer que 4 mil elementos de las policías estatal y municipales que no aprobaron los exámenes de control de confianza correspondientes, serán dados de baja en breve</s>
+<s docid="18NA010414_825345" num="7" wdcount="54"> De igual modo, informó que la Secretaría de la Defensa Nacional instalará una base de operaciones en el municipio de Luvianos -uno de los más peligrosos en la entidad debido a la presencia de miembros del crimen organizado-, y quedarán instaladas 6 mil cámaras de seguridad en las zonas de mayor riesgo del estado</s>
+<s docid="18NA010414_825345" num="8" wdcount="40"> Todo ello, explicó el mandatario mexiquense, como parte de la estrategia integral y conjunta para reforzar la seguridad en el Estado de México, puesta en marcha desde el sábado junto con el gobierno federal, aunque anunciada oficialmente hasta ayer lunes</s>
+<s docid="18NA010414_825345" num="9" wdcount="35"> “Si todos asumimos la parte que nos corresponde y la competencia que tenemos por ley, juntos y unidos habremos de combatir con eficacia a los verdaderos enemigos de la sociedad, que es la delincuencia”, señaló</s>
+<s docid="18NA010414_825345" num="10" wdcount="40"> Dio a conocer que ayer mismo renunció la secretaria de Seguridad Ciudadana del Estado de México, Rocío Alonso, y designó en su lugar a Damián Canales Mena, quien goza de un amplio conocimiento territorial en el Valle de México, subrayó</s>
+<s docid="18NA010414_825345" num="11" wdcount="53"> En un mensaje conjunto con el secretario de Gobernación, Miguel Ángel Osorio Chong, el mandatario mexiquense ofreció al responsable de la política interior del país “todo el respaldo, todo el apoyo, toda la fuerza del gobierno estatal para que pueda usted entregar las mejores cuentas a la entidad más poblada del país”, dijo</s>
+<s docid="18NA010414_825345" num="12" wdcount="33"> Puso a disposición de la Secretaría de Marina un terreno de 80 hectáreas para que la dependencia federal instale ahí la Unidad de Fuerzas Especiales y el Centro de Tratamiento de dichas fuerzas</s>
+<s docid="18NA010414_825345" num="13" wdcount="39"> Eruviel Ávila anunció cinco acciones concretas con las que su gobierno apoyará el plan estratégico de seguridad: Fortalecimiento en el proceso de depuración de los cuerpos policiacos estatales y municipales, para que los mexiquenses tengan una policía más confiable</s>
+<s docid="18NA010414_825345" num="14" wdcount="28"> En este punto, anunció que en breve, y en una primera etapa, serán dados de baja 4 mil policías que no pasaron los exámenes de control de confianza</s>
+<s docid="18NA010414_825345" num="15" wdcount="38"> Habrá una reestructuración de la operatividad de los cuerpos policiacos para que sean más eficaces en su trabajo, así como el robustecimiento del equipo de inteligencia y tecnológico, que incluye la colocación de 6 mil cámaras de vigilancia</s>
+<s docid="18NA010414_825345" num="16" wdcount="37"> Se establecerá un nuevo modelo de policía estatal, a través de la creación de la Universidad de Seguridad Ciudadana, y en su primera etapa formará a 2 mil policías de elite que estarán “muy bien pagados”, dijo</s>
+<s docid="18NA010414_825345" num="17" wdcount="26"> Se lanzará una campaña de prevención y denuncia de delitos de alto impacto, donde la participación de los mexiquenses será fundamental para combatir a los delincuentes</s>
+<s docid="18NA010414_825345" num="18" wdcount="45"> Por último, se fortalecerán las acciones en materia de tejido social, a través de 73 programas sociales básicos en los que se invertirán más de 5 mil 400 millones de pesos para recuperar espacios públicos, educación para jóvenes, fomento al empleo y salud, entre otros</s>
+
+
+</TEXT>
+
+</DOC>

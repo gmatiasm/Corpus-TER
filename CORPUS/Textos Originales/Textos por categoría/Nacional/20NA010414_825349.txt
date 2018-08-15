@@ -1,0 +1,48 @@
+<DOC>
+
+<DOCNO>
+<s docid="20NA010414_825349" num="1" wdcount="1"> 825349 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="20NA010414_825349" num="2" wdcount="1">20NA010414_825349</s>
+</FILEID>
+
+<HEAD>
+<s docid="20NA010414_825349" num="3" wdcount="8"> Kike Plancarte cae abatido; Segob corrobora su identidad  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="20NA010414_825349" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="20NA010414_825349" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="20NA010414_825349" num="6" wdcount="40"> Enrique Kike Plancarte, uno de los principales líderes de Los Caballeros Templarios fue abatido ayer por elementos de la Marina Armada de México, durante un enfrentamiento registrado en la localidad de Colón, a 56 kilómetros de la ciudad de Querétaro</s>
+<s docid="20NA010414_825349" num="7" wdcount="44"> Hasta el cierre de esta edición las autoridades realizaban pruebas de laboratorio al cuerpo del presunto delincuente para corroborar su identidad, aunque fuentes del Gabinete de Seguridad Nacional confirmaron que se trata, en efecto, de uno de los delincuentes más buscados en el país</s>
+<s docid="20NA010414_825349" num="8" wdcount="34"> A las 22:07 horas la Secretaría de Gobernación, a través de su cuenta oficial en Twitter ?@SEGOB, informó que “se está verificando la identidad de Enrique Plancarte, presumiblemente abatido en un enfrentamiento con @SEMAR_mx</s>
+<s docid="20NA010414_825349" num="9" wdcount="3"> Mañana más información”</s>
+<s docid="20NA010414_825349" num="10" wdcount="56"> Plancarte Solís, de 43 años de edad —nació el 14 de septiembre de 1970—, fundó junto con Nazario Moreno El Chayo, y Servando Martínez La Tuta, el cartel de La Familia Michoacana, pero en 2011 desaparecen esa organización para crear en su lugar a Los Caballeros Templarios, una de las agrupaciones criminales más sanguinarias del país</s>
+<s docid="20NA010414_825349" num="11" wdcount="24"> Las autoridades no dieron mayores detalles del operativo en el que fue muerto Plancarte, así como tampoco si hay otras personas muertas o detenidas</s>
+<s docid="20NA010414_825349" num="12" wdcount="52"> La muerte de Kike Plancarte tiene lugar 21 después de que elementos también de la Marina abatieron a Nazario Moreno El Chayo, catalogado como el número uno en la organización criminal de Los Caballeros Templarios, quien había sido declarado muerto en diciembre de 2010 por el gobierno del entonces presidente Felipe Calderón</s>
+<s docid="20NA010414_825349" num="13" wdcount="48"> En México, Plancarte era buscado por los delitos de delincuencia organizada, homicidio, delitos contra la salud y portación de armas de uso exclusivo de las fuerzas federales, entre otros, y la PGR ofrecía 10 millones de pesos de recompensa a quien ofreciera datos que llevaran a su captura</s>
+<s docid="20NA010414_825349" num="14" wdcount="36"> Trascendió extraoficialmente que Plancarte fue ubicado ayer alrededor del mediodía cuando presenciaba un juego de futbol llanero en la localidad de Colón, donde se habría registrado el operativo para su captura, que derivó en su abatimiento</s>
+<s docid="20NA010414_825349" num="15" wdcount="42"> La muerte del líder templario ocurrió en el segundo día de operativo implementado por la Marina en esta localidad del semidesierto queretano, en el que participan unos 150 elementos de la corporación y otros tantos del Ejército, Policía Federal, Ministerial y helicópteros</s>
+<s docid="20NA010414_825349" num="16" wdcount="59"> Semblanza En la lista negra de EU El gobierno de Estados Unidos consideraba a Enrique Plancarte Solís responsable del tráfico de drogas, especialmente ice, desde México hacia su territorio, y el Departamento del Tesoro lo incluyó en su lista negra y se aprestaba a integraran en la misma los nombres de sus hijos Melissa, Jazeth y Enrique Plancarte Jr</s>
+<s docid="20NA010414_825349" num="17" wdcount="35"> La administración norteamericana le atribuía el uso de recursos procedentes de la organización de Los Caballeros Templarios y por lo mismo se alistaba a anunciar que procedería en contra de quienes hicieran negocios con ellos</s>
+<s docid="20NA010414_825349" num="18" wdcount="30"> Kike Plancarte padre, de acuerdo con los anales policiacos, inició su negocio de materiales de construcción con recursos del narcotráfico, que le proporcionaba Nazario Moreno, el fundador de esa organización</s>
+<s docid="20NA010414_825349" num="19" wdcount="41"> El abatido delincuente se convirtió a la secta de Nazario Moreno y obtuvo financiamiento para su negocio que proveía de materiales de construcción al ayuntamiento de Nuevo Italia, a través de su cuñada Teresa Bustos, hermana de su esposa Nereyda Bustos</s>
+<s docid="20NA010414_825349" num="20" wdcount="32"> Y finalmente, por el grado de violencia con el que ejecutaba a sus adversarios que no compartían su fanatismo religioso, ascendió hasta ser un lugarteniente de la organización de La Familia Michoacana</s>
+<s docid="20NA010414_825349" num="21" wdcount="14"> En agosto de 2010, el gobierno de México le puso precio a su cabeza</s>
+<s docid="20NA010414_825349" num="22" wdcount="15"> Ofrecía una recompensa de 10 millones de pesos por informes que llevaran a su captura</s>
+<s docid="20NA010414_825349" num="23" wdcount="1"> (Redacción)</s>
+
+
+</TEXT>
+
+</DOC>

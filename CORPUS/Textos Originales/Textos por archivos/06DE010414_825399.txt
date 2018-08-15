@@ -1,0 +1,48 @@
+<DOC>
+
+<DOCNO>
+<s docid="06DE010414_825399" num="1" wdcount="1"> 825399 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="06DE010414_825399" num="2" wdcount="1">06DE010414_825399</s>
+</FILEID>
+
+<HEAD>
+<s docid="06DE010414_825399" num="3" wdcount="4"> Ronaldo está motivado: Ancelotti </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="06DE010414_825399" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="06DE010414_825399" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="06DE010414_825399" num="6" wdcount="36"> El técnico de Real Madrid, el italiano Carlo Ancelotti, destacó que el delantero portugués Cristiano Ronaldo llega motivado y tranquilo al duelo ante Borussia Dortmund, partido en el cual no deberán caer en excesos de confianza</s>
+<s docid="06DE010414_825399" num="7" wdcount="41"> El entrenador aseveró en rueda de prensa, previo a la “ida” de los cuartos de final de la Liga de Campeones en el estadio Santiago Bernabéu, que el jugador no da importancia a los abucheos recibidos el fin de semana pasado</s>
+<s docid="06DE010414_825399" num="8" wdcount="20"> "La rodilla de Cristiano está bien, también ha tenido una pequeña herida, pero está mejor que el partido del sábado</s>
+<s docid="06DE010414_825399" num="9" wdcount="10"> Está motivado, tranquilo, los pitos del sábado se han olvidado</s>
+<s docid="06DE010414_825399" num="10" wdcount="15"> No pasó un balón a otro jugador, esa es la explicación, no es otra cosa</s>
+<s docid="06DE010414_825399" num="11" wdcount="14"> Creo que Cristiano está haciendo lo máximo para el club y para todos”, dijo</s>
+<s docid="06DE010414_825399" num="12" wdcount="44"> De su rival en Champions, el mismo que eliminó a Real Madrid en semifinales el año pasado, explicó que es un equipo difícil, por lo que no deberán caer en excesos de confianza pese al invicto que mantiene el conjunto español en la competencia</s>
+<s docid="06DE010414_825399" num="13" wdcount="21"> "En cuartos están los mejores equipos y hay que prestar atención a cada partido, no va a ser fácil para nadie</s>
+<s docid="06DE010414_825399" num="14" wdcount="13"> Es un equipo compacto, defienden muy bien y tienen una transición muy peligrosa</s>
+<s docid="06DE010414_825399" num="15" wdcount="15"> Tenemos que poner nuestra calidad y habilidad para intentar buscar sobre todo arriba soluciones positivas”</s>
+<s docid="06DE010414_825399" num="16" wdcount="49"> El estratega también dio a conocer la lista de los jugadores convocados para enfrentar al Borussia Dortmund, la cual componen 19 futbolistas y donde está ausente el brasileño Marcelo, que sufrió una rotura de primer grado en los músculos isquiotibiales izquierdos y estará de baja como mínimo dos semanas</s>
+<s docid="06DE010414_825399" num="17" wdcount="15">“Tuvimos un problema con él ayer, pero podemos cubrir bien su ausencia con (Fabio) Coentrao</s>
+<s docid="06DE010414_825399" num="18" wdcount="4"> Está fresco, está bien</s>
+<s docid="06DE010414_825399" num="19" wdcount="5"> Lo vamos a reemplazar bien</s>
+<s docid="06DE010414_825399" num="20" wdcount="3"> No cambia nada</s>
+<s docid="06DE010414_825399" num="21" wdcount="6"> Tiene el mismo trabajo que Marcelo</s>
+<s docid="06DE010414_825399" num="22" wdcount="6"> Nada cambia con Coentrao ahora", manifestó</s>
+<s docid="06DE010414_825399" num="23" wdcount="33"> Los convocados son los porteros Iker Casillas, Diego López y Jesús Fernández; los defensas Sergio Ramos, el francés Raphael Varane, los portugueses Képler Laverán “Pepe” y Fabio Coentrao, Daniel Carvajal y Nacho Fernández</s>
+<s docid="06DE010414_825399" num="24" wdcount="33"> Completan la lista el galés Gareth Bale, Xabi Alonso, el brasileño Casemiro, el croata Luka Modric, el argentino Ángel di María, Isco, Asier Illarramendi, Álvaro Morata, el francés Karim Benzema y Cristiano Ronaldo.</s>
+
+</TEXT>
+
+</DOC>

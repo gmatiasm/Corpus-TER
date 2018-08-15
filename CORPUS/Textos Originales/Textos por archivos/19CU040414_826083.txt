@@ -1,0 +1,35 @@
+<DOC>
+
+<DOCNO>
+<s docid="19CU040414_826083"num="1" wdcount="1"> 826083 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="19CU040414_826083"num="2" wdcount="1">19CU040414_826083</s>
+</FILEID>
+
+<HEAD>
+<s docid="19CU040414_826083"num="3" wdcount="7"> Gabriel García Márquez amanece estable, reportan familiares  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="19CU040414_826083"num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="19CU040414_826083"num="5" wdcount="1"> 2014-04-04 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="19CU040414_826083" num="6" wdcount="31"> El escritor colombiano Gabriel García Márquez pasó una buena noche y amaneció hoy estable en el hospital donde está internado desde el lunes pasado, reportaron sus familiares en Ciudad de México</s>
+<s docid="19CU040414_826083" num="7" wdcount="32"> De acuerdo con declaraciones de familiares del Nobel de Literatura retomadas por una radioemisora local, pasó una “buena noche y continúa respondiendo a los medicamentos” que le suministran en el centro hospitalario</s>
+<s docid="19CU040414_826083" num="8" wdcount="32"> García Márquez ingresó al Instituto Nacional de Ciencias Médicas y Nutrición “Salvador Zubirán”, el 31 de marzo pasado, por un cuadro de deshidratación y un proceso infeccioso pulmonar y de vías urinarias</s>
+<s docid="19CU040414_826083" num="9" wdcount="33"> El escritor de “Cien Años de Soledad” y “Crónica de una muerte anunciada”, de 87 años de edad, es tratado con antibióticos en dicho hospital, ubicado en la capital mexicana, según informes oficiales</s>
+<s docid="19CU040414_826083" num="10" wdcount="32"> El estado de salud de García Márquez fue reseñada en los medios de comunicación de Colombia y en las redes sociales circulan miles de mensajes expresando sentimientos de solidaridad con el escritor.</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,36 @@
+<DOC>
+
+<DOCNO>
+<s docid="06CU010414_825276"num="1" wdcount="1"> 825276 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="06CU010414_825276"num="2" wdcount="1">06CU010414_825276</s>
+</FILEID>
+
+<HEAD>
+<s docid="06CU010414_825276"num="3" wdcount="13"> Recuerdan a Paz en La Habana con serie de lecturas en espacios públicos </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="06CU010414_825276"num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="06CU010414_825276"num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="06CU010414_825276" num="6" wdcount="26"> Instituciones culturales cubanas rindieron ayer homenajes a la obra del escritor Octavio Paz (1914-1998), Premio Nobel de literatura 1990, informó la estatal agencia de noticias AIN</s>
+<s docid="06CU010414_825276" num="7" wdcount="33"> Más allá de las evocaciones del mexicano de talla universal, destacaron las reuniones de poetas y narradores en parques y bibliotecas de La Habana, para “leer lo mejor de Paz”, señaló la fuente</s>
+<s docid="06CU010414_825276" num="8" wdcount="36"> En una de esas tertulias sobre el también Premio Cervantes 1981, cercana a la biblioteca “Centenario del Apostol (José Martí), se leyeron sus versos “Óyeme como quien oye llover”, “Deprecación” y “Antes del comienzo”, entre otros</s>
+<s docid="06CU010414_825276" num="9" wdcount="32"> Casa de las Américas publicó en fecha reciente el volumen “Valoración Múltiple” sobre la vida del también poeta y ensayista, y la pasada Feria Internacional del Libro Cuba 2014 le rindió homenaje</s>
+<s docid="06CU010414_825276" num="10" wdcount="30"> Intelectual mexicano, quien ejerció además como periodista y diplomático, es considerado en los más influyentes escritores del siglo XX y uno de los grandes poetas hispanos de todos los tiempos</s>
+<s docid="06CU010414_825276" num="11" wdcount="56"> Paz, quien nació el 31 de marzo de 1914 y murió el 19 de abril de 1998, renunció en 1968 a su cargo de embajador en la India en protesta por la matanza de Tlatelolco en octubre de ese año, pero también fue un firme crítico de violaciones a los derechos humanos de los gobiernos comunistas</s>
+<s docid="06CU010414_825276" num="12" wdcount="51"> A finales de la década de 1960 publicó en la revista “Siempre” un artículo en el que criticó el encarcelamiento del poeta cubano Heberto Padilla (1932-2000), autor del libro “Fuera de Juego”, que obtuvo en 1968 el Premio “Julián del Casal”, de la Unión de Escritores y Artistas de Cuba (UNEAC)</s>
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="16CI010414_825467" num="1" wdcount="1"> 825467 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="16CI010414_825467" num="2" wdcount="1">16CI010414_825467</s>
+</FILEID>
+
+<HEAD>
+<s docid="16CI010414_825467" num="3" wdcount="9"> Asamblea pide acciones contra discriminación en módulos de atención </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="16CI010414_825467" num="4" wdcount="1"> Ciudad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="16CI010414_825467" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="16CI010414_825467" num="6" wdcount="35"> La Asamblea Legislativa del Distrito Federal (ALDF) solicitó al Copred capitalino realizar en los 66 módulos de los diputados que integran la actual legislatura, labores de difusión y capacitación para prevenir y erradicar la discriminación</s>
+<s docid="16CI010414_825467" num="7" wdcount="47"> De igual manera, en la sesión de este día, el pleno legislativo acordó pedir al Consejo para Prevenir y Eliminar la Discriminación (Copred) que realice actividades para una mayor difusión y combate a la segregación en los Módulos de Atención, Orientación y Quejas Ciudadanas de la ALDF</s>
+<s docid="16CI010414_825467" num="8" wdcount="49"> Al presentar el punto de acuerdo, la diputada Dione Anguiano Flores, del Partido de la Revolución Democrática (PRD), indicó que según la Encuesta sobre Discriminación en la Ciudad de México 2013, en el Distrito Federal el nivel promedio se ubica en 7.2, de una escala del cero a 10</s>
+<s docid="16CI010414_825467" num="9" wdcount="29"> Por ello, demandó acciones para erradicar ese fenómeno que “implica prácticas culturales, conductas aprendidas y normalizadas, difusión de prejuicios e ideas preconcebidas que no son fácilmente aceptadas e identificables”</s>
+<s docid="16CI010414_825467" num="10" wdcount="37"> De ahí la necesidad de aplicar un instrumento que dé cuenta de las percepciones y prácticas que se relacionan con la discriminación en todas sus formas en la ciudad de México, aseveró la integrante de la ALDF</s>
+<s docid="16CI010414_825467" num="11" wdcount="37"> Detalló que en el Distrito Federal, 32 por ciento de la población sufrió discriminación en alguna ocasión, y de este total, 33 por ciento fue en su lugar de trabajo y 22 por ciento en la calle</s>
+<s docid="16CI010414_825467" num="12" wdcount="30"> Sostuvo que las prácticas discriminatorias se manifiestan principalmente mediante insultos en 17.6 por ciento, seguido de algún tipo de negativa para tener acceso a determinados lugares con 13.2 por ciento</s>
+<s docid="16CI010414_825467" num="13" wdcount="46"> Recordó que de los 15 derechos humanos previstos en el Programa de Derechos Humanos del Distrito Federal, el derecho a la igualdad y a la no discriminación ocupa el cuarto lugar de importancia, precedido por el derecho a la educación, a la salud y al trabajo</s>
+<s docid="16CI010414_825467" num="14" wdcount="46"> “La discriminación es una acción que afecta a los habitantes de la ciudad de México, por lo que es necesario impulsar y fortalecer acciones para prevenirla y erradicarla en cualquiera de sus vertientes”, precisó la asambleísta al presentar su propuesta, que fue avalada por el pleno</s>
+
+
+</TEXT>
+
+</DOC>

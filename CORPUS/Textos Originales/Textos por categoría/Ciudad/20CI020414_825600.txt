@@ -1,0 +1,41 @@
+<DOC>
+
+<DOCNO>
+<s docid="20CI020414_825600" num="1" wdcount="1"> 825600 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="20CI020414_825600" num="2" wdcount="1">20CI020414_825600</s>
+</FILEID>
+
+<HEAD>
+<s docid="20CI020414_825600" num="3" wdcount="10"> El boquete millonario en la L-12 apunta a Mario Delgado  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="20CI020414_825600" num="4" wdcount="1"> Ciudad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="20CI020414_825600" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="20CI020414_825600" num="6" wdcount="51"> A la Secretaría de Finanzas del Distrito Federal —entonces bajo la dirección de Mario Delgado— correspondía vigilar y autentificar que los recursos etiquetados por la federación para la construcción de la Línea 12 del Metro se aplicaran a los rubros previamente establecidos, informó el contralor general del Distrito Federal, Hiram Almeida</s>
+<s docid="20CI020414_825600" num="7" wdcount="44"> Con los resultados de la investigación que realizó la Secretaría de Función Pública, en la que solicita la devolución de más de 489 millones de pesos, queda claro que la dependencia no atendió este aspecto y que ahora corresponde a la presente administración liquidarla</s>
+<s docid="20CI020414_825600" num="8" wdcount="47"> El encargado de las investigaciones sobre el cúmulo de irregularidades detectadas en la Línea 12 del Metro comentó que los más de 400 millones de pesos se aplicaron en “obras accesorias”, tales como de alcantarillado y de energía eléctrica, entre otras, que no están dentro del etiquetado</s>
+<s docid="20CI020414_825600" num="9" wdcount="38"> También aclaró que de los siete mil millones de pesos, que dijo la federación que auditó, no todos corresponden a la construcción de la Línea 12 del Metro, sino a otros rubros y que solventaron en su momento</s>
+<s docid="20CI020414_825600" num="10" wdcount="17"> Este hecho le generó ciertas suspicacias porque corresponde al análisis de los ejercicios de 2008 y 2011</s>
+<s docid="20CI020414_825600" num="11" wdcount="38"> Una gran parte de la responsabilidad en la mala aplicación del dinero, también corresponde al Proyecto Metro del Distrito Federal y su área administrativa, pues fueron ellos los que realizaron las contrataciones y pagaron por las obras solicitadas</s>
+<s docid="20CI020414_825600" num="12" wdcount="51"> Es de recordar también que durante su comparecencia ante la Asamblea Legislativa, Francisco Bojórquez, ex director del Metro, respondió a los legisladores que Mario Delgado participó en la reunión del Comité Administrativo en el que se decidió por la renta de los trenes y se aprobaron las características de los mismos</s>
+<s docid="20CI020414_825600" num="13" wdcount="37"> Sobre las responsabilidades de los funcionarios, Hiram Almeida no se adelantó a dar nombres, pues argumentó que hay enorme cúmulo de información que se tiene que triangular para definir claramente quiénes son los responsables de este problema</s>
+<s docid="20CI020414_825600" num="14" wdcount="33"> Empero, adelantó que no habrá impunidad en el caso y dependiendo del grado de culpabilidad se podrá inhabilitar y hasta proceder penalmente en contra de las personas que resulten responsables de esta falla</s>
+<s docid="20CI020414_825600" num="15" wdcount="44"> El contralor interno también fue al claro al precisar que si bien es necesario conocer a los responsables, es más importante que la Línea 12 del Metro comience a prestar el servicio lo más pronto posible y no se sigan afectando a los usuarios</s>
+<s docid="20CI020414_825600" num="16" wdcount="51"> Comentó que ya realizaron diversas inspecciones físicas a lo largo de las 11 estaciones que se encuentran paradas para revisar las fallas estructurales, técnicas, efectuar diversos análisis de pruebas, la revisión de todos y cada uno de los contratos que se firmaron, así como sus actualizaciones y renovaciones entre otros aspectos</s>
+<s docid="20CI020414_825600" num="17" wdcount="53"> En torno a las posibles sanciones a las constructoras ICA, Carso y Alstom, comentó que también revisan cada una de su responsabilidad y dependiendo del grado podrían inhabilitarlas para que en un futuro no participen en licitaciones de la administración pública local; empero, acotó, ello dependerá de lo que se encuentre más adelante</s>
+
+</TEXT>
+
+</DOC>

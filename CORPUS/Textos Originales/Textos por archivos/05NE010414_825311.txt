@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="05NE010414_825311" num="1" wdcount="1"> 825311 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="05NE010414_825311" num="2" wdcount="1">05NE010414_825311</s>
+</FILEID>
+
+<HEAD>
+<s docid="05NE010414_825311" num="3" wdcount="10"> Prevé CCE rebajas en tarifas en telecom de hasta 20% </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="05NE010414_825311" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="05NE010414_825311" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="05NE010414_825311" num="6" wdcount="56"> El presidente del Consejo Coordinador Empresarial (CCE), Gerardo Gutiérrez, estimó que con las leyes secundarias en telecomunicaciones bien diseñadas y su pronta instrumentación, la reforma será capaz de incentivar una dinámica de desarrollo y competencia y llevar a que las tarifas de servicios de telecomunicaciones bajen entre 15 y 20 por ciento en los próximos años</s>
+<s docid="05NE010414_825311" num="7" wdcount="39"> Asimismo, hacia el 2018 estima que se podrá tener una penetración de servicios de banda ancha fija y/o móvil de hasta 95 por ciento de la población, y que un 70 por ciento de ella sea usuaria de internet</s>
+<s docid="05NE010414_825311" num="8" wdcount="42"> "El éxito de la reforma y de la legislación secundaria que se discute en el Senado debe medirse en su capacidad de incidir en menores precios para los usuarios, así como mayor cobertura, diversidad y calidad de los servicios", comentó el empresario</s>
+<s docid="05NE010414_825311" num="9" wdcount="34"> En su mensaje semanal, sostuvo que la reforma tendrá un impacto positivo en la calidad de vida de las familias y se convertirá en un potente motor de la competitividad y el desarrollo económico</s>
+<s docid="05NE010414_825311" num="10" wdcount="28"> Lo anterior se alcanzaría a través de una mayor competencia en el mercado, pero igualmente prioritaria es la capacidad de atracción de inversiones para el desarrollo de infraestructura</s>
+<s docid="05NE010414_825311" num="11" wdcount="52"> Para Candiani detonar el potencial en el sector, la legislación debe perseguir objetivos puntuales, como generar mejores condiciones de competencia en el mercado, promover y coordinar el acceso y compartición a derechos de vía e infraestructura pública y fomentar la inversión, dando certidumbre jurídica a la misma y a todos los operadores</s>
+<s docid="05NE010414_825311" num="12" wdcount="49"> Además, el gremio empresarial propone que se defina una estrategia a corto, mediano y largo plazos respecto a la planeación y administración del espectro radioeléctrico: acciones de atribución, clasificación, métodos de asignación, radio-monitoreo, mecanismos de recuperación, así como los lineamientos específicos para evaluar el uso eficiente de este recurso</s>
+
+
+
+</TEXT>
+
+</DOC>

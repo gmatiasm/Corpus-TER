@@ -1,0 +1,46 @@
+<DOC>
+
+<DOCNO>
+<s docid="18ES020414_825628" num="1" wdcount="1"> 825628 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="18ES020414_825628" num="2" wdcount="1">18ES020414_825628</s>
+</FILEID>
+
+<HEAD>
+<s docid="18ES020414_825628" num="3" wdcount="9"> A Lindsay Lohan le salió gratis su última rehabilitación </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="18ES020414_825628" num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="18ES020414_825628" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="18ES020414_825628" num="6" wdcount="56"> La polémica actriz Lindsay Lohan permaneció tres meses en la clínica de rehabilitación Cliffside Malibu el verano pasado, una estancia por la que no tuvo que pagar nada, dado que el centro se comprometió a hacerse cargo de la factura de 150 mil dólares (108 mil euros) como compensación a la publicidad que generaría su ingreso</s>
+<s docid="18ES020414_825628" num="7" wdcount="23"> "El seguro de salud no iba a pagar por su tratamiento de rehabilitación porque era la sexta vez que se sometía a uno</s>
+<s docid="18ES020414_825628" num="8" wdcount="5"> Fue cortesía de Cliffside Malibu</s>
+<s docid="18ES020414_825628" num="9" wdcount="22"> Antes de llegar a ese centro, Lindsay ya había pasado por el de Betty Ford y no le fue muy bien allí</s>
+<s docid="18ES020414_825628" num="10" wdcount="24"> Cuando Cliffside Malibu estuvo disponible le permitieron ir, presumiblemente por la publicidad gratuita que les iba a aportar", señaló una fuente al portal RadarOnline.com</s>
+<s docid="18ES020414_825628" num="11" wdcount="32"> La estrella de 27 años mejoró en la clínica, en la que se le proporcionó una habitación privada cuyo coste, durante todo el tratamiento, fue de 73 000 dólares (53 000 euros)</s>
+<s docid="18ES020414_825628" num="12" wdcount="4"> "Mejoró en ese ambiente</s>
+<s docid="18ES020414_825628" num="13" wdcount="17"> Tuvo una habitación privada porque nunca estaría dispuesta a compartir cuarto con alguien", explicó la citada fuente</s>
+<s docid="18ES020414_825628" num="14" wdcount="33"> La intérprete podría estar atravesando una situación financiera "desesperada", a pesar de haber ganado 2 millones de dólares (1,4 millones de euros) con la serie de documentales ‘Lindsay‘ que emite el canal OWN</s>
+<s docid="18ES020414_825628" num="15" wdcount="16"> "Solo Lindsay podría recibir un cheque así y volver a estar en una situación financiera desesperada</s>
+<s docid="18ES020414_825628" num="16" wdcount="10"> Después de pagar a su mánager, agente, publicistas, tasas, etc</s>
+<s docid="18ES020414_825628" num="17" wdcount="8"> le quedaron 750 000 dólares (540 000 euros)</s>
+<s docid="18ES020414_825628" num="18" wdcount="17"> Eso fue el año pasado, pero Lindsay no ha sido capaz de ahorrar en toda su vida</s>
+<s docid="18ES020414_825628" num="19" wdcount="23"> Su programa de telerrealidad también se ha vendido en el extranjero, pero ella solo recibirá por ello 250 000 dólares (180 000 euros)</s>
+<s docid="18ES020414_825628" num="20" wdcount="27"> Ese dinero además se tiene que repartir entre todo su equipo por lo que a Lindsay le quedan menos de 100 000 dólares (72 500 euros)", añadió</s>
+<s docid="18ES020414_825628" num="21" wdcount="57"> Los graves problemas económicos que atraviesa han llevado a Lindsay, además de a prescindir de los servicios de su asistente personal, a sufrir uno de los momentos más bochornosos de su vida al intentar pagar una factura de 300 dólares (217 euros) en una tienda de Nueva York y ver cómo sus tarjetas de crédito eran rechazadas.</s>
+
+
+</TEXT>
+
+</DOC>

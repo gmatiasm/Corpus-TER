@@ -1,0 +1,41 @@
+<DOC>
+
+<DOCNO>
+<s docid="09CU010414_825387" num="1" wdcount="1"> 825387 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="09CU010414_825387" num="2" wdcount="1">09CU010414_825387</s>
+</FILEID>
+
+<HEAD>
+<s docid="09CU010414_825387" num="3" wdcount="6"> Fallece el historiador Jacques Le Goff  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="09CU010414_825387" num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="09CU010414_825387" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="09CU010414_825387" num="6" wdcount="41"> El medievalista Jacques Le Goff, uno de los más grandes historiadores e historiógrafos franceses, que transformó con sus investigaciones la manera de entender y conocer la Edad Media, murió hoy a los 90 años, informaron sus familiares al diario Le Monde</s>
+<s docid="09CU010414_825387" num="7" wdcount="65"> Heredero de la llamada Escuela de los Annales, fundada en 1929 por Lucien Febvre y Marc Bloch, Le Goff fue en la década de los años 70 del siglo XX uno de los promotores de la "Nueva Historia", con la que intentó comprender mejor el pasado, y el presente, gracias al estudio global de la historia, la antropología y el conjunto de las ciencias sociales</s>
+<s docid="09CU010414_825387" num="8" wdcount="36"> Gran pluma, además de gran historiador, el autor de obras monumentales como "Saint Louis" (1996) impulsó la antropología histórica, la "Nueva Historia", para explicar el conjunto de las sociedades históricas, incluidas sus dimensiones materiales y espirituales</s>
+<s docid="09CU010414_825387" num="9" wdcount="40"> Desde esa plataforma arraigó la idea de que para "hacer historia" era preciso interesarse no solo en la geografía, sino también en la literatura, la filosofía, el universo jurídico, la vida privada, las mentalidades o las sensibilidades del momento estudiado</s>
+<s docid="09CU010414_825387" num="10" wdcount="35"> "Faut-il vraiment découper l‘histoire en tranches?" (¿Es verdaderamente necesario cortar la historia en partes?") fue, en 2014, uno de los últimos trabajos de Le Goff, nacido en 1924 en Toulon, en el sureste de Francia</s>
+<s docid="09CU010414_825387" num="11" wdcount="28"> Su precoz descubrimiento del universo medieval se produjo a los 12 años, con la lectura de "Ivanhoé", de Walter Scott, y de "Histoire de France", de Jules Michelet</s>
+<s docid="09CU010414_825387" num="12" wdcount="70"> Marcaron luego su destino el encuentro con el profesor del islám medieval Maurice Lombard, a quien consideró siempre su gran maestro, quien le presentó a Fernand Braudel, director de la VI sección de la Escuela Práctica de Altos Estudios, futura Escuela de Altos Estudios en Ciencias Sociales (EHESS), una institución en la que comenzó a dar clases en los años 60 y en la que sucedió a Braudel en 1972</s>
+<s docid="09CU010414_825387" num="13" wdcount="64"> Entre otras obras, Le Goff es el autor de "Les intellectuels au Moyen Age" (1957), "Pour un autre Moyen Age: temps, travail et culture en Occident" (1977), "Histoire et Mémoire" (1988), "La vieille Europe et la nôtre" (1994), "L‘Europe est-elle née au Moyen Age" (2004), "À La recherche du temps sacré, Jacques de Voragine et la Légende dorée" (2011) y "Saint François d‘Assise" (2013)</s>
+<s docid="09CU010414_825387" num="14" wdcount="30"> Director de la colección "Faire l‘Europe", traducida en los diferentes idiomas europeos, el historiador era igualmente gran divulgador radiofónico, desde el programa "Lundis de l‘histoire", de la emisora France Culture</s>
+<s docid="09CU010414_825387" num="15" wdcount="45"> La ministra de Cultura Aurélie Filippetti rindió homenaje en un comunicado a esa "figura principal" del paisaje intelectual francés, que en más de 60 años de investigación, publicaciones y enseñanzas, "contribuyó de manera excepcional" al enriquecimiento del conocimiento y del progreso de la ciencia histórica</s>
+<s docid="09CU010414_825387" num="16" wdcount="51"> Filippetti glosó su pasión por la Edad Media y su manera de estudiar todas sus dimensiones, en la tradición de la Escuela de los Annales, de las grandes figuras históricas a "los movimientos más secretos de la historia", como las transformaciones económicas, de las familias de intelectuales y de la espiritualidad</s>
+<s docid="09CU010414_825387" num="17" wdcount="36"> La ministra recomendó, en particular, la lectura de "La civilisation de l‘Occident médiéval" (1997), que consideró "culminación magistral de sus investigaciones" y obra indispensable para comprender el período histórico al que Le Goff dedicó su vida</s>
+
+</TEXT>
+
+</DOC>

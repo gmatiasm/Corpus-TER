@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="01ES010414_825260"num="1" wdcount="1"> 825260 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="01ES010414_825260"num="2" wdcount="1">01ES010414_825260</s>
+</FILEID>
+
+<HEAD>
+<s docid="01ES010414_825260"num="3" wdcount="6"> Kusturica filmará documental sobre José Mujica </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="01ES010414_825260"num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="01ES010414_825260"num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="01ES010414_825260" num="6" wdcount="32"> El cineasta serbio Emir Kusturica llegó el lunes a Uruguay para filmar escenas de un documental sobre el presidente José Mujica, confirmó un integrante de la secretaría de prensa de la Presidencia</s>
+<s docid="01ES010414_825260" num="7" wdcount="25"> En el aeropuerto internacional de Carrasco, Kusturica manifestó que llegaba al país para filmar al “presidente más libre del mundo”, informó el diario El Observador</s>
+<s docid="01ES010414_825260" num="8" wdcount="31"> El también músico y actor es conocido por filmes como Gato negro, gato blanco y Underground, esta última ganadora de la Palma de Oro en el Festival de Cine de Cannes</s>
+<s docid="01ES010414_825260" num="9" wdcount="32"> Acompañará el martes al presidente uruguayo a la inauguración de la cosecha de arroz, en un establecimiento rural cercano a la localidad de Vergara, a unos 300 kilómetros al noreste de Montevideo</s>
+<s docid="01ES010414_825260" num="10" wdcount="24"> Kusturica comenzó a rodar la película sobre Mujica en septiembre de 2013, cuando el mandatario asistió a la Asamblea General de las Naciones Unidas</s>
+<s docid="01ES010414_825260" num="11" wdcount="1"> Música</s>
+<s docid="01ES010414_825260" num="12" wdcount="52"> Cuando no está detrás de las cámaras, el cineasta Kusturica gusta de pulsar la guitarra y dirigir a su grupo, un combo conformado por músicos serbocroatas que desconocen el significado de las fronteras y rechazan la separación de los géneros musicales, al tiempo que hacen una música fuertemente cargada de contenido social</s>
+<s docid="01ES010414_825260" num="13" wdcount="33"> Emir Kusturica, acompañado de un grupo de gamberros, practica un rock salpicado de sonidos orientales, música de los Balcanes, impulsos tecno cosmopolitas provenientes del mundo occidental y polka, música candente, contagiosa y festiva</s>
+<s docid="01ES010414_825260" num="14" wdcount="10"> The Wish es el título de su más reciente álbum</s>
+
+</TEXT>
+
+</DOC>

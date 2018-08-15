@@ -1,0 +1,41 @@
+<DOC>
+
+<DOCNO>
+<s docid="13ED020414_825574" num="1" wdcount="1"> 825574 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="13ED020414_825574" num="2" wdcount="1">13ED020414_825574</s>
+</FILEID>
+
+<HEAD>
+<s docid="13ED020414_825574" num="3" wdcount="8"> Policías paristas de Tabasco desconocen a mandos medios </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="13ED020414_825574" num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="13ED020414_825574" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="13ED020414_825574" num="6" wdcount="42"> Agentes de la Secretaría de Seguridad Pública (SSP) de Tabasco desconocieron a mandos medios, a quienes corrieron de las instalaciones, en lo que fue considerado el reinicio del conflicto que aparentemente había sido solucionado el domingo pasado tras dos semanas de paro</s>
+<s docid="13ED020414_825574" num="7" wdcount="50"> Uno de los líderes del movimiento policiaco que dejó sin vigilancia a Villahermosa del 16 al 30 de marzo, José Lourdes Osorio, dijo que los uniformados están nombrando a encargados de guardia, tras negarse a aceptar a los jefes leales al titular de la corporación, el general Audomaro Martínez Zapata</s>
+<s docid="13ED020414_825574" num="8" wdcount="40"> El comandante Osorio no descartó enfrentamientos entre los mandos y los preventivos, pues éstos ya designaron como sus jefes a los policías de más antigüedad y buena conducta, como ha sucedido en Ocuitzapotlán, Tamulté de las Barrancas y Miguel Hidalgo</s>
+<s docid="13ED020414_825574" num="9" wdcount="52"> Señaló que este martes sólo la mitad de los elementos salieron a las calles, pero desarmados y sólo portando toletes, a fin de que la ciudadanía vea que tienen voluntad de trabajar, pues el gobierno no ha liberado las patrullas, gasolina, radio y armas, equipo que está siendo revisado por notarios públicos</s>
+<s docid="13ED020414_825574" num="10" wdcount="14"> Explicó que los agentes realizan vigilancia en grupos de cuatro en comercios y casas</s>
+<s docid="13ED020414_825574" num="11" wdcount="33"> Dijo que hay inquietud entre los agentes porque hasta el momento no les han depositado la segunda quincena de marzo, aunque los dirigentes del movimiento les han asegurado que el pago está garantizado</s>
+<s docid="13ED020414_825574" num="12" wdcount="67"> Este martes, a dos días que se levantara el paro que duró dos semanas en demanda de la destitución del general de división que jefatura la SSP, se volvieron a prender las luces de alerta, cuando al menos 200 agentes hicieron huir de la institución a unos 30 mandos medios que acudieron a una reunión con Martínez Zapata, quien encabeza el proceso de entrega-recepción de la corporación</s>
+<s docid="13ED020414_825574" num="13" wdcount="27"> Los uniformados usaron palos y piedras para correr a sus jefes inmediatos, que al verse superados optaron por salir corriendo, en medio de una lluvia de proyectiles</s>
+<s docid="13ED020414_825574" num="14" wdcount="40"> El enfrentamiento se registró al filo de las 11 y media de la mañana, cuando los mandos llegaron a una junta con el secretario, pero fueron enfrentados por sus subalternos que los esperaban en las oficinas del general de división</s>
+<s docid="13ED020414_825574" num="15" wdcount="37"> “Ratas”, “no tienen vergüenza”, “no los queremos, lárguense”, “fuera los traidores”, “crucifíquenlos”, se escuchaba decir a los preventivos, que los fueron acorralándolos hasta que los sacaron de las instalaciones y los vieron cruzar la calle, huyendo despavoridos</s>
+<s docid="13ED020414_825574" num="16" wdcount="30"> Uno de los líderes de los policías, el comandante Osorio, que estaba reunido con el general, salió a pedirle a los mandos que se retiraran para evitar un enfrentamiento mayor</s>
+<s docid="13ED020414_825574" num="17" wdcount="26"> Isabelino León Miranda, el otro dirigente de la revuelta, señaló que los notarios púbicos que recibieron la corporación dieron fe de que todo estaba en orden.</s>
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,36 @@
+<DOC>
+
+<DOCNO>
+<s docid="10CI010414_825374" num="1" wdcount="1"> 825374 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="10CI010414_825374" num="2" wdcount="1">10CI010414_825374</s>
+</FILEID>
+
+<HEAD>
+<s docid="10CI010414_825374" num="3" wdcount="13"> SCT pide al gobierno del DF reporte de recursos utilizados en Línea 12 </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="10CI010414_825374" num="4" wdcount="1"> Ciudad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="10CI010414_825374" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="10CI010414_825374" num="6" wdcount="44"> La Secretaría de Comunicaciones y Transportes (SCT) solicitó al Gobierno del Distrito Federal un reporte de los recursos presupuestarios federales utilizados como parte del Programa de Infraestructura del Sistema de Transporte Colectivo Metro Línea 12 Tláhuac-Mixcoac, en su ampliación a la estación terminal Observatorio</s>
+<s docid="10CI010414_825374" num="7" wdcount="35"> Lo anterior, de acuerdo con modificaciones al convenio de coordinación en materia de reasignación de recursos entre la SCT y el gobierno de la capital del país, publicadas en el Diario Oficial de la Federación</s>
+<s docid="10CI010414_825374" num="8" wdcount="18"> La dependencia informa que esa determinación incluye la adecuación para su correspondencia a la línea 1 del Metro</s>
+<s docid="10CI010414_825374" num="9" wdcount="34"> Indica que el Distrito Federal deberá entregar cada mes a la SCT la relación detallada sobre gastos y los documentos que justifiquen las erogaciones con recursos federales, pues de lo contrario, aclara, no procederán</s>
+<s docid="10CI010414_825374" num="10" wdcount="48"> De igual forma -abunda-, el gobierno de la capital del país mantendrá bajo su custodia la documentación comprobatoria original de los recursos presupuestarios federales erogados hasta que le se requerida por la SCT" o las secretarías de Hacienda y Crédito Público (SHCP) y de la Función Pública (SFP)</s>
+<s docid="10CI010414_825374" num="11" wdcount="48"> La SCT refiere que estas modificaciones no alteran la estructura del convenio de coordinación en materia de reasignación de recursos del 7 de agosto de 2013, consistente en la transferencia de recursos presupuestarios por parte de la dependencia al gobierno local para dichas obras de infraestructura de transportes.</s>
+
+
+</TEXT>
+
+</DOC>

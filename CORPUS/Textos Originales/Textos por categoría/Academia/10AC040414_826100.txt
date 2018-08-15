@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="10AC040414_826100" num="1" wdcount="1"> 826100 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="10AC040414_826100" num="2" wdcount="1">10AC040414_826100</s>
+</FILEID>
+
+<HEAD>
+<s docid="10AC040414_826100" num="3" wdcount="10"> Detectan señales de un océano en una luna de Saturno </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="10AC040414_826100" num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="10AC040414_826100" num="5" wdcount="1"> 2014-04-04 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="10AC040414_826100" num="6" wdcount="39"> El océano de agua líquida detectado en Encélado, una de las lunas de Saturno, podría tener las condiciones para albergar alguna forma de vida, dijo el italiano Luciano Less, quien tomó parte del descubrimiento publicado por la revista “Science”</s>
+<s docid="10AC040414_826100" num="7" wdcount="26"> “Existe una razonable certeza de que en ese océano escondido pueda existir un ambiente potencialmente favorable para la vida”, declaró el científico Less a medios italianos</s>
+<s docid="10AC040414_826100" num="8" wdcount="37"> Aunque consideró que es muy baja la posibilidad de que en Encélado existan formas de vida, el investigador de la Universidad La Sapienza de Roma y de la Agencia Espacial Italiana dijo que no puede ser excluida</s>
+<s docid="10AC040414_826100" num="9" wdcount="14"> “No podemos excluir esa posibilidad, incluso una pequeñísima probabilidad sería un resultado extraordinario”, anotó</s>
+<s docid="10AC040414_826100" num="10" wdcount="29"> Según “Science”, la información de la sonda espacial Cassini sugiere que Encélado alberga una gran masa de agua líquida en el hemisferio Sur, a unos 40 kilómetros de profundidad</s>
+<s docid="10AC040414_826100" num="11" wdcount="34"> Encélado tiene solamente 252 kilómetros de radio, pero al lado de Titán ha sido uno de los satélites más observados por la sonda Cassini, que desde 2004 reúne información sobre Saturno y sus lunas</s>
+<s docid="10AC040414_826100" num="12" wdcount="35"> Se trata de una misión científica de la estadunidense Administración Nacional de la Aeronáutica y del Espacio (NASA), la Agencia Europea del Espacio (ESA) y la Agencia Espacial Italiana (ASI), a la que pertenece Less</s>
+<s docid="10AC040414_826100" num="13" wdcount="4"> “Los datos son sorprendentes</s>
+<s docid="10AC040414_826100" num="14" wdcount="43"> Muestran que a una profundidad de entre 30 y 40 kilómetros bajo el polo Sur de Encélado existe una masa de agua equivalente a la del segundo lago más grande de la Tierra, el Lago Superior y profunda ocho kilómetros”, agregó el científico.</s>
+
+
+</TEXT>
+
+</DOC>

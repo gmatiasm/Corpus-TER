@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="20DE030414_825844" num="1" wdcount="1"> 825844 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="20DE030414_825844" num="2" wdcount="1">20DE030414_825844</s>
+</FILEID>
+
+<HEAD>
+<s docid="20DE030414_825844" num="3" wdcount="11"> Hay que poner huevos en la cancha, dice el Piojo Herrera </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="20DE030414_825844" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="20DE030414_825844" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="20DE030414_825844" num="6" wdcount="43"> La principal razón para que México lograra venir de atrás para rescatar el empate ante Estados Unidos fue que los jugadores le pusieron “producto de gallina” en la cancha, que fue lo que les pidió al medio tiempo, señaló el técnico Miguel Herrera</s>
+<s docid="20DE030414_825844" num="7" wdcount="36"> “Haces cambios y modificaciones y después de eso hay que ponerle ´hue…´, les dije que ´ellos lo estaban poniendo y nosotros no´, esto es un clásico, afortunadamente los muchachos lo hicieron en el segundo tiempo”, dijo</s>
+<s docid="20DE030414_825844" num="8" wdcount="54"> En conferencia de prensa, el “Piojo” indicó que la reacción que tuvo el cuadro mexicano lo “deja tranquilo, contento por la actitud de los muchachos porque se dan cuenta que hay que poner el producto de gallina y lo hacen en el partido, acá de repente la palabra tiempo es lo que brinca siempre”</s>
+<s docid="20DE030414_825844" num="9" wdcount="63"> “El primer tiempo nos faltó tiempo para llegar bien las jugadas, y (Michael) Bradley parecía el mejor jugador del mundo, cuando se corrige, en el segundo tiempo con los cambios llega ese momento donde se aprieta bien se roba la pelota, corre más tiempo por nuestros pies y consigues un empate que te deja tranquilo por la personalidad que muestra el equipo”, apuntó</s>
+<s docid="20DE030414_825844" num="10" wdcount="33"> Sobre los problemas que tuvieron para llegar al estadio apenas media hora antes del inicio del partido, Herrera criticó a los motociclistas que iban con ellos, los cuales explicó solo los iban acompañando</s>
+<s docid="20DE030414_825844" num="11" wdcount="55"> “No es el tránsito, es el escolta que nos mandaron, que iba de acompañantes, que no ayudó en nada, salimos 5:45, si te dan escolta en el partido pasado que sí hizo su trabajo y abrió paso, aquí eran acompañantes, parecían Pedro Infante y Luis Aguilar que venían cantando ´parece que va a llover´”, acotó</s>
+<s docid="20DE030414_825844" num="12" wdcount="33"> Finalmente, comentó que aunque tiene clara la base de lo que será el equipo en la Copa del Mundo Brasil 2014, todavía falta mucho para poder decidir quiénes serán por completo los elegidos</s>
+<s docid="20DE030414_825844" num="13" wdcount="55"> “Para la lista de los 23 falta bastante primero hay que dar la lista de 30, y vendrá la especulación de ustedes porque de esos 30 quienes serán los 7 que quedan fuera, la lista real al daremos el 22 o 23 de mayo, si Dios quiere ellos mismos jugaran los partidos del cierre”, sentenció.</s>
+
+
+</TEXT>
+
+</DOC>

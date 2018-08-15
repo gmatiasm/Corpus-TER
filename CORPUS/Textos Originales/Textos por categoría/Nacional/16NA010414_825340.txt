@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="16NA010414_825340" num="1" wdcount="1"> 825340 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="16NA010414_825340" num="2" wdcount="1">16NA010414_825340</s>
+</FILEID>
+
+<HEAD>
+<s docid="16NA010414_825340" num="3" wdcount="9"> Cordero tuvo miedo de medirse con el aplausómetro: Madero </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="16NA010414_825340" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="16NA010414_825340" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="16NA010414_825340" num="6" wdcount="57"> Después de presumir que le arrebataron el control del Consejo Nacional del PAN al equipo calderonista, el equipo de Gustavo Madero rechazó que se haya pactado un acuerdo para no asistir a los trabajos de ese órgano el pasado sábado y sostuvo que si Ernesto Cordero no acudió fue porque tuvo miedo a medirse en el aplausómetro</s>
+<s docid="16NA010414_825340" num="7" wdcount="28"> “Tuvieron miedo de pararse con la militancia, miedo al aplauso, a las porras, miedo a que lo abuchearan porque dijo que quería dirigir al PRI”, aseguró Federico Döring</s>
+<s docid="16NA010414_825340" num="8" wdcount="50"> Junto con Marko Cortés, coordinador de campaña de Gustavo Madero, dejó en claro que Madero no debatirá en ningún foro que no sea el que organice la Comisión de Elecciones del PAN como pretende Cordero con la invitación de la Cámara de la Industria de la Radio y Televisión (CIRT)</s>
+<s docid="16NA010414_825340" num="9" wdcount="11"> “No se puede ir por la libre y pactar un debate</s>
+<s docid="16NA010414_825340" num="10" wdcount="25"> Gustavo, si es panista y si respeta las instituciones, no suele mandarlas al diablo a la lopezobradorista pactando cosas a espaldas del PAN”, aseveró Döring</s>
+<s docid="16NA010414_825340" num="11" wdcount="41"> Asimismo manifestaron su preocupación porque Cordero arrecie la guerra sucia al comprobar su desventaja de cara a la contienda del 18 de mayo, por lo cual lo llamaron a dejar de lado esa estrategia que solo denigra y mutila al PAN</s>
+<s docid="16NA010414_825340" num="12" wdcount="29"> “Contar con un asesor (el español Aleix Sanmartín) cuya fortaleza es la guerra sucia y que esté dentro del equipo de Cordero sin duda es un tema de preocupación</s>
+<s docid="16NA010414_825340" num="13" wdcount="18"> Un buen panista debe apostar a no destruir la casa con tal de quedarse con ella”, reprochó Cortés</s>
+<s docid="16NA010414_825340" num="14" wdcount="48"> Durante una conferencia de prensa, Marko Cortés aclaró que nunca hubo un acuerdo para que los aspirantes a la dirigencia nacional del PAN no asistieran al Consejo Nacional que realizó ese partido el sábado pasado, sino que se trató de un llamado de la dirigente nacional, Cecilia Romero</s>
+<s docid="16NA010414_825340" num="15" wdcount="32"> Por ello, explicó, ni hubo ningún incumplimiento como acusa Ernesto Cordero y más bien se trata de una “cortina de humo” que busca colocar ante su clara desventaja en la contienda interna</s>
+<s docid="16NA010414_825340" num="16" wdcount="40"> “Madero tenía que ir y quien dice lo contrario solo refleja el desconocimiento que tiene quien nunca ha contendido por un cargo de consejero regional y de los procesos internos del PAN, pues Madero es consejero ex oficio”, recalcó Doring</s>
+
+</TEXT>
+
+</DOC>

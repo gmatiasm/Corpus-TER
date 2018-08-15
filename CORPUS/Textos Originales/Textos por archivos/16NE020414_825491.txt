@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="16NE020414_825491" num="1" wdcount="1"> 825491 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="16NE020414_825491" num="2" wdcount="1">16NE020414_825491</s>
+</FILEID>
+
+<HEAD>
+<s docid="16NE020414_825491" num="3" wdcount="5"> Cancela Cablevisión contenidos de PCTV </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="16NE020414_825491" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="16NE020414_825491" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="16NE020414_825491" num="6" wdcount="40"> Las filiares de televisión de paga pertenecientes a Grupo Televisa dejaron de transmitir seis canales del paquete TVC Networks, marca que pertenece a la empresa PCTV (Productora y Comercializadora de Televisión), debido a que Televisa deberá cumplir diversas disposiciones regulatorias</s>
+<s docid="16NE020414_825491" num="7" wdcount="75"> Julio Di Bella, director general de PCTV, informó en su cuenta de Twitter que por causas ajenas a la voluntad de la compañía, a partir del 1 de abril los canales de TVC Networks, que son: TVC, Platino, Pánico, Cine Mexicano, ARTVC y TVC Deportes saldrán de los sistemas de cable de las ciudades operadas por las empresas Cablevisión, Cablemás Telecomunicaciones, Cable y Comunicación de Campeche y Televisión Internacional, todas ellas pertenecientes a Grupo Televisa</s>
+<s docid="16NE020414_825491" num="8" wdcount="29"> "Agradecemos a nuestros televidentes el tiempo que nos permitieron llegar hasta sus hogares con canales de contenido innovador y de gran calidad", señaló el directivo en la red social</s>
+<s docid="16NE020414_825491" num="9" wdcount="18"> Destacó que próximamente sus canales podrán ser sintonizados en otras plataformas y a través de las redes sociales</s>
+<s docid="16NE020414_825491" num="10" wdcount="18"> La empresa no ofreció mayores explicaciones sobre la suspensión de sus transmisiones en los sistemas de Grupo Televisa</s>
+<s docid="16NE020414_825491" num="11" wdcount="28"> A su vez, el área de comunicación de la televisora explicó que la suspensión de estas señales se debe a que Televisa debe cumplir con algunas "disposiciones regulatorias"</s>
+<s docid="16NE020414_825491" num="12" wdcount="40"> La empresa no ofreció más detalles sobre el impacto que esta decisión generará en sus consumidores o si habrá alguna medida para compensar a los clientes que tenían contratados los canales de PCTV en sus sistemas de televisión de paga</s>
+<s docid="16NE020414_825491" num="13" wdcount="64"> La relación entre Televisa y PCTV ha estado en la mira de las autoridades regulatorias desde hace varios años, pues antes de desaparecer, la hoy extinta Comisión Federal de Competencia (CFC) le prohibió a Televisa participar directa o indirectamente como socio en el capital social de PCTV, a fin de avalar la compra de Televisión Internacional y de Cablemás por parte de la televisora</s>
+<s docid="16NE020414_825491" num="14" wdcount="24"> Esta prohibición tenía como finalidad reducir la concentración y el poder de mercado que podría tener Televisa una vez que adquiriera a dichas cableras</s>
+<s docid="16NE020414_825491" num="15" wdcount="15"> PCTV produce y distribuye contenidos para la mayoría de las empresas de televisión de paga</s>
+<s docid="16NE020414_825491" num="16" wdcount="32"> Tiene presencia en más de mil 100 poblaciones a través de 700 sistemas de cable y ofrece servicio a 5 millones de suscriptores, cifra que equivale a más de 22 millones televidentes.</s>
+
+</TEXT>
+
+</DOC>

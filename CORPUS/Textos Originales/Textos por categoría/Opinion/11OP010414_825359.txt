@@ -1,0 +1,55 @@
+<DOC>
+
+<DOCNO>
+<s docid="11OP010414_825359" num="1" wdcount="1"> 825359 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="11OP010414_825359" num="2" wdcount="1">11OP010414_825359</s>
+</FILEID>
+
+<HEAD>
+<s docid="11OP010414_825359" num="3" wdcount="1"> Blindaje </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="11OP010414_825359" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="11OP010414_825359" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="11OP010414_825359" num="6" wdcount="19"> Blindaje El gobierno federal tomó la decisión de evitar que la delincuencia se imponga en el Estado de México</s>
+<s docid="11OP010414_825359" num="7" wdcount="21"> El avance de la inseguridad es factor de inestabilidad social en la zona centro del país, que no se puede tolerar</s>
+<s docid="11OP010414_825359" num="8" wdcount="15"> Robo, extorsión, secuestro y narcomenudeo son los jinetes del Apocalipsis que cabalgan en el Altiplano</s>
+<s docid="11OP010414_825359" num="9" wdcount="25"> Para demostrar que se trata de un tema de la más alta prioridad tocó al secretario de Gobernación, Osorio Chong, explicar la estrategia a seguir</s>
+<s docid="11OP010414_825359" num="10" wdcount="27"> El esquema de blindaje que implementarán las fuerzas federales sirve a los mexiquenses pero también, no hay que perderlo de vista, a los habitantes del Distrito Federal</s>
+<s docid="11OP010414_825359" num="11" wdcount="30"> Acciones En su turno, el gobernador Eruviel Ávila Villegas dio a conocer dos acciones que hablan del trabajo coordinado que se llevará a cabo entre el Edomex y la Federación</s>
+<s docid="11OP010414_825359" num="12" wdcount="28"> La primera es el próximo funcionamiento de una base de operaciones en el sur mexiquense, justo en la colindancia con Guerrero y Michoacán, en la comunidad de Nanchititla</s>
+<s docid="11OP010414_825359" num="13" wdcount="17"> La segunda es la donación de un terreno de 80 hectáreas para la Marina Armada de México</s>
+<s docid="11OP010414_825359" num="14" wdcount="15"> La gota fría La administración federal entró de lleno al problema de la Línea 12</s>
+<s docid="11OP010414_825359" num="15" wdcount="22"> Su irrupción fue contundente; exigió la devolución de 489 millones de pesos de recursos federales que nadie ha explicada cómo se gastaron</s>
+<s docid="11OP010414_825359" num="16" wdcount="6"> ¿Dónde quedó la bolita de dinero? </s>
+<s docid="11OP010414_825359" num="17" wdcount="4"> Nadie sabe, nadie supo</s>
+<s docid="11OP010414_825359" num="18" wdcount="17"> Los funcionarios del gobierno que encabezó Marcelo Ebrard, comenzando por el propio Marcelo, sudan la gota fría</s>
+<s docid="11OP010414_825359" num="19" wdcount="22"> Hay dos opciones: hay un caos administrativo y las facturas están traspapeladas; o hay un caos administrativo para ocultar actos de corrupción</s>
+<s docid="11OP010414_825359" num="20" wdcount="5"> ¿Usted qué piensa, amable lector? </s>
+<s docid="11OP010414_825359" num="21" wdcount="10"> Justicia en los cielos Suena tan bien que parece irreal</s>
+<s docid="11OP010414_825359" num="22" wdcount="21"> El senador Jesús Casillas Romero, del estado de Jalisco, impulsa sancionar a aquellas aerolíneas que incurran en demoras de los vuelos</s>
+<s docid="11OP010414_825359" num="23" wdcount="20"> Quiere que se les obligue a retribuir el 10 por ciento del costo del boleto por cada hora de retraso</s>
+<s docid="11OP010414_825359" num="24" wdcount="9"> Es una forma de indemnizar a los usuarios afectados</s>
+<s docid="11OP010414_825359" num="25" wdcount="11"> No es posible tolerar ineficiencia y prepotencia de algunas empresas aéreas</s>
+<s docid="11OP010414_825359" num="26" wdcount="27"> Las compañías simplemente se “lavan las manos”, cuando los pasajeros reclaman el retraso en el servicio, sin importar los problemas que ocasionan, e incluso provocan pérdidas económicas</s>
+<s docid="11OP010414_825359" num="27" wdcount="41"> Los Paz Helena Paz Garro, hija del poeta Octavio Paz, y de la escritora Elena Garro, era sepultada en un panteón de Morelos, mientras el presidente Enrique Peña decía que su padre fue la mente más brillante del siglo XX mexicano</s>
+<s docid="11OP010414_825359" num="28" wdcount="31"> Un estremecedor giro del destino puso ambas notas en los periódicos: la del centenario del nacimiento del coloso de las letras hispanas y la de la muerte de su única hija</s>
+<s docid="11OP010414_825359" num="29" wdcount="4"> La vida es así</s>
+<s docid="11OP010414_825359" num="30" wdcount="18"> El Nobel y su hija coinciden en un instante noticioso y siguen caminos divergentes, que no se tocan</s>
+<s docid="11OP010414_825359" num="31" wdcount="1"> pepegrillo@cronica.com.mx  </s>
+
+
+</TEXT>
+
+</DOC>

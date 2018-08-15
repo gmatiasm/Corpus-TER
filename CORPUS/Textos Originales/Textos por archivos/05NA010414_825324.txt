@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="05NA010414_825324" num="1" wdcount="1"> 825324 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="05NA010414_825324" num="2" wdcount="1">05NA010414_825324</s>
+</FILEID>
+
+<HEAD>
+<s docid="05NA010414_825324" num="3" wdcount="10">  Pro Huerta de Argentina elogia política social del gobierno mexicano </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="05NA010414_825324" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="05NA010414_825324" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="05NA010414_825324" num="6" wdcount="57"> La coordinadora nacional del Programa “Pro Huerta” de Argentina, Verónica Piñero, se dijo gratamente sorprendida con los valores y cambios obtenidos en nuestro país a través de la Cruzada Nacional contra el Hambre (CNCH), al tiempo de que elogió la política social puesta en marcha por el gobierno del presidente Enrique Peña, así como los resultados alcanzados</s>
+<s docid="05NA010414_825324" num="7" wdcount="67"> En este contexto, la funcionaria manifestó su deseo de poder colaborar con funcionarios de la Secretaría de Desarrollo Social (Sedesol), para el intercambio de experiencias con la multicitada Cruzada, a fin de que con los años de experiencia que tiene Argentina a través de su programa de atención social denominado “Pro Huerta” y en Haití “sirvan para contribuir a lo que el gobierno de México realiza ahora</s>
+<s docid="05NA010414_825324" num="8" wdcount="83"> Al participar en la novena sesión del grupo de trabajo “Alimentación y Nutrición”, de la estrategia alimentaria del gobierno de la República, refirió que al igual que ocurre en México con la política social de nueva generación del gobierno del presidente Enrique Peña Nieto, en Argentina se dio un cambio de paradigmas para dejar de hablar de beneficiarios de programas sociales “comprendimos que no son beneficiarios, sino titulares de derechos, y así trabajamos, así los incluimos y así los consideramos: titulares de derechos”</s>
+<s docid="05NA010414_825324" num="9" wdcount="54"> En su presentación “24 años de experiencia en la autoproducción de alimentos para la seguridad y la soberanía alimentaria”, detalló que, en sus orígenes, “Pro Huerta” buscaba que la familia argentina tuviera acceso a los alimentos y “hoy estamos en condiciones de decir que nuestras familias productoras de alimentos producen excedentes para la comercialización”</s>
+<s docid="05NA010414_825324" num="10" wdcount="25"> Por ello, abundó, ahora “Pro Huerta” apoya a las familias en la comercialización y en la consecución de espacios donde puedan vender su producción excedente</s>
+<s docid="05NA010414_825324" num="11" wdcount="45"> Por su parte, Blanca Lilia García López, directora general adjunta de Relaciones Internacionales y Proyectos Especiales de la Subsecretaría de Prospectiva, Planeación y Evaluación de la Sedesol, señaló que antes del presidente Peña Nieto nunca se había tocado el tema del hambre como una prioridad</s>
+<s docid="05NA010414_825324" num="12" wdcount="34"> Destacó el trabajo de los comedores comunitarios y la visión de estrategia nacional, integral e inclusiva que sustenta a la Cruzada Nacional contra el Hambre, en la que participan todos los órdenes de Gobierno.</s>
+
+
+</TEXT>
+
+</DOC>

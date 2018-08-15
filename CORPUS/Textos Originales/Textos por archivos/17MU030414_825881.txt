@@ -1,0 +1,42 @@
+<DOC>
+
+<DOCNO>
+<s docid="17MU030414_825881"num="1" wdcount="1"> 825881 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="17MU030414_825881"num="2" wdcount="1">17MU030414_825881</s>
+</FILEID>
+
+<HEAD>
+<s docid="17MU030414_825881"num="3" wdcount="10"> Supremo de EU será quien decida sobre ejecución en Texas </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="17MU030414_825881"num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="17MU030414_825881"num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="17MU030414_825881" num="6" wdcount="36"> El Tribunal Supremo de Estados Unidos decidirá sobre una ejecución prevista para hoy en Texas, después de que en las últimas horas una juez federal la paralizara y luego una corte de apelaciones anulara la orden</s>
+<s docid="17MU030414_825881" num="7" wdcount="34"> La decisión de la juez Vanessa Gilmore paralizó temporalmente dos ejecuciones: la de Tommy Sells, prevista inicialmente para hoy, y la del mexicano Ramiro Hernández Llanas, programada para el miércoles de la próxima semana</s>
+<s docid="17MU030414_825881" num="8" wdcount="48"> Sin embargo, la corte de apelaciones con sede en Nueva Orleans revocó la orden en lo que se refiere a Sells, cuya ejecución es la más inminente, mientras que los magistrados valorarán próximamente el caso de Hernández Llanas, según publica en su edición de hoy el Houston Chronicle</s>
+<s docid="17MU030414_825881" num="9" wdcount="22"> Ante esta situación, la defensa de Sells decidió recurrir ante el Supremo la decisión de la corte de apelaciones de Nueva Orleans</s>
+<s docid="17MU030414_825881" num="10" wdcount="40"> El texto judicial de la jueza daba la razón a los dos condenados en que la falta de información sobre la procedencia de los fármacos usados en la inyección letal puede violar el derecho constitucional a no sufrir dolor innecesario</s>
+<s docid="17MU030414_825881" num="11" wdcount="45"> Sin embargo, en su recurso ante la corte de apelaciones, el estado de Texas argumentó que los demandantes no han podido demostrar que el proceso tejano de ejecuciones genere un riesgo demostrado de dolor severo ni han identificado un método que efectivamente cree poco dolor</s>
+<s docid="17MU030414_825881" num="12" wdcount="37"> La orden de la jueza retó al secretismo en torno a la procedencia de las sustancias usadas en las inyecciones letales y sobre el nombre de los proveedores de estos componentes sedantes introducidos en la inyección letal</s>
+<s docid="17MU030414_825881" num="13" wdcount="30"> En varios estados ha habido casos similares recientes para conocer los proveedores del medicamento, su eficacia, su potencia, las pruebas hechas sobre su uso, quién las realizó y a quién</s>
+<s docid="17MU030414_825881" num="14" wdcount="24"> El Departamento de Justicia Criminal de Texas mantiene en su calendario de ejecuciones tanto la de Tommy Sells como la de Ramiro Hernández Llanas</s>
+<s docid="17MU030414_825881" num="15" wdcount="42"> La posible ejecución de Hernández Llanas, de 44 años, condenado a muerte por el asesinato de un hombre para el que trabajaba y por violar a su esposa, abría de nuevo la tensión internacional, tras la ejecución de Edgar Tamayo en enero</s>
+<s docid="17MU030414_825881" num="16" wdcount="36"> Sería un nuevo desacato de Texas a la resolución de la Corte Internacional de Justicia, el llamado "Fallo Avena", que en 2004 ordenó la revisión de unos 50 casos de mexicanos condenados a la pena capital</s>
+<s docid="17MU030414_825881" num="17" wdcount="19"> A estos mexicanos en Estados Unidos no se les habría respetado su derecho a la notificación y asistencia consular.</s>
+
+
+</TEXT>
+
+</DOC>

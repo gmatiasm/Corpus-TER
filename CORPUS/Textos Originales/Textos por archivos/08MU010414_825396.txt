@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="08MU010414_825396" num="1" wdcount="1"> 825396 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="08MU010414_825396" num="2" wdcount="1">08MU010414_825396</s>
+</FILEID>
+
+<HEAD>
+<s docid="08MU010414_825396" num="3" wdcount="8"> Kerry visitará Marruecos el viernes y sábado próximos </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="08MU010414_825396" num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="08MU010414_825396" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="08MU010414_825396" num="6" wdcount="34"> El secretario de Estado de EU, John Kerry, visitará Marruecos el viernes y sábado próximos, una visita prevista el pasado noviembre y que tuvo que ser pospuesta, informó hoy el Ministerio marroquí de Exteriores</s>
+<s docid="08MU010414_825396" num="7" wdcount="32"> Kerry, que previamente tiene previsto visitar Argelia, presidirá junto a su homólogo marroquí Salahedín Mezuar los trabajos de la segunda Sesión de diálogo estratégico Marruecos-Estados Unidos, indicó el Ministerio en un comunicada</s>
+<s docid="08MU010414_825396" num="8" wdcount="41"> Coincidiendo con la visita de Kerry, la embajada estadounidense anunció hoy la llegada de su nuevo embajador, Dwight L.Bush, para cubrir un puesto que había estado vacante casi un año, después de la partida de Samuel Kaplan en abril de 2013</s>
+<s docid="08MU010414_825396" num="9" wdcount="56"> Las relaciones entre Marruecos y EU parecen haber recuperado un clima de normalidad después de que el pasado año Marruecos reaccionase airadamente contra un proyecto estadounidense, que contaba supuestamente con el visto bueno de Kerry, para ampliar las prerrogativas de la misión de la ONU en el Sáhara Occidental (Minurso) al ámbito de los derechos humanos</s>
+<s docid="08MU010414_825396" num="10" wdcount="43"> La ofensiva diplomática lanzada entonces por Marruecos en todos los países miembros del Consejo de Seguridad, y con el apoyo de Francia y España, hizo que Washington retirase ese proyecto, pero para entonces Marruecos había anulado unos ejercicios militares estadounidenses en sus costas</s>
+<s docid="08MU010414_825396" num="11" wdcount="34"> No parece que Estados Unidos vaya a presentar de nuevo esa propuesta, pero la cuestión de los derechos humanos en el Sáhara Occidental sigue monopolizando el debate entre Marruecos y el independentista Frente Polisario</s>
+<s docid="08MU010414_825396" num="12" wdcount="55"> Marruecos lleva más de un mes ejerciendo una intensa campaña en las sedes de la ONU (Nueva York y Ginebra) para explicar el avance de los derechos humanos en el Sáhara, pese a que las organizaciones independientes como Amnistía Internacional o Human Rights Watch recuerdan constantemente las trabas a los derechos de reunión y asociación</s>
+<s docid="08MU010414_825396" num="13" wdcount="29"> En paralelo, Rabat trata de abrir un debate y propiciar investigaciones sobre los supuestos atropellos que según Rabat se producen en los campos de refugiados del Polisario en Tinduf</s>
+
+
+</TEXT>
+
+</DOC>

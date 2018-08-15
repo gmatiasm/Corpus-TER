@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="13NE020414_825483" num="1" wdcount="1"> 825483 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="13NE020414_825483" num="2" wdcount="1">13NE020414_825483</s>
+</FILEID>
+
+<HEAD>
+<s docid="13NE020414_825483" num="3" wdcount="5"> Abre Interjet la ruta México-Bajío </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="13NE020414_825483" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="13NE020414_825483" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="13NE020414_825483" num="6" wdcount="27"> Interjet anunció el inicio de operaciones de la ruta México-Bajío y por promoción, los boletos tendrán una tarifa desde 1,999 pesos con impuestos incluidos en viaje sencillo</s>
+<s docid="13NE020414_825483" num="7" wdcount="35"> Con la apertura de este nuevo vuelo, la conectividad aérea de nuestro país se fortalece, lo que contribuye a incrementar las actividades comerciales de nuestro país, aseguró el Director General de Interjet, José Luis Garza</s>
+<s docid="13NE020414_825483" num="8" wdcount="25"> Destacó que para cubrir este nuevo destino, la aerolínea hará uso del avión más moderno en el mundo para atender rutas subtroncales: el Superjet 100</s>
+<s docid="13NE020414_825483" num="9" wdcount="33"> Resaltó que hasta el momento, Interjet tiene seis aeronaves de este tipo y próximamente llegaran 14 más, los cuales permitirán complementar la flota de 42 Airbus A320 con los que cuenta la aerolínea</s>
+<s docid="13NE020414_825483" num="10" wdcount="19"> Con la apertura de nuevas rutas, Interjet hace patente su compromiso de que más mexicanos viajen a precios justos</s>
+<s docid="13NE020414_825483" num="11" wdcount="37"> En este nuevo vuelo, los pasajeros podrán disfrutar de todos los servicios y comodidades de Interjet como documentar hasta 50 kilos de equipaje, las mascotas viajan sin cargo extra, se puede documentar equipo deportivo sin cargo adicional</s>
+<s docid="13NE020414_825483" num="12" wdcount="54"> No se cobra por selección de asiento, tampoco se cobra por la impresión de pases de abordar, los infantes viajan sin cargos adicionales, los adultos mayores cuentan con un descuento permanente; todos los vuelos tienen baños exclusivos para mujeres y los menores de edad pueden viajar sin acompañante sin cargo extra, entre otros beneficios</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,51 @@
+<DOC>
+
+<DOCNO>
+<s docid="01AC010414_825278" num="1" wdcount="1"> 825278 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="01AC010414_825278" num="2" wdcount="1">01AC010414_825278</s>
+</FILEID>
+
+<HEAD>
+<s docid="01AC010414_825278" num="3" wdcount="9"> Diseñan casa que resbalaría vientos de huracán y tornados </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="01AC010414_825278" num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="01AC010414_825278" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="01AC010414_825278" num="6" wdcount="16"> Es casi una costumbre ver cada año países del sureste de Estados Unidos devastados por huracanes</s>
+<s docid="01AC010414_825278" num="7" wdcount="7"> ¿Por qué no hacer casas más resistentes? </s>
+<s docid="01AC010414_825278" num="8" wdcount="15"> Se preguntó el mexicano Sergio Díaz Zubieta después de atender a su lógica como arquitecto</s>
+<s docid="01AC010414_825278" num="9" wdcount="28"> Así nació la idea de buscar una solución y pensó que el problema no estaba en la resistencia de los materiales de las casas, sino en su dinámica</s>
+<s docid="01AC010414_825278" num="10" wdcount="26"> De esta forma elaboró una solución para elaborar hogares —en el estándar de la región— que prácticamente resbalaran los ciclones: casas resistentes a tornados y huracanes</s>
+<s docid="01AC010414_825278" num="11" wdcount="23"> Adecuándose a elaborara un diseño económico que cumpliera requisitos de la región, como la nieve, por ejemplo, desarrolló una idea sencilla pero práctica</s>
+<s docid="01AC010414_825278" num="12" wdcount="47"> “Si uno parte de la base de que algo que no es plano no recibe viento a diferencia de algo vertical que lo recibe totalmente, algo que tenga 45 grados de inclinación deberá de ser sólo afectado en el 50 por ciento”, explica en entrevista el arquitecto</s>
+<s docid="01AC010414_825278" num="13" wdcount="31"> “Si recibo un viento de 300 km por hora con la solución de techos a 45 grados, el ciclón resbalará sobre la estructura porque reduce, como mínimo, la mitad del impacto”</s>
+<s docid="01AC010414_825278" num="14" wdcount="30"> Este diseño piramidal ha sido patentado ya por el mexicano en el país y en EU, puesto que no existe algo parecido en la industria de la construcción hasta ahora</s>
+<s docid="01AC010414_825278" num="15" wdcount="15"> La tarea ahora es promoverla porque el papel por sí mismo “no sirve de nada”</s>
+<s docid="01AC010414_825278" num="16" wdcount="31"> Si las afectaciones a la población por este tipo de fenómenos naturales son una constante, por qué no se había pensado en soluciones distintas para disminuir el riesgo o los daños</s>
+<s docid="01AC010414_825278" num="17" wdcount="9"> “Porque hay mucho poder económico en medio de esto</s>
+<s docid="01AC010414_825278" num="18" wdcount="10"> Pero aún así se puede modificar y hacer el esfuerzo”</s>
+<s docid="01AC010414_825278" num="19" wdcount="1"> CONFORTABLE</s>
+<s docid="01AC010414_825278" num="20" wdcount="28"> De acuerdo con el arquitecto, el diseño que propone se puede componer de dos formas: elaborando las viviendas con piezas precoladas o con colado en el mismo lugar</s>
+<s docid="01AC010414_825278" num="21" wdcount="7"> Lo preferente sería la segunda opción, añade</s>
+<s docid="01AC010414_825278" num="22" wdcount="19"> “De esta forma, la estructura sería más íntegra y resistente a tornados, pero ni huracanes ni sismos le afectarían</s>
+<s docid="01AC010414_825278" num="23" wdcount="14"> Tenemos una opción para evitar más fallecimientos y millones de dólares en pérdidas materiales”</s>
+<s docid="01AC010414_825278" num="24" wdcount="32"> La estructura de concreto armado podría ser armado con aditivos que la hicieran impermeable, pero incluso resistente al fuego y también confortable, porque sería menos afectada por aumento o baja de temperaturas</s>
+<s docid="01AC010414_825278" num="25" wdcount="29"> Díaz Zubieta tiene, por otra parte, una solución de este tipo para México en el contexto de los ciclones que nos afectan y la situación económica de nuestra población</s>
+<s docid="01AC010414_825278" num="26" wdcount="17"> “Es una más sencilla y económica porque tenemos otro contexto (también sería aplicable a países de Latinoamérica)</s>
+<s docid="01AC010414_825278" num="27" wdcount="24"> Ésta representaría sólo el 15% del costo del diseño que propongo para EU; sería de fácil construcción y pensada para población de bajos recursos”</s>
+<s docid="01AC010414_825278" num="28" wdcount="24"> Si bien apunta que sería totalmente diferente a su primer diseño, las modificaciones que se realizarían serían sin detrimento a su calidad y seguridad.</s>
+</TEXT>
+
+</DOC>

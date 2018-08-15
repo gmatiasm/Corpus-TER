@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="13NA010414_825337" num="1" wdcount="1"> 825337 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="13NA010414_825337" num="2" wdcount="1">13NA010414_825337</s>
+</FILEID>
+
+<HEAD>
+<s docid="13NA010414_825337" num="3" wdcount="10"> Diputados adelantan sesión para irse de vacaciones de Semana Santa </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="13NA010414_825337" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="13NA010414_825337" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="13NA010414_825337" num="6" wdcount="40"> En pleno cierre de periodo ordinario de sesiones, con iniciativas y dictámenes de leyes secundarias en espera, los diputados se irán de vacaciones de Semana Santa casi medio mes —12 días en total—, a partir del próximo 10 de abril</s>
+<s docid="13NA010414_825337" num="7" wdcount="42"> Por acuerdo de la Junta de Coordinación Política de la Cámara baja los legisladores cambiaron de última hora la sesión que tenían programada para el martes 15 de este mes —lo que les habrá estropeado su descanso—, para el miércoles 9 entrante</s>
+<s docid="13NA010414_825337" num="8" wdcount="43"> Es decir, los diputados trabajarán esta semana de manera normal, es decir, hoy martes y el jueves, y la siguiente sesionarán martes 8, miércoles 9 y jueves 10, “y de ser necesario el viernes 11”, pero sólo en caso de que haya dictámenes</s>
+<s docid="13NA010414_825337" num="9" wdcount="42"> A partir de ese momento disfrutarán de un largo periodo vacacional que irá del 10 o máximo 11, hasta el martes 22 de abril, sólo ocho días antes de que concluya el periodo ordinario de sesiones, el día 30 del presente mes</s>
+<s docid="13NA010414_825337" num="10" wdcount="27"> Pero ya descansados, con energía recargada, sesionarán martes 22, miércoles, 23 y jueves 24 y —otra vez—, “si hay dictámenes” también trabajarán el viernes 25 de abril</s>
+<s docid="13NA010414_825337" num="11" wdcount="41"> El acuerdo de la Junta de Coordinación Política fue dado a conocer por el vicecoordinador de la bancada del PRD, Miguel Alonso Raya, a petición de su líder parlamentario y presidente de dicho órgano de gobierno en San Lázaro, Silvano Aureoles</s>
+<s docid="13NA010414_825337" num="12" wdcount="68"> Cabe destacar que está pendiente la presentación de parte del Ejecutivo de las iniciativas de leyes secundarias en materia energética; las relativas a la reforma político-electoral; telecomunicaciones, que empezó ya a caminar en el Senado, pero deberá pasar por San Lázaro, además de la reforma de competencia económica, que tienen ya en su poder los senadores en forma de minuta, sin saber si le harán o no modificaciones</s>
+<s docid="13NA010414_825337" num="13" wdcount="80"> No sólo eso, sino que además los diputados deberán desahogar a más tardar la próxima semana, el martes 8, la conformación del consejo general del nuevo Instituto Nacional Electoral (INE), pero si no hubiera acuerdo y la Cámara fuera incapaz de sortear los nombres en el pleno, será la Suprema Corte de Justicia de la Nación la que tendría que insacular, el 16 de abril, lo que rompería las vacaciones de los diputados, o al menos de algunos de ellos</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,59 @@
+<DOC>
+
+<DOCNO>
+<s docid="07OP010414_825343" num="1" wdcount="1"> 825343 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="07OP010414_825343" num="2" wdcount="1">07OP010414_825343</s>
+</FILEID>
+
+<HEAD>
+<s docid="07OP010414_825343" num="3" wdcount="5"> Pobreza, la gran lucha perdida </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="07OP010414_825343" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="07OP010414_825343" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="07OP010414_825343" num="6" wdcount="7"> MTRA.ROSARIO ROBLES BERLANGA, SECRETARIA DE DESARROLLO SOCIAL: </s>
+<s docid="07OP010414_825343" num="7" wdcount="6"> ¿Quién evalúa a los que evalúan? </s>
+<s docid="07OP010414_825343" num="8" wdcount="54"> Anónimo El caso del Consejo Nacional de Evaluación de la Política de Desarrollo Social sufrió el síndrome de los órganos internos de control que supuestamente dependen de la Secretaría de la Función Pública, pero en la realidad son apéndices de cada dependencia federal porque sus titulares ponen y pagan a quienes dirigen los OIC</s>
+<s docid="07OP010414_825343" num="9" wdcount="6"> El Coneval depende de la Sedesol, </s>
+<s docid="07OP010414_825343" num="10" wdcount="4"> ¿para qué le sirvió? </s>
+<s docid="07OP010414_825343" num="11" wdcount="57"> Debemos reconocer que hablamos de un organismo prácticamente superdotado por los métodos de que se sirve y por la calidad del personal que lo integra, como ocurre con todo lo que crea el Banco Mundial, pero baste analizar los resultados de sus actividades sobre información de la pobreza y monitoreo de las políticas y los programas sociales</s>
+<s docid="07OP010414_825343" num="12" wdcount="52"> Nacido a raíz de que Vicente Fox promulgó la Ley General de Desarrollo Social, el Coneval hizo la gran labor de cuantificar el creciente número de pobres que tiene el país y fue muy fiel a esa tarea: no podemos acusarlo de haber errado en tal conteo, como lo constata el INEGI</s>
+<s docid="07OP010414_825343" num="13" wdcount="101"> No es algo nuevo, claro, según datos ofrecidos por Genaro Aguilar, economista de la pobreza, una especialidad en la que se doctoró en Brasil que daba la batalla con la estrategia Cero Pobreza de Lula da Silva, frente a la cual la política pública mexicana respectiva lleva 30 años de fracasos a pesar de que en ese lapso —que conste que se incluyen más de tres lustros priistas- se presupuestaron unos 200 mil millones de pesos —80 mil millones de dólares— para combatirla, pero su logro principal fue que ésta creció, quizá proporcionalmente más durante la primera docena del siglo actual</s>
+<s docid="07OP010414_825343" num="14" wdcount="72"> “A ocho años de su existencia —agrega Aguilar—, no hay una sola evaluación de Coneval que nos diga a qué se debe que el número de pobres aumentó, no hay una evaluación de conjunto de la política pública mexicana; tampoco hay evidencia de que el Coneval haya evaluado la política laboral, la salarial, la de desarrollo regional y la de inversiones, que finalmente determina las oportunidades de desarrollo social con inclusión productiva”</s>
+<s docid="07OP010414_825343" num="15" wdcount="66"> El también profesor del doctorado en la Escuela Superior de Economía del IPN y miembro del Sistema Nacional de Investigadores agregó que, en términos técnicos, el Coneval no ha evaluado los resultados “puros” de cada programa social en México ni a las familias beneficiadas con las que no lo han sido, ni se le conoce alguna evaluación que proponga insumos para modificar los programas públicos existentes</s>
+<s docid="07OP010414_825343" num="16" wdcount="6"> “¿Para qué, entonces, sirve el Coneval?” </s>
+<s docid="07OP010414_825343" num="17" wdcount="28"> —se preguntó y respondió Aguilar—: “El desafío del Coneval autónomo no sólo es avanzar en dirección de abatir el rezago en evaluación que hemos señalado hasta aquí</s>
+<s docid="07OP010414_825343" num="18" wdcount="30"> También es imprescindible dotarlo de atribuciones para medir el impacto y recomendar modificaciones de programas sociales locales porque hoy todos los estados y muchos municipios tienen sus propios programas sociales</s>
+<s docid="07OP010414_825343" num="19" wdcount="50"> Y no se ha dicho nada del déficit legislativo en materia de desarrollo social: el Coneval debería decir qué legislación falta para garantizar los derechos laborales de grupos vulnerables perfectamente identificados, que son ya una demanda añeja, como las empleadas domésticas y los albañiles de la industria de la construcción</s>
+<s docid="07OP010414_825343" num="20" wdcount="23"> Es decir, Coneval también tiene que decir qué les falta hacer a los diputados y senadores en materia de legislación del desarrollo social</s>
+<s docid="07OP010414_825343" num="21" wdcount="37"> Además debería indicar y medir el cumplimiento de los derechos que otorga la Ley Federal del Trabajo, porque hay patrones que no respetan a millones de mexicanos en cuestiones de aguinaldo, pago efectivo de horas extra, etc</s>
+<s docid="07OP010414_825343" num="22" wdcount="6"> Todo esto también es desarrollo social”</s>
+<s docid="07OP010414_825343" num="23" wdcount="45"> Le transmito, secretaria Robles, estas consideraciones del doctor en economía Genaro Aguilar porque si bien la evaluación de la eficiencia pública es algo relativamente nuevo en México y va dando buenos resultados, necesitamos muchos más en todos los campos, pero muy señaladamente en el social</s>
+<s docid="07OP010414_825343" num="24" wdcount="27"> El Coneval es, sin duda, una gran institución que puede —y debe— mejorar mucho más, dar como resultado la disminución y no la contabilidad de la pobreza</s>
+<s docid="07OP010414_825343" num="25" wdcount="17"> Mucho mejor que evalúe, con total autonomía, el trabajo de usted y no que se lo aplauda</s>
+<s docid="07OP010414_825343" num="26" wdcount="33"> Órganos internos de “control” ya existen muchos trabajando mal… “LA SUCESIÓN A LA GOBERNACIÓN… … del estado —les reporta mi colega Alfredo Martínez de Aguilar desde Oaxaca— está más que desatada, totalmente desbordada</s>
+<s docid="07OP010414_825343" num="27" wdcount="5"> Los ánimos están verdaderamente caldeados</s>
+<s docid="07OP010414_825343" num="28" wdcount="10"> Con todo y que faltan dos años para las elecciones</s>
+<s docid="07OP010414_825343" num="29" wdcount="23"> Dado el negro historial de algunos ex gobernadores por sus sangrientos antecedentes, clamamos al cielo para que la sangre no llegue al río</s>
+<s docid="07OP010414_825343" num="30" wdcount="10"> La soberbia siempre será mala consejera y más en política</s>
+<s docid="07OP010414_825343" num="31" wdcount="28"> A quienes lo duden por ingenuidad, escepticismo, indiferencia o abierta complicidad, ahí están desde ya los ataques de José Nelson Murat Casab contra Héctor Pablo Ramírez Puga Leyva</s>
+<s docid="07OP010414_825343" num="32" wdcount="25"> Mercenarios al fin, el ex gobernador utiliza al vicecoordinador de la bancada del partido Movimiento Ciudadano, Ricardo Mejía Bermeja, para ‘acalambrar’ al director de Liconsa</s>
+<s docid="07OP010414_825343" num="33" wdcount="25"> El pretexto es la presunta malversación de los recursos de Liconsa, porque al parecer ha utilizado para su promoción personal en el estado de Oaxaca…”</s>
+<s docid="07OP010414_825343" num="34" wdcount="2"> lmendivil@delfos.com.mx, m760531@hotmail.com </s>
+
+
+</TEXT>
+
+</DOC>

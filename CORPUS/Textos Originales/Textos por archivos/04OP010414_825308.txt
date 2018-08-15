@@ -1,0 +1,53 @@
+<DOC>
+
+<DOCNO>
+<s docid="04OP010414_825308" num="1" wdcount="1"> 825308 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="04OP010414_825308" num="2" wdcount="1">04OP010414_825308</s>
+</FILEID>
+
+<HEAD>
+<s docid="04OP010414_825308" num="3" wdcount="8"> Fuera de tiempo, representantes de la industria automotriz </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="04OP010414_825308" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="04OP010414_825308" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="04OP010414_825308" num="6" wdcount="35"> Parece ser que los representantes de la industria automotriz decidieron hacer caso omiso de aquella frase de “sabia virtud de conocer el tiempo”, e hicieron una reunión de prensa que podríamos considerar “fuera de lugar”</s>
+<s docid="04OP010414_825308" num="7" wdcount="39"> La AMIA, AMDA, ANPACT, INA y ANCA, con justa razón, se quejaron de la falta de repunte en el mercado interno, que se suma a la construcción, quejándose de las importaciones masivas de autos usados de los Estados Unidos</s>
+<s docid="04OP010414_825308" num="8" wdcount="17"> La cifra no es nada despreciable, más de 7 millones de unidades en los últimos 9 años</s>
+<s docid="04OP010414_825308" num="9" wdcount="19"> El problema es que se refieren al bimestre (enero-febrero) cuando en realidad los malos resultados fueron sólo en febrero</s>
+<s docid="04OP010414_825308" num="10" wdcount="21"> Por si fuera poco, llaman a rueda de prensa para la próxima semana para dar a conocer los resultados de marzo</s>
+<s docid="04OP010414_825308" num="11" wdcount="4"> Por qué tanta prisa</s>
+<s docid="04OP010414_825308" num="12" wdcount="13"> Qué tal si las ventas repuntaron, entonces el ejercicio de ayer fue infructuoso</s>
+<s docid="04OP010414_825308" num="13" wdcount="22"> Es factible porque lo mismo sucedió el año pasado, cuando en septiembre hubo una baja y luego se cerró fuerte el 2013</s>
+<s docid="04OP010414_825308" num="14" wdcount="4"> Los argumentos fueron endebles</s>
+<s docid="04OP010414_825308" num="15" wdcount="23"> El problema tiene dos fases coyuntura, que es la caída en la confianza del consumidor y ahí poco o nada se puede hacer</s>
+<s docid="04OP010414_825308" num="16" wdcount="41"> La segunda es la importación de autos usados de Estados Unidos, cuando la Suprema Corte de Justicia, vía el ministro Juan Silva Meza, atiende a favor de la industria el proceso legal y la Secretaría de Economía está de su lado</s>
+<s docid="04OP010414_825308" num="17" wdcount="15"> El malestar se entiende, pero parecen los músicos del Titanic tocando cuando nadie los escucha</s>
+<s docid="04OP010414_825308" num="18" wdcount="12"> Los boletines de prensa de las armadoras y marcas son terriblemente optimistas</s>
+<s docid="04OP010414_825308" num="19" wdcount="22"> Acabo de leer el de Nissan con un liderazgo de 57 meses, asegura que febrero fue el mejor mes de su historia</s>
+<s docid="04OP010414_825308" num="20" wdcount="25"> General Motors que nos habla de repunte de sus modelos claves y Chrysler que explica el repunte de su modelo Fiat, como nunca en México</s>
+<s docid="04OP010414_825308" num="21" wdcount="8"> Lo mismo sucede con Mercedes Benz, Audi, etcétera</s>
+<s docid="04OP010414_825308" num="22" wdcount="10"> Nadie reconoce una baja en ventas o hace queja alguna</s>
+<s docid="04OP010414_825308" num="23" wdcount="7"> Son dos versiones de una misma realidad</s>
+<s docid="04OP010414_825308" num="24" wdcount="26"> Por ejemplo, la baja de Chrysler de menos 20 por ciento se explica por la salida de Hyundai, pero no por un problema de mercado interno</s>
+<s docid="04OP010414_825308" num="25" wdcount="48"> Cuando se corren versiones tan encontradas, lo mínimo que sucede, al chocar, es que el resultado es cero y nada cambiará a pesar de las dramáticas declaraciones de los líderes de asociaciones automotrices, que dicen que el sector está en depresión… sólo por un mes bajo de ventas</s>
+<s docid="04OP010414_825308" num="26" wdcount="11"> Además, su situación es similar a más de 10 sectores productivos</s>
+<s docid="04OP010414_825308" num="27" wdcount="1"> COMERCIO</s>
+<s docid="04OP010414_825308" num="28" wdcount="67"> Terminal Intermodal Querétaro (TIQ), que encabeza José Luis Muñoz Hernández, ha lanzado un amplio proyecto de modernización que incluye un innovador sistema de automatización de procesos de maniobras y servicios a la carga; mientras que trabaja en la ampliación de su capacidad instalada a fin de enfrentar un fuerte crecimiento en el movimiento del comercio exterior hacia la región del Bajío (Querétaro, Guanajuato y parte de Hidalgo)</s>
+<s docid="04OP010414_825308" num="29" wdcount="61"> La estrategia viene a consolidar el liderazgo intermodal de TIQ tras haber recibido una ampliación de su autorización para el manejo, almacenaje y custodia de las mercancía de Comercio Exterior, de parte de la Secretaría de Hacienda Crédito Público de Luis Videgaray, así como de la operación de la Aduana interior de Querétaro dentro de la terminal hasta el año 2034</s>
+<s docid="04OP010414_825308" num="30" wdcount="2"> juliobrito@cronica.com.mx juliobrito@visionautomotriz.com.mx </s>
+
+</TEXT>
+
+</DOC>

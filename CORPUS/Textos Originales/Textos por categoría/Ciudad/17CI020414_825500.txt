@@ -1,0 +1,48 @@
+<DOC>
+
+<DOCNO>
+<s docid="17CI020414_825500" num="1" wdcount="1"> 825500 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="17CI020414_825500" num="2" wdcount="1">17CI020414_825500</s>
+</FILEID>
+
+<HEAD>
+<s docid="17CI020414_825500" num="3" wdcount="9"> Atracan Coppel Iztapalapa; se llevan joyas, celulares y computadoras </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="17CI020414_825500" num="4" wdcount="1"> Ciudad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="17CI020414_825500" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="17CI020414_825500" num="6" wdcount="33"> En tan sólo unos minutos y utilizando marros para romper los cristales, tres sujetos armados robaron celulares, joyerías y equipos de cómputo de la tienda Coppel, colonia El Manto, de la delegación Iztapalapa</s>
+<s docid="17CI020414_825500" num="7" wdcount="13"> Lo anterior sucedió el pasado lunes, cerca de las 3:50 de la tarde</s>
+<s docid="17CI020414_825500" num="8" wdcount="34"> De acuerdo con el informe de la Secretaría de Seguridad Pública del Distrito Federal (SSPDF), los ladrones ingresaron a la tienda, localizada en la calzada Ermita Iztapalapa, amagaron al personal y robaron diversos artículos</s>
+<s docid="17CI020414_825500" num="9" wdcount="38"> Los sujetos escaparon en un vehículo Topaz, color negro, con placas de circulación 918VTW, el cual fue hallado y después abandonado en las calles Hidalgo y Cerrada Hidalgo, en la colonia Barrio San Miguel, de la delegación Iztapalapa</s>
+<s docid="17CI020414_825500" num="10" wdcount="25"> Luego del llamado de emergencia, dos elementos de la SSPDF se presentaron al lugar; sin embargo, el vigilante de la tienda les impidió el paso</s>
+<s docid="17CI020414_825500" num="11" wdcount="12"> Tras siete minutos de espera, el gerente de la sucursal los atendió</s>
+<s docid="17CI020414_825500" num="12" wdcount="22"> El trabajador les informó sobre el asalto y sobre los artículos robados: joyería, equipos de cómputo y productos de la marca Apple</s>
+<s docid="17CI020414_825500" num="13" wdcount="19"> Al interior del establecimiento se ubicaban dos mujeres, quienes tuvieron que recibir ayuda médica debido a una crisis nerviosa</s>
+<s docid="17CI020414_825500" num="14" wdcount="24"> La Procuraduría General de Justicia del DF (PGJDF) solicitó al establecimiento los videos a fin de identificar a los sujetos que robaron la mercancía</s>
+<s docid="17CI020414_825500" num="15" wdcount="20"> Debido al modus operandi, las autoridades ministeriales investigan también si los ladrones están involucrados en otros robos, principalmente en joyerías</s>
+<s docid="17CI020414_825500" num="16" wdcount="1"> HISTORIAL</s>
+<s docid="17CI020414_825500" num="17" wdcount="18"> Desde octubre del 2013, se ha presentado una ola de robos a joyerías y establecimientos del Distrito Federal</s>
+<s docid="17CI020414_825500" num="18" wdcount="23"> El 3 de noviembre, seis sujetos vestidos de zombies, momias y Chuky asaltaron una joyería en el interior de Plaza de las Estrellas</s>
+<s docid="17CI020414_825500" num="19" wdcount="23"> Días después, el 28 de diciembre, cuatro hombres irrumpieron en La Pequeña Suiza, en el Centro Comercial Santa Fe, para robar relojes finos</s>
+<s docid="17CI020414_825500" num="20" wdcount="16"> El 18 de enero la joyería Cristal Joyas, en Plaza Tepeyac, en la delegación Gustavo A</s>
+<s docid="17CI020414_825500" num="21" wdcount="1"> Madero</s>
+<s docid="17CI020414_825500" num="22" wdcount="34"> Para el 26 de enero, la Joyería Expresiones, localizada en el interior de Galerías Coapa; se registró una balacera en la que perdió la vida un elemento de la Policía Bancaria e Industrial (PBI)</s>
+<s docid="17CI020414_825500" num="23" wdcount="47"> El 23 de febrero, en Plaza Lindavista, cinco hombres y una mujer robaron la tienda iShop Mixup, en tanto que el viernes 21 de marzo se suscitó, por segunda ocasión, un asalto a la joyería La Pequeña Suiza, en el que se llevaron 39 relojes de lujo</s>
+
+
+</TEXT>
+
+</DOC>

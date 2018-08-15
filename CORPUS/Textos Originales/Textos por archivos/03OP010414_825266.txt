@@ -1,0 +1,47 @@
+<DOC>
+
+<DOCNO>
+<s docid="03OP010414_825266" num="1" wdcount="1"> 825266 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="03OP010414_825266" num="2" wdcount="1">03OP010414_825266</s>
+</FILEID>
+
+<HEAD>
+<s docid="03OP010414_825266" num="3" wdcount="1"> La envidia </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="03OP010414_825266" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="03OP010414_825266" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="03OP010414_825266" num="6" wdcount="26"> Es importante para cualquier ser humano pensar en los demás, tenerlos en cuenta, no mostrarnos aislados, pero esto debe de ser de manera especial, bien intencionada</s>
+<s docid="03OP010414_825266" num="7" wdcount="21"> El estar pendientes de los demás, debería de hacerse de acuerdo a ver su beneficio, de ayuda, de aprendizaje, de solidaridad</s>
+<s docid="03OP010414_825266" num="8" wdcount="28"> Los problemas surgen en el momento en que al ver a los demás, nos comparamos, los vemos como enemigos, cuestionamos sus logros, los percibimos como enemigos a vencer</s>
+<s docid="03OP010414_825266" num="9" wdcount="13"> La envidia daña mucho, de manera personal, al igual que de forma colectiva</s>
+<s docid="03OP010414_825266" num="10" wdcount="6"> Vaya, para nosotros y los demás</s>
+<s docid="03OP010414_825266" num="11" wdcount="18"> Es una manera de notable pérdida de tiempo, de desconcentración, y de la toma incorrecta de nuestro camino</s>
+<s docid="03OP010414_825266" num="12" wdcount="36"> La envidia tiene que ver con el quitarles valor a los demás, sus esfuerzos, sus logros, sus alegrías, pensando que son injustificadamente poseedores de todo lo suyo, y que somos nosotros quienes deberíamos de tener aquello</s>
+<s docid="03OP010414_825266" num="13" wdcount="20"> Resulta complicado entender los motivos por los que tendemos a entristecernos por éxitos ajenos, como si no fueran humanos también</s>
+<s docid="03OP010414_825266" num="14" wdcount="23"> Nos pasamos justificando nuestros errores y fracasos, quitándonos responsabilidades, y culpando a un mundo injusto que nos desprecia y nos impide salir adelante</s>
+<s docid="03OP010414_825266" num="15" wdcount="9"> El planeta nos odia, pero ama a los demás</s>
+<s docid="03OP010414_825266" num="16" wdcount="22"> Y no todo queda en las ya de por sí desagradables impresiones que tenemos, en nuestros sentimientos; se traduce en acciones vergonzosas</s>
+<s docid="03OP010414_825266" num="17" wdcount="5"> Hablamos mal, desprestigiamos, generamos problemas</s>
+<s docid="03OP010414_825266" num="18" wdcount="30"> Y, a mí me parece que lo más conveniente para todos es que a otros les vaya bien, eso es motor de que personalmente también corramos con las mismas condiciones</s>
+<s docid="03OP010414_825266" num="19" wdcount="18"> En nada nos afecta que a los demás le vaya mejor que nosotros, pero no lo podemos tolerar</s>
+<s docid="03OP010414_825266" num="20" wdcount="26"> Mientras los triunfos ajenos sean justos, dignos, y merecidos; nos hace bien aplaudirlo, nos hace mejores personas, y nos ayuda a tener una sociedad más ordenada</s>
+<s docid="03OP010414_825266" num="21" wdcount="21"> No nos lleva a nada dejarnos llevar por las envidias, al contrario, nos bloquea, nos ciega, influye negativamente en nuestro accionar</s>
+<s docid="03OP010414_825266" num="22" wdcount="3"> alfonso_vera@hotmail.com twitter: @ponchovpof </s>
+
+
+
+</TEXT>
+
+</DOC>

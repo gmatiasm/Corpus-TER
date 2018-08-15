@@ -1,0 +1,36 @@
+<DOC>
+
+<DOCNO>
+<s docid="19AC080414_826876"num="1" wdcount="1"> 826876 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="19AC080414_826876"num="2" wdcount="1">19AC080414_826876</s>
+</FILEID>
+
+<HEAD>
+<s docid="19AC080414_826876"num="3" wdcount="9"> Presentan primer detector de mentiras por movimiento de ojos  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="19AC080414_826876"num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="19AC080414_826876"num="5" wdcount="1"> 2014-04-08 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="19AC080414_826876" num="6" wdcount="37"> Los ojos ya no sólo serán “el espejo del alma”, pues la empresa Converus ofrece ahora el primer detector de mentiras a partir del movimiento ocular y con el cual garantiza un 85 por ciento de efectividad</s></s>
+<s docid="19AC080414_826876" num="7" wdcount="32"> El presidente y CEO de la empresa de soluciones tecnológicas, Todd Mickelsen, explicó que el nuevo sistema, denominado EyeDetect, da seguimiento de una serie de parámetros oculares que permiten detectar el engaño</s></s>
+<s docid="19AC080414_826876" num="8" wdcount="33"> En conferencia de prensa, aseguró que esta herramienta es más económica, “sin tantos dispositivos invasivos o intimidatorios” como en el caso del polígrafo, que por años fue el mejor medio para detectar mentiras</s></s>
+<s docid="19AC080414_826876" num="9" wdcount="43"> Explicó que el nuevo sistema sólo requiere que el sujeto se coloque frente a una computadora y conteste una serie de preguntas con “cierto o falso”, en tanto que una cámara detecta el movimiento de los ojos y los compara con las respuestas</s></s>
+<s docid="19AC080414_826876" num="10" wdcount="31"> Posteriormente, abundó, el sistema encripta la información y la procesa en un periodo de 30 a 40 minutos, tiempo que dura la encuesta, de manera que ofrece resultados casi de inmediato</s></s>
+<s docid="19AC080414_826876" num="11" wdcount="39"> Mickelsen comentó que se buscará implementar este sistema para incrementar la eficiencia del polígrafo en casos de delitos, así como para entrevistas de trabajo y otros campos en los que se requiere el manejo de información verídica y confiable</s></s>
+<s docid="19AC080414_826876" num="12" wdcount="16"> Agregó que para el uso del sistema, los examinadores sólo requieren de un día de entrenamiento.</s>
+
+</TEXT>
+
+</DOC>

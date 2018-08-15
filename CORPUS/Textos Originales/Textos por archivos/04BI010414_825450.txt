@@ -1,0 +1,52 @@
+<DOC>
+
+<DOCNO>
+<s docid="04BI010414_825450" num="1" wdcount="1"> 825450 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="04BI010414_825450" num="2" wdcount="1">04BI010414_825450</s>
+</FILEID>
+
+<HEAD>
+<s docid="04BI010414_825450" num="3" wdcount="11"> Oxitocina, la hormona de vinculación podría ayudar a pacientes de autismo </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="04BI010414_825450" num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="04BI010414_825450" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="04BI010414_825450" num="6" wdcount="31"> Personas que sufrían de autismo o síndrome de Asperger y que tenían un alto funcionamiento pudieron “captar” mejor las pistas sociales tras inhalar la hormona oxitocina, según muestra una investigación reciente</s>
+<s docid="04BI010414_825450" num="7" wdcount="22"> La oxitocina, que se produce en abundancia cuando una madre amamanta a su bebé, se conoce como la hormona de la “vinculación”</s>
+<s docid="04BI010414_825450" num="8" wdcount="29"> Aunque aún hay que resolver varios detalles, los expertos piensan que la estrategia se muestra promisoria para tratar a uno de los principales síntomas del trastorno del espectro autista</s>
+<s docid="04BI010414_825450" num="9" wdcount="57"> “Cuando se comienza a pensar en una hormona que puede en realidad fomentar la conducta prosocial, se habla sobre cambios potencialmente significativos en la calidad de vida”, señaló Clara Lajonchere, vicepresidenta de programas clínicos del grupo de defensoría Autism Speaks y profesora clínica asistente de la Facultad de medicina Keck de la Universidad del Sur de California</s>
+<s docid="04BI010414_825450" num="10" wdcount="25"> “Ante la ausencia de déficits intelectuales, las áreas en que tienen mayores problemas tienen que ver con la comunicación social y la conectividad social”, continuó</s>
+<s docid="04BI010414_825450" num="11" wdcount="21"> “Estas personas no pueden interpretar las percepciones de los demás, no pueden leer pistas sociales, no establecen contacto con los ojos”</s>
+<s docid="04BI010414_825450" num="12" wdcount="38"> Aunque existen fármacos para los síntomas secundarios del autismo, como la irritabilidad y la agresión, los médicos aún no cuentan con nada para los síntomas principales en las áreas del lenguaje, la interacción social y los déficits intelectuales</s>
+<s docid="04BI010414_825450" num="13" wdcount="26"> Estudios anteriores han demostrado un efecto potente de la oxitocina en las personas con autismo, además de personas que no tienen un trastorno del espectro autista</s>
+<s docid="04BI010414_825450" num="14" wdcount="22"> Un estudio encontró que los autistas parecen tener una menor sensibilidad a la oxitocina que las personas que no padecen el trastorno</s>
+<s docid="04BI010414_825450" num="15" wdcount="18"> “No hay duda de que la oxitocina tiene un gran efecto sobre las interacciones sociales en cualquier persona</s>
+<s docid="04BI010414_825450" num="16" wdcount="74"> Es casi como una droga de diseñador, una que tiene un efecto selectivo sobre una conducta dentro del rango normal”,aseguró Keith Young, vicepresidente de investigación y ciencias conductuales delColegio de medicina delCentro de Ciencias de la Salud Texas A&M de Temple, y líder principal de neuroimágenes y genética del Centro para la excelencia de la investigación sobre los veteranos de guerra que regresan del Sistema Central de Atención de Salud de Veteranos de Texas</s>
+<s docid="04BI010414_825450" num="17" wdcount="19"> Este estudio, de un equipo de investigadores franceses, aparece en la revista Proceedings of the National Academy of Sciences</s>
+<s docid="04BI010414_825450" num="18" wdcount="17"> En él participaron trece adultos, la mayoría hombres, de edades entre los 17 y los 39 años</s>
+<s docid="04BI010414_825450" num="19" wdcount="10"> Todos tenían autismo o síndrome de Asperger con alto funcionamiento</s>
+<s docid="04BI010414_825450" num="20" wdcount="14"> Los participantes realizaron distintas tareas, tras inhalar la oxitocina o sin utilizar la hormona</s>
+<s docid="04BI010414_825450" num="21" wdcount="31"> Cuando se les observó mientras jugaban un juego de pelotas virtual, los individuos que habían inhalado oxitocina pudieron interactuar mejor con sus parejas virtuales en comparación con los participantes no tratados</s>
+<s docid="04BI010414_825450" num="22" wdcount="23"> Además, tras inhalar oxitocina, los participantes mostraron un mayor nivel de alerta a pistas visuales con importancia social en fotografías de rostros humanos</s>
+<s docid="04BI010414_825450" num="23" wdcount="13"> Sin embargo, hubo una amplia variación entre las respuestas individuales, anotó el equipo</s>
+<s docid="04BI010414_825450" num="24" wdcount="18"> “No está claro si tendría alguna eficacia en niños o adultos jóvenes que presentan problemas intelectuales”, advirtió Young</s>
+<s docid="04BI010414_825450" num="25" wdcount="13"> Tampoco se conocen con certeza los efectos a largo plazo de la hormona</s>
+<s docid="04BI010414_825450" num="26" wdcount="28"> “Realmente quiero exhortar a ensayos clínicos en esta área debido a su potencial significado, pero tenemos que ser muy cuidadosos respecto a los datos sobre seguridad”, advirtió Lajonchere</s>
+<s docid="04BI010414_825450" num="27" wdcount="7"> “Los datos sobre seguridad son realmente críticos”.</s>
+
+
+</TEXT>
+
+</DOC>

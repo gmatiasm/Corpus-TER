@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="19SO080414_826870" num="1" wdcount="1"> 826870 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="19SO080414_826870" num="2" wdcount="1">19SO080414_826870</s>
+</FILEID>
+
+<HEAD>
+<s docid="19SO080414_826870" num="3" wdcount="13"> Denuncian a una residencia de ancianos de EU por contratar a un stripper </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="19SO080414_826870" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="19SO080414_826870" num="5" wdcount="1"> 2014-04-08 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="19SO080414_826870" num="6" wdcount="43"> Una residencia de reposo en Long Island contrató a un joven "stripper" para "entretener" a los ancianos que viven en la residencia, según denunció la familia de una de las ancianas internas de un centro de la localidad de East Neck, Nueva York</s>
+<s docid="19SO080414_826870" num="7" wdcount="48"> El hijo de Bernice Youngblood, residente del centro de 85 años de edad y con deterioro cognitivo como resultado del Alzheimer, se dio cuenta de que la clínica había contratado a un "stripper" para los ancianos cuando el pasado mes de enero descubrió una fotografía de su madre</s>
+<s docid="19SO080414_826870" num="8" wdcount="33"> En la imagen aparecía un musculoso joven "casi desnudo" con unos "pequeños" calzoncillos que entrelazaba sus piernas con las de su madre mientras esta introduce unos billetes en la ropa interior del joven</s>
+<s docid="19SO080414_826870" num="9" wdcount="26"> Además, en la fotografía aparecen otros residentes de la clínica, como una mujer que se tapa la cara y otra que sonríe mientras mira el espectáculo</s>
+<s docid="19SO080414_826870" num="10" wdcount="40"> "Todos los agentes y empleados tenían la obligación de proteger y cuidar a los pacientes encargándose de su salud física, mental y emocional y del bienestar de los pacientes bajo su supervisión", consta en la denuncia de la familia Youngblood</s>
+<s docid="19SO080414_826870" num="11" wdcount="38"> En la instantánea, la anciana, que firma y ratifica la veracidad de lo que se dice en la denuncia, tiene billetes en su mano cuando no está permitido que los residentes de la clínica puedan disponer de efectivo</s>
+<s docid="19SO080414_826870" num="12" wdcount="36"> La denuncia afirma que el contrato del "stripper" se hizo bajo el "perverso placer y disfrute de los empleados" a sabiendas de que "los pacientes no tenían la capacidad física y mental para consentir actos viles"</s>
+<s docid="19SO080414_826870" num="13" wdcount="29"> El hijo de Bernice Youngblood subrayó que aunque su madre, bautista tradicional, "a veces está lúcida" no tiene la capacidad mental y física para cuidar siempre de si misma</s>
+<s docid="19SO080414_826870" num="14" wdcount="53"> El hijo de Youngblood intentó hablar con el personal de la clínica para aclarar la situación, sin embargo, muchos de los empleados no respondieron a sus preguntas sobre la fotografía y una enfermera le explicó que era un evento de "entretenimiento" hecho con "buena fe", tal y como se reconoce en la denuncia</s>
+<s docid="19SO080414_826870" num="15" wdcount="21"> No se conoce con exactitud el momento en el que se tomó la fotografía ni quién fue el encarga</s>
+
+</TEXT>
+
+</DOC>

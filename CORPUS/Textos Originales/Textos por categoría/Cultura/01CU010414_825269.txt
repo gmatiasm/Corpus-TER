@@ -1,0 +1,59 @@
+<DOC>
+
+<DOCNO>
+<s docid="01CU010414_825269" num="1" wdcount="1"> 825269 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="01CU010414_825269" num="2" wdcount="1">01CU010414_825269</s>
+</FILEID>
+
+<HEAD>
+<s docid="01CU010414_825269" num="3" wdcount="9"> Paz sigue dialogando con el presente, dice Julio Hubard </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="01CU010414_825269" num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="01CU010414_825269" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="01CU010414_825269" num="6" wdcount="35"> Las obras de Octavio Paz son vigentes porque aún falta perspectiva histórica para hacer un balance general de su producción literaria, porque leerlo es operar a favor del IQ y porque su poesía es multifacética</s>
+<s docid="01CU010414_825269" num="7" wdcount="29"> Así lo consideraron los escritores Julio Hubart y Hugo Verani durante la presentación de las seis reediciones del FCE sobre la vida y obra del Nobel de Literatura mexicano</s>
+<s docid="01CU010414_825269" num="8" wdcount="21"> Estos volúmenes que se dividen en biografías y obra producida son: Una introducción a Octavio Paz, Las palabras y los días</s>
+<s docid="01CU010414_825269" num="9" wdcount="20"> Una antología introductoria, las cuales acercan a los lectores a la vida de Paz, y Al calor de la amistad</s>
+<s docid="01CU010414_825269" num="10" wdcount="5"> Correspondencia 1950-1984, También soy escritura</s>
+<s docid="01CU010414_825269" num="11" wdcount="16"> Octavio Paz cuenta de sí y las Obras completas volumen I (La casa de la presencia</s>
+<s docid="01CU010414_825269" num="12" wdcount="13"> Poesía e historia) y volumen II (Excursiones), que presentan el pensamiento del escritor</s>
+<s docid="01CU010414_825269" num="13" wdcount="10"> Durante la presentación, Julio Hubard, autor de También soy escritura</s>
+<s docid="01CU010414_825269" num="14" wdcount="42"> Octavio Paz cuenta de sí, señaló la importancia de que los jóvenes no comparen al poeta con la imagen de una estatua, sino que adquieran la idea que camina todavía entre ellos, que se ha fantasmeado, pero sigue dialogando en el presente</s>
+<s docid="01CU010414_825269" num="15" wdcount="16"> “Ésa es la presencia que nos va a hacer la vida más ancha, no más larga</s>
+<s docid="01CU010414_825269" num="16" wdcount="4"> Nos vuelve más inteligentes</s>
+<s docid="01CU010414_825269" num="17" wdcount="11"> Leer a Octavio Paz es operar a favor del propio IQ</s>
+<s docid="01CU010414_825269" num="18" wdcount="11"> Es hacerse la cabeza más grande y la visión más profunda</s>
+<s docid="01CU010414_825269" num="19" wdcount="26"> Octavio Paz lo obliga a uno a colocarse como persona de verdad cuando uno es lector, esa característica resulta admirable en todos los grandes autores”, destacó</s>
+<s docid="01CU010414_825269" num="20" wdcount="39"> Sobre el título que reedita el FCE, dijo que acerca a los lectores mediante una selección de escritos, poemas y entrevistas a un Octavio Paz en conflicto con el Partido Comunista y sus viajes en Japón, India y París</s>
+<s docid="01CU010414_825269" num="21" wdcount="7"> “El libro muestra la horizontalidad de Paz</s>
+<s docid="01CU010414_825269" num="22" wdcount="25"> Siempre miró a sus interlocutores fuera quien fuera, de frente, a los ojos, no conocía otra manera de relacionarse con la gente y el mundo</s>
+<s docid="01CU010414_825269" num="23" wdcount="11"> Eso es algo impresionante porque suele tenerse la idea contraria”, aseveró</s>
+<s docid="01CU010414_825269" num="24" wdcount="1"> PERSPECTIVA</s>
+<s docid="01CU010414_825269" num="25" wdcount="50"> El escritor Hugo Verani habló sobre la edición de los dos volúmenes de Obras completas, a los cuales se refirió como reflexiones sobre poesía que infieren a recordarle al lector que el pensamiento poético fue el fundamento de la multifacética producción intelectual del autor de El arco y la lira</s>
+<s docid="01CU010414_825269" num="26" wdcount="21"> “Paz siempre regresaba a la poesía, le abrió un camino para desarrollar sus ideas sobre grandes inquietudes culturales, sociales y políticas</s>
+<s docid="01CU010414_825269" num="27" wdcount="28"> Sus ensayos críticos son una guía de la poesía del siglo XX que tienen tanta gravitación hoy en día como en el momento en que fuera escrita”, señaló</s>
+<s docid="01CU010414_825269" num="28" wdcount="44"> Sobre la vigencia de la obra de Octavio Paz, comentó, falta perspectiva histórica para hacer un balance general de su producción y para valorar su contribución al estudio de la literatura, ya que toda propuesta critica, dijo, es provisional, nunca definitiva, ni es concluyente</s>
+<s docid="01CU010414_825269" num="29" wdcount="23"> “Al releer sus ensayos no es posible dejar de reconocer la relevancia de su reflexión sobre el lenguaje y la palabra como revelación</s>
+<s docid="01CU010414_825269" num="30" wdcount="36"> Si la mayor parte de la crítica literaria es devorada por el tiempo, Paz continúa impactando al lector, ya que existen pocos poetas con la virtud de establecer una poética que sobreviva a su tiempo”, expresó</s>
+<s docid="01CU010414_825269" num="31" wdcount="32"> Además, reconoció que si Piedra de sol deja de existir en un futuro, ya no existirá la lengua española, porque es la condensación de un pensamiento transfigurado en palabras, imágenes y ritmos</s>
+<s docid="01CU010414_825269" num="32" wdcount="29"> Por su parte, Rodrigo Martínez, historiador e hijo de José Luis Martínez, director del FCE de 1977 a 1982, indicó que la reedición de Al calor de la amistad</s>
+<s docid="01CU010414_825269" num="33" wdcount="28"> Correspondencia 1950-1984 reúne más de 70 cartas que intercambiaron Octavio Paz y dicho editor, en donde se plasma la amistad incondicional entre ambos y la constante crítica literaria</s>
+<s docid="01CU010414_825269" num="34" wdcount="13"> Por último, Adolfo Castañón comentó que el libro Las palabras y los días</s>
+<s docid="01CU010414_825269" num="35" wdcount="25"> Una antología introductoria aborda la poesía, el ensayo y el artículo político de Paz e incluye un nuevo prólogo del ensayista y editor Ricardo Cayuela</s>
+
+</TEXT>
+
+</DOC>

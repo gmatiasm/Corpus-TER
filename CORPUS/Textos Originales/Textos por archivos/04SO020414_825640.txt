@@ -1,0 +1,46 @@
+<DOC>
+
+<DOCNO>
+<s docid="04SO020414_825640"num="1" wdcount="1"> 825640 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="04SO020414_825640"num="2" wdcount="1">04SO020414_825640</s>
+</FILEID>
+
+<HEAD>
+<s docid="04SO020414_825640"num="3" wdcount="5"> Microsoft presenta Windows Phone 8.1  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="04SO020414_825640"num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="04SO020414_825640"num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="04SO020414_825640" num="6" wdcount="42"> Microsoft presentó hoy Windows Phone 8.1, la actualización de su sistema operativo para teléfonos inteligentes, en el arranque de su conferencia Build en San Francisco, un software que incrementa la personalización de los dispositivos e incorpora un asistente de voz bautizado Cortana</s>
+<s docid="04SO020414_825640" num="7" wdcount="30"> Windows Phone 8.1 incorpora un centro de notificaciones que permite al desarrollador de aplicaciones tener más control sobre los avisos y ofrece más detalles sobre el estado de la batería</s>
+<s docid="04SO020414_825640" num="8" wdcount="22"> El renovado sistema operativo también habilita pantallas de bloqueo interactivas y la posibilidad de usar imágenes propias como fondo de las aplicaciones</s>
+<s docid="04SO020414_825640" num="9" wdcount="55"> Tal y como estaba previsto, Microsoft dio a conocer Cortana, asistente de voz que usa Bing y es similar a los ya existentes en los ecosistemas de Apple y Google, Siri y Google Now, que sirve para fijar citas y recordatorios, leer la agenda, hacer llamadas, buscar lugares y conocer resultados deportivos, entre otras cosas</s>
+<s docid="04SO020414_825640" num="10" wdcount="23"> Cortana está pensado para hacer sugerencias al usuario y para ello accede a la información y los correos electrónicos descargados en el teléfono</s>
+<s docid="04SO020414_825640" num="11" wdcount="51"> El responsable de sistemas operativos de Microsoft, Joe Belfiore, aseguró que Cortana solo rastreará datos en el dispositivo y no compartirá esa información con la nube sin autorización previa, que será necesaria para que el asistente de voz gestione, por ejemplo, el estatus de un vuelo de interés para el usuario</s>
+<s docid="04SO020414_825640" num="12" wdcount="26"> Cortana podrá ser utilizado para establecer recordatorios asociados con personas que se activarán cuando el usuario se comunique con ellas vía llamada, chat o correo electrónico</s>
+<s docid="04SO020414_825640" num="13" wdcount="51"> Microsoft permite que los desarrolladores de aplicaciones puedan incorporar los servicios de Cortana para sus productos y enseñó como Facebook o Hulu Plus responden a órdenes de voz para conocer qué ha publicado recientemente alguien en la red social y añadir alguna serie a la lista personal de contenidos para ver</s>
+<s docid="04SO020414_825640" num="14" wdcount="27"> Windows Phone 8.1 también llegará con la función "wifi sense" para "ayudar a los usuarios a sacar un gran partido a las redes de wifi", comentó Belfiore</s>
+<s docid="04SO020414_825640" num="15" wdcount="45"> Se trata de un software que localiza los acceso de wifi gratuitos en el entorno y es capaz de conectarse de forma automática a esas redes, incluso proveer de correo electrónico y contraseña para establecer la conexión sin que el usuario tenga que hacer nada</s>
+<s docid="04SO020414_825640" num="16" wdcount="17"> Este sistema se puede emplear también para compartir automáticamente la red personal de wifi con personas autorizadas</s>
+<s docid="04SO020414_825640" num="17" wdcount="35"> Windows Phone 8.1 estará disponible de forma progresiva "en los próximos meses" y vendrá instalado de fábrica en los nuevo teléfonos Windows Phone a partir de finales de abril o principios de mayo, dijo Belfiore</s>
+<s docid="04SO020414_825640" num="18" wdcount="11"> Cortana, sin embargo, saldrá en un primer momento solo en EE.UU</s>
+<s docid="04SO020414_825640" num="19" wdcount="7"> y como producto beta (versión de prueba)</s>
+<s docid="04SO020414_825640" num="20" wdcount="15"> Microsoft no mencionó las opciones de idioma disponibles para Cortana, que presentó solo en inglés</s>
+<s docid="04SO020414_825640" num="21" wdcount="34"> La compañía tecnológica anunció además dos nuevos fabricantes de teléfonos Windows Phone, la empresa india Micromax y la chipriota Prestigio, cuyos aparatos aún están en fase de desarrollo y funciona con chips de Qualcomm</s>
+
+
+</TEXT>
+
+</DOC>

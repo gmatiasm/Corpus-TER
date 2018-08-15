@@ -1,0 +1,44 @@
+<DOC>
+
+<DOCNO>
+<s docid="04NE010414_825310" num="1" wdcount="1"> 825310 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="04NE010414_825310" num="2" wdcount="1">04NE010414_825310</s>
+</FILEID>
+
+<HEAD>
+<s docid="04NE010414_825310" num="3" wdcount="8"> Recorta el Ifetel tarifas de interconexión a AMóvil </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="04NE010414_825310" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="04NE010414_825310" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="04NE010414_825310" num="6" wdcount="21"> El Instituto Federal de Telecomunicaciones (Ifetel) redujo las tarifas de interconexión que aplicará América Móvil a las demás empresas de telefonía</s>
+<s docid="04NE010414_825310" num="7" wdcount="30"> La empresa informó que las tarifas impuestas son menores que las que actualmente se aplican y están por debajo de las que se observan en la mayoría de los países</s>
+<s docid="04NE010414_825310" num="8" wdcount="22"> La interconexión es el servicio que se cobran las empresas de telecomunicaciones por el enlace de sus redes durante las llamadas telefónicas</s>
+<s docid="04NE010414_825310" num="9" wdcount="44"> Con la imposición de estas tarifas, Telcel y Teléfonos de México (Telmex), empresas controladas por América Móvil, estarán obligadas a cobrarles tarifas más bajas a sus competidores y deberá pagar precios más elevados a las demás empresas, como resultado de la declaratoria de preponderancia</s>
+<s docid="04NE010414_825310" num="10" wdcount="28"> "Esta resolución determina una reducción sustancial a las tarifas de interconexión, terminación y tránsito vigentes, así como un tratamiento asimétrico respecto del resto de los operadores en México</s>
+<s docid="04NE010414_825310" num="11" wdcount="32"> Las tarifas referidas en la resolución son comparativamente menores a las vigentes para los mismos servicios en la gran mayoría de los países en el mundo", destacó América Móvil en un comunicado</s>
+<s docid="04NE010414_825310" num="12" wdcount="36"> Gabriel Contreras, presidente del Ifetel, explicó que América Móvil estará obligada a cumplir con las tarifas de interconexión fijadas a partir del seis de abril y terminarán su vigencia el 31 de diciembre de este año</s>
+<s docid="04NE010414_825310" num="13" wdcount="1"> AMPARO</s>
+<s docid="04NE010414_825310" num="14" wdcount="23"> Grupo Carso y Grupo Financiero Inbursa se ampararon contra la declaratoria de preponderancia que recientemente les impuso el Instituto Federal de Telecomunicaciones (Ifetel)</s>
+<s docid="04NE010414_825310" num="15" wdcount="17"> A su vez, el organismo regulador afirmó que defenderá la legalidad de su resolución en los tribunales</s>
+<s docid="04NE010414_825310" num="16" wdcount="41"> Ayer, ambas empresas informaron que se ampararon debido a que consideran que no cumplen con los criterios para ser determinadas como agentes económicos preponderantes, ya que no ofrecen servicios de telecomunicaciones ni cuentan con una concesión para competir en este mercado</s>
+<s docid="04NE010414_825310" num="17" wdcount="45"> "Inbursa es un grupo financiero de conformidad con la autorización obtenida para ello por parte de la Secretaría de Hacienda y Crédito Público (SHCP) y la normatividad aplicable en dicha materia", destaca la empresa en un comunicado enviado a la Bolsa Mexicana de Valores (BMV)</s>
+<s docid="04NE010414_825310" num="18" wdcount="47"> "En el diseño de las resoluciones de preponderancia hubo una investigación profunda y un trabajo muy serio por parte del instituto, por lo que haremos valer lo que el derecho corresponda para defender la legalidad y la constitucionalidad de nuestras resoluciones", afirmó Gabriel Contreras, presidente del Ifetel</s>
+<s docid="04NE010414_825310" num="19" wdcount="35"> El instituto ha señalado que al declarar como preponderantes al conjunto de empresas que conforman a Grupo Carso, se asegura de que éstas no cuenten con algún medio o vía para incumplir con las obligaciones</s>
+
+
+</TEXT>
+
+</DOC>

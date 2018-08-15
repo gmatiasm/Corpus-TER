@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="01ED010414_825286" num="1" wdcount="1"> 825286 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="01ED010414_825286" num="2" wdcount="1">01ED010414_825286</s>
+</FILEID>
+
+<HEAD>
+<s docid="01ED010414_825286" num="3" wdcount="11"> Alerta Amber logra localizar y entregar a una menor en Yucatán </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="01ED010414_825286" num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="01ED010414_825286" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="01ED010414_825286" num="6" wdcount="37"> Autoridades del programa Alerta Amber Yucatán de la Fiscalía General del Estado (FGE) entregaron ayer a la menor Carolina Trinidad Paredes Baas a su familia, luego de ser localizada en el municipio de Benito Juárez, Quintana Roo</s>
+<s docid="01ED010414_825286" num="7" wdcount="54"> A 72 horas de la emisión de la primera Alerta Amber en Yucatán desde el arranque del programa, activada al detectar que la extraviada se encontraba con una persona con antecedentes penales, finalmente fue localizada cuando estaba en una iglesia, acompañada de familiares de la persona con la que decidió viajar al vecino estado</s>
+<s docid="01ED010414_825286" num="8" wdcount="62"> Desde el inicio de la denuncia interpuesta por la madre de la desaparecida, autoridades de la FGE iniciaron las investigaciones correspondientes, que derivaron en la citada activación de la alerta, a la que se unieron medios de comunicación e integrantes de la sociedad civil, trabajos que se extendieron con una solicitud de colaboración a la Procuraduría General de Justicia de Quintana Roo</s>
+<s docid="01ED010414_825286" num="9" wdcount="39"> Según el relato de la menor al ser entrevistada en las instalaciones de la Fiscalía General, determinó irse por voluntad propia tras diversos problemas con su familia, por lo que escapó con su pareja de 22 años de edad</s>
+<s docid="01ED010414_825286" num="10" wdcount="42"> Ambos determinaron viajar a la ciudad de Cancún, donde vive la familia del sujeto, por lo que de inmediato se trasladaron para allá, donde Carolina Trinidad Paredes quedó encomendada con una tía del novio, quien la acompañaba al momento de ser encontrada</s>
+<s docid="01ED010414_825286" num="11" wdcount="49"> Durante el desarrollo de la investigación y al conocer que ya era buscada por autoridades ministeriales y la sociedad en general, la menor se puso en contacto con su madre, sin decir donde estaba, para solicitar recursos monetarios al tiempo de informar que regresaría cuando fuera el momento preciso</s>
+<s docid="01ED010414_825286" num="12" wdcount="39"> Los agentes siguieron paso a paso el desarrollo de los hechos y la pista de su paradero, hasta tener fuertes indicios de su estadía en Quintana Roo, por lo que solicitaron la colaboración de la PGJ de aquella entidad</s>
+<s docid="01ED010414_825286" num="13" wdcount="50"> A la par, elementos de la policía ministerial de la FGE se trasladaron a suelo quintanarroense para acompañar la investigación que al final rindió buenos resultados tras la recuperación de la menor de 13 años la noche del sábado, con lo que se inició su retorno a la capital yucateca</s>
+
+</TEXT>
+
+</DOC>

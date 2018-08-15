@@ -1,0 +1,66 @@
+<DOC>
+
+<DOCNO>
+<s docid="01BI010414_825446" num="1" wdcount="1"> 825446 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="01BI010414_825446" num="2" wdcount="1">01BI010414_825446</s>
+</FILEID>
+
+<HEAD>
+<s docid="01BI010414_825446" num="3" wdcount="6"> Autismo, un problema mental que aisla </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="01BI010414_825446" num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="01BI010414_825446" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="01BI010414_825446" num="6" wdcount="21"> El Día Mundial de Concienciación sobre el Autismo no tiene por único objeto generar comprensión; es una llamada a la acción</s>
+<s docid="01BI010414_825446" num="7" wdcount="39"> Insto a todas las partes interesadas a participar en la promoción de los avances prestando apoyo a programas de educación, oportunidades de empleo y otras medidas que ayuden a hacer realidad nuestro ideal común de un mundo más inclusivo</s>
+<s docid="01BI010414_825446" num="8" wdcount="47"> Ban Ki-moon La Asamblea General de las Naciones Unidas declaró por unanimidad el 2 de abril como Día Mundial de Concienciación sobre el Autismo para poner de relieve la necesidad de ayudar a mejorar las condiciones de vida de los niños y adultos que sufren este trastorno</s>
+<s docid="01BI010414_825446" num="9" wdcount="70"> El autismo es un síndrome muy complejo, clasificado entre los trastornos neurofisiológicos que se describen como desórdenes de las funciones del cerebro El autismo es una enfermedad mental que se manifiesta principalmente en los tres primeros años de vida y en ocasiones desde el nacimiento, afecta más a los niños que a las niñas de todos los lugares, razas y niveles socio económicos y se manifiesta durante toda la vida</s>
+<s docid="01BI010414_825446" num="10" wdcount="18"> En ocasiones el autismo se desarrolla en niños que parecen normales y que después sufren alguna regresión inexplicable</s>
+<s docid="01BI010414_825446" num="11" wdcount="18"> El autismo es una discapacidad permanente del desarrollo que se manifiesta en los tres primeros años de edad</s>
+<s docid="01BI010414_825446" num="12" wdcount="27"> La tasa del autismo en todas las regiones del mundo es alta y tiene un terrible impacto en los niños, sus familias, las comunidades y la sociedad</s>
+<s docid="01BI010414_825446" num="13" wdcount="56"> A lo largo de su historia, el Sistema de las Naciones Unidas ha promovido los derechos y el se caracteriza por un crecimiento intelectual irregular y la dificultad o ausencia para establecer relaciones sociales y habilidades para la comunicación y va acompañado de rituales compulsivos persistentes, desajustes severos o ausencia del lenguaje y resistencia al cambio</s>
+<s docid="01BI010414_825446" num="14" wdcount="27"> En este desorden existe un marcado rechazo hacia buscar o aceptar el contacto físico con otras personas y una gran insistencia en realizar las actividades de rutina</s>
+<s docid="01BI010414_825446" num="15" wdcount="27"> Los autistas, con frecuencia realizan movimientos corporales repetitivos y el cambio más insignificante en su ambiente físico o en sus rutinas puede provocarles cólera o ansiedad extremas</s>
+<s docid="01BI010414_825446" num="16" wdcount="13"> Algunos imitan sonidos o desarrollan patrones de lenguaje comprensibles y otros son mudos</s>
+<s docid="01BI010414_825446" num="17" wdcount="4"> Muchos sufren ataques convulsivos</s>
+<s docid="01BI010414_825446" num="18" wdcount="48"> Se desconoce bien la causa de su origen, ya que algunos investigadores piensan que puede ser por factores genéticos, ambientales como son los virus o químicos, anormalidades en algunas regiones cerebrales en las que las neuronas parecen ser más pequeñas de lo normal y tienen fibras nerviosas sebdesarrolladas</s>
+<s docid="01BI010414_825446" num="19" wdcount="24"> Otros estudios refieren a anormalidades en la serotonina y en algunos casos se ha asociado con rubéola congénita, trastornos metabólicos hereditarios, encefalitis y/o meningitis</s>
+<s docid="01BI010414_825446" num="20" wdcount="26"> En una minoría de casos, desórdenes como el síndrome del X frágil, la esclerosis tuberosa y la fenilcetonuria no tratada adecuadamente, pueden causar un comportamiento autista</s>
+<s docid="01BI010414_825446" num="21" wdcount="23"> Otros desórdenes, como el síndrome de Tourette y el déficit de la atención, a menudo ocurren con el autismo pero no lo causan</s>
+<s docid="01BI010414_825446" num="22" wdcount="21"> Debido a razones desconocidas, entre el 20 y 30% de personas con autismo desarrollan epilepsia cuando llegan a la etapa adulta</s>
+<s docid="01BI010414_825446" num="23" wdcount="11"> bienestar de los discapacitados, incluidos los niños con discapacidades de desarrollo</s>
+<s docid="01BI010414_825446" num="24" wdcount="27"> En 2008, la Convención sobre los Derechos de las Personas con Discapacidad entró en vigor, reafirmando el principio fundamental de universalidad de los derechos humanos para todos</s>
+<s docid="01BI010414_825446" num="25" wdcount="33"> Son varias las señales que pueden indicar que el desarrollo de un niño podría presentar autismo, entre ellas están: · Disgusto del bebé o niño cuando lo abrazan o miran a los ojos</s>
+<s docid="01BI010414_825446" num="26" wdcount="10"> · Falta de respuesta al cariño o a las caricias</s>
+<s docid="01BI010414_825446" num="27" wdcount="8"> · Falta de respuesta al escuchar su nombre</s>
+<s docid="01BI010414_825446" num="28" wdcount="26"> · Algunos aprenden a hablar tardíamente y suelen “cantar”, lo que repetidamente dicen, sin importarles si lo que dicen es de interés para la otra persona</s>
+<s docid="01BI010414_825446" num="29" wdcount="20"> · Los que logran hablar se refieren a ellos mismos por su nombre y no como “yo” o “a mí”</s>
+<s docid="01BI010414_825446" num="30" wdcount="17"> Incapacidad para comunicarse con otros verbal o por medio de los gestos, expresiones faciales y señas naturales</s>
+<s docid="01BI010414_825446" num="31" wdcount="16"> · Incapacidad para establecer relaciones sociales en cualquier situación con otros niños y personas en general</s>
+<s docid="01BI010414_825446" num="32" wdcount="13"> · Muchos niños autistas no demuestran preferencia por sus padres sobre otros adultos</s>
+<s docid="01BI010414_825446" num="33" wdcount="18"> Incapacidad para relacionarse de forma normal con los objetos, ya sea evitándolo por completo u obsesionándose por él</s>
+<s docid="01BI010414_825446" num="34" wdcount="25"> · Ira, enojo y gritos cuando se mueve algún objeto o mueble que pertenezca al niño de su lugar habitual, como puede ser su cama</s>
+<s docid="01BI010414_825446" num="35" wdcount="21"> · Apego a objetos extraños como papeles, ladrillos, gomas elásticas y otros que normalmente no llaman la atención de los niños</s>
+<s docid="01BI010414_825446" num="36" wdcount="29"> · Realizar actividades de poco alcance de manera repetitiva, como puede ser dar vueltas, mecerse, moverse de un lado a otro, enrollarse el pero o aletear con los brazos</s>
+<s docid="01BI010414_825446" num="37" wdcount="7"> · Repetir insistentemente comerciales de la televisión</s>
+<s docid="01BI010414_825446" num="38" wdcount="9"> · Conductas autoagresivas como golpearse la cabeza o morderse</s>
+<s docid="01BI010414_825446" num="39" wdcount="4"> · Problemas de aprendizaje</s>
+<s docid="01BI010414_825446" num="40" wdcount="8"> · Muchos presentan una sensibilidad reducida al dolor</s>
+<s docid="01BI010414_825446" num="41" wdcount="12"> · Realizar rituales complejos todos los días, para dormir, comer, bañarse, etc</s>
+<s docid="01BI010414_825446" num="42" wdcount="60"> Cuando los padres sospechen que su hijo puede ser autista o que notan que su desarrollo no es normal, deben consultar de inmediato a su médico pediatra, para que los refiera con un psiquiatra infantil, quien puede diagnosticar con certeza el autismo, su nivel de severidad y determinar la terapia adecuada que les permita desarrollar habilidades para lograr su independencia.</s>
+
+</TEXT>
+
+</DOC>

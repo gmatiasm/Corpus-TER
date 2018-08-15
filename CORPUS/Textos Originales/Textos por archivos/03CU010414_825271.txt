@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="03CU010414_825271" num="1" wdcount="1"> 825271 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="03CU010414_825271" num="2" wdcount="1">03CU010414_825271</s>
+</FILEID>
+
+<HEAD>
+<s docid="03CU010414_825271" num="3" wdcount="11"> Sepultan a Helena Paz Garro con una ceremonia privada en Cuernavaca </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="03CU010414_825271" num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="03CU010414_825271" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="03CU010414_825271" num="6" wdcount="29"> A través de una ceremonia privada, con la presencia exclusiva de familiares cercanos, fue sepultada en Cuernavaca, Morelos, Helena Laura Paz Garro, hija del poeta y escritor Octavio Paz</s>
+<s docid="03CU010414_825271" num="7" wdcount="18"> Su sepelio coincidió con la conmemoración de los 100 años del Natalicio del premio Nobel de Literatura 1990</s>
+<s docid="03CU010414_825271" num="8" wdcount="42"> Helena Paz Garro murió en Cuernavaca este domingo, de causas naturales, de acuerdo con las declaraciones de su primo hermano Jesús Garro Velázquez, quien desde la muerte de la escritora y madre de Helena, Elena Garro, se hizo cargo de su prima</s>
+<s docid="03CU010414_825271" num="9" wdcount="75"> Por su parte, Raquel Shtaiman de Garro, prima política de Helena, dijo que “la vida es así, ella nació un día después que su madre y se muere un día antes que su padre, el natalicio, Elena Garro nace el 11 de diciembre y Helena Paz nace el 12 de diciembre, o sea un día después del natalicio de su mamá y muere un día antes del natalicio de los 100 años de su padre”</s>
+<s docid="03CU010414_825271" num="10" wdcount="22"> Los familiares de la hija de Octavio Paz agradecieron las condolencias enviadas por el presidente Enrique Peña Nieto y por muchos mexicanos</s>
+<s docid="03CU010414_825271" num="11" wdcount="14"> “Se los agradecemos mucho, muchísimo”, dijo Raquel Shtaiman de Garro, prima política de Helena</s>
+<s docid="03CU010414_825271" num="12" wdcount="20"> Helena Laura Paz Garro fue la hija única de los escritores Elena Garro y Octavio Paz, y no tuvo familia</s>
+<s docid="03CU010414_825271" num="13" wdcount="13"> Se caracterizó por ser amante de la lectura, la escritura y los viajes</s>
+<s docid="03CU010414_825271" num="14" wdcount="20"> Entre sus obras destacan La Rueda de la Fortuna y 700 Poemas Inéditos, siempre escritos en francés y en manuscrito</s>
+<s docid="03CU010414_825271" num="15" wdcount="27"> Sus restos fueron sepultados en el panteón La Paz de Cuernavaca, Morelos, en la misma fosa donde reposan los restos de su madre, la escritora Elena Garro</s>
+
+
+</TEXT>
+
+</DOC>

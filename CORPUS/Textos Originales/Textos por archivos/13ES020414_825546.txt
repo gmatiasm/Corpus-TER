@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="13ES020414_825546"num="1" wdcount="1"> 825546 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="13ES020414_825546"num="2" wdcount="1">13ES020414_825546</s>
+</FILEID>
+
+<HEAD>
+<s docid="13ES020414_825546"num="3" wdcount="8"> Ismael Cala, más de veinte años de trayectoria </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="13ES020414_825546"num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="13ES020414_825546"num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="13ES020414_825546" num="6" wdcount="38"> El periodista, conductor y autor inspiracional Ismael Cala comentó que habló sobre sus experiencias en los más de veinte años de trayectoria, además de anunciar que grabará diez programas en el país con entrevistas a diferentes personalidades mexicanas</s>
+<s docid="13ES020414_825546" num="7" wdcount="31"> Desde que incursionó a los ocho años de edad en la radio de su natal Cuba hasta participar en noticiarios y realizar proyectos en países como Estados Unidos, Canadá y México</s>
+<s docid="13ES020414_825546" num="8" wdcount="23"> El presentador confesó que el reto durante sus años de trayectoria ha sido adaptarse a los diferentes países en los que ha vivido</s>
+<s docid="13ES020414_825546" num="9" wdcount="27"> De igual forma afirmó que durante ese tiempo ha crecido personal y profesionalmente: “Me siento feliz porque siento que ha habido un crecimiento personal y profesional”, señaló</s>
+<s docid="13ES020414_825546" num="10" wdcount="24"> En su programa de televisión llamado Cala, transmitido por CNN en Español, entrevista a personalidades que van desde políticos, celebridades, deportistas, intelectuales, entre otros</s>
+<s docid="13ES020414_825546" num="11" wdcount="57"> Ismael dijo que su producción busca a personas que tengan una historia que contar puesto que el propósito de su programa es mostrar su vida y darle una enseñanza al público: “El reto es que la gente, conozca o no al personaje, se quede enganchado porque sepa que Cala le va dar algo que se va llevar</s>
+<s docid="13ES020414_825546" num="12" wdcount="17"> No saben qué es todavía pero que al final es un buen mensaje para sus vidas”, dijo</s>
+<s docid="13ES020414_825546" num="13" wdcount="46"> El ganador del premio de Liderazgo John Maxwell reiteró su felicidad al poder dirigirse mediante su programa a varios países y de venir a México a grabar diez programas de entrevistas con personalidades de diversos campos, entre ellos el doctor Mario Molina premio Nobel de Química</s>
+<s docid="13ES020414_825546" num="14" wdcount="7"> “A México vamos a venir dos veces</s>
+<s docid="13ES020414_825546" num="15" wdcount="31"> Estamos grabando estos diez programas que van a salir a partir del 21 de abril, cinco y después otros cinco con personajes mexicanos y vendremos luego en una segunda oportunidad”, concluyó.</s>
+
+</TEXT>
+
+</DOC>

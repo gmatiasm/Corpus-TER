@@ -1,0 +1,59 @@
+<DOC>
+
+<DOCNO>
+<s docid="10DE020414_825510" num="1" wdcount="1"> 825510 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="10DE020414_825510" num="2" wdcount="1">10DE020414_825510</s>
+</FILEID>
+
+<HEAD>
+<s docid="10DE020414_825510" num="3" wdcount="5"> A romper dominio de EU </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="10DE020414_825510" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="10DE020414_825510" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="10DE020414_825510" num="6" wdcount="35"> La Selección Mexicana se medirá hoy a su similar de Estados Unidos en partido amistoso que se disputará a partir de las 21:18 horas en el Estadio de la Universidad de Phoenix en Glendale, Arizona</s>
+<s docid="10DE020414_825510" num="7" wdcount="27"> En el llamado Clásico de la Concacaf, el Tri tendrá una de sus últimas pruebas para disipar las dudas rumbo a la Copa del Mundo de Brasil</s>
+<s docid="10DE020414_825510" num="8" wdcount="25"> En este tipo de cotejos no hay tregua, tanto mexicanos como estadunidenses cada que saltan a un terreno de juego buscan superar al acérrimo rival</s>
+<s docid="10DE020414_825510" num="9" wdcount="10"> Han sido muchos los capítulos escritos entre estas dos Selecciones</s>
+<s docid="10DE020414_825510" num="10" wdcount="11"> México acumula cuatro juegos sin vencer a su vecino del norte</s>
+<s docid="10DE020414_825510" num="11" wdcount="25"> Desde el año 2000, EU ha ganado 12 veces al cuadro mexicano y éste sólo ha respondido con el mismo resultado en apenas cinco ocasiones</s>
+<s docid="10DE020414_825510" num="12" wdcount="9"> Aunque la historia favorece al equipo de Miguel Herrera</s>
+<s docid="10DE020414_825510" num="13" wdcount="50"> Han sido 63 ocasiones que este par de Selecciones se han visto las caras sobre un terreno de juego, México ha ganado en 33 ocasiones, han empatado en 13 y Estados Unidos se ha llevado la victoria en 17, con 131 goles de los mexicanos y 71 por los estadunidenses</s>
+<s docid="10DE020414_825510" num="14" wdcount="15"> El equipo del Piojo Herrera llega a este juego consciente de que necesita un triunfo</s>
+<s docid="10DE020414_825510" num="15" wdcount="37"> El estratega nacional sabe que el siguiente partido será el de despedida ante la afición mexicana en la cancha del Estadio Azteca, y quiere llegar al 28 de mayo con la parte anímica de la mejor manera</s>
+<s docid="10DE020414_825510" num="16" wdcount="55"> Siete encuentros habría este año en la preparación de la Selección Mexicana rumbo a Brasil 2014, de los cuales únicamente restan cinco, ya que el 29 de enero derrotó a Corea del Sur por 4-0 y el 5 de marzo empató 0-0 ante los nigerianos, en la única fecha FIFA antes de la justa mundialista</s>
+<s docid="10DE020414_825510" num="17" wdcount="58"> Para el compromiso ante Estados Unidos, el Piojo Herrera llamó a jugadores que han sido parte de otras convocatorias y que pertenecen a clubes de la Liga MX, dándole oportunidad a futbolistas que han destacado con sus escuadras, como es el caso de Rogelio Chávez y Marco Fabián de Cruz Azul, así como de Jesús Zavala de Rayados</s>
+<s docid="10DE020414_825510" num="18" wdcount="32"> En la portería parece que entre Alfredo Talavera del Toluca y Moisés Muñoz del América estará la lucha por el último portero para la justa mundialista y ambos tendrán minutos para mostrarse</s>
+<s docid="10DE020414_825510" num="19" wdcount="23"> En la defensa, Enrique Pérez (Atlas), Francisco Rodríguez y Juan Carlos Valenzuela, ambos del América, también esperan tener minutos y ganarse el puesto</s>
+<s docid="10DE020414_825510" num="20" wdcount="39"> En el medio campo Isaac Brizuela (Toluca); mientras que a la ofensiva, ante la ausencia de Oribe Peralta (Santos Laguna), Alan Pulido (Tigres) y Raúl Jiménez (América) lucharán por el que parece el único lugar disponible para un delantero</s>
+<s docid="10DE020414_825510" num="21" wdcount="49"> Después de Estados Unidos, México tendrá su duelo de despedida ante su afición en la cancha del Estadio Azteca ante Israel, para volar posteriormente a Estados Unidos, en donde jugará ante Ecuador, Bosnia y Portugal, ya estos últimos cuatro con jugadores que militan en clubes de Europa y México</s>
+<s docid="10DE020414_825510" num="22" wdcount="51"> ASÍ LLEGA ESTADOS UNIDOS Para el conjunto de las Barras y las Estrellas este cotejo también será de suma importancia, ya que más allá de la rivalidad que existe entre estas dos selecciones, será su último partido antes de empezar la concentración final para la Copa del Mundo de Brasil 2014</s>
+<s docid="10DE020414_825510" num="23" wdcount="31"> Su lista de convocados la encabezan figuras del balompié estadunidense como Kyle Beckerman (Real Salt Lake), Michael Bradley (Toronto FC), Landon Donovan (LA Galaxy), Clint Dempsey (Seattle Sounders), Eddie Johnson (D.C</s>
+<s docid="10DE020414_825510" num="24" wdcount="7"> United) y Chris Wondolowski (San Jose Earthquakes)</s>
+<s docid="10DE020414_825510" num="25" wdcount="38"> Al no ser fecha FIFA, Estados Unidos tampoco pudo contar con futbolistas que militan en otro balompié que no sea la MLS; sin embargo, Julian Green, del Bayern Munich, sí fue cedido a su selección para este compromiso</s>
+<s docid="10DE020414_825510" num="26" wdcount="2"> A considerar..</s>
+<s docid="10DE020414_825510" num="27" wdcount="51"> Han sido 63 ocasiones que este par de Selecciones se han visto las caras sobre un terreno de juego, México ha ganado en 33 ocasiones, han empatado en 13 y los Estados Unidos se han llevado la victoria en 17, con 131 goles de los mexicanos y 71 de los estadunidenses</s>
+<s docid="10DE020414_825510" num="28" wdcount="50"> No obstante de que los mexicanos han ganado más partidos que su rival, fue Estados Unidos quien se llevó la victoria por dos goles a cero en el juego más importante entre ambos, en los octavos de final de la Copa del Mundo de Corea-Japón 2002, dejando eliminado al Tri</s>
+<s docid="10DE020414_825510" num="29" wdcount="8"> México acumula cuatro juegos sin vencer a EU</s>
+<s docid="10DE020414_825510" num="30" wdcount="25"> Desde el año 2000, EU ha ganado 12 veces al cuadro azteca y éste solo ha respondido con el mismo resultado en apenas cinco ocasiones</s>
+<s docid="10DE020414_825510" num="31" wdcount="26"> Los cuatro (2-0) en Columbus de manera consecutiva y el liderato estadunidense en el Hexagonal, han sido reflejo de una hegemonía de los vecinos del norte</s>
+<s docid="10DE020414_825510" num="32" wdcount="12"> Los triunfos del representativo mexicano en los últimos años han sido esporádicas</s>
+<s docid="10DE020414_825510" num="33" wdcount="24"> La más reciente fue en la Final de la Copa Oro 2011, cuando México ganó el boleto para la Copa Confederaciones de Brasil 2013</s>
+<s docid="10DE020414_825510" num="34" wdcount="28"> El último enfrentamiento entre ambos fue correspondiente a la Eliminatoria Mundialista y se dio el pasado 10 de septiembre de 2013, con victoria para EU 2-0 sobre México</s>
+
+
+</TEXT>
+
+</DOC>

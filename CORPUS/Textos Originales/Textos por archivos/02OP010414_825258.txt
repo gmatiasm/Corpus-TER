@@ -1,0 +1,41 @@
+<DOC>
+
+<DOCNO>
+<s docid="02OP010414_825258" num="1" wdcount="1"> 825258 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="02OP010414_825258" num="2" wdcount="1">02OP010414_825258</s>
+</FILEID>
+
+<HEAD>
+<s docid="02OP010414_825258" num="3" wdcount="2"> Burbujas argentinas </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="02OP010414_825258" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="02OP010414_825258" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="02OP010414_825258" num="6" wdcount="35"> El año 2013 estuvo caracterizado por los espumantes dulces, una tendencia que comenzó un par de años atrás con el lanzamiento de Délice de Chandon, y explotó en 2013 con una gran cantidad de lanzamientos</s>
+<s docid="02OP010414_825258" num="7" wdcount="55"> Siguiendo el camino marcado por Louis Vuitton Möet Hennessy que ya había sacado en Francia su primer dulce natural, antes que en Argentina, y con el objetivo de quitarle estacionalidad a la categoría “champagne” a fin de captar nuevos consumidores, sobre todo jóvenes, las bodegas más importantes elaboraron espumantes elaborados en base a uvas tardías</s>
+<s docid="02OP010414_825258" num="8" wdcount="39"> Aunque aún son el 5% de las cerca de 50 millones de botellas de espumantes que se comercializan en el mercado argentino, los espumantes dulces naturales crecieron 166% en sólo una década, según datos del Instituto Nacional de Vitivinicultura</s>
+<s docid="02OP010414_825258" num="9" wdcount="19"> Según un artículo publicado por La Nación, habría en el mercado al menos 36 marcas de espumantes dulces naturales</s>
+<s docid="02OP010414_825258" num="10" wdcount="38"> Los últimos en lanzar los suyos fueron Navarro Correas (Dulcet y Los Árboles), Humberto Canale (Rosado Dulce) y Mumm (Sweet Sparkling), que se suman a Capriccio (Dante Robino), Trapiche Allegro y New Age Champaña Dulce (Bianchi), entre otros</s>
+<s docid="02OP010414_825258" num="11" wdcount="19"> Mumm Sweet Sparkling es un assemblage de Chardonnay (50%), Pinot Noir (25%) y Torrontés (25%) de la línea premium</s>
+<s docid="02OP010414_825258" num="12" wdcount="15"> Por su parte, Bodega Navarro Correas presentó Dulcet dentro de su línea de espumantes Premium</s>
+<s docid="02OP010414_825258" num="13" wdcount="15"> “El consumo de espumantes se desarrolla a un ritmo vertiginoso, con propuestas atractivas y disruptivas</s>
+<s docid="02OP010414_825258" num="14" wdcount="30"> Una de las tendencias más marcadas es el crecimiento del consumo de espumantes dulces, categoría que se duplicó durante el último año”, explica Guadalupe Fernández Burgoa, Wines Group Brand Manager</s>
+<s docid="02OP010414_825258" num="15" wdcount="19"> Un lanzamiento que sorprendió fue el de la línea de burbujas con la conocida marca del frizzante New Age</s>
+<s docid="02OP010414_825258" num="16" wdcount="47"> La marca de bodega Bianchi que revolucionó el mercado local de vinos con la creación del dulce natural, creó New Age Extra Brut y New Age Sweet Gold (dulce) para romper las reglas de una categoría formal y acartonada –dijo Mariano Cunille, Brand Manager de New Age</s>
+<s docid="02OP010414_825258" num="17" wdcount="1">  debybeard@casabeard.com </s>
+
+
+</TEXT>
+
+</DOC>

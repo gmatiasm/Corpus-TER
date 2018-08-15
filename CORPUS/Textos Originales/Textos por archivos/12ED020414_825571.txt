@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="12ED020414_825571" num="1" wdcount="1"> 825571 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="12ED020414_825571" num="2" wdcount="1">12ED020414_825571</s>
+</FILEID>
+
+<HEAD>
+<s docid="12ED020414_825571" num="3" wdcount="10"> Incendio en el Centro Forestal en Uruapan arrasa zona boscosa </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="12ED020414_825571" num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="12ED020414_825571" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="12ED020414_825571" num="6" wdcount="33"> Un incendio forestal se registró la mañana de este martes en pleno Centro de Investigación Forestal (Cifo), ubicado en la zona poniente de Uruapan, el cual ha consumido varias hectáreas de superficie boscosa</s>
+<s docid="12ED020414_825571" num="7" wdcount="40"> Mientras que todavía no se ha extinguido el siniestro que comenzó el viernes pasado en el predio La Loma, al oriente de Uruapan, el cual ya arrasó 30 hectáreas de bosque y que, al parecer, fue provocado de manera intencional</s>
+<s docid="12ED020414_825571" num="8" wdcount="37"> Al lugar al sitio de la conflagración se trasladaron elementos de Protección Civil Municipal, la Policía Forestal y brigadas forestales, quienes durante varios minutos lucharon para contener las llamas que amenazaban con extenderse en esta zona protegida</s>
+<s docid="12ED020414_825571" num="9" wdcount="23"> Asimismo, arribó un helicóptero para descargar agua desde las alturas y así apoyar las faenas que en tierra realizaban los grupos de rescate</s>
+<s docid="12ED020414_825571" num="10" wdcount="15"> Hasta el momento, se desconocen las causas del siniestro así como el saldo del mismo</s>
+<s docid="12ED020414_825571" num="11" wdcount="61"> En tanto, a las 14:00 horas del viernes 25 de marzo, elementos de Protección Civil Municipal, Bomberos Voluntarios, Protección Civil Estatal y de la Policía Federal se trasladaron al predio de La Loma y de manera inmediata comenzaron a luchar contra el siniestro, sin embargo, las olas de aire expandieron el fuego sin que hasta las 19 horas pudiera ser controlado</s>
+<s docid="12ED020414_825571" num="12" wdcount="33"> A las 17:00 horas un helicóptero de la Conafor comenzó a brindar apoyo, pero las llamas continuaban arrasando con el bosque, entre árboles adultos y pequeños así como el pastizal de la zona</s>
+<s docid="12ED020414_825571" num="13" wdcount="30"> A lo largo del oriente de Uruapan se podía observar la densa capa de humo a kilómetros de distancia, mientras personal de las mencionadas corporaciones trabajaban para controlar el fuego.</s>
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,43 @@
+<DOC>
+
+<DOCNO>
+<s docid="05AC030414_825786" num="1" wdcount="1"> 825786 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="05AC030414_825786" num="2" wdcount="1">05AC030414_825786</s>
+</FILEID>
+
+<HEAD>
+<s docid="05AC030414_825786" num="3" wdcount="10"> Diseña UNAM lector óptico para detectar cáncer con un celular </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="05AC030414_825786" num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="05AC030414_825786" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="05AC030414_825786" num="6" wdcount="59"> Realizar desde la cámara de un teléfono celular una primera detección de cáncer de mama o de próstata, del virus del papiloma humano o de la hepatitis C, será posible con el uso de un sofisticado lector óptico de microarreglos de ADN que ya desarrollan un investigador de la UNAM y su colega de una empresa en Estados Unidos</s>
+<s docid="05AC030414_825786" num="7" wdcount="43"> El innovador proyecto, que avanza con dos prototipos y una patente en trámite para esta casa de estudios, lo encabeza Luis Vaca Domínguez, del Instituto de Fisiología Celular (IFC), con quien colabora un físico experto en óptica y electrónica de la Unión Americana</s>
+<s docid="05AC030414_825786" num="8" wdcount="37"> El lector óptico para diagnóstico médico será un dispositivo que se añadirá al teléfono celular para aprovechar la cámara que tiene y se convertirá en un lector de microarreglos de ADN portátil, accesible y de bajo costo</s>
+<s docid="05AC030414_825786" num="9" wdcount="24"> “Todo mundo tiene un teléfono móvil y el lector óptico permitirá leer un microarreglo de ADN para ubicar los marcadores genéticos de esas enfermedades</s>
+<s docid="05AC030414_825786" num="10" wdcount="16"> Será un auxiliar para la detección, que luego deberá validarse con otros estudios”, explicó en entrevista</s>
+<s docid="05AC030414_825786" num="11" wdcount="35"> Médico y doctor en Ciencias Biomédicas, el universitario está a cargo del análisis y adaptación de la biología molecular del proyecto, mientras su contraparte se encarga de armar circuitos integrados y la óptica del lector</s>
+<s docid="05AC030414_825786" num="12" wdcount="1"> PROTOTIPOS</s>
+<s docid="05AC030414_825786" num="13" wdcount="17"> Con dos prototipos construidos, el universitario y su colega desarrollan un tercero, más sensible a la detección</s>
+<s docid="05AC030414_825786" num="14" wdcount="32"> “Aunque trabajo con un físico que hace su parte en el extranjero, él ha cedido su parte de los derechos de patente, la cual ya tramitamos a nombre de la UNAM”, aclaró</s>
+<s docid="05AC030414_825786" num="15" wdcount="40"> “El equipo es del tamaño de una grabadora portátil, se acoplará a la cámara del teléfono celular y leerá la señal del vidrio del microarreglo, que se ve como un grupo de puntitos; cada uno de ellos es un gen</s>
+<s docid="05AC030414_825786" num="16" wdcount="16"> Así podemos detectar cuáles están alterados en sangre, en orina o en tejido de pacientes”, indicó</s>
+<s docid="05AC030414_825786" num="17" wdcount="24"> El proyecto iniciará con la detección de cáncer de mama y de próstata y seguirá con la de virus como el de hepatitis C</s>
+<s docid="05AC030414_825786" num="18" wdcount="26"> La idea es hacer este diagnóstico masivo, de tal forma que el estudio del microarreglo cueste 10 o 15 pesos cuando se produzca a gran escala.</s>
+
+
+</TEXT>
+
+</DOC>

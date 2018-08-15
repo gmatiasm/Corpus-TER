@@ -1,0 +1,45 @@
+<DOC>
+
+<DOCNO>
+<s docid="14MU030414_825749" num="1" wdcount="1"> 825749 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="14MU030414_825749" num="2" wdcount="1">14MU030414_825749</s>
+</FILEID>
+
+<HEAD>
+<s docid="14MU030414_825749" num="3" wdcount="10"> Kaspárov alerta que Putin podría anexarse el este de Ucrania </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="14MU030414_825749" num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="14MU030414_825749" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="14MU030414_825749" num="6" wdcount="37"> No podemos negar que la anexión de Crimea por parte de Rusia ha sido una agresión y una violación a todo tratado internacional firmado por los rusos, apuntó Gary Kaspárov, campeón ruso de ajedrez y activista político</s>
+<s docid="14MU030414_825749" num="7" wdcount="33"> El personaje se refiere específicamente al Memorándum de Entendimiento de Budapest de 1992 —firmado por Rusia, EU e Inglaterra—, que garantizaba respetar la independencia de la Ucrania a cambio de su desarme nuclear</s>
+<s docid="14MU030414_825749" num="8" wdcount="20"> “Vivimos en un mundo donde los tratados habían sido respetados y todas las negociaciones globales están basadas en su respeto</s>
+<s docid="14MU030414_825749" num="9" wdcount="29"> Pero su violación pone en peligro la situación mundial”, refirió en su visita a México, con motivo del lanzamiento de su fundación de Ajedrez la situación mundial en peligro</s>
+<s docid="14MU030414_825749" num="10" wdcount="28"> El articulista de The Guardian mencionó además que el tema de Crimea podría ser sólo el inicio del conflicto del gobierno de Vladimir Putin con el orbe occidental</s>
+<s docid="14MU030414_825749" num="11" wdcount="56"> “Para Putin, y lo ha dicho en su discurso reiteradamente, no es suficiente con Crimea o el este de Ucrania, puesto que ha dicho que no tendría inconveniente de ir a cualquier parte donde considere que las minorías que hablen ruso estén en peligro: eso fue con lo que los alemanes detonaron la Segunda Guerra Mundial”</s>
+<s docid="14MU030414_825749" num="12" wdcount="53"> El ajedrecista refirió que aunque la respuesta de Europa y estados Unidos frente a la amenaza rusa podría no ser la mejor, va por el camino correcto, pero se requerirá de una más sólida que sólo sacar al país del G8, “grupo al cual nunca perteneció en realidad bajo el mandato de Putin”</s>
+<s docid="14MU030414_825749" num="13" wdcount="4"> Sí a las sanciones</s>
+<s docid="14MU030414_825749" num="14" wdcount="28"> Si bien desestimó una incursión militar, mencionó que la mejor forma de contrarrestar al mandatario es a través de la economía y sanciones de aquellos que le rodean</s>
+<s docid="14MU030414_825749" num="15" wdcount="37"> Occidente debe además hacer señalamientos muy claros de que si los rusos cruzan la frontera de Ucrania por el este o el sur, todos los activos de la federación rusa en el extranjero deberán ser congelados, enfatizó</s>
+<s docid="14MU030414_825749" num="16" wdcount="26"> “Estas medidas deberán incrementarse puesto que las elites rusas no mantienen su dinero en bancos rusos y no creo que acepten cambiar su estilo de vida</s>
+<s docid="14MU030414_825749" num="17" wdcount="17"> Putin es una causa perdida, ya quemó todos los puentes, y avanzará tanto como se lo permitamos</s>
+<s docid="14MU030414_825749" num="18" wdcount="28"> “Pero hay muchos que lo rodean y son muy importantes para el proceso de toma de decisiones y que no están dispuestos a ir tan lejos como él</s>
+<s docid="14MU030414_825749" num="19" wdcount="12"> Hay que enviarles un mensaje de que habrá graves consecuencias para ellos</s>
+<s docid="14MU030414_825749" num="20" wdcount="27"> Esa es la forma en que podríamos resolver el problema sin mayores consecuencias, porque mientras más pronto lo detengas, menor será el precio que habrá que pagar”</s>
+
+
+</TEXT>
+
+</DOC>

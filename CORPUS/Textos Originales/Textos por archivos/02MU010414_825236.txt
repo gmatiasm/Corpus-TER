@@ -1,0 +1,42 @@
+<DOC>
+
+<DOCNO>
+<s docid="02MU010414_825236"num="1" wdcount="1"> 825236 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="02MU010414_825236"num="2" wdcount="1">02MU010414_825236</s>
+</FILEID>
+
+<HEAD>
+<s docid="02MU010414_825236"num="3" wdcount="15"> Rusia culpa a Estados Unidos de la escalada de la tensión entre las dos Coreas </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="02MU010414_825236"num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="02MU010414_825236"num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="02MU010414_825236" num="6" wdcount="54"> El Kremlin responsabilizó ayer a Estados Unidos de generar tensión entre las dos Coreas al participar en ejercicios militares conjuntos con la del Sur, lo que, en opinión del gobierno de Vladímir Putin, provoca que ambos países se hayan enfrentado ayer, con intercambio de disparos de artillería, en las disputadas aguas del Mar Amarillo</s>
+<s docid="02MU010414_825236" num="7" wdcount="21"> “Las periódicas escaladas de tensión en la región coinciden con los grandes ejercicios militares conjuntos de EU y Corea del Sur</s>
+<s docid="02MU010414_825236" num="8" wdcount="27"> Hemos expresado reiteradamente lo intolerable de una actividad militar excesiva en Asia Nororiental”, denunció el Ministerio de Asuntos Exteriores ruso en un comunicado publicado en su web</s>
+<s docid="02MU010414_825236" num="9" wdcount="37"> La cancillería rusa lamentó que las maniobras conjuntas de EU y Corea del Sur incluyan ejercicios “provocadores como el lanzamiento de bombas desde bombarderos estratégicos y operaciones de salto con paracaídas con toma de ‘centros administrativos’ extranjeros”</s>
+<s docid="02MU010414_825236" num="10" wdcount="2"> Amenaza nuclear</s>
+<s docid="02MU010414_825236" num="11" wdcount="19"> El ejército norcoreano disparó hasta 500 cañonazos de artillería, de los que al menos 100 cayeron del lado surcoreano</s>
+<s docid="02MU010414_825236" num="12" wdcount="23"> En respuesta, la Fuerza Naval surcoreana respondió inmediatamente con el lanzamiento de varias decenas de obuses autopropulsados howitzer K-9 hacia aguas del Norte</s>
+<s docid="02MU010414_825236" num="13" wdcount="40"> Además, el Ejército envió aviones de combate F-15 a la zona ante la posibilidad de nuevos incidentes y se llevó a cabo la evacuación a refugios de los residentes de las islas surcoreanas cercanas a la frontera del Mar Amarillo</s>
+<s docid="02MU010414_825236" num="14" wdcount="44"> Más tarde, el Ministerio de Exteriores de Corea del Norte anunció que el régimen comunista “no descarta un nuevo tipo de prueba atómica para elevar la capacidad de disuasión nuclear” del país frente a la “amenaza” que, a juicio del régimen, plantea Estados Unidos</s>
+<s docid="02MU010414_825236" num="15" wdcount="3"> Condena de EU</s>
+<s docid="02MU010414_825236" num="16" wdcount="36"> Un portavoz del Consejo de Seguridad Nacional de la Casa Blanca, Jonathan Lalley, condenó las acciones “peligrosas y provocadoras” de Corea del Norte y reafirmó su compromiso con la defensa de sus aliados en la región</s>
+<s docid="02MU010414_825236" num="17" wdcount="19"> Las “continuas amenazas y provocaciones” de Corea del Norte “agravan las tensiones y su aislamiento”, indicó en un comunicado</s>
+<s docid="02MU010414_825236" num="18" wdcount="28"> “Nos mantenemos firmes en nuestro compromiso con la defensa de nuestros aliados y permanecemos en estrecha coordinación tanto con Corea del Sur como con Japón”, añadió el portavoz.</s>
+
+</TEXT>
+
+</DOC>

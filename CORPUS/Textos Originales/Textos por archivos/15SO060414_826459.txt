@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="15SO060414_826459" num="1" wdcount="1"> 826459 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="15SO060414_826459" num="2" wdcount="1">15SO060414_826459</s>
+</FILEID>
+
+<HEAD>
+<s docid="15SO060414_826459" num="3" wdcount="6"> Cardenal Rivera condena violencia y pobreza </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="15SO060414_826459" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="15SO060414_826459" num="5" wdcount="1"> 2014-04-06 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="15SO060414_826459" num="6" wdcount="23"> El cardenal Norberto Rivera Carrera consideró que hay realidades en el país que “huelen mal”, como la violencia, la pobreza o la contaminación</s>
+<s docid="15SO060414_826459" num="7" wdcount="26"> Durante su homilía dominical en la Catedral Metropolitana, el jerarca católico criticó también que haya campañas que pretendan justificar prácticas como el aborto o la eutanasia</s>
+<s docid="15SO060414_826459" num="8" wdcount="40"> “Huele mal el aire que hemos contaminado; huelen mal las aguas negras que nos circundan y nos exponen a todo tipo de infecciones; los basureros con desechos tóxicos que vamos acumulando despiden olores fétidos”, aseveró el arzobispo primado de México</s>
+<s docid="15SO060414_826459" num="9" wdcount="47"> De acuerdo Rivera Carrera, el cristiano debe estar secundando siempre los proyectos que dan vida, las iniciativas que dignifican la vida, a las autoridades que promueven y organizan las comunidades para alcanzar un mejor nivel de vida, pues “la Cuaresma culmina celebrando la resurrección, celebrando la vida"</s>
+<s docid="15SO060414_826459" num="10" wdcount="24"> El purpurado enfatizó que "vivir ha sido y seguirá siendo la máxima aspiración de todo ser humano: vivir lo más y lo mejor posible"</s>
+<s docid="15SO060414_826459" num="11" wdcount="19"> Por ello, nos debemos alegrar del auténtico progreso médico que aleja de nuestras fronteras la enfermedad y el dolor</s>
+<s docid="15SO060414_826459" num="12" wdcount="52"> Rivera Carrera señaló que lo que nos sucede a nivel personal e individual también puede suceder a nivel social, nuestra sociedad es un organismo viviente, un cuerpo llamado por Dios a vivir y a dar vida, pero por múltiples razones las sociedades e instituciones también se enferman y les llega la muerte</s>
+
+
+</TEXT>
+
+</DOC>

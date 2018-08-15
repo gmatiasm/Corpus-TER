@@ -1,0 +1,41 @@
+<DOC>
+
+<DOCNO>
+<s docid="08CI010414_825254" num="1" wdcount="1"> 825254 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="08CI010414_825254" num="2" wdcount="1">08CI010414_825254</s>
+</FILEID>
+
+<HEAD>
+<s docid="08CI010414_825254" num="3" wdcount="9"> Genera gran controversia proyecto de túneles en Miguel Hidalgo </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="08CI010414_825254" num="4" wdcount="1"> Ciudad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="08CI010414_825254" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="08CI010414_825254" num="6" wdcount="62"> Mientras el jefe delegacional en Miguel Hidalgo, Víctor Hugo Romo Guerra, insiste en que desconoce el proyecto para construir dos túneles en la Torre de Pedregal 24, la propia empresa la respondió que existe un acuerdo firmado por la propia delegación y el Comité Ciudadano de la colonia Molino del Rey, “porque los propios vecinos pidieron esa obra, para agilizar el tránsito”</s>
+<s docid="08CI010414_825254" num="7" wdcount="54"> Sin embargo, vecinos de esa zona, encabezados por Oscar Chavarría, aseguran que no fueron consultados de esa determinación que tomó la presidenta de ese Comité, Auristela Cerna Carreño, quien asegura que la mayoría de vecinos están a favor de los túneles, y que, incluso, en 2013 se realizaron varias asambleas para respaldar la medida</s>
+<s docid="08CI010414_825254" num="8" wdcount="46"> Ante ello, los vecinos acusaron de “mentiroso” al Corporativo Pedregal Hispamex —encargado de la obra—, sobre todo que diga que esos túneles reducirán en 70 por ciento el tráfico de las colonias Molino del Rey y Lomas de Chapultepec, “cuando ocurrirá lo contrario”, afirmó representante vecinal</s>
+<s docid="08CI010414_825254" num="9" wdcount="50"> Además, dijo estar desconcertado que Romo Guerra diga que desconoce del proyecto, “cuando sus propios directores de Gobierno y de Obras, David Razú y Martín Mejía, respectivamente, firmaron el acuerdo con Jorge Gamboa de Buen, del Corporativo Pedregal Hispamex, y Auristela Cerda, coordinadora interna de la colonia Molino del Rey</s>
+<s docid="08CI010414_825254" num="10" wdcount="23"> De ser cierta la postura del delegado, entonces que expliqué el motivo por el que esos funcionarios firmaron a sus espaldas”, señaló Chavarría</s>
+<s docid="08CI010414_825254" num="11" wdcount="7"> “No queremos que se construyan esos túneles</s>
+<s docid="08CI010414_825254" num="12" wdcount="4"> Que no mienta Romo</s>
+<s docid="08CI010414_825254" num="13" wdcount="30"> La construcción del edificio no se pudo parar, de eso estamos conscientes, pero exigimos que ya se termine, que nos dejen en paz, que ya no se oiga el ruido</s>
+<s docid="08CI010414_825254" num="14" wdcount="35"> Si Víctor Romo no nos ayuda en este aspecto, entonces ¿qué papel está jugando con Jorge Gamboa de Buen? Que explique eso, pero que no diga que desconoce sobre los dos túneles”, reiteró el vecino</s>
+<s docid="08CI010414_825254" num="15" wdcount="46"> Además, los colonos están preocupados de que la Secretaría de Medio Ambiente del DF haya autorizaron derribar 52 árboles, supuestamente para sanear el parque frente al edificio, “pero la constructora asegura que no ha tirado un solo árbol y la delegación (Miguel Hidalgo) se lo cree</s>
+<s docid="08CI010414_825254" num="16" wdcount="26"> Ese derribo ya ocurrió y mentira de que sea para sanear el parque, la verdad es que es para comenzar la construcción de los túneles”, reiteró</s>
+
+
+</TEXT>
+
+</DOC>

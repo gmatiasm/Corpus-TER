@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="05DE010414_825297"  num="1" wdcount="1"> 825297 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="05DE010414_825297"  num="2" wdcount="1">05DE010414_825297</s>
+</FILEID>
+
+<HEAD>
+<s docid="05DE010414_825297"  num="3" wdcount="7"> DE LA ROSA SUFRE SU PRIMERA DERROTA </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="05DE010414_825297"  num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="05DE010414_825297"  num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="05DE010414_825297" num="6" wdcount="46"> El mexicano Jorge de la Rosa (0-1) toleró cinco carreras en cuatro innings y un tercio en su primera apertura en un juego inaugural; sin embargo, sufrió en su debut en la temporada al ser apaleados los Rockies de Colorado 10-1 por los Marlins de Miami</s>
+<s docid="05DE010414_825297" num="7" wdcount="17"> El pitcher ganador fue el cubano José Fernández, quien estuvo igual de dominante que el año pasado</s>
+<s docid="05DE010414_825297" num="8" wdcount="35"> El isleño recetó nueve ponches y toleró una carrera en seis innings, mientras que Marcell Ozuna sacudió un jonrón y Casey McGehee remolcó cuatro carreras con dos dobles para que Miami tuviera su primera victoria</s>
+<s docid="05DE010414_825297" num="9" wdcount="16"> Sus nueve ponches igualaron el récord de Josh Beckett para un juego de la primera jornada</s>
+<s docid="05DE010414_825297" num="10" wdcount="6"> Tiró 73 strikes con 21 bolas</s>
+<s docid="05DE010414_825297" num="11" wdcount="20"> Fernández, de 21 años, al convertirse en el abridor más precoz en la Liga Nacional desde Dwight Gooden en 1986</s>
+<s docid="05DE010414_825297" num="12" wdcount="26"> Y lanzó de la misma manera magistral de su campaña de 2013, en la que tuvo marca de 12-6 y fue consagrado como Novato del Año.</s>
+
+
+</TEXT>
+
+</DOC>

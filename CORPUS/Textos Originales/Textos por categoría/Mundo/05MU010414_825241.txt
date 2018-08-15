@@ -1,0 +1,36 @@
+<DOC>
+
+<DOCNO>
+<s docid="05MU010414_825241" num="1" wdcount="1"> 825241 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="05MU010414_825241" num="2" wdcount="1">05MU010414_825241</s>
+</FILEID>
+
+<HEAD>
+<s docid="05MU010414_825241" num="3" wdcount="11"> De 30 millones a 52 millones de afectados en 10 años </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="05MU010414_825241" num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="05MU010414_825241" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="05MU010414_825241" num="6" wdcount="33"> El número de afectados por crisis humanitarias prácticamente se dobló en la última década, triplicando el costo de la ayuda internacional necesaria para darles respuesta, según un informe publicado ayer por Naciones Unidas</s>
+<s docid="05MU010414_825241" num="7" wdcount="30"> Según el informe, se espera que en 2015 hasta 52 millones de personas en todo el mundo reciban ayuda humanitaria, cuando hace una década la cifra rondaba los 30 millones</s>
+<s docid="05MU010414_825241" num="8" wdcount="23"> Las necesidades de financiación, mientras, se sitúan en más de 10,000 millones de dólares al año, tres veces más que hace diez años</s>
+<s docid="05MU010414_825241" num="9" wdcount="45"> La Oficina de Coordinación de Asuntos Humanitarios (OCHA) asegura en su estudio que entre 1980 y 2012 los desastres, causados por el cambio climático, y conflictos costaron a la economía global 38 billones de dólares, “equivalente a la mitad de la economía mundial en 2013”</s>
+<s docid="05MU010414_825241" num="10" wdcount="27"> La oficina de la ONU recomienda, por ello, concentrar más recursos en la prevención de catástrofes y no sólo reaccionar cuando ya se han desatado los problemas</s>
+<s docid="05MU010414_825241" num="11" wdcount="29"> “Debemos responder a las raíces de las crisis, no sólo a los síntomas”, indicó en un comunicado la coordinadora adjunta de Ayuda de Emergencia de la ONU, Kyung-wha Kang.</s>
+
+
+</TEXT>
+
+</DOC>

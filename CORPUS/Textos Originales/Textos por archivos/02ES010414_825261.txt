@@ -1,0 +1,47 @@
+<DOC>
+
+<DOCNO>
+<s docid="02ES010414_825261"  num="1" wdcount="1"> 825261 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="02ES010414_825261"  num="2" wdcount="1">02ES010414_825261</s>
+</FILEID>
+
+<HEAD>
+<s docid="02ES010414_825261"  num="3" wdcount="7"> Johnny Depp luce su anillo de compromiso </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="02ES010414_825261"  num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="02ES010414_825261"  num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="02ES010414_825261" num="6" wdcount="30"> Johnny Depp lució el lunes un anillo de diamante al que llamó un “anillo de mujer” y confirmó indirectamente los rumores de que se comprometió con la actriz Amber Heard</s>
+<s docid="02ES010414_825261" num="7" wdcount="28"> Cuando le preguntaron si estaba comprometido, el astro de Piratas del Caribe respondió: “El hecho de que llevo un anillo de mujer en el dedo probablemente me delata”</s>
+<s docid="02ES010414_825261" num="8" wdcount="20"> Rió y levantó la mano izquierda en la que llevaba el anillo con un solo diamante en el dedo anular</s>
+<s docid="02ES010414_825261" num="9" wdcount="15"> Depp hizo estos comentarios tras meses de reportes no confirmados sobre su compromiso con Heard</s>
+<s docid="02ES010414_825261" num="10" wdcount="22"> La actriz de 27 años trabajó con Kevin Costner en 3 Days to Kill, que se estrenó este año en Estados Unidos</s>
+<s docid="02ES010414_825261" num="11" wdcount="17"> Depp y Heard protagonizaron juntos The Rum Diary, que se filmó en Puerto Rico en el 2009</s>
+<s docid="02ES010414_825261" num="12" wdcount="25"> En 2012, Depp se separó de quien fue su pareja por 14 años, la modelo y cantante francesa Vanessa Paradis, con quien tiene dos hijos</s>
+<s docid="02ES010414_825261" num="13" wdcount="26"> En un característico comentario disparatado, Depp dijo: “Creo que sería mejor haciendo zapatos de mujer que planificando bodas, no puedo planificar nada, soy malísimo para eso” </s>
+<s docid="02ES010414_825261" num="14" wdcount="33"> El actor de 50 años se encontraba en Beijing promocionando su más reciente película, Transcendence, en la que interpreta a un científico con una enfermedad terminal que descarga su mente a una computadora</s>
+<s docid="02ES010414_825261" num="15" wdcount="17"> El drama de ciencia ficción indaga qué sucedería si pudiésemos darle una mente humana a un computador</s>
+<s docid="02ES010414_825261" num="16" wdcount="12"> También actúan Rebecca Hall, como la esposa de Depp, y Morgan Freeman</s>
+<s docid="02ES010414_825261" num="17" wdcount="43"> “Lo que encuentro más fascinante es que mucha (de la tecnología en el filme) ya existe y según investigadores y profesores y científicos no estamos muy lejos de esa especie de tecnología, de esa especie de inteligencia artificial”, dijo Depp en una entrevista</s>
+<s docid="02ES010414_825261" num="18" wdcount="49"> “Es una de esas películas en las que una persona se ve obligada a tomar una decisión en un instante, cuando la persona a la que amas está muriendo y tienes que decidir, si tuvieras la posibilidad de subir su conciencia a una computadora, si lo harías” , añadió</s>
+<s docid="02ES010414_825261" num="19" wdcount="16"> “Es una decisión rara que tomar pero creo que todos lo haríamos por el ser amado”</s>
+<s docid="02ES010414_825261" num="20" wdcount="16"> Transcendence se estrena en China el 18 de abril, el mismo día que en Estados Unidos</s>
+<s docid="02ES010414_825261" num="21" wdcount="12"> Por ahora, China es el único país donde se exhibirá en 3D</s>
+<s docid="02ES010414_825261" num="22" wdcount="34"> También es la única parada promocional internacional de Depp, lo que ilustra la creciente atención que Hollywood le está dando a la nación asiática, que ostenta la segunda mayor taquilla después de Estados Unidos</s>
+
+
+</TEXT>
+
+</DOC>

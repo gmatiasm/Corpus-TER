@@ -1,0 +1,45 @@
+<DOC>
+
+<DOCNO>
+<s docid="11BI080414_826897" num="1" wdcount="1"> 826897 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="11BI080414_826897" num="2" wdcount="1">11BI080414_826897</s>
+</FILEID>
+
+<HEAD>
+<s docid="11BI080414_826897" num="3" wdcount="8"> Recomiendan comer siete frutas y verduras al día </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="11BI080414_826897" num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="11BI080414_826897" num="5" wdcount="1"> 2014-04-08 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="11BI080414_826897" num="6" wdcount="27"> Científicos deL “University College London” (UCL recomendaron comer siete porciones de frutas y verduras frescas cada día, para disminuir los riesgos de cáncer, infartos y derrames cerebrales</s>
+<s docid="11BI080414_826897" num="7" wdcount="42"> Tras analizar los hábitos alimenticios de 65 mil adultos en Inglaterra, descubrieron que comer más frutas y verduras frescas, principalmente vegetales, está asociado a expectativas de vida más largas y a menor riesgo de muerte por enfermedades del corazón, apoplejías y cáncer</s>
+<s docid="11BI080414_826897" num="8" wdcount="39"> El autor del informe, Oyinlola Oyebode, afirmó que la campaña de salud de Australia de comer 300 gramos de dos frutas y 375 gramos de cinco verduras conocido como “Go for 2+5” es una de las mejores del mundo</s>
+<s docid="11BI080414_826897" num="9" wdcount="3"> “Tiene mucho sentido</s>
+<s docid="11BI080414_826897" num="10" wdcount="17"> Tiene el propósito de incrementar el consumo y mantener el equilibrio de dos frutas y cinco verduras</s>
+<s docid="11BI080414_826897" num="11" wdcount="11"> Nuestro estudio demuestra que las verduras son mejores que las frutas”</s>
+<s docid="11BI080414_826897" num="12" wdcount="58"> En los estudios basados en la Encuesta sobre Salud de Inglaterra (Health Survey for England), los científicos revelaron que la ingesta de frutas y verduras disminuye el riesgo de morir de cualquier enfermedad en 42 por ciento, el peligro de cáncer se reduce en 25 por ciento y los infartos cerebrales y al corazón en 31 por ciento</s>
+<s docid="11BI080414_826897" num="13" wdcount="49"> El estudio publicado en el “Journal of Epidemiology and Community Health”, señala que la fortaleza de la investigación es que está basada en los hábitos de 65 mil personas, y no en un número pequeño de individuos que tiene una condición de salud o un particular estilo de vida</s>
+<s docid="11BI080414_826897" num="14" wdcount="48"> El Oyebode y su equipo de investigadores tomaron en cuenta el contexto socio-económico, el tabaco, y otros estilos de vida que afectan la salud del individuo y descubrieron que existe una fuerte asociación entre altos niveles de ingesta de frutas y verduras y menor riesgo de muerte prematura</s>
+<s docid="11BI080414_826897" num="15" wdcount="29"> Reino Unido lanzó en 2003 la campaña gubernamental para consumir cinco frutas y verduras, incluidas frutas congeladas o en lata, pero el estudio no encontró beneficio en alimentos enlatados</s>
+<s docid="11BI080414_826897" num="16" wdcount="21"> Agregó que el estudio reveló que las personas que ingieren frutas congeladas o enlatadas tienen más riesgo de infartos y cáncer</s>
+<s docid="11BI080414_826897" num="17" wdcount="29"> El equipo de investigadores de la UCL admite que es necesario hacer más investigación sobre las frutas enlatadas en almíbar para determinar si el contenido de azúcar sería contraproducente</s>
+<s docid="11BI080414_826897" num="18" wdcount="13"> Oyebode y su equipo señalan que “no están seguros” cómo interpretar estos datos</s>
+<s docid="11BI080414_826897" num="19" wdcount="32"> “Puede ser que los individuos que ingieren fruta en almíbar tengan dietas más pobres, habitan en zonas donde no hay verduras y frutas frescas, o su estilo de vida sea menos saludable”</s>
+<s docid="11BI080414_826897" num="20" wdcount="43"> Oyebode señala que los lineamientos del gobierno británico de comer “5 al Día” no deberían cambiar “porque la mayoría de la gente sabe que tiene que comer cinco (frutas y verduras) al día y sólo 25 por ciento de la población lo hace”.</s>
+
+
+</TEXT>
+
+</DOC>

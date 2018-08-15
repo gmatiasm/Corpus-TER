@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="15ES020414_825550" num="1" wdcount="1"> 825550 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="15ES020414_825550" num="2" wdcount="1">15ES020414_825550</s>
+</FILEID>
+
+<HEAD>
+<s docid="15ES020414_825550" num="3" wdcount="14"> Congratulan el trabajo de la actriz Blanca Guerra, con el Premio Ignacio López Tarso </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="15ES020414_825550" num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="15ES020414_825550" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="15ES020414_825550" num="6" wdcount="37"> La actriz Blanca Guerra recibió un homenaje por su invaluable aportación y ejemplo en la cinematografía mexicana, esto por parte de la Asociación Mexicana de Cineastas Independientes, AMCI, que en la Cineteca Nacional celebró su 20 aniversario</s>
+<s docid="15ES020414_825550" num="7" wdcount="56"> Durante una ceremonia en la Sala 2 del recinto cinematográfico, le fue entregado a la presidenta de la Academia Mexicana de Artes y Ciencias Cinematográficas, AMACC, el Premio Ignacio López Tarso, de manos del propio actor, quien comentó: “Es una satisfacción personal y un gran honor entregarte este premio en el 20 aniversario de la AMCI</s>
+<s docid="15ES020414_825550" num="8" wdcount="9"> Eres una actriz formidable, de muchas y magníficas películas</s>
+<s docid="15ES020414_825550" num="9" wdcount="20"> Hemos compartido poco cine, algo de teatro y algo de televisión, pero lo he disfrutado muchísimo”, expresó el primer actor</s>
+<s docid="15ES020414_825550" num="10" wdcount="83"> Por su parte, la galardonada comentó que su carrera está compuesta de muchas cosas, pero varios años los dedicó al cine y lo seguirá haciendo ahora desde la trinchera de la AMACC: “Nacho y yo hemos trabajado pocas veces juntos, pero en cosas muy trascendentes como en la obra teatral El Rey Lear, dirigida por Salvador Garcini, donde tuve la oportunidad de ver los ingredientes con los que compone su trabajo y que lo han mantenido como una institución teatral”, destacó la actriz</s>
+<s docid="15ES020414_825550" num="11" wdcount="94"> Previo a la entrega del galardón, que también ha sido otorgado en años anteriores a Angélica María, Carmen Montejo y Evita Muñoz, Chachita, se proyectó una semblanza con lo más relevante de sus 35 años de carrera y Guerra, estelar de filmes como Danzón en 1991 y Un embrujo en 1998, admitió que le conmovió mucho: “Estaba a punto de soltar las lágrimas porque me doy cuenta que ha pasado mucho tiempo, que he vivido muchas cosas y que han pasado muchos amores en lo referente a proyectos y también de otro tipo”, enfatizó</s>
+<s docid="15ES020414_825550" num="12" wdcount="40"> La Asociación Mexicana de Cineastas Independientes presentó un fragmento de la obra de teatro Perras, interpretado por alumnas de la carrera de Actuación y la cual fue escrita por Guillermo Ríos, actor, director y escritor de No se aceptan devoluciones</s>
+<s docid="15ES020414_825550" num="13" wdcount="44"> Por su parte, Pedro Araneda, productor de cine y director de la AMCI, comentó que las celebraciones enmarcan lo ya logrado y son lugar para atestiguar el nacimiento del futuro: “La AMCI toma nueva fuerza y se consolida como una institución sólida y seria</s>
+<s docid="15ES020414_825550" num="14" wdcount="15"> Somos una comunidad en donde todos hacemos lo que nos gusta, cine y actuación”, finalizó.</s>
+
+</TEXT>
+
+</DOC>

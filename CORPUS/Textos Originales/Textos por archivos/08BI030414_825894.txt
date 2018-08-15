@@ -1,0 +1,102 @@
+<DOC>
+
+<DOCNO>
+<s docid="08BI030414_825894"num="1" wdcount="1"> 825894 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="08BI030414_825894"num="2" wdcount="1">08BI030414_825894</s>
+</FILEID>
+
+<HEAD>
+<s docid="08BI030414_825894"num="3" wdcount="5"> Mitos y realidades sobre anticoncepción </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="08BI030414_825894"num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="08BI030414_825894"num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="08BI030414_825894" num="6" wdcount="28"> Si bien la píldora anticonceptiva comenzó a utilizarse en la década del 60, generando una revolución absoluta, en la actualidad persisten diversos mitos sobre su uso y eficacia</s>
+<s docid="08BI030414_825894" num="7" wdcount="24"> Que engorda, que provoca acné, que no debe mezclarse con antibióticos o que el cuerpo debe descansar después de algunos años continuados de uso</s>
+<s docid="08BI030414_825894" num="8" wdcount="5"> El ginecólogo de Vidaintegra, Dr</s>
+<s docid="08BI030414_825894" num="9" wdcount="21"> Sergio Valdés, despeja algunas incógnitas de este popular método anticonceptivo que, si se usa correctamente, es el más seguro de todos</s>
+<s docid="08BI030414_825894" num="10" wdcount="9"> • Mito 1: Cualquier anticonceptivo sirve para cualquier mujer</s>
+<s docid="08BI030414_825894" num="11" wdcount="1"> Falso</s>
+<s docid="08BI030414_825894" num="12" wdcount="17"> El especialista de Vidaintegra explica que “hoy el uso de anticonceptivos se ha vuelto una indicación personalizada”</s>
+<s docid="08BI030414_825894" num="13" wdcount="20"> Depende en parte de los requerimientos de las pacientes, por ejemplo, algunos acortan el periodo de menstruación, entre otros factores</s>
+<s docid="08BI030414_825894" num="14" wdcount="21"> “Por eso es recomendable que cada mujer consulte a su médico para que le entregue el método que más les beneficie”</s>
+<s docid="08BI030414_825894" num="15" wdcount="8"> • Mito 2: Las pastillas anticonceptivas tienen múltiples beneficios</s>
+<s docid="08BI030414_825894" num="16" wdcount="1"> Verdadero</s>
+<s docid="08BI030414_825894" num="17" wdcount="26"> Existe una serie de beneficios de las píldoras anticonceptivas: disminución de la cantidad e intensidad de la menstruación, su regularización y la merma del síndrome premenstrual</s>
+<s docid="08BI030414_825894" num="18" wdcount="27"> “También disminuyen las enfermedades a largo plazo, ya que las mujeres que usan pastillas tienen menos posibilidades de desarrollar tumores malignos en los ovarios”, indica el Dr</s>
+<s docid="08BI030414_825894" num="19" wdcount="1"> Valdés</s>
+<s docid="08BI030414_825894" num="20" wdcount="9"> • Mito 3: Las pastillas no tienen ningún efecto adverso</s>
+<s docid="08BI030414_825894" num="21" wdcount="1"> Falso</s>
+<s docid="08BI030414_825894" num="22" wdcount="13"> Como todo medicamento, las pastillas anticonceptivas tienen efectos colaterales beneficiosos y también negativos</s>
+<s docid="08BI030414_825894" num="23" wdcount="35"> Los efectos adversos se dan en una muy pequeña cantidad de mujeres, en quienes se puede producir alteraciones en la coagulación o aumentar el tamaño de tumores ya existentes, de mamas o de ovarios (endometrio)</s>
+<s docid="08BI030414_825894" num="24" wdcount="21"> El Dr. Valdés aclara que “es sólo una minoría muy específica, para quienes se recomiendan otros tipos de anticonceptivos y dosis”</s>
+<s docid="08BI030414_825894" num="25" wdcount="5"> • Mito 4: Los anticonceptivos engordan</s>
+<s docid="08BI030414_825894" num="26" wdcount="1"> Falso</s>
+<s docid="08BI030414_825894" num="27" wdcount="50"> Este es uno de los mitos más difundidos, sin embargo, el ginecólogo de Vidaintegra aclara que “el uso de anticonceptivos puede producir retención de líquidos, que se traduce en no más de 500 gramos en la balanza, y además es un aumento transitorio que desaparece en uno o dos meses”</s>
+<s docid="08BI030414_825894" num="28" wdcount="10"> • Mito 5: Fumar y tomar pastillas anticonceptivas no es compatible</s>
+<s docid="08BI030414_825894" num="29" wdcount="1"> Verdadero</s>
+<s docid="08BI030414_825894" num="30" wdcount="19"> El especialista de Vidaintegra indica que fumar es nocivo para la salud de las mujeres que utilizan la píldora</s>
+<s docid="08BI030414_825894" num="31" wdcount="45"> “En algunas pacientes sobre los 35 años es una pésima combinación, porque genera el riesgo de complicaciones severas, como por ejemplo las trombosis venosas, que son la formación de grandes coágulos en las venas de las piernas, y eso requiere de tratamiento y hospitalización”, señala</s>
+<s docid="08BI030414_825894" num="32" wdcount="16"> • Mito 6: Si olvida tomar la píldora por varios días es recomendable utilizar otro método anticonceptivo</s>
+<s docid="08BI030414_825894" num="33" wdcount="1"> Verdadero</s>
+<s docid="08BI030414_825894" num="34" wdcount="2"> El Dr</s>
+<s docid="08BI030414_825894" num="35" wdcount="48"> Valdés señala que si el olvido es sólo de un día, el cuerpo no alcanza a activar el proceso de ovulación, sin embargo, si se olvida la píldora por más de dos días, “la mujer debe considerarse fértil, y debería utilizar un método anticonceptivo complementario, como el preservativo”</s>
+<s docid="08BI030414_825894" num="36" wdcount="13"> Además indica que si el olvido es constante, es recomendable cambiar de método</s>
+<s docid="08BI030414_825894" num="37" wdcount="11"> • Mito 7: Los parches, dispositivos e implantes no son métodos efectivos</s>
+<s docid="08BI030414_825894" num="38" wdcount="1"> Falso</s>
+<s docid="08BI030414_825894" num="39" wdcount="27"> Si bien el método más seguro son las pastillas bien utilizadas (sin olvidos ni interrupciones), los parches, dispositivos, implantes, anillos, entre otros, también tienen una alta efectividad</s>
+<s docid="08BI030414_825894" num="40" wdcount="27"> “Es sólo un poco menor que la de la píldora, pero son bastante seguros tanto para la paciente como para prevenir embarazos”, indica el especialista de Vidaintegra</s>
+<s docid="08BI030414_825894" num="41" wdcount="16"> • Mito 8: El uso prolongado de medicamentos puede interferir en la eficacia de la píldora Verdadero</s>
+<s docid="08BI030414_825894" num="42" wdcount="19"> Si bien el mito indica que son los antibióticos los que pueden reducir la eficacia del anticonceptivo, el Dr</s>
+<s docid="08BI030414_825894" num="43" wdcount="19"> Valdés aclara que más bien es el uso prolongado de medicamentos para enfermedades como la epilepsia o la depresión</s>
+<s docid="08BI030414_825894" num="44" wdcount="24"> “El uso de antibióticos u otro medicamento por una semana o 10 días no afecta en la eficacia de los anticonceptivos”, indica el especialista</s>
+<s docid="08BI030414_825894" num="45" wdcount="18"> • Mito 9: El uso de anticonceptivos favorece la aparición de acné, puntos negros, vellos y reseca el cabello</s>
+<s docid="08BI030414_825894" num="46" wdcount="1"> Falso</s>
+<s docid="08BI030414_825894" num="47" wdcount="27"> El ginecólogo de Vidaintegra señala que “casi todas las pastillas tienen un muy buen efecto reduciendo la producción de hormonas que producen los vellos y el acné</s>
+<s docid="08BI030414_825894" num="48" wdcount="36"> A veces la observación confunde y las pacientes vienen con problemas de acné de antes y luego culpan a la píldora, sin embargo, incluso hay mujeres que comienzan a utilizar anticonceptivos orales para reducir estas molestias”</s>
+<s docid="08BI030414_825894" num="49" wdcount="14"> • Mito 10: Hay que dejar de utilizar las pastillas para que el cuerpo descanse</s>
+<s docid="08BI030414_825894" num="50" wdcount="1"> Falso</s>
+<s docid="08BI030414_825894" num="51" wdcount="14"> No es necesario descansar de las pastillas, ya que su efecto es muy transitorio</s>
+<s docid="08BI030414_825894" num="52" wdcount="17"> “Tanto es así que si una mujer deja de usarlas, la ovulación comienza muy pocos días después</s>
+<s docid="08BI030414_825894" num="53" wdcount="23"> No hay que descansar a menos que quieras embarazarte, y tampoco hay que cambiar de método si ha funcionado bien”, indica el Dr</s>
+<s docid="08BI030414_825894" num="54" wdcount="1"> Valdés</s>
+<s docid="08BI030414_825894" num="55" wdcount="8"> • Mito 11: En algunos casos la libido baja</s>
+<s docid="08BI030414_825894" num="56" wdcount="1"> Verdadero</s>
+<s docid="08BI030414_825894" num="57" wdcount="21"> Algunas pacientes lo perciben, sin embargo, es un proceso normal que en muchos casos es transitorio y pueden superarlo sin problemas</s>
+<s docid="08BI030414_825894" num="58" wdcount="16"> “Las pastillas bloquean la producción hormonal del ovario, por lo que es normal que esto ocurra</s>
+<s docid="08BI030414_825894" num="59" wdcount="34"> Sin embargo, la mujer es mucho más compleja que sólo una suma de hormonas, por lo que la libido tiene que ver con muchas cosas: la pareja, el entorno, entre otras”, indica el Dr</s>
+<s docid="08BI030414_825894" num="60" wdcount="1"> Valdés</s>
+<s docid="08BI030414_825894" num="61" wdcount="10"> • Mito 12: El uso de pastillas anticonceptivas podría producir várices</s>
+<s docid="08BI030414_825894" num="62" wdcount="1"> Verdadero</s>
+<s docid="08BI030414_825894" num="63" wdcount="13"> La píldora es un medicamento de uso habitual, y todo medicamento tiene efectos</s>
+<s docid="08BI030414_825894" num="64" wdcount="23"> El ginecólogo de Vidaintegra señala que “en el largo plazo se ha visto que las mujeres que usan pastillas tienen más enfermedades varicosas</s>
+<s docid="08BI030414_825894" num="65" wdcount="29"> Sin embargo, la mayoría de esas mujeres tiene otros factores de riesgo como el sobrepeso, por lo que no se puede culpar únicamente a la utilización de la pastilla”</s>
+<s docid="08BI030414_825894" num="66" wdcount="11"> • Mito 13: El uso prolongado de la píldora puede producir infertilidad</s>
+<s docid="08BI030414_825894" num="67" wdcount="1"> Falso</s>
+<s docid="08BI030414_825894" num="68" wdcount="11"> El efecto de las pastillas es muy transitorio, explica el Dr</s>
+<s docid="08BI030414_825894" num="69" wdcount="18"> Valdés, por lo que una vez que se dejan las pastillas se activa el proceso normal de ovulación</s>
+<s docid="08BI030414_825894" num="70" wdcount="35"> Por otro lado, “existe en Chile cerca de un 10% de parejas con problemas de infertilidad que no se evidencia mientras se utilizan métodos anticonceptivos, quedando al descubierto cuando la pareja quiere buscar el embarazo”</s>
+<s docid="08BI030414_825894" num="71" wdcount="21"> Consejos para un uso efectivo de las pastillas anticonceptivas • Consultar a su médico cuando se inicie el uso de anticonceptivos</s>
+<s docid="08BI030414_825894" num="72" wdcount="8"> • Tomarla todos los días a la misma hora</s>
+<s docid="08BI030414_825894" num="73" wdcount="2"> • No fumar</s>
+<s docid="08BI030414_825894" num="74" wdcount="15"> • Utilizar otro método si se ha olvidado la píldora por más de dos días</s>
+<s docid="08BI030414_825894" num="75" wdcount="14"> • Controlar factores de riesgo como el sobrepeso para evitar efectos adversos como las várices</s>
+<s docid="08BI030414_825894" num="76" wdcount="11"> • Consultar a su médico si sigue tratamientos prolongados con otros medicamentos</s>
+<s docid="08BI030414_825894" num="77" wdcount="20"> • La píldora es un medicamento como cualquier otro, por lo que es importante controlar la aparición de efectos colaterales adversos.</s>
+
+
+</TEXT>
+
+</DOC>

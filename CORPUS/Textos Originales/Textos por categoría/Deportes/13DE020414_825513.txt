@@ -1,0 +1,34 @@
+<DOC>
+
+<DOCNO>
+<s docid="13DE020414_825513" num="1" wdcount="1"> 825513 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="13DE020414_825513" num="2" wdcount="1">13DE020414_825513</s>
+</FILEID>
+
+<HEAD>
+<s docid="13DE020414_825513" num="3" wdcount="8"> Chris Arreola va por el título mundial completo </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="13DE020414_825513" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="13DE020414_825513" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="13DE020414_825513" num="6" wdcount="75"> Hijo de padres mexicanos, pero nacido en Los Angeles, California, Chris Arreola se siente orgulloso de sus raíces y vía telefónica estableció contacto con Mauricio Sulaimán, presidente del Consejo Mundial de Boxeo, para manifestar que no dejará escapar la oportunidad de convertirse en campeón mundial, en la división de peso completo, el próximo 10 de mayo, cuando nuevamente se enfrente al canadiense Bermane Stiverne, quien en abril del año pasado lo derrotó por decisión unánime</s>
+<s docid="13DE020414_825513" num="7" wdcount="45"> “Esta vez la historia será distinta, confío plenamente en mi preparación, la pelea la voy a ganar en el gimnasio, ya que voy a llegar en el rango de las 238 a 242 libras como máximo, lo que me dará velocidad, sin perder la potencia</s>
+<s docid="13DE020414_825513" num="8" wdcount="19"> Quiero ganar el campeonato para darle esperanza a mi gente, de que sí pueden alcanzar lo que se propongan”</s>
+<s docid="13DE020414_825513" num="9" wdcount="43"> En septiembre de 2009, en el Steples Center de Los Angeles, California, Arreola tuvo su primera oportunidad de conquistar el cinturón verde y oro, de la máxima división del boxeo mundial; sin embargo, fue derrotado por nocaut técnico por el ucraniano Vitaly Klitscko.</s>
+
+
+</TEXT>
+
+</DOC>

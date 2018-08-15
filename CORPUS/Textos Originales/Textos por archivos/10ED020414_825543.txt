@@ -1,0 +1,36 @@
+<DOC>
+
+<DOCNO>
+<s docid="10ED020414_825543" num="1" wdcount="1"> 825543 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="10ED020414_825543" num="2" wdcount="1">10ED020414_825543</s>
+</FILEID>
+
+<HEAD>
+<s docid="10ED020414_825543" num="3" wdcount="10"> El IEEM reconoce y entrega estímulos a servidores públicos electorales </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="10ED020414_825543" num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="10ED020414_825543" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="10ED020414_825543" num="6" wdcount="50"> Al ser la profesionalización uno de los principios rectores del Instituto Electoral del Estado de México, se han establecido las directrices que contribuyen a dotarlo de personal calificado, así como los instrumentos que permiten conocer en forma objetiva el desempeño de los integrantes del Servicio Electoral Profesional en órganos centrales</s>
+<s docid="10ED020414_825543" num="7" wdcount="34"> Resultado de ello se llevó a cabo la entrega de “Reconocimientos y estímulos a integrantes del Servicio Electoral Profesional 2013”, en el marco de las actividades conmemorativas de sus 18 años de vida institucional</s>
+<s docid="10ED020414_825543" num="8" wdcount="65"> Al respecto es importante señalar que la evaluación del desempeño es de carácter obligatorio y se realiza anualmente con el objetivo de medir los niveles de rendimiento y comportamiento laboral, individual y grupal de los servidores electorales profesionales en los órganos centrales, mediante instrumentos técnicos que permiten determinar el cumplimiento de políticas, programas, funciones y metas institucionales y, en general, medir el grado de profesionalización</s>
+<s docid="10ED020414_825543" num="9" wdcount="72"> La entrega de reconocimientos se llevó a cabo en el Centro de Formación y Documentación Electoral del IEEM, encabezada por el Consejero Presidente, Jesús Castillo Sandoval; por el Secretario Ejecutivo General, Francisco Javier López Corral; por el Consejo Electoral y Presidente de la Comisión del Servicio Electoral Profesional, Juan Salvador V. Hernández Flores y por los Consejeros Electorales, Juan Carlos Villarreal Martínez y Policarpo Montes de Oca Vázquez, integrantes de dicha Comisión</s>
+<s docid="10ED020414_825543" num="10" wdcount="55"> Asimismo, estuvieron presentes el Director del Servicio Electoral Profesional, Humberto Infante Ojeda y el Contralor General del Instituto, Ruperto Retana Ramírez, representantes de los partidos políticos, servidores públicos electorales, familiares y amigos de los integrantes del Servicio Electoral Profesional del IEEM, a quienes también se entregaron 20 reconocimientos por el desarrollo académico posterior al ingreso</s>
+<s docid="10ED020414_825543" num="11" wdcount="71"> En otra actividad enmarcada en los eventos conmemorativos de los 18 años del IEEM, se efectuó la Ceremonia de Premiación del Concurso de Fotografía “Una mirada a la democracia, IEEM 2014”, la cual fue presidida por el Consejero Presidente, Jesús Castillo Sandoval; el Secretario Ejecutivo General, Francisco Javier López Corral; el Consejero Electoral y Presidente de la Comisión de Promoción y Difusión de la Cultura Política y Democrática, Arturo Bolio Cerdán</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="09NA010414_825328" num="1" wdcount="1"> 825328 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="09NA010414_825328" num="2" wdcount="1">09NA010414_825328</s>
+</FILEID>
+
+<HEAD>
+<s docid="09NA010414_825328" num="3" wdcount="9"> Acuerdan sueldo diario de $300 para choferes de Guadalajara </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="09NA010414_825328" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="09NA010414_825328" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="09NA010414_825328" num="6" wdcount="30"> Los choferes del transporte público de la Zona Metropolitana de Guadalajara ganarán en promedio 300 pesos diarios, luego de que terminaran las negociaciones para la firma de los contratos colectivos</s>
+<s docid="09NA010414_825328" num="7" wdcount="32"> Arturo Zamora, secretario general de Gobierno, puso un plazo para que ayer fuera el último día de firmar estos contratos; sin embargo, será hasta hoy en la mañana cuando termine este proceso</s>
+<s docid="09NA010414_825328" num="8" wdcount="39"> Toribio Lucero García, líder del Sindicato de Empleados del Sistecozome, mencionó que tras la negociación del contrato colectivo de trabajo, se llegó al acuerdo de que cada uno de los 525 choferes de la paraestatal ganara 300 pesos diarios</s>
+<s docid="09NA010414_825328" num="9" wdcount="37"> Ayer en la mañana, la firma del contrato se encontraba atorada porque el sindicato negociaba un sueldo de 350 pesos, pero acordaron que éste fuera de 50 pesos menos, con la condición de reconsiderarlo en cuatro meses</s>
+<s docid="09NA010414_825328" num="10" wdcount="53"> El acuerdo es que los choferes del Sistecozome trabajarán cinco días a la semana con jornadas de ocho horas, dentro de las cuales se les dará media hora para ingerir alimentos; además, tendrán 20 días de vacaciones al año, divididos en dos periodos iguales, y su aguinaldo corresponderá a 50 días de salario</s>
+<s docid="09NA010414_825328" num="11" wdcount="39"> Juan Carlos Villarreal, líder de Frente Unido de Subrogatarios y Concesionarios de Jalisco, mismo que aglutina a más de cinco mil operadores de ruta, mencionó que será hoy en la mañana cuando finalmente terminen de firmarse todos los contratos</s>
+<s docid="09NA010414_825328" num="12" wdcount="19"> En este caso, los sueldos van de 250 pesos hasta 400 pesos, dependiendo de la afluencia de cada ruta</s>
+<s docid="09NA010414_825328" num="13" wdcount="42"> La oficina de comunicación social de la Secretaría del Trabajo y Previsión Social de Jalisco informó que, independientemente de si se han firmado o no los contratos colectivos aún, a partir de este día comienza el nuevo modelo laboral para los choferes</s>
+
+
+</TEXT>
+
+</DOC>

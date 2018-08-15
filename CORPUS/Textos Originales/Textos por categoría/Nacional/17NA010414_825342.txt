@@ -1,0 +1,34 @@
+<DOC>
+
+<DOCNO>
+<s docid="17NA010414_825342" num="1" wdcount="1"> 825342 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="17NA010414_825342" num="2" wdcount="1">17NA010414_825342</s>
+</FILEID>
+
+<HEAD>
+<s docid="17NA010414_825342" num="3" wdcount="12"> Con las reformas ya no es necesario el Cofipe, afirma Fernando Rodríguez </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="17NA010414_825342" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="17NA010414_825342" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="17NA010414_825342" num="6" wdcount="47"> El secretario de la Comisión de Puntos Constitucionales de la Cámara de Diputados, Fernando Rodríguez Doval, del PAN, afirmó que con las reformas en materia político-electoral y las leyes secundarias en proceso, ya no es necesario que exista el Código Federal de Instituciones y Procedimientos Electorales (Cofipe)</s>
+<s docid="17NA010414_825342" num="7" wdcount="27"> Se crearán nuevas normas a fin de contar con un marco jurídico actualizado y eficaz para la organización y vigilancia de los procesos electorales en México, consideró</s>
+<s docid="17NA010414_825342" num="8" wdcount="36"> Anunció que esta semana, el PAN presentará dos propuestas de leyes secundarias para avanzar en la consolidación de la reforma constitucional aprobada hace algunos meses y con ello, se buscará que esta última no quede “descafeinada”</s>
+<s docid="17NA010414_825342" num="9" wdcount="23"> La reforma constitucional fue muy clara: se deben crear leyes generales en materia electoral que distribuyan competencias entre la Federación y los estados</s>
+
+
+</TEXT>
+
+</DOC>

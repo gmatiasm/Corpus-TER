@@ -1,0 +1,47 @@
+<DOC>
+
+<DOCNO>
+<s docid="14SO060414_826431" num="1" wdcount="1"> 826431 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="14SO060414_826431" num="2" wdcount="1">14SO060414_826431</s>
+</FILEID>
+
+<HEAD>
+<s docid="14SO060414_826431" num="3" wdcount="11"> Papa Francisco ofrece evangelios de bolsillo a los fieles en Roma </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="14SO060414_826431" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="14SO060414_826431" num="5" wdcount="1"> 2014-04-06 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="14SO060414_826431" num="6" wdcount="36"> El papa Francisco ofreció hoy evangelios de bolsillo gratuitos a los fieles que acudieron al tradicional rezo del Ángelus en la Plaza de San Pedro y les pidió que los distribuyan también gratuitamente a otros creyentes</s>
+<s docid="14SO060414_826431" num="7" wdcount="40"> "Los habéis recibido gratis, dadlos gratis", pidió el papa Bergoglio después del rezo a los fieles congregados en la plaza, a quienes recordó que hoy en día "se puede llevar la Biblia entera en un teléfono móvil, en una tableta"</s>
+<s docid="14SO060414_826431" num="8" wdcount="9"> "¡Se puede leer el evangelio con tantos instrumentos tecnológicos!"</s>
+<s docid="14SO060414_826431" num="9" wdcount="2">  exclamó Bergoglio</s>
+<s docid="14SO060414_826431" num="10" wdcount="21"> "Lo importante es leer la palabra de Dios, por todos los medios, y recibirla con el corazón abierto", dijo el pontífice</s>
+<s docid="14SO060414_826431" num="11" wdcount="44"> El papa argentino dijo que este de hoy es un "gesto sencillo" y recordó que ya durante las semanas precedentes había sugerido a los creyentes que se hicieran con un "pequeño evangelio" y que lo llevaran consigo "durante el día, para poder leerlo siempre"</s>
+<s docid="14SO060414_826431" num="12" wdcount="27"> "Luego pensé en la antigua tradición de la Iglesia, durante la Cuaresma, de entregar el evangelio a los catecúmenos, a los que se preparaban para el bautismo</s>
+<s docid="14SO060414_826431" num="13" wdcount="22"> Hoy quiero ofreceros a los que estáis en la plaza, pero como señal para todos, un evangelio de bolsillo", anunció el papa</s>
+<s docid="14SO060414_826431" num="14" wdcount="8"> "Tomadlo, llevadlo con vosotros y leedlo cada día: </s>
+<s docid="14SO060414_826431" num="15" wdcount="5"> ¡es Jesús quien os habla!"</s>
+<s docid="14SO060414_826431" num="16" wdcount="2">  declaró Francisco</s>
+<s docid="14SO060414_826431" num="17" wdcount="36">  El Vaticano ya había anunciado el viernes que, a petición de Francisco, hoy se repartirían los evangelios de bolsillo a todos aquellos que acudieran a la Plaza de San Pedro a escuchar la oración del Ángelus</s>
+<s docid="14SO060414_826431" num="18" wdcount="41"> Los libros de esta edición, que ha sido publicada para la ocasión, están firmados por el Vaticano e incluyen los cuatro evangelios y los Actos de los Apóstoles, además de unas palabras del propio pontífice sobre la Exhortación apostólica "Evangelii Gaudium"</s>
+<s docid="14SO060414_826431" num="19" wdcount="34"> "La alegría del Evangelio llena el corazón y la vida de aquellos que se encuentran con Jesús", es el mensaje que Jorge Bergoglio envía a los católicos en esta edición especial, explicó el Vaticano</s>
+<s docid="14SO060414_826431" num="20" wdcount="30"> En el interior de la portada están escritas las indicaciones para recitar "La Coronilla de la Divina Misericordia" y hacia el final del libro, la Oración del cardenal John H</s>
+<s docid="14SO060414_826431" num="21" wdcount="17"> Newman: "Querido Jesús ...", que la Madre Teresa instó a sus monjas a recitar todos los días</s>
+<s docid="14SO060414_826431" num="22" wdcount="39"> La idea de la distribución gratuita de unos evangelios de bolsillo se ha llevado a cabo con la colaboración de los seminaristas del Seminario Romano, las Hermanas de la Madre Teresa y otras personas afines a la religión católica</s>
+
+
+</TEXT>
+
+</DOC>

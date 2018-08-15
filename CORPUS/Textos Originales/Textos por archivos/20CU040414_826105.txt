@@ -1,0 +1,44 @@
+<DOC>
+
+<DOCNO>
+<s docid="20CU040414_826105" num="1" wdcount="1"> 826105 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="20CU040414_826105" num="2" wdcount="1">20CU040414_826105</s>
+</FILEID>
+
+<HEAD>
+<s docid="20CU040414_826105" num="3" wdcount="7"> Académicos mexicanos rinden homenaje a Octavio Paz </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="20CU040414_826105" num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="20CU040414_826105" num="5" wdcount="1"> 2014-04-04 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="20CU040414_826105" num="6" wdcount="61"> Al participar en el homenaje que la Academia Mexicana de la Lengua (AML) rinde a Octavio Paz en el centenario de su natalicio, los poetas Jaime Labastida, Adolfo Castañón y Eduardo Lizalde destacaron la obra y la figura del Premio Nobel de Literatura 1990, un vate que se inició como un poeta clásico y luego se asumió como un decidido experimental</s>
+<s docid="20CU040414_826105" num="7" wdcount="66"> Al tomar la palabra, en el Auditorio del Museo Tamayo Arte Contemporáneo, el director de la Academia, Jaime Labastida, expuso: “La mayor parte de los poetas inician su escritura con tímidos balbuceos, pocos abren su carrera con audaces intentos de innovación para asentar así un nuevo estilo, algunos deciden irse por las vanguardias que privan en el momento, como el modernismo, el futurismo y el creacionismo</s>
+<s docid="20CU040414_826105" num="8" wdcount="28"> “Otros, por el contrario, adoptan la línea poética predominante y se afanan por dominarla, se inscriben pues en la tradición y buscan el dominio de las formas clásicas</s>
+<s docid="20CU040414_826105" num="9" wdcount="28"> “De tal manera que los primeros poemas de Octavio Paz, al menos los que recogen “Libertad bajo palabra”, publicado en 1960, implican el conjunto inicial de sus poemas</s>
+<s docid="20CU040414_826105" num="10" wdcount="41"> “La poesía de Paz tiene un desarrollo ascendente que culmina, a mi juicio, en una estación a través de un conjunto de poemas de largo aliento, el cual se compone de ´El cántaro roto´ y ´Piedra de sol´, entre otros”, afirmó</s>
+<s docid="20CU040414_826105" num="11" wdcount="42"> El académico mexicano refirió, además, que en “El laberinto de la soledad” (1950), Paz examina la identidad ficticia de México y del mexicano, mientras que en “El arco y la lira” (1956) da rienda suelta a su particular teoría de la literatura</s>
+<s docid="20CU040414_826105" num="12" wdcount="39"> Además, dijo, “con ´El laberinto de la soledad´ se inscribió en la corriente filosófica predominante, la que indagaba entonces por el ser del mexicano; su análisis fue deslumbrante y el libro indicó el punto más alto de esa búsqueda”</s>
+<s docid="20CU040414_826105" num="13" wdcount="51"> En su oportunidad, el poeta, ensayista y narrador Adolfo Castañón señaló que en esta sesión pública solemne no puede dejar de recordarse que Paz fue electo académico el 10 de septiembre de 1981, para ocupar la Silla Número 31, vacante por el fallecimiento del escritor, poeta y museólogo Carlos Pellicer (1897-1977)</s>
+<s docid="20CU040414_826105" num="14" wdcount="43"> “La relación de Octavio Paz con la Academia estuvo precedida por los lazos de amistad que sostuvo con muchos académicos, empezando con su antecesor Carlos Pellicer, así como por José Luis Martínez, Alí Chumacero y Ramón Xirau, quien le dedicó unos poemas”, mencionó</s>
+<s docid="20CU040414_826105" num="15" wdcount="31"> Visiblemente emocionado, Castañón celebró la coincidencia de que el homenaje a Paz tuviera como sede un museo que lleva el nombre de uno de los entrañables amigos del vate, Rufino Tamayo</s>
+<s docid="20CU040414_826105" num="16" wdcount="36"> Por otro lado, Eduardo Lizalde evocó las palabras de un escritor que afirmaba: Paz fue un distinto poeta, pero fue torrencial; prosista, poeta y ensayista, era un volcán en perpetua actividad y un hombre en llamas</s>
+<s docid="20CU040414_826105" num="17" wdcount="15"> “Apasionado y luminoso descubridor desde la juventud en cómodo perpetuo, como se describía él mismo</s>
+<s docid="20CU040414_826105" num="18" wdcount="33"> Octavio conmovió durante más de medio siglo a los conformistas de todas las escuelas y se enfrentó a los dogmáticos y convencionales sacralizadores de todas las ideologías de México y el mundo”, agregó</s>
+<s docid="20CU040414_826105" num="19" wdcount="35"> Finalmente, el Premio Internacional “Alfonso Reyes” 2011 compartió: “Como hemos sabido quienes lo tratamos de cerca, así como durante las últimas décadas de su vida, Octavio Paz se encontraba siempre en pie de guerra intelectual”</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="08NE010414_825380" num="1" wdcount="1"> 825380 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="08NE010414_825380" num="2" wdcount="1">08NE010414_825380</s>
+</FILEID>
+
+<HEAD>
+<s docid="08NE010414_825380" num="3" wdcount="6"> Registran nuevo máximo histórico reservas internacionales  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="08NE010414_825380" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="08NE010414_825380" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="08NE010414_825380" num="6" wdcount="50"> El saldo de las reservas internacionales del país al 28 de marzo fue de 182 mil 742 millones de dólares, lo que significó un incremento semanal de dos mil 042 millones de dólares y el octavo máximo histórico en lo que va del año, informó el Banco de México (Banxico)</s>
+<s docid="08NE010414_825380" num="7" wdcount="36"> En el boletín semanal sobre su estado de cuenta precisó que el aumento semanal en la reserva internacional se derivó la venta de dólares de Pemex al Banco de México por dos mil millones de dólares</s>
+<s docid="08NE010414_825380" num="8" wdcount="24"> Así como por un incremento de 42 millones de dólares resultado principalmente del cambio en la valuación de los activos internacionales del Instituto Central</s>
+<s docid="08NE010414_825380" num="9" wdcount="38"> A su vez, abundó que al 28 de marzo las reservas internacionales presentaron un crecimiento acumulado de seis mil 220 millones de dólares respecto al cierre de 2013, cuando se ubicaron en 176 mil 522 millones de dólares</s>
+<s docid="08NE010414_825380" num="10" wdcount="45"> Indicó que la base monetaria (billetes y monedas y depósitos bancarios en cuenta corriente en el Banxico) subió cinco mil 576 millones de pesos, al alcanzar un saldo de 859 mil 769 millones de pesos, cifra que implicó una variación anual de 7.0 por ciento</s>
+<s docid="08NE010414_825380" num="11" wdcount="46"> En tanto, la cifra alcanzada por la base monetaria al 28 de marzo significó una disminución de 58 mil 107 millones de pesos en el transcurso de 2014 y se estimó que este comportamiento es congruente con el patrón estacional de la demanda por base monetaria</s>
+<s docid="08NE010414_825380" num="12" wdcount="31"> En la semana de referencia, el instituto central realizó operaciones de mercado abierto con instituciones bancarias para compensar una expansión neta de la liquidez por 31 mil 115 millones de pesos</s>
+<s docid="08NE010414_825380" num="13" wdcount="32"> Lo anterior, explicó, fue resultado de una expansión debido al retiro de recursos en la cuenta de la Tesorería de la Federación y otras operaciones por 10 mil 277 millones de pesos</s>
+<s docid="08NE010414_825380" num="14" wdcount="49"> Además de una expansión por 26 mil 414 millones de pesos debido al resultado de la venta de dólares de Pemex al Banco de México; así como por una contracción por cinco mil 576 millones de pesos ante una mayor demanda por billetes y monedas por parte del público.</s>
+
+
+</TEXT>
+
+</DOC>

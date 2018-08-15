@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="02SO010414_825378" num="1" wdcount="1"> 825378 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="02SO010414_825378" num="2" wdcount="1">02SO010414_825378</s>
+</FILEID>
+
+<HEAD>
+<s docid="02SO010414_825378" num="3" wdcount="12"> Las Pussy Riot denuncian en Eurocámara el maltrato de prisioneros en Rusia </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="02SO010414_825378" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="02SO010414_825378" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="02SO010414_825378" num="6" wdcount="35"> Las integrantes del grupo punk Pussy Riot Nadezhda Tolokónnikova y María Aliójina denunciaron hoy ante la subcomisión de Derechos humanos del Parlamento Europeo (PE) el trato degradante que sufren los presos en las cárceles rusas</s>
+<s docid="02SO010414_825378" num="7" wdcount="41"> El testimonio de ambas se enmarcó en una audiencia sobre el estado de los Derechos Humanos en Rusia y, particularmente, en sus instituciones penitenciarias, en la que intervino igualmente el activista ruso Oleg Orlov, premio Sájarov del Parlamento Europeo en 2009</s>
+<s docid="02SO010414_825378" num="8" wdcount="38"> Tolokónnikova y Aliójina, que han iniciado un movimiento cívico para denunciar el sistema carcelario ruso, describieron su propia experiencia como ex prisioneras y denunciaron el uso de técnicas psiquiátricas a los reos en las prisiones de su país</s>
+<s docid="02SO010414_825378" num="9" wdcount="28"> "Se está encarcelando a manifestantes pacíficos, se les hace exámenes psiquiátricos y se les encierra", denunció Tolokónnikova, quien dijo que ser opositor en Rusia se considera "un trastorno"</s>
+<s docid="02SO010414_825378" num="10" wdcount="21"> "Queremos que esos dictámenes psiquiátricos desaparezcan, que nadie vaya a prisión sin pasar antes por un juicio justo", añadió la joven</s>
+<s docid="02SO010414_825378" num="11" wdcount="29"> La intérprete rusa denunció que los presos están "hacinados" en las prisiones del país y que ella misma cumplió condena en una celda que debía compartir con 40 personas</s>
+<s docid="02SO010414_825378" num="12" wdcount="48"> Tolokónnikova también se refirió a la penosa alimentación y la escasez de servicios médicos en las prisiones, mientras que Aliójina, por su parte, hizo hincapié en las personas que deben llevar a cabo trabajos forzosos, especialmente en la estepa rusa a bajas temperaturas y sin ropa de abrigo</s>
+
+
+</TEXT>
+
+</DOC>

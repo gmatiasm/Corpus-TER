@@ -1,0 +1,45 @@
+<DOC>
+
+<DOCNO>
+<s docid="15BI080414_826905" num="1" wdcount="1"> 826905 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="15BI080414_826905" num="2" wdcount="1">15BI080414_826905</s>
+</FILEID>
+
+<HEAD>
+<s docid="15BI080414_826905" num="3" wdcount="8"> De la salud pública a la salud planetaria </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="15BI080414_826905" num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="15BI080414_826905" num="5" wdcount="1"> 2014-04-08 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="15BI080414_826905" num="6" wdcount="123"> Cada año en todo el planeta se realizan eventos para que tomemos conciencia de la importancia que tiene la prevención en la salud para nuestra vida, hoy gracias a la primera asamblea Mundial de la Salud que se realizó en el año 1948, cada 7 de abril en el Día Mundial de la Salud se lanzan programas para lograr una mayor atención en todos los ámbitos de la salud pública y privada, donde año a año haya menos mortalidad infantil, más atención a la salud materna, cuidar a nuestros mayores, la salud no solo es la prevención de enfermedades, también el bienestar físico, mental y social, una alimentación sana, agua potable e higiene, donde los estados estén presentes, protegiendo a los más necesitados</s>
+<s docid="15BI080414_826905" num="7" wdcount="52"> A propósito del Día Mundial de la Salud, la revista científica The Lancet y comunidades científicas de diversas universidades del mundo invitan a todas las personas cuya actividad profesional esté relacionada con la salud y a la sociedad en general a sumarse al Manifiesto “De la salud pública a la salud planetaria”</s>
+<s docid="15BI080414_826905" num="8" wdcount="72"> Bajo una perspectiva en la que el planeta es el espacio que nutre y sostiene la diversidad de seres vivos además de permitir la co existencia de éstos y ser el medio del cual dependen para vivir, el objetivo de dicho documento es exhortar a transformar las políticas públicas de salud en un movimiento social colectivo que ayude a implementar acciones de salud pública que perneen todos los niveles de la sociedad</s>
+<s docid="15BI080414_826905" num="9" wdcount="45"> De esta manera, se busca responder a las amenazas a las que se enfrenta la humanidad; amenazas que afectan a la salud y el bienestar humanos; amenazas contra la sustentatibilidad de nuestra civilización y amenazas contra los sistemas naturales y humanos que nos permiten existir</s>
+<s docid="15BI080414_826905" num="10" wdcount="39"> De acuerdo con los redactores del documento, la salud planetaria es una actitud hacia la vida y una filosofía por el vivir que enfatiza sobre la gente, no las enfermedades, y la equidad, no la creación de sociedades injustas</s>
+<s docid="15BI080414_826905" num="11" wdcount="20"> Este nuevo concepto busca minimizar las diferencias en salud basadas en la riqueza, la educación, el género y el lugar</s>
+<s docid="15BI080414_826905" num="12" wdcount="35"> Asimismo, cree en el conocimiento como una de las principales fuentes de transformación social y apoya el derecho a alcanzar de manera progresiva los más altos niveles de salud y bienestar para todas y todos</s>
+<s docid="15BI080414_826905" num="13" wdcount="37"> Día Mundial de la Salud El Día Mundial de la Salud se celebra el 7 de abril de cada año en conmemoración del aniversario de la fundación de la Organización Mundial de la Salud (OMS) en 1948</s>
+<s docid="15BI080414_826905" num="14" wdcount="16"> Todos los años se elige un tema relacionado con un área prioritaria de la salud pública</s>
+<s docid="15BI080414_826905" num="15" wdcount="18"> El Día brinda a todas las personas la oportunidad de participar en actividades que pueden mejorar la salud</s>
+<s docid="15BI080414_826905" num="16" wdcount="44"> El tema para 2014 son las enfermedades transmitidas por vectores, entre los más conocidos, los mosquitos, los flebótomos, las chinches, las garrapatas o los caracoles, responsables de la transmisión de una amplia gama de patógenos que afectan al ser humano o a los animales</s>
+<s docid="15BI080414_826905" num="17" wdcount="27"> Los mosquitos, por ejemplo, transmiten no solo el paludismo y el dengue, sino también la filariasis linfática, la fiebre chikungunya, la encefalitis japonesa y la fiebre amarilla</s>
+<s docid="15BI080414_826905" num="18" wdcount="62"> La OMS es la autoridad directiva y coordinadora de la acción sanitaria en el sistema de las Naciones Unidas y responsable de desempeñar una función de liderazgo en los asuntos sanitarios mundiales, configurar la agenda de las investigaciones en salud, establecer normas, articular opciones de política basadas en la evidencia, prestar apoyo técnico a los países y vigilar las tendencias sanitarias mundiales</s>
+<s docid="15BI080414_826905" num="19" wdcount="11"> Para leer completo el texto del manifiesto y firmarlo visite: http://preview.smartfocusdigital.com/go.asp?/.2014.digitalmarketing.planetaryhealth.homepage/bELA001 </s>
+
+
+
+</TEXT>
+
+</DOC>

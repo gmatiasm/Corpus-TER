@@ -1,0 +1,62 @@
+<DOC>
+
+<DOCNO>
+<s docid="10SO040414_826086" num="1" wdcount="1"> 826086 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="10SO040414_826086" num="2" wdcount="1">10SO040414_826086</s>
+</FILEID>
+
+<HEAD>
+<s docid="10SO040414_826086" num="3" wdcount="9"> Soy testarudo pero he aprendido de mis errores: Papa  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="10SO040414_826086" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="10SO040414_826086" num="5" wdcount="1"> 2014-04-04 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="10SO040414_826086" num="6" wdcount="35"> El Papa Francisco volvió a sorprender al someterse a una larga entrevista en video con un grupo de jóvenes belgas, durante la cual reconoció que es un testarudo pero que ha aprendido de sus errores</s>
+<s docid="10SO040414_826086" num="7" wdcount="16"> El encuentro debió durar unos 20 minutos, pero finalmente se extendió por tres cuartos de hora</s>
+<s docid="10SO040414_826086" num="8" wdcount="23"> La víspera se transmitió en la región de Flandes, de donde son originarios los integrantes de la pastoral juvenil responsables de la iniciativa</s>
+<s docid="10SO040414_826086" num="9" wdcount="27"> Aunque unos 15 muchachos participaron en la producción de la entrevista, cinco de ellos viajaron a Roma para encontrar a Jorge Mario Bergoglio el 31 de marzo</s>
+<s docid="10SO040414_826086" num="10" wdcount="21"> Dialogaron en la misma biblioteca del Palacio Apostólico en la cual el Papa recibió al presidente de Estados Unidos, Barack Obama</s>
+<s docid="10SO040414_826086" num="11" wdcount="3"> “¿Usted se equivoca?”</s>
+<s docid="10SO040414_826086" num="12" wdcount="5"> cuestionó uno de los muchachos</s>
+<s docid="10SO040414_826086" num="13" wdcount="1"> “¡Claro!”</s>
+<s docid="10SO040414_826086" num="14" wdcount="5"> respondió sonriendo el líder católico</s>
+<s docid="10SO040414_826086" num="15" wdcount="7"> “Me he equivocado y me equivoco”, precisó</s>
+<s docid="10SO040414_826086" num="16" wdcount="18"> “Se dice que el ser humano es el único animal que tropieza dos veces en el mismo sitio</s>
+<s docid="10SO040414_826086" num="17" wdcount="12"> Los errores en mi vida han sido así, grandes maestros de vida</s>
+<s docid="10SO040414_826086" num="18" wdcount="15"> No diría que he aprendido de todos mis errores: de algunos no, también soy testarudo</s>
+<s docid="10SO040414_826086" num="19" wdcount="13"> Pero he aprendido de muchos otros errores y esto me hace bien”, agregó</s>
+<s docid="10SO040414_826086" num="20" wdcount="8"> Entonces le pidieron que diera un ejemplo concreto</s>
+<s docid="10SO040414_826086" num="21" wdcount="20"> No se molestó por el interrogante y aceptó el desafío: “Lo diré… lo escribí en un libro, está publicado”, insistió</s>
+<s docid="10SO040414_826086" num="22" wdcount="17"> “Fui nombrado superior cuando era muy joven, tenía 36 años, y cometí muchos errores con el autoritarismo</s>
+<s docid="10SO040414_826086" num="23" wdcount="12"> Después aprendí que hay que dialogar, ver qué están pensando los demás</s>
+<s docid="10SO040414_826086" num="24" wdcount="9"> Pero no he aprendido totalmente… todavía me equivoco”, añadió</s>
+<s docid="10SO040414_826086" num="25" wdcount="17"> Los jóvenes, dos mujeres y tres hombres, uno de los cuales manejaba la cámara, hablaron en inglés</s>
+<s docid="10SO040414_826086" num="26" wdcount="4"> Bergoglio respondió en italiano</s>
+<s docid="10SO040414_826086" num="27" wdcount="34"> La primera pregunta fue por qué había aceptado la entrevista y él respondió que siempre ha sentido el deber de ayudar a los muchachos cuando tienen inquietudes, porque la inquietud es como un signo</s>
+<s docid="10SO040414_826086" num="28" wdcount="10"> Cuando le cuestionaron si tenía miedo de algo, él contestó </s>
+<s docid="10SO040414_826086" num="29" wdcount="3"> “¡De mí mismo!”</s>
+<s docid="10SO040414_826086" num="30" wdcount="18"> “Todos tenemos miedo, todos, no hay que preocuparse por tener miedo… Tienes que tratar de aclarar la situación</s>
+<s docid="10SO040414_826086" num="31" wdcount="13"> Hay un miedo malo y un miedo bueno: este último es la prudencia</s>
+<s docid="10SO040414_826086" num="32" wdcount="16"> El malo te nubla, no te deja actuar, y de este nos tenemos que alejar”, señaló</s>
+<s docid="10SO040414_826086" num="33" wdcount="8"> Ante la interrogante si es feliz, replicó: “Absolutamente</s>
+<s docid="10SO040414_826086" num="34" wdcount="3"> Soy completamente feliz</s>
+<s docid="10SO040414_826086" num="35" wdcount="8"> Tengo una cierta paz interior, una paz grande</s>
+<s docid="10SO040414_826086" num="36" wdcount="13"> Es una felicidad que viene con la edad y también con un camino</s>
+<s docid="10SO040414_826086" num="37" wdcount="19"> En mi vida, e incluso ahora, he tenido siempre problemas, pero esta felicidad no se va con los problemas”</s>
+
+
+</TEXT>
+
+</DOC>

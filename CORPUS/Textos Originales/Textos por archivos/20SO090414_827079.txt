@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="20SO090414_827079" num="1" wdcount="1"> 827079 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="20SO090414_827079" num="2" wdcount="1">20SO090414_827079</s>
+</FILEID>
+
+<HEAD>
+<s docid="20SO090414_827079" num="3" wdcount=" "> Bromea el Papa Francisco con fieles en San Pedro  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="20SO090414_827079" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="20SO090414_827079" num="5" wdcount="1"> 2014-04-09 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="20SO090414_827079" num="6" wdcount="33"> El Papa Francisco bromeó hoy con diversos fieles durante la audiencia general en la Plaza de San Pedro e invitó a un amigo suyo que reconoció entre la multitud a subir al papamóvil</s>
+<s docid="20SO090414_827079" num="7" wdcount="3"> “¡Francisco, eres único!”</s>
+<s docid="20SO090414_827079" num="8" wdcount="18"> le gritó un joven desde uno de los sectores, mientras Jorge Mario Bergoglio pasaba y él le respondió: </s>
+<s docid="20SO090414_827079" num="9" wdcount="7"> “¡También tú, no existe otro como tú!”</s>
+<s docid="20SO090414_827079" num="10" wdcount="31"> Además el pontífice hizo parar el vehículo blanco para bajar y saludar a un grupo de jóvenes italianos, antes de bendecir a unos compatriotas que le mostraban la casaca de Argentina</s>
+<s docid="20SO090414_827079" num="11" wdcount="36"> Durante su catequesis, el líder católico habló de la “sabiduría de Dios” que los hombres pueden aprender si lo escuchan, porque él es capaz de hacerles ver las cosas con otros ojos y con otro juicio</s>
+<s docid="20SO090414_827079" num="12" wdcount="31"> “Piensen en una mamá en su casa con sus hijos, cuando uno hace una cosa y el otro otra, la pobre madre va para acá y para allá con los problemas</s>
+<s docid="20SO090414_827079" num="13" wdcount="11"> ¿Cuándo las mamás le gritan a los niños es sabiduría? No</s>
+<s docid="20SO090414_827079" num="14" wdcount="13"> Al contrario cuando lo corrige dulcemente, esta es la sabiduría de Dios”, dijo</s>
+<s docid="20SO090414_827079" num="15" wdcount="22"> “En el matrimonio los dos esposos se pelean y después no se miran o si se miran, lo hacen con cara fea</s>
+<s docid="20SO090414_827079" num="16" wdcount="6"> ¿Esta es la sabiduría de Dios? </s>
+<s docid="20SO090414_827079" num="17" wdcount="21"> No! Al contrario pasada la tormenta vuelven a caminar juntos por la paz, este es el don de la sabiduría”, apuntó</s>
+
+</TEXT>
+
+</DOC>

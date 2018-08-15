@@ -1,0 +1,33 @@
+<DOC>
+
+<DOCNO>
+<s docid="11DE020414_825511" num="1" wdcount="1"> 825511 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="11DE020414_825511" num="2" wdcount="1">11DE020414_825511</s>
+</FILEID>
+
+<HEAD>
+<s docid="11DE020414_825511" num="3" wdcount="8"> Todo listo para el Maratón Internacional Reynosa 2014 </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="11DE020414_825511" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="11DE020414_825511" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="11DE020414_825511" num="6" wdcount="44"> Todo se encuentra listo para que este domingo 6 de abril se lleve a cabo el Maratón Internacional Reynosa 2014, magno evento deportivo que coordina el Gobierno del Estado y la alcaldía de ese municipio, con una bolsa de 700 mil pesos en premios</s>
+<s docid="11DE020414_825511" num="7" wdcount="42"> El evento, que también cuenta con el aval de la Federación Mexicana de Asociaciones de Atletismo dará inicio en punto de las 8:00 horas con salida y meta en el Parque Cultural de Reynosa, recorriendo las principales arterias de esa ciudad fronteriza</s>
+<s docid="11DE020414_825511" num="8" wdcount="73"> Cabe destacar que este importante evento atlético forma parte de los festejos por el 265 Aniversario de la fundación de Reynosa y contará con la participación de deportistas locales, estatales, nacionales e internacionales otorgando una premiación de 70 mil pesos al primer lugar, 40 mil pesos al segundo, 20 mil pesos al tercer puesto, 10 mil al cuarto lugar y 9 mil al quinto lugar de la clasificación general en el medio maratón</s>
+<s docid="11DE020414_825511" num="9" wdcount="23"> Además tiene como característica principal que habrá una premiación especial para los corredores mexicanos, tamaulipecos y Reynosenses que finalicen en los primeros lugares.</s>
+
+</TEXT>
+
+</DOC>

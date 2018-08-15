@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="06SO030414_825849" num="1" wdcount="1"> 825849 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="06SO030414_825849" num="2" wdcount="1">06SO030414_825849</s>
+</FILEID>
+
+<HEAD>
+<s docid="06SO030414_825849" num="3" wdcount="11"> El Papa Francisco e Isabel II se reunieron en el Vaticano </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="06SO030414_825849" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="06SO030414_825849" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="06SO030414_825849" num="6" wdcount="37"> El papa Francisco recibió hoy en audiencia privada a la reina de Inglaterra Isabel II, cabeza de la Iglesia Anglicana y cuya última visita a la Santa Sede fue en 2000 para reunirse con Juan Pablo II</s>
+<s docid="06SO030414_825849" num="7" wdcount="37"> En esta ocasión el pontífice tuvo que esperar cerca de quince minutos a la soberana y su marido, el duque de Edimburgo, que llegaron con retraso al Vaticano en torno a las 15.20 hora local (13.20 GMT)</s>
+<s docid="06SO030414_825849" num="8" wdcount="40"> La audiencia, a puerta cerrada, no se produjo en el apartamento papal, como de costumbre en las reuniones con autoridades y jefes de Estado, sino que se celebró en una de las salas anexas del Aula Pablo VI del Vaticano</s>
+<s docid="06SO030414_825849" num="9" wdcount="16"> Antes de la reunión, que finalmente duró 17 minutos, se procedió al tradicional intercambio de regalos</s>
+<s docid="06SO030414_825849" num="10" wdcount="25"> El pontífice argentino obsequió a la monarca con un presente dirigido a su bisnieto Jorge, el hijo de los duques de Cambridge, Guillermo y Catalina</s>
+<s docid="06SO030414_825849" num="11" wdcount="31"> Bergoglio envió al príncipe, tercero en la línea de sucesión al trono británico y que cumplirá un año el próximo julio, una esfera de lapislázuli con una cruz de plata engarzada</s>
+<s docid="06SO030414_825849" num="12" wdcount="25"> Asimismo, el papa regaló a la reina un facsímil del decreto de canonización de San Eduardo "El Confesor", rey de Inglaterra entre 1043 y 1066</s>
+<s docid="06SO030414_825849" num="13" wdcount="18"> Por su parte, la reina entregó al pontífice una cesta con productos ingleses y frutos de sus propiedades</s>
+<s docid="06SO030414_825849" num="14" wdcount="47"> Isabel II y el duque de Edimburgo llegaron a Roma hacia el mediodía de hoy para almorzar con el Jefe del Estado italiano, Giorgio Napolitano, en una visita que duró unas cinco horas y que terminó con la entrevista con el papa, al que aún no conocía</s>
+
+
+</TEXT>
+
+</DOC>

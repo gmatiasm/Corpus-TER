@@ -1,0 +1,43 @@
+<DOC>
+
+<DOCNO>
+<s docid="14NA010414_825338" num="1" wdcount="1"> 825338 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="14NA010414_825338" num="2" wdcount="1">14NA010414_825338</s>
+</FILEID>
+
+<HEAD>
+<s docid="14NA010414_825338" num="3" wdcount="10"> Villarreal recula sobre reacomodo de quintetas para integrar el INE </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="14NA010414_825338" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="14NA010414_825338" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="14NA010414_825338" num="6" wdcount="69"> El coordinador del PAN en la Cámara de Diputados, Luis Alberto Villarreal, aceptó ayer que no hay posibilidad de “reacomodar” las 11 quintetas para integrar el consejo general del nuevo Instituto Nacional Electoral (INE) —como había sugerida la semana anterior—, pero dejó abierta la posibilidad de que sea la Suprema Corte de Justicia de la Nación, y no los legisladores, la que insacule los nombres de los próximos consejeros</s>
+<s docid="14NA010414_825338" num="7" wdcount="32"> Si entre las 11 quintetas de aspirantes al mismo número de consejeros electorales que entregó el Comité Técnico de Evaluación, “alcanzamos un acuerdo en la Cámara de Diputados, tendremos una elección extraordinaria</s>
+<s docid="14NA010414_825338" num="8" wdcount="22"> “Si no es así, el método de insaculación es sencillamente novedoso y muy positivo, porque sería la Corte y sería al azar</s>
+<s docid="14NA010414_825338" num="9" wdcount="23"> Hay 50 hombres y mujeres que salieron evaluados por un grupo de notables ciudadanos, de reconocido prestigio”, que integraron el comité evaluador, indicó</s>
+<s docid="14NA010414_825338" num="10" wdcount="25"> El líder panista en San Lázaro señaló que cualquiera de los aspirantes “podría desempeñar un cargo con lealtad, para México, los mexicanos y la democracia”</s>
+<s docid="14NA010414_825338" num="11" wdcount="23"> “Tenemos hasta el 8 de abril para que el pleno vote quinteta por quinteta y logremos los 11 integrantes de este consejo general</s>
+<s docid="14NA010414_825338" num="12" wdcount="38"> De no ser así, a más tardar el jueves 10 la Cámara tendría que llevar a cabo una insaculación de 11 nombres y bajarlos al pleno y buscar que logren las dos terceras partes de los votos”, dijo</s>
+<s docid="14NA010414_825338" num="13" wdcount="49"> Pero de no alcanzar acuerdos para la insaculación en San Lázaro, 16 de abril la SCJN, llevaría a cabo el proceso de insaculación, “esto de entrada nos va a permitir que tengamos un instituto de credibilidad y en donde los partidos políticos no pudieron imponer ni cuotas ni cuates”</s>
+<s docid="14NA010414_825338" num="14" wdcount="46"> CONFIANZA.- Por separado, el presidente de la Junta de Coordinación Política de la Cámara baja, Silvano Aureoles, del PRD, manifestó su confianza en que el órgano legislativo designe a los 11 consejeros del nuevo Instituto Nacional Electoral (INE), a más tardar el martes 8 de abril</s>
+<s docid="14NA010414_825338" num="15" wdcount="39"> El también coordinador del PRD señaló que los diputados deben designar a los nuevos consejeros electorales para que la selección no sea retomada por la Suprema Corte de Justicia de la Nación (SCJN), como se establece en la convocatoria</s>
+<s docid="14NA010414_825338" num="16" wdcount="29"> “Seguimos trabajando para construir el camino que nos lleve, a más tardar el martes (de la próxima semana), a tener resuelto el tema del consejo general del INE”, indicó</s>
+<s docid="14NA010414_825338" num="17" wdcount="43"> Aclaró que los diputados no han concluido este proceso, “pero estamos conscientes que debe ser la Cámara (de Diputados), a través de los mecanismos establecidos, quienes designemos a los nuevos consejeros electorales y no haya necesidad de que esto llegue a la Corte”</s>
+
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,49 @@
+<DOC>
+
+<DOCNO>
+<s docid="11AC040414_826122" num="1" wdcount="1"> 826122 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="11AC040414_826122" num="2" wdcount="1">11AC040414_826122</s>
+</FILEID>
+
+<HEAD>
+<s docid="11AC040414_826122" num="3" wdcount="9"> La atracción sexual depende de los genes compartidos: científicos </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="11AC040414_826122" num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="11AC040414_826122" num="5" wdcount="1"> 2014-04-04 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="11AC040414_826122" num="6" wdcount="41"> Ni feromonas, ni primavera, ni lo que comúnmente denominamos "química", investigadores médicos israelíes aseguran que el origen de la atracción sexual que sentimos por otra persona responde en realidad a una impronta genética presente en los dos miembros de la pareja</s>
+<s docid="11AC040414_826122" num="7" wdcount="39"> A esa conclusión han llegado tras un estudio desarrollado en el Laboratorio de Análisis Genético del Hospital Beilinson, en la localidad de Petaj Tikva (próxima a Tel Aviv) y recientemente publicado por la prestigiosa "American Journal of Reproductive Immunology"</s>
+<s docid="11AC040414_826122" num="8" wdcount="29"> En su departamento, los autores de la investigación, Tirza Klein y Moshé Israeli, suelen analizar la compatibilidad de órganos o de médula ósea, además de realizar test de paternidad</s>
+<s docid="11AC040414_826122" num="9" wdcount="31"> Y precisamente han aprovechado la amplia base de datos de estas últimas pruebas para lanzar este estudio pionero que sugiere una nueva teoría para explicar el origen de la atracción humana</s>
+<s docid="11AC040414_826122" num="10" wdcount="45"> La muestra analizada está compuesta por 1.310 parejas de hombres y mujeres con edades comprendidas entre los 18 y 80 años, la mayor parte de las cuales, 1.002, fueron referidas al centro médico por orden judicial a fin de determinar la paternidad de un progenitor</s>
+<s docid="11AC040414_826122" num="11" wdcount="20"> Otro grupo está integrado por 308 parejas casadas con problemas de infertilidad, y un tercero de control por cónyuges ficticios</s>
+<s docid="11AC040414_826122" num="12" wdcount="17"> La estadística demostró que las parejas que en algún momento sintieron atracción física compartían genes en común</s>
+<s docid="11AC040414_826122" num="13" wdcount="28"> "Se trata de la primera vez que se muestra una correlación genética entre parejas para explicar la atracción sexual", explicó a Efe la doctora Klein, autora del estudio</s>
+<s docid="11AC040414_826122" num="14" wdcount="36"> "Asumimos que hubo algún tipo de atracción sexual entre las parejas que comparten un hijo en común o ha habido reclamos de paternidad tras una relación sexual", apunta la investigadora, directora del Laboratorio de Análisis Genético</s>
+<s docid="11AC040414_826122" num="15" wdcount="29"> Los resultados mostraron que en estos casos, ambos miembros de la pareja compartían marcadores genéticos que en relación a los otros dos grupos eran mucho menores o no existían</s>
+<s docid="11AC040414_826122" num="16" wdcount="59"> La responsable de la investigación precisó que el procedimiento empleado consistió en analizar el sistema de marcador del HLA (Antígenos Leucocitarios Humanos, por sus siglas en inglés), uno de los más importantes del sistema inmunológico genético en los humanos y que se encarga de reconocer, por ejemplo, antígenos extraños tales como parásitos, virus o cáncer que atacan al organismo</s>
+<s docid="11AC040414_826122" num="17" wdcount="20"> Los científicos analizaron si las parejas comparten un antígeno HLA y no otro tipo de marcador genético conocido como STR</s>
+<s docid="11AC040414_826122" num="18" wdcount="21"> Estos marcadores son polimórficos y conocidos por ofrecer una importante información genética, ya que muchos de sus componentes se heredan genéticamente</s>
+<s docid="11AC040414_826122" num="19" wdcount="52"> Klein explicó que se reconoce de manera muy sencilla la transferencia de genes empleando este sistema de carácter "mendélico" -en el que figura un grupo de genes del padre y otro grupo de genes de la madre-, razón por la que se suele emplear como herramienta genética en las pruebas de paternidad</s>
+<s docid="11AC040414_826122" num="20" wdcount="44"> "Como parte de nuestro trabajo del hospital realizamos test de paternidad en el laboratorio y descubrimos que entre las parejas analizadas y sin importar su origen étnico, el padre y la madre del niño comparten algunos genes en su sistema genético del HLA", apuntó</s>
+<s docid="11AC040414_826122" num="21" wdcount="34"> "Y como asumimos que aquellas parejas habían tenido atracción sexual porque tienen un hijo en común, la conclusión del estudio es que las parejas que sintieron atracción sexual compartían algunos genes del sistema HLA"</s>
+<s docid="11AC040414_826122" num="22" wdcount="30"> El estudio teoriza, además, que la selección de parejas sexuales en el ser humano podría contradecir la presión evolutiva por lograr la diversidad genética, en particular al analizar el HLA</s>
+<s docid="11AC040414_826122" num="23" wdcount="35"> Los investigadores reconocen que una de las limitaciones que puede tener el estudio es que no se puede descartar la posibilidad de que los resultados estén influidos por las características únicas de la población israelí</s>
+<s docid="11AC040414_826122" num="24" wdcount="36"> Sin embargo, el estudio presenta científicamente una nueva teoría sobre la atracción en la especie humana y podría abrir la puerta a que se revisen nuevamente complejos psicológicos tan conocidos como los de Edipo y Electra.</s>
+
+
+</TEXT>
+
+</DOC>

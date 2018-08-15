@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="08ED010414_825474" num="1" wdcount="1"> 825474 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="08ED010414_825474" num="2" wdcount="1">08ED010414_825474</s>
+</FILEID>
+
+<HEAD>
+<s docid="08ED010414_825474" num="3" wdcount="8"> Marchan en Morelos para exigir seguridad a gobernador </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="08ED010414_825474" num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="08ED010414_825474" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="08ED010414_825474" num="6" wdcount="37"> Miles de ciudadanos de Morelos marcharon hoy por distintas calles de esta ciudad, para exigir al gobernador Graco Ramirez que brinde mayor seguridad, debido a los asaltos, robos, homicidios y secuestros de los que han sido víctimas</s>
+<s docid="08ED010414_825474" num="7" wdcount="52"> Los inconformes, que portaban en su mayoría vestimentas blancas, iniciaron su caminar pasadas las 16:00 horas de dos distintos puntos, el primero de ellos de la iglesia del Calvario y el segundo de la Glorieta del Niño Artillero, ubicada al sur Cuernavaca, de donde partieron con rumbo a la plancha del zócalo</s>
+<s docid="08ED010414_825474" num="8" wdcount="31"> Asimismo, decenas de motociclistas se unieron a la marcha para protestar por la violencia de la que han sido víctimas al ser etiquetados como delincuentes, por utilizar como transporte una motocicleta</s>
+<s docid="08ED010414_825474" num="9" wdcount="21"> A su paso, los ciudadanos, oriundos de distintos municipios de la entidad, lanzaron consignas en contra del actuar del mandatario estatal</s>
+<s docid="08ED010414_825474" num="10" wdcount="34"> En todo momento, unidades móviles de la Comisión Nacional de los Derechos Humanos (CNDH) acompañaron a los ciudadanos para supervisar y evidenciar en todo momento si fuesen víctimas de alguna violación en sus derechos</s>
+<s docid="08ED010414_825474" num="11" wdcount="19"> También comerciantes establecidos del primer cuadro de la capital morelense salieron de sus establecimientos para sumarse a la marcha</s>
+<s docid="08ED010414_825474" num="12" wdcount="43"> En entrevista, Claudia Hernández Torres, hermana de un secuestrado, comentó: “El 4 de julio de 2013, mi hermano fue secuestrado, él es o era materialista, fue secuestrado en su negocio, él es una persona trabajadora, dos días después llamaron para pedir un rescate</s>
+<s docid="08ED010414_825474" num="13" wdcount="11"> Se levantó un acta, pero las autoridades no han hecho nada</s>
+<s docid="08ED010414_825474" num="14" wdcount="23"> “Nos hemos resignado ya hasta encontrar tan sólo el cuerpo de mi hermano, por lo menos tener su cuerpo si le hicieron algo</s>
+<s docid="08ED010414_825474" num="15" wdcount="38"> No estamos conformes, pero qué más quisiéramos tenerlo vivo” Por su parte, la señora Jovita “N” denunció que su hija Daniela, de 15 años, fue secuestrada desde hace dos años y hasta el momento se desconoce su paradero</s>
+<s docid="08ED010414_825474" num="16" wdcount="24"> Finalmente, los morelenses realizaron un mitin frente a la Casa Morelos, donde protestaron contra la violencia e inseguridad de la que han sido víctimas.</s>
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,55 @@
+<DOC>
+
+<DOCNO>
+<s docid="12OP010414_825360" num="1" wdcount="1"> 825360 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="12OP010414_825360" num="2" wdcount="1">12OP010414_825360</s>
+</FILEID>
+
+<HEAD>
+<s docid="12OP010414_825360" num="3" wdcount="4"> El Hidalgo del futuro </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="12OP010414_825360" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="12OP010414_825360" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="12OP010414_825360" num="6" wdcount="36"> La vecindad del estado de Hidalgo, (producto de la partición con nombres heroicos —como Guerrero y Morelos—), con el DF, debería ser el más importante elemento para lograr una de las entidades más poderosas del país</s>
+<s docid="12OP010414_825360" num="7" wdcount="24"> Sus recursos minerales y de otro tipo, su cuenca lechera, pero sobre todo su ubicación y cercanía con los mayores mercados deberían ser suficiente</s>
+<s docid="12OP010414_825360" num="8" wdcount="30"> Pero las malas decisiones del centralismo (no es igual estar cerca del centro a formar parte de él), lo han limitado a pesar de los esfuerzos de sus gobernadores recientes</s>
+<s docid="12OP010414_825360" num="9" wdcount="14"> Hoy Francisco Olvera quiere impulsar las cosas y por eso estos datos son importantes</s>
+<s docid="12OP010414_825360" num="10" wdcount="26"> Revisemos los antecedentes: Ha dicho Olvera: (El Universal): “El gobierno del estado de Hidalgo realizará obras de carácter regional y no ‘grandes obras estatales de relumbrón’</s>
+<s docid="12OP010414_825360" num="11" wdcount="51"> “Esencialmente, las ocho regiones del estado necesitan obras de infraestructura y desarrollo urbano que orienten su crecimiento, y en otros casos detonen y exploten su potencial industrial… “… dos o tres obras pero para cada una de las regiones, porque creo que es así como tenemos que ver ahora el desarrollo”</s>
+<s docid="12OP010414_825360" num="12" wdcount="59"> Así enlista el libramiento sur en la zona metropolitana de Pachuca, ciudad “que requiere además de un reordenamiento profundo de transporte urbano; en Ixmiquilpan —con todo y la Diana de Olaguíbel trasplantada por Corona del Rosal al centro de su plaza— se contempla la construcción de una central de abasto y una central camionera, así como un libramiento carretero</s>
+<s docid="12OP010414_825360" num="13" wdcount="15"> En Tula, muchas obras de infraestructura antes de que empiece a operar la Refinería Bicentenario</s>
+<s docid="12OP010414_825360" num="14" wdcount="42"> Quizá esta obra deberá esperar a cuando la puerca desdoble el rabo, pues hasta ahora la dichosa refinería, cuya “subasta” sólo sirvió para los negocios inmobiliarios del gobierno de Oliva (y quién sabe si fueron del gobierno o del gobernador) en Guanajuato</s>
+<s docid="12OP010414_825360" num="15" wdcount="21"> Para cuando esa planta industrial funcione, si llega a funcionar, los autos ya serán todos eléctricos, atómicos o quién sabe cómo</s>
+<s docid="12OP010414_825360" num="16" wdcount="8"> Refinar para hacer gasolina dejará de ser negocio</s>
+<s docid="12OP010414_825360" num="17" wdcount="27"> “Como sabemos la construcción de la refinería en Tula tendrá una inversión de más de 9 mil millones de dólares, y su ubicación fue determinada en 2009</s>
+<s docid="12OP010414_825360" num="18" wdcount="61"> Pemex informó en su momento que la decisión sobre la sede de la nueva refinería se tomó a partir de estrictos criterios técnico-financieros, con variables de eficacia, cercanía con los centros de consumo, capacidad para detonar empleos, garantías en favor del medio ambiente y, sobre todo, el potencial para reutilizar residuos de bajo costo comercial y abundante extracción, como el combustóleo”</s>
+<s docid="12OP010414_825360" num="19" wdcount="12"> En el plan regional de Olvera siguen bastos, como dicen los tahúres</s>
+<s docid="12OP010414_825360" num="20" wdcount="22"> “Huejutla requiere de un Plan de Desarrollo Urbano porque “tiene una pésima infraestructura la ciudad, no hay una zona habitacional en desarrollo</s>
+<s docid="12OP010414_825360" num="21" wdcount="36"> “En Tulancingo también se requiere de un Plan de Desarrollo Urbano, ‘con infraestructura que oriente su crecimiento, que defina las nuevas zonas habitacionales y dé una nueva zona industrial que no la tiene’, dice el mandatario</s>
+<s docid="12OP010414_825360" num="22" wdcount="22"> “Explica que Tulancingo está ‘en el paso de la vía corta a Tuxpan, por lo que va ser muy importante esa zona</s>
+<s docid="12OP010414_825360" num="23" wdcount="5"> Debemos capitalizar la experiencia industrial’”</s>
+<s docid="12OP010414_825360" num="24" wdcount="85"> El Plan de Desarrollo Estatal 2011-2016 señala que en el tema de la vivienda es de vital importancia en el desarrollo urbano, por ello, en esta materia el Plan contempla las adecuaciones necesarias del marco jurídico estatal, para fomentar la construcción de diversos tipos de vivienda que respondan a las necesidades de la población según su ingreso y capacidad de pago, en todos los casos con apego a las áreas determinadas como aptas para su ubicación, según los lineamientos de su ordenamiento en el estado</s>
+<s docid="12OP010414_825360" num="25" wdcount="31"> “En Ciudad Sahagún, ‘se debe mejorar la infraestructura, la conectividad ahora que existe el Arco Norte, eso es lo que requiere esta ciudad para que detone y explote su zona industrial’</s>
+<s docid="12OP010414_825360" num="26" wdcount="19"> “La autopista del Arco Norte pasa por la ciudad de México, el Estado de México, Hidalgo, Tlaxcala y Puebla</s>
+<s docid="12OP010414_825360" num="27" wdcount="24"> “Para Tepeji del Río ‘hace falta un par vial y el mejoramiento de la infraestructura de la zona vial’, concluyó el gobernador del estado”</s>
+<s docid="12OP010414_825360" num="28" wdcount="15"> Pero lo principal ya lo tiene Hidalgo: ganas de hacer las cosas, empuje para lograrlo</s>
+<s docid="12OP010414_825360" num="29" wdcount="27"> SENADO La nueva Ley Federal de Competencia Económica establece mayores sanciones contra los agentes económicos cuya ambición manipule los mercados para beneficiarse a costa del interés general</s>
+<s docid="12OP010414_825360" num="30" wdcount="37"> Con una legislación como esa, se podrían evitar problemas como la carestía y especulación de los limoneros —por ejemplo— ha dicho el senador Emilio Gamboa al destacar la inminente aprobación de esa ley en la Cámara alta</s>
+<s docid="12OP010414_825360" num="31" wdcount="1"> elcristalazouno@hotmail.com  </s>
+
+
+</TEXT>
+
+</DOC>

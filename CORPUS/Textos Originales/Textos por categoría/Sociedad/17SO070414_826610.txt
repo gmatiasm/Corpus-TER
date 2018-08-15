@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="17SO070414_826610" num="1" wdcount="1"> 826610 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="17SO070414_826610" num="2" wdcount="1">17SO070414_826610</s>
+</FILEID>
+
+<HEAD>
+<s docid="17SO070414_826610" num="3" wdcount="8"> El príncipe Jorge realiza su primer viaje oficial </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="17SO070414_826610" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="17SO070414_826610" num="5" wdcount="1"> 2014-04-07 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="17SO070414_826610" num="6" wdcount="31"> Los duques de Cambridge, Guillermo y Catalina, y su bebé, el príncipe Jorge, llegaron hoy a la ciudad de Wellington, la primera parada de su gira por Nueva Zelanda y Australia</s>
+<s docid="17SO070414_826610" num="7" wdcount="37"> Los duques fueron recibidos por Richard Walker, edecán del gobernador general de Nueva Zelanda, y por el primer ministro, John Key, y su esposa, además de la alcaldesa de Wellington, Celia Wade-Brown, según la agencia local APNZ</s>
+<s docid="17SO070414_826610" num="8" wdcount="46"> Antes de abordar una limusina que los llevó a la Casa de Gobierno en Wellington, Guillermo, Catalina y su bebé estuvieron apenas dos minutos en la pista de aterrizaje, arropados por la algarabía de sus simpatizantes y un tiempo marcado por el viento y la lluvia</s>
+<s docid="17SO070414_826610" num="9" wdcount="41"> La duquesa vestía un abrigo escarlata, un sombrero del mismo color y un broche con la forma de una pluma plateada, que le fue regalado a la reina Isabel II en su gira a Nueva Zelanda en la década de 1950</s>
+<s docid="17SO070414_826610" num="10" wdcount="43"> Los duques y el bebé de ocho meses, que realiza su primer viaje fuera del Reino Unido, permanecerán diez días en Nueva Zelanda, en una visita que le costará a los contribuyentes más de un millón de dólares (752.124 euros), según la fuente</s>
+<s docid="17SO070414_826610" num="11" wdcount="26"> Después se dirigirán a Australia a partir del 16 de abril, en lo que será la primera visita al país de la duquesa y del bebé</s>
+<s docid="17SO070414_826610" num="12" wdcount="30"> El príncipe Guillermo ha visitado ambos países en numerosas ocasiones, sin embargo su esposa, con la que contrajo matrimonio en abril de 2011, todavía no ha estado en visita oficial</s>
+<s docid="17SO070414_826610" num="13" wdcount="24"> El último viaje oficial a Nueva Zelanda y Australia del duque de Cambridge fue un mes antes de su boda, en marzo de 2011.</s>
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="01NE010414_825301" num="1" wdcount="1"> 825301 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="01NE010414_825301" num="2" wdcount="1">01NE010414_825301</s>
+</FILEID>
+
+<HEAD>
+<s docid="01NE010414_825301" num="3" wdcount="9"> Crece morosidad a niveles de crisis del 2009: CNBV </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="01NE010414_825301" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="01NE010414_825301" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="01NE010414_825301" num="6" wdcount="53"> La Comisión Nacional Bancaria y de Valores (CNBV) informó que al cierre de febrero el índice de morosidad (IMOR) de la banca comercial registró un incremento anual de 0.77 puntos porcentuales, al pasar de 2.61 a 3.39 por ciento, nivel similar al que se tenía durante el periodo de la crisis de 2009</s>
+<s docid="01NE010414_825301" num="7" wdcount="38"> De acuerdo con los datos del organismo, el IMOR de la cartera a empresas se incrementó 1.51 puntos en el último año, ubicándose en 3.68%, derivado del impacto de los problemas financieros de las principales desarrolladoras de vivienda</s>
+<s docid="01NE010414_825301" num="8" wdcount="20"> Mientras que en la cartera de consumo fue de 4.97 por ciento, incrementándose en 0.19 puntos en el último año</s>
+<s docid="01NE010414_825301" num="9" wdcount="52"> De este segmento, la cartera de tarjeta de crédito registró una morosidad de 4.98 por ciento y los créditos personales presentaron un IMOR de 7.62 por ciento, es decir 0.57 puntos más que en febrero 2013, mientras que los créditos de nómina registraron un IMOR de 3.55 por ciento, una disminución marginal</s>
+<s docid="01NE010414_825301" num="10" wdcount="37"> Por su parte, la morosidad de los créditos a la vivienda pasó de 3.52 a 3.93 por ciento lo que significó un incremento en su morosidad de 0.42 puntos porcentuales comparados con el mismo periodo de 2013</s>
+<s docid="01NE010414_825301" num="11" wdcount="30"> Por su parte, los segmentos de entidades financieras y entidades gubernamentales presentaron índices de morosidad de 0.07 y 0.02, lo que represento una reducción en el deterioro de los créditos</s>
+<s docid="01NE010414_825301" num="12" wdcount="55"> En cuanto a la tasa de deterioro ajustada (TDA, promedio 12 meses de cartera vencida más la suma 12 meses de quitas y castigos) la cual considera el monto castigado de las diferentes carteras, se ubicó en 6.09 por ciento, un alza de 1.21 puntos porcentuales comparado con el mismo periodo de hace un año</s>
+<s docid="01NE010414_825301" num="13" wdcount="23"> En tanto, la razón de estimaciones preventivas entre el saldo de cartera de crédito total se incrementó de manera anual en 0.21 puntos</s>
+<s docid="01NE010414_825301" num="14" wdcount="37"> Los segmentos empresariales, de créditos personales y de nómina aumentaron en un año su relación de estimaciones en 0.55, 0.44 y 0.32 puntos porcentuales respectivamente, como una medida preventiva ante el posible deterioro crediticio de estos portafolios</s>
+
+
+</TEXT>
+
+</DOC>

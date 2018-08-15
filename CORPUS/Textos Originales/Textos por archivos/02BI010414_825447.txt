@@ -1,0 +1,49 @@
+<DOC>
+
+<DOCNO>
+<s docid="02BI010414_825447"num="1" wdcount="1"> 825447 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="02BI010414_825447"num="2" wdcount="1">02BI010414_825447</s>
+</FILEID>
+
+<HEAD>
+<s docid="02BI010414_825447"num="3" wdcount="9"> El autismo se diagnóstica después de los 3 años </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="02BI010414_825447"num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="02BI010414_825447"num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="02BI010414_825447" num="6" wdcount="48"> Dado que el autismo tiene diversas variantes, se debe evaluar a cada niño en forma individual, para desarrollar el programa de tratamiento más adecuado para cada caso y en todo caso es necesario hacer un examen del oído para descartar la incapacidad para hablar por causa de sordera</s>
+<s docid="02BI010414_825447" num="7" wdcount="50"> El autismo se diagnóstica mediante la aplicación de pruebas psicológicas después de los tres años, cuando es evidente que el niño no puede hablar o que su conducta social es anormal y para establecerlo se requiere de un examen físico neurológico para descartar otras posibles enfermedades como el retraso mental</s>
+<s docid="02BI010414_825447" num="8" wdcount="20"> Entre las pruebas y observaciones para establecer el nivel de autismo están: · Juego imaginativo y social ausente o limitado</s>
+<s docid="02BI010414_825447" num="9" wdcount="8"> · Habilidad para hacer amistad con sus iguales</s>
+<s docid="02BI010414_825447" num="10" wdcount="11"> · Habilidad limitada para iniciar o mantener una conversación con otros</s>
+<s docid="02BI010414_825447" num="11" wdcount="9"> · Uso del lenguaje estereotipado, repetitivo o no habitual</s>
+<s docid="02BI010414_825447" num="12" wdcount="15"> · Patrones de intereses restringidos y que son anormales para la edad o el contexto</s>
+<s docid="02BI010414_825447" num="13" wdcount="10"> · Aparente inflexibilidad y apego a rutinas específicas o ritos</s>
+<s docid="02BI010414_825447" num="14" wdcount="9"> · Nivel de preocupación por las partes de objetos</s>
+<s docid="02BI010414_825447" num="15" wdcount="40"> Como no existe curación para el autismo, el tratamiento se orienta para ayudar al niño a desarrollar habilidades, superar temores, calmar sus conductas e interactuar con las demás personas, además de promover el desarrollo del lenguaje y sus habilidades sociales</s>
+<s docid="02BI010414_825447" num="16" wdcount="14"> El tratamiento debe ser inmediato, mientras más pequeño sea el niño, más efectivo será</s>
+<s docid="02BI010414_825447" num="17" wdcount="38"> Se realiza a base de terapias del lenguaje y de la conducta, educación especial y en algunos casos es recomendable la administración de medicamentos, sobre todo cuando los niños son agresivos o autodestructivos o que presentan cuadros convulsivos</s>
+<s docid="02BI010414_825447" num="18" wdcount="12"> Quienes son autistas pueden vivir adecuadamente en casa con un adecuado tratamiento</s>
+<s docid="02BI010414_825447" num="19" wdcount="25"> Entre las terapias recomendadas para el tratamiento del autismo están: · El arte, que se desarrolla por medio de la pintura y modelaje de arcilla</s>
+<s docid="02BI010414_825447" num="20" wdcount="35"> · La terapia con animales, sobre todo con delfines, lo que ayuda para que los niños aprendan a nadar y coordinen mejor sus movimientos y para que al interactuar con animales, salgan de su aislamiento</s>
+<s docid="02BI010414_825447" num="21" wdcount="17"> · La danza terapéutica y musicoterapia, que fomentan la interacción social y eliminan patrones de hábitos rituales</s>
+<s docid="02BI010414_825447" num="22" wdcount="23"> Muchas veces la música también se usa para calmar conductas inquietas o agresivas y en algunos casos, representa también un medio de autoexpresión</s>
+<s docid="02BI010414_825447" num="23" wdcount="30"> Los padres deben de alentar a sus niños autistas para que desarrollen sus habilidades y deben tomar terapia para poder establecer relaciones familiares adecuadas con los hermanos y otros parientes</s>
+<s docid="02BI010414_825447" num="24" wdcount="49"> Aunque los síntomas en muchos niños con autismo mejoran y pueden llevar una vida normal o casi normal, los padres deben estar muy atentos durante la adolescencia, ya que en algunos casos, el comportamiento cambia y los jóvenes se vuelven incontrolables o se llegan a presentar crisis de epilepsia.</s>
+
+
+</TEXT>
+
+</DOC>

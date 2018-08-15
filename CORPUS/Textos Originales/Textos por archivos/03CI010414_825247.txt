@@ -1,0 +1,42 @@
+<DOC>
+
+<DOCNO>
+<s docid="03CI010414_825247"num="1" wdcount="1"> 825247 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="03CI010414_825247"num="2" wdcount="1">03CI010414_825247</s>
+</FILEID>
+
+<HEAD>
+<s docid="03CI010414_825247"num="3" wdcount="14"> Con la futura Constitución se debe redefinir el papel de los órganos electorales: Mancera </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="03CI010414_825247"num="4" wdcount="1"> Ciudad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="03CI010414_825247"num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="03CI010414_825247" num="6" wdcount="50"> Al participar en la ceremonia por el 15 aniversario del Tribunal Electoral del Distrito Federal (TEDF), el jefe de gobierno capitalino, Miguel Ángel Mancera Espinosa, aseguró que la reforma política, que se discute en el Senado, reafirmará el papel de esta institución como garante de derechos políticos de los capitalinos</s>
+<s docid="03CI010414_825247" num="7" wdcount="22"> Acompañado por el magistrado presidente, Alejandro Delint García, y demás magistrados, Mancera Espinosa afirmó que el TEDF tendrá importantes acciones que asumir</s>
+<s docid="03CI010414_825247" num="8" wdcount="37"> “Al concretarse la reforma política de la ciudad y como parte del proceso de elaboración y aprobación de la futura Constitución de la capital en la que todos habremos de participar, se encontrará su primera ley fundamental</s>
+<s docid="03CI010414_825247" num="9" wdcount="17"> El papel de las instituciones electorales será un eje a discutir y, por supuesto, a fortalecer”, aseguró</s>
+<s docid="03CI010414_825247" num="10" wdcount="26"> Por lo cual convocó a los magistrados a reflexionar sobre esta materia porque “todos debemos participar en el fortalecimiento de la vida democrática de la capital”</s>
+<s docid="03CI010414_825247" num="11" wdcount="87"> En el Salón de Pleno, el Ejecutivo local aseguró que el TEDF ha cumplido con la responsabilidad de asegurar la legalidad de los actos y “resoluciones, así como en dar certeza a los procesos electorales tras su creación hace 15 años, ante la necesidad de la ciudad de México de contar con una institución garante del reconocimiento de los derechos ciudadanos, políticos y electorales para ejercer plena y fehacientemente el derecho de votar y ser votados a todos y cada uno de los cargos de elección popular”</s>
+<s docid="03CI010414_825247" num="12" wdcount="45"> Desde su creación -abundó- el TEDF representó un paso más en la construcción de instituciones para consolidar la vida política de la ciudad, de ahí que ha sido generador de cambios y punto de referencia de las grandes reformas políticas de trascendencia para la capital</s>
+<s docid="03CI010414_825247" num="13" wdcount="12"> “Hoy no escapa la reforma constitucional de la vida política del país</s>
+<s docid="03CI010414_825247" num="14" wdcount="37"> Por eso la profesionalización de sus integrantes y la actuación bajo los principios de imparcialidad, legalidad, objetividad, certeza, independencia, de máxima publicidad y transparencia, inspiran las resoluciones, y por supuesto, la vida de este Tribunal Electoral”, agregó</s>
+<s docid="03CI010414_825247" num="15" wdcount="28"> Por su parte, Alejandro Delint García afirmó que el DF merece instituciones electorales que garanticen transiciones pacíficas en los procesos electorales y generan equilibro frente al poder público</s>
+<s docid="03CI010414_825247" num="16" wdcount="14"> Señaló que “la justicia electoral ha gozado de autonomía y la ha sabido ejercer</s>
+<s docid="03CI010414_825247" num="17" wdcount="35"> La autonomía no es estar aislado, sino tener la posibilidad de tener diálogo con cualquier instancia política (…) esta autonomía ha consolidado una especie de cuarto poder que genera ciertos equilibrios en el poder público”</s>
+
+
+</TEXT>
+
+</DOC>

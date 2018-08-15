@@ -1,0 +1,64 @@
+<DOC>
+
+<DOCNO>
+<s docid="15DE020414_825673" num="1" wdcount="1"> 825673 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="15DE020414_825673" num="2" wdcount="1">15DE020414_825673</s>
+</FILEID>
+
+<HEAD>
+<s docid="15DE020414_825673" num="3" wdcount="11"> Real Madrid golea al Dortmund y pone un pie en semifinales  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="15DE020414_825673" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="15DE020414_825673" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="15DE020414_825673" num="6" wdcount="45"> El Real Madrid completó la primera parte de la revancha ante el Borussia Dortmund, ante el que cayó el pasado año en semifinales y al que podía apear en esta Liga de Campeones en los cuartos de final tras ganar en la ida por 3-0</s>
+<s docid="15DE020414_825673" num="7" wdcount="19"> La ventaja es suficientemente importante como para no considerar que tan solo una hecatombe dejaría fuera al equipo madridista</s>
+<s docid="15DE020414_825673" num="8" wdcount="36"> No obstante, la historia blanca en Alemania aconseja cautela, prudencia y concentración en el Signal Iduna Park, donde estará el polaco Robert Lewandowski, el gran artillero del conjunto teutón que el año pasado marcó cuatro tantos</s>
+<s docid="15DE020414_825673" num="9" wdcount="22"> La ausencia a última hora del argentino Ángel di María, con gastroenteritis, era un contratiempo importante para el técnico italiano Carlo Ancelotti</s>
+<s docid="15DE020414_825673" num="10" wdcount="8"> En cambio, permitió la irrupción de Isco Alarcón</s>
+<s docid="15DE020414_825673" num="11" wdcount="18"> Tenía muchas ganas tras la amarga eliminación el pasado año ante el Dortmund cuando militaba en el Málaga</s>
+<s docid="15DE020414_825673" num="12" wdcount="14"> El andaluz aprovechó de nuevo la ocasión y fue determinante en el claro triunfo</s>
+<s docid="15DE020414_825673" num="13" wdcount="17"> Formó un trío de calidad en la medular junto a Xabi Alonso y el croata Luka Modric</s>
+<s docid="15DE020414_825673" num="14" wdcount="23"> Con ellos hay más criterio en el manejo de balón y cuando consiguen enlazar y superar la presión del rival, este lo acusa</s>
+<s docid="15DE020414_825673" num="15" wdcount="25"> El Dortmund dista bastante del equipo que eliminó el pasado año al Real Madrid y que luego cayó en la final ante el Bayern Múnich</s>
+<s docid="15DE020414_825673" num="16" wdcount="65"> Aunque el conjunto germano tardó nada más que 40 segundos en llegar con peligro al área de Iker Casillas, muy poco después, a los tres minutos, recibió el primer golpe de la eliminatoria, con un balón largo sobre la derecha que se apoderó el francés Karim Benzema, quien sirvió a Dani Carvajal y este a Gareth Bale para batir en su salida a Roman Weidenfeller</s>
+<s docid="15DE020414_825673" num="17" wdcount="9"> Nada mejor para encarrilar un partido y la eliminatoria</s>
+<s docid="15DE020414_825673" num="18" wdcount="5"> Primer ataque y primer gol</s>
+<s docid="15DE020414_825673" num="19" wdcount="20"> Tuvo un efecto psicológico, porque atolondró al Dortmund y el Real Madrid disfrutó de un primer cuarto de hora magnífico</s>
+<s docid="15DE020414_825673" num="20" wdcount="32"> Sin embargo, no pudo reflejarlo en el marcador por una buena parada de Weindenfeller en un lanzamiento de falta de Cristiano Ronaldo, que disputó su partido 100 en la Liga de Campeones</s>
+<s docid="15DE020414_825673" num="21" wdcount="21"> El segundo mazazo lo dio el Real Madrid a los 27 minutos, cuando parecía que los de Klopp comenzaban a mandar</s>
+<s docid="15DE020414_825673" num="22" wdcount="25"> Una contra iniciada por Isco que parecía frenada, acabó en el propio malagueño, quien se tomó una dulce revancha personal con un disparo raso ajustado</s>
+<s docid="15DE020414_825673" num="23" wdcount="15"> Con el Borussia prácticamente k.o., al Real Madrid le faltó continuidad para rematar el partido</s>
+<s docid="15DE020414_825673" num="24" wdcount="28"> Dio la sensación también de que le faltó físico ante un oponente que tampoco mordía y que echaba en falta a su gran artillero, Lewandowski, ausente por sanción</s>
+<s docid="15DE020414_825673" num="25" wdcount="37"> El aguacero con el que comenzó el segundo periodo dio la sensación de atenazar aún más a los madridistas, demasiado parados aunque, obviamente, la calidad de hombres como Bale y Cristiano Ronaldo les da para generar peligro</s>
+<s docid="15DE020414_825673" num="26" wdcount="7"> La eliminatoria estaba en un punto clave</s>
+<s docid="15DE020414_825673" num="27" wdcount="4"> No sólo el partido</s>
+<s docid="15DE020414_825673" num="28" wdcount="15"> El Borussia, si se lo proponía, podía meter miedo al Real Madrid y al Bernabéu</s>
+<s docid="15DE020414_825673" num="29" wdcount="48"> Casi lo logró, pero no lo aprovechó y lo pagó caro, como tantas veces pasa en el coliseo blanco, porque a los 57 minutos Cristiano aprovechó un magnífico envío de Modric y puso un 3-0 que sabía a gloria porque la preocupación se instalaba en el bando español</s>
+<s docid="15DE020414_825673" num="30" wdcount="12"> Los pupilos de Klopp se vieron ya perdidos y aceptaron el reto</s>
+<s docid="15DE020414_825673" num="31" wdcount="6"> El partido enloqueció bajo la lluvia</s>
+<s docid="15DE020414_825673" num="32" wdcount="4"> Ida y vuelta constante</s>
+<s docid="15DE020414_825673" num="33" wdcount="17"> Marco Reus abanderó llegadas más que peligrosas del Dortmund y la ‘BBC‘ de inmediato respondía ante Weidenfeller</s>
+<s docid="15DE020414_825673" num="34" wdcount="36"> No supo el Real Madrid frenar, quedarse con el balón, adormecer el choque, y concedió muchas facilidades a un rival que cada vez que cruzaba el centro del campo daba sensación de poder batir a Casillas</s>
+<s docid="15DE020414_825673" num="35" wdcount="4"> Ancelotti lo vio claro</s>
+<s docid="15DE020414_825673" num="36" wdcount="46"> Introdujo a Asier Illarramendi en lugar de Isco, despedido con una clamorosa ovación, y aunque el Real Madrid consiguió controlar a medias a Reus y compañía, lo más preocupante fue la salida del campo de Cristiano Ronaldo, quien se marchó ‘tocado‘ a diez minutos del final</s>
+<s docid="15DE020414_825673" num="37" wdcount="12"> El portugués, sentado en la mitad del campo, hizo silenciar el Bernabéu</s>
+<s docid="15DE020414_825673" num="38" wdcount="3"> No podía continuar</s>
+<s docid="15DE020414_825673" num="39" wdcount="12"> Está jugando con molestias en el tendón rotuliano y habrá que esperar</s>
+<s docid="15DE020414_825673" num="40" wdcount="22"> Administró al marcador el conjunto de Ancelotti sin alardes con algún que otro apuro e intervención atrás de Pepe, inconmensurable al corte</s>
+
+</TEXT>
+
+</DOC>

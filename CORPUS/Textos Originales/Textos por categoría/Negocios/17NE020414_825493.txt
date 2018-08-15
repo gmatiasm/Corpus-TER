@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="17NE020414_825493"num="1" wdcount="1"> 825493 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="17NE020414_825493"num="2" wdcount="1">17NE020414_825493</s>
+</FILEID>
+
+<HEAD>
+<s docid="17NE020414_825493"num="3" wdcount="7"> Espera Hacienda mayores ingresos petroleros este año </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="17NE020414_825493"num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="17NE020414_825493"num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="17NE020414_825493" num="6" wdcount="36"> Luis Videgaray, secretario de Hacienda (SHCP), estima que se obtendrán mayores ingresos por barriles de petróleo vendido, luego de la revisión al alza en el precio del crudo para este 2014, de 85 a 89 dólares</s>
+<s docid="17NE020414_825493" num="7" wdcount="52"> En entrevistas, aseguró que esta nueva estimación no tiene ninguna afectación en las coberturas petroleras, pues el precio del petróleo se mantendrá por arriba de los 85 dólares por barril fijados inicialmente en la Ley de Ingresos, por lo que se modificó esta cifra en los "pre-criterios de política económica" para 2014</s>
+<s docid="17NE020414_825493" num="8" wdcount="13"> Para el 2015, la dependencia estimó un precio de petróleo de 75 dólares</s>
+<s docid="17NE020414_825493" num="9" wdcount="45"> Con respecto al crecimiento de la economía, el titular de Hacienda señaló que sólo revisará, en su caso, sus pronósticos de crecimiento una vez que se publiquen las cifras trimestrales del Producto Interno Bruto (PIB) por parte del Instituto Nacional de Estadística y Geografía (INEGI)</s>
+<s docid="17NE020414_825493" num="10" wdcount="34"> Dijo que en caso de que se revise el pronóstico para este año, esperará primero a conocer las cifras del primer trimestre del PIB, que se darán a conocer el próximo 23 de mayo</s>
+<s docid="17NE020414_825493" num="11" wdcount="22"> Por lo que mantiene sin cambios sus pronósticos de crecimiento para este año en 3.9 y de 4.7 por ciento para 2015</s>
+<s docid="17NE020414_825493" num="12" wdcount="1"> ASIGNACIÓN</s>
+<s docid="17NE020414_825493" num="13" wdcount="39"> Con el objetivo de fortalecer el financiamiento al campo mexicano, el secretario de Hacienda anunció la designación de Juan Pablo Cortés al frente de Financiera Rural y de Luis Alberto Ibarra como director de Fondo de Capitalización e Inversión</s>
+<s docid="17NE020414_825493" num="14" wdcount="11"> Comentó que estas designaciones forman parte de la reforma al campo</s>
+<s docid="17NE020414_825493" num="15" wdcount="24"> "Se trata de que el campo mexicano se convierta en una oportunidad concreta de desarrollo, de riqueza y de mayor bienestar para todos", concluyó.</s>
+
+
+</TEXT>
+
+</DOC>

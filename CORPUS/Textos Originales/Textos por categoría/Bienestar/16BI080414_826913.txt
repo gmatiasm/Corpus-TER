@@ -1,0 +1,41 @@
+<DOC>
+
+<DOCNO>
+<s docid="16BI080414_826913" num="1" wdcount="1"> 826913 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="16BI080414_826913" num="2" wdcount="1">16BI080414_826913</s>
+</FILEID>
+
+<HEAD>
+<s docid="16BI080414_826913" num="3" wdcount="7"> Te gustaría ser ¿una mamá de 10? </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="16BI080414_826913" num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="16BI080414_826913" num="5" wdcount="1"> 2014-04-08 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="16BI080414_826913" num="6" wdcount="18"> Se acerca el 10 de mayo y todas las mamás desean verse hermosas, pero sobre todo estar saludables</s>
+<s docid="16BI080414_826913" num="7" wdcount="63"> El sobre peso y la obesidad se han convertido en uno de los principales problemas de salud en México, en INEGI reporta que el 73% tienen entre sobre peso y obesidad, lo que aumenta su riesgo de padecer enfermedades cardíacas, diabetes, osteoporosis, ciertos tipos de cáncer y otras enfermedades que no solamente merman su calidad de vida, sino también la de sus familiales</s>
+<s docid="16BI080414_826913" num="8" wdcount="45"> Existen sin duda muchas formas de mantener el peso, las principales, una adecuada alimentación y hacer ejercicio, pero también es posible hacerlo por medio de ayuda profesional y si es mamá y le gustaría recuperar su peso y llevar una vida, ésta es su oportunidad</s>
+<s docid="16BI080414_826913" num="9" wdcount="14"> La Crónica online y PronoKal Group México, le invitan a participar en la campaña, </s>
+<s docid="16BI080414_826913" num="10" wdcount="4"> ¡Una mamá de 10!</s>
+<s docid="16BI080414_826913" num="11" wdcount="25"> en la que se buscará saber cómo el alcanzar un objetivo saludable de pérdida de peso, le ayudará a pasar un 10 de mayo inolvidable</s>
+<s docid="16BI080414_826913" num="12" wdcount="20"> El Método PronoKal ® es un método personalizado de pérdida de peso bajo control médico, basado en una dieta proteinada</s>
+<s docid="16BI080414_826913" num="13" wdcount="31"> Cuenta con un equipo de especialistas que le ofrecerán de forma personalizada todos los consejos y herramientas necesarias para perder peso de forma efectiva y segura, y mantenerlo a largo plazo</s>
+<s docid="16BI080414_826913" num="14" wdcount="14"> Las dos mejores historias, ganarán un Beca para llevar a cabo el Método PronoKal</s>
+<s docid="16BI080414_826913" num="15" wdcount="36"> Una metodología para perder peso bajo prescripción médica y a través de una dieta proteinada, que además cuenta con un equipo de nutriólogos, especialistas en apoyo psicoemocional y ejercitación física, que la acompañarán en todo momento</s>
+<s docid="16BI080414_826913" num="16" wdcount="30"> Bases para participar: La participante debe ser mamá: · Escribir una historia de su razón para perder peso (mínimo de media cuartilla) · Darle like a la siguiente página: raul.davila@gsw-mexico.com </s>
+
+
+</TEXT>
+
+</DOC>

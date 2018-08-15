@@ -1,0 +1,46 @@
+<DOC>
+
+<DOCNO>
+<s docid="05ES010414_825265" num="1" wdcount="1"> 825265 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="05ES010414_825265" num="2" wdcount="1">05ES010414_825265</s>
+</FILEID>
+
+<HEAD>
+<s docid="05ES010414_825265" num="3" wdcount="13"> Público mexicano sensibiliza a la Oreja de Van Gogh en el Auditorio Nacional </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="05ES010414_825265" num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="05ES010414_825265" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="05ES010414_825265" num="6" wdcount="47"> Se apagaron las luces del Auditorio Nacional minutos después de las 18:00 horas del domingo, los aplausos se elevaron y el grupo español, La Oreja de Van Gogh, salió al escenario para comenzar a llenar las paredes del recinto con el canto de su vocalista, Leire Martínez</s>
+<s docid="05ES010414_825265" num="7" wdcount="40"> Con una introducción del tema “Rosas”, la cantante comenzó a entonar la melodía con un vestido corto, negro y con tres estoperoles en forma de rombos, además de hacer juego con unas botas y una pulsera enredada del mismo color</s>
+<s docid="05ES010414_825265" num="8" wdcount="41"> “El último vals” se hizo sonar con Leire Martínez, quien al término de la canción expresó: “Buenas noches México, como saben nuestro último trabajo, Primera Fila, lo realizamos aquí”, expresó la española antes de presentar “Cuando dices adiós”, bajo luces multicolores</s>
+<s docid="05ES010414_825265" num="9" wdcount="39"> El ritmo de “Mi calle es Nueva York” dio paso a temas de la banda como “Vestido azul”, balada de su álbum Lo que te conté mientras te hacías la dormida, misma que se ilumino con luces color pastel</s>
+<s docid="05ES010414_825265" num="10" wdcount="23"> Prosiguió “Inmortal”, canción de su material discográfico, A las cinco en el Astoria, que fuera el disco debut de Martínez en el grupo</s>
+<s docid="05ES010414_825265" num="11" wdcount="40"> “Algo se nos ha quedado en tantas ocasiones que hemos visitado este país, la canción es para darles un poquito de nosotros”, expresó la líder de grupo para presentar “Una y otra vez”, segunda canción inédita del formato Primera Fila</s>
+<s docid="05ES010414_825265" num="12" wdcount="36"> Antes de que la cantante expresara: “La noche irá cargada de sorpresas, hoy no podía faltar este invitado a nuestro concierto”, dijo para presentar “Mi vida sin ti” junto con Samo, quien no fue bien recibido</s>
+<s docid="05ES010414_825265" num="13" wdcount="51"> Aparecieron los clásicos temas de La Oreja de Van Gogh como “París” que se ligó con “Europa VII”, melodía de la banda para crear conciencia sobre los problemas sociales que existen alrededor del mundo; la música de Xabi San Martín levitó en el aire mientras Leire realizó un cambio de ropa</s>
+<s docid="05ES010414_825265" num="14" wdcount="46"> Con leggins, blusón a rayas y botas negras, la española volvió a escena para expresar: “Queremos estar muy cerca de ustedes, esta canción habla de las sensaciones cuando te entregan por primera vez a tu bebé”, aseguró para acercarse al público y cantar “Palabras para Paula”</s>
+<s docid="05ES010414_825265" num="15" wdcount="32"> Leonel García ingresó al escenario para repetir con la agrupación el momento musical logrado en el nuevo disco y cantar “La playa”; el baladista vestido con traje gris oscuro agradeció la invitación</s>
+<s docid="05ES010414_825265" num="16" wdcount="17"> La velada continuó y la banda rememoró el primer sencillo de toda su carrera musical: “El 28”</s>
+<s docid="05ES010414_825265" num="17" wdcount="55"> No se fueron las sorpresas y el tema “Adiós”, poco tocado en sus conciertos, resonó en el Auditorio Nacional para seguir con “María”, “Deseos de cosas imposibles” y “Jueves”, tema donde bajaron las luces, el público prendió los celulares y proyectó en todo el espacio figuras que ante la vista panorámica crearon un cielo estrellado</s>
+<s docid="05ES010414_825265" num="18" wdcount="51"> La respuesta de Leire fue espontánea: lágrimas que cayeron sobre sus mejillas y expresó: “Gracias por recordarnos que estos son los momentos que más valen la pena, por confiar en la música en directo”, aseguró Leire con voz entrecortada y visiblemente emocionada por los gritos y los aplausos de los seguidores</s>
+<s docid="05ES010414_825265" num="19" wdcount="31"> La intensidad musical de “Muñeca de trapo” y “La niña que llora en tus fiestas” inundó el espacio, luego llegó “El primer día del resto de mi vida” y “Pálida luna”</s>
+<s docid="05ES010414_825265" num="20" wdcount="38"> El final se acercó en una fiesta de globos de colores que aventaron sus seguidores en todo el recinto y que dieron vida a los temas “Cometas por el cielo”, “Pop”, “20 de enero” y “Puedes contar conmigo”</s>
+<s docid="05ES010414_825265" num="21" wdcount="26"> Al término, La Oreja de Van Gogh levantó la bandera de México y España y se abrazaron para celebrar la noche y despedirse de sus fans.</s>
+
+
+</TEXT>
+
+</DOC>

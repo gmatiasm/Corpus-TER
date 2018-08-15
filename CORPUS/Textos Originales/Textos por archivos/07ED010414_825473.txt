@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="07ED010414_825473" num="1" wdcount="1"> 825473 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="07ED010414_825473" num="2" wdcount="1">07ED010414_825473</s>
+</FILEID>
+
+<HEAD>
+<s docid="07ED010414_825473" num="3" wdcount="6"> Analizan estados acciones contra el dengue </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="07ED010414_825473" num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="07ED010414_825473" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="07ED010414_825473" num="6" wdcount="41"> El dengue es un padecimiento que afecta a 27 estados del país, por lo cual es importante realizar acciones con un impacto positivo para reducir su trasmisión, expusieron autoridades de salud en la primera Reunión de Vectores, en Nuevo Vallarta, Nayarit</s>
+<s docid="07ED010414_825473" num="7" wdcount="47"> En un comunicado la Secretaría de Salud (SSA) informó que con el fin de anticiparse a los posibles daños que pueda ocasionar el dengue en la región occidente los responsables de los programas y titulares de Salud de Sinaloa, Michoacán, Colima, Jalisco y Nayarit realizaron dicha reunión</s>
+<s docid="07ED010414_825473" num="8" wdcount="43"> En el encuentro encabezado por el director general del Centro Nacional de Programas Preventivos y Control de Enfermedades (Cenaprece), Jesús Felipe González, se revisó la situación epidemiológica del dengue de la región occidente del país, y los programas estatales de control y prevención</s>
+<s docid="07ED010414_825473" num="9" wdcount="25"> González Roldán subrayó la importancia del trabajo coordinado entre la federación, estados, municipios y la población para reducir el potencial de transmisión de esta enfermedad</s>
+<s docid="07ED010414_825473" num="10" wdcount="24"> Indicó que este trabajo de anticipación se debe enfocar en las medidas de prevención y promoción de la salud, para la eliminación de criaderos</s>
+<s docid="07ED010414_825473" num="11" wdcount="39"> Llamó a no bajar la guardia, pues la incidencia de letalidad en México está por debajo del indicador de la Organización Mundial de la Salud (OMS), mientras que en otras partes del mundo esta enfermedad va a la alza</s>
+<s docid="07ED010414_825473" num="12" wdcount="49"> Al respecto Álvaro Martín Acosta Padilla, director de Prevención y Promoción de la Salud de Sinaloa, comentó que el trabajo anticipado en el control del mosco vector redundará en la disminución del número de casos, siempre y cuando la ciudadanía tome conciencia de participar en la eliminación de criaderos</s>
+<s docid="07ED010414_825473" num="13" wdcount="28"> A su vez Óscar Villaseñor Anguiano, secretario de Salud en Nayarit, agregó que el trabajo coordinado entre los estados compromete acciones como el control larvario, abatización y fumigación</s>
+<s docid="07ED010414_825473" num="14" wdcount="20"> “Los estados occidentales debemos desarrollar acciones conjuntas en el combate al dengue, para lograr disminuir el número de casos”, mencionó.</s>
+
+
+</TEXT>
+
+</DOC>

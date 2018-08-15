@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="16AC070414_826607" num="1" wdcount="1"> 826607 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="16AC070414_826607" num="2" wdcount="1">16AC070414_826607</s>
+</FILEID>
+
+<HEAD>
+<s docid="16AC070414_826607" num="3" wdcount="10"> Intolerancia al azúcar de la leche podría causar ceguera: especialista  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="16AC070414_826607" num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="16AC070414_826607" num="5" wdcount="1"> 2014-04-07 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="16AC070414_826607" num="6" wdcount="38"> El especialista José Elías García Ortiz dijo que trastornos gastrointestinales, hepáticos y ceguera son algunas de las complicaciones derivadas de la galactosemia, afección congénita en la cual el individuo es intolerante al azúcar de la leche o galactosa</s>
+<s docid="16AC070414_826607" num="7" wdcount="36"> El investigador de la División de Genética del Centro de Investigación Biomédica de Occidente del IMSS en Jalisco añadió que la galactosemia es una enfermedad propia de un defecto enzimático en el metabolismo de la leche</s>
+<s docid="16AC070414_826607" num="8" wdcount="47"> Explicó que al entrar al organismo se convierte en lactosa, que a su vez se separa en glucosa y galactosa, “ésta última es la fuente de energía de la leche y al no poderse degradar apropiadamente se acumula en el organismo y provoca los síntomas del padecimiento”</s>
+<s docid="16AC070414_826607" num="9" wdcount="42"> Afirmó que esta enfermedad se presenta en el periodo neonatal y se manifiesta desde el primer día de vida, “sus síntomas surgen a las semanas de nacido e incluyen: bajo peso, diarrea, coloración amarillenta de piel, trastornos de coagulación, hepáticos y cataratas”</s>
+<s docid="16AC070414_826607" num="10" wdcount="33"> “Cuando un niño nace con catarata congénita debe descartarse que sea por galactosemia, al igual niños con bajo de peso, sobre todo si después de tomar leche inicia con vómito y diarrea”, apuntó</s>
+<s docid="16AC070414_826607" num="11" wdcount="31"> Detalló que para descartar galactosemia y otros padecimientos congénitos, se realiza la llamada prueba de tamizaje genético, al recién nacido, que permite la detección oportuna y evita la aparición de complicaciones</s>
+<s docid="16AC070414_826607" num="12" wdcount="45"> Subrayó que si un niño no es diagnosticado a tiempo, las consecuencias de la exposición a la leche son graves e incluso mortales, “la galactosemia afecta por igual a mujeres y varones, y tiene una prevalencia de uno por cada 50 mil recién nacido vivos”</s>
+<s docid="16AC070414_826607" num="13" wdcount="44"> Indicó que el tratamiento para este tipo de pacientes consiste en la sustitución de lácteos por fórmulas hidrolizadas o con soya, “en los primeros años es importante que el niño no consuma leche o derivados lácteos, pero conforme crezca se puede adaptar su alimentación”</s>
+<s docid="16AC070414_826607" num="14" wdcount="46"> Precisó que una dieta con menos de 20 miligramos de lactosa al día es suficiente para que no haya manifestaciones clínicas, “al pasar la infancia la tolerancia es mayor, sin embargo, jamás será inmune, por lo que no deberá exceder la dosis máxima de lácteos recomendada”</s>
+<s docid="16AC070414_826607" num="15" wdcount="22"> Manifestó que en mujeres adultas con galactosemia es frecuente encontrar formas tempranas de insuficiencia ovárica prematura, y en algunos casos talla baja</s>
+<s docid="16AC070414_826607" num="16" wdcount="34"> Destacó la importancia de captar el síndrome a tiempo, “en cada embarazo existe 25% de riesgo para presentar galactosemia y una de cada 600 personas pueden ser portadoras del gen reactivo a este padecimiento”.</s>
+
+</TEXT>
+
+</DOC>

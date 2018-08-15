@@ -1,0 +1,47 @@
+<DOC>
+
+<DOCNO>
+<s docid="06OP010414_825335" num="1" wdcount="1"> 825335 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="06OP010414_825335" num="2" wdcount="1">06OP010414_825335</s>
+</FILEID>
+
+<HEAD>
+<s docid="06OP010414_825335" num="3" wdcount="4"> Respuesta oportuna del Congreso </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="06OP010414_825335" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="06OP010414_825335" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="06OP010414_825335" num="6" wdcount="57"> En México, aunque oficialmente el deporte nacional por excelencia es la charrería, de la cual desde luego nos sentimos muy orgullosos al representar de manera muy artística y valiente la identidad mexicana, una de las prácticas deportivas más extendidas y que tiene el mayor número de seguidores y simpatizantes dentro del territorio nacional es el futbol soccer</s>
+<s docid="06OP010414_825335" num="7" wdcount="20"> De hecho, nuestro país ha sido sede en dos ocasiones de la Copa Mundial de Futbol, en 1970 y 1986</s>
+<s docid="06OP010414_825335" num="8" wdcount="13"> Sin duda, dos episodios que definieron el curso de este deporte en México</s>
+<s docid="06OP010414_825335" num="9" wdcount="40"> El deporte, en cualquiera de sus expresiones y variantes, es una práctica social que une a las familias en torno a un objetivo común que es, en primer lugar, la convivencia y el sano esparcimiento, pero también la fraternal competencia</s>
+<s docid="06OP010414_825335" num="10" wdcount="38"> Es por ello que prácticamente todos los mexicanos tenemos un grato recuerdo de haber asistido a un partido de futbol soccer, o a cualquier evento deportivo, acompañados de nuestros padres, nuestros hijos, y en general de nuestra familia</s>
+<s docid="06OP010414_825335" num="11" wdcount="37"> Lamentablemente, en muchos casos, esto ya no ha sido posible, por diversas prácticas vandálicas que han generado un miedo dentro de las familias mexicanas de asistir a este tipo de eventos, que originalmente eran para convivir sanamente</s>
+<s docid="06OP010414_825335" num="12" wdcount="39"> Ahora, prácticamente lo que se le ha denominado las “barras” que no son otra cosa sino grupos de aficionados reunidos en torno a un equipo determinado con un perfil bastante diferenciado de los amantes del futbol, comunes y corrientes</s>
+<s docid="06OP010414_825335" num="13" wdcount="56"> Si bien estos grupos se caracterizan por la pasión que sienten hacia su equipo de futbol, también han saltado a la escena mediática por los desastres que pueden ocasionar en los estadios, o bien, frente a otros grupos de aficionados distintos al suyo, o contra los policías, como lo pudimos observar recientemente en el Estadio Jalisco</s>
+<s docid="06OP010414_825335" num="14" wdcount="9"> Esto no es un fenómeno social exclusivo de México</s>
+<s docid="06OP010414_825335" num="15" wdcount="99"> En la década de los años sesenta y setenta, particularmente en Inglaterra, que es considerada la cuna del futbol soccer, se presentó la eclosión del hooliganismo, es decir, un movimiento rebelde encabezado por diversos grupos de aficionados jóvenes que al asistir a los estadios y al no estar siendo favorecido su equipo por el marcador, ocasionaban desmanes y desastres que en muchas ocasiones terminaba en auténticas tragedias, como sucedió en 1985 en el estadio de Heysel, en Bélgica, donde en un partido entre el Liverpool y la Juventus de Turín fallecieron 39 personas y hubo más de 600 heridos</s>
+<s docid="06OP010414_825335" num="16" wdcount="39"> En Inglaterra se tomaron diversas medidas para tratar de contrarrestar los efectos de este fenómeno social que implicaron el endurecimiento de las penas a aquellos que cometieran actos en contra del espíritu deportivo que debe permear en toda competencia</s>
+<s docid="06OP010414_825335" num="17" wdcount="40">Afortunadamente, hoy los estadios del Reino Unido cuentan con filtros y sistemas de seguridad que evitan la confrontación entre los aficionados; sin embargo, lo que realmente ha abonado a que se disminuyan estos desencuentros es la cultura del fair play</s>
+<s docid="06OP010414_825335" num="18" wdcount="97"> La campaña del fair play, o jugar limpio, cuyo lema es My Game is Fair Play o “Yo juego limpio”, surgió precisamente en México, en aquella emblemática Copa Mundial de 1986, producto del controvertido gol de Diego Armando Maradona en el Estadio Azteca en contra de la Selección de Inglaterra, que se denominó a la postre como la “mano de Dios”, lo cual provocó una serie de severos reclamos en contra de la Fédération Internationale de Football Association (FIFA), la cual lanzó este eslogan como un código de conducta tanto para los jugadores como para los aficionados</s>
+<s docid="06OP010414_825335" num="19" wdcount="26"> Lamentablemente en México hace poco fuimos testigos de actos vandálicos que ponen en entredicho la seguridad que tienen las familias al ingresar los estadios de futbol</s>
+<s docid="06OP010414_825335" num="20" wdcount="46"> El caso más reciente es el que se presentó en el partido entre el Club Guadalajara y el Atlas, que es considerado el clásico tapatío y en el cual un grupo de pseudo-aficionados agredió físicamente y de manera atroz a diversos elementos de seguridad del estadio</s>
+<s docid="06OP010414_825335" num="21" wdcount="89"> Al respecto, la Cámara de Diputados, particularmente el grupo parlamentario del PRI, que es liderado por el diputado Manlio Fabio Beltrones, desde septiembre de 2013 y como parte de su Agenda Legislativa para el Segundo Año de Ejercicio de la LXII Legislatura, propuso una serie de modificaciones a la Ley General de Cultura Física y Deporte, con el propósito de inhibir cualquier tipo de actos vandálicos que provoquen daños humanos o materiales a los recintos o inmediaciones de los estadios, y establecer penas más severas a quienes los realicen</s>
+<s docid="06OP010414_825335" num="22" wdcount="57"> Al aprobar por consenso del pleno de la Cámara de Diputados estas reformas a la Ley General de Cultura Física y Deporte se garantizan los derechos y libertades civiles de quienes asisten a este tipo de eventos, lo cual entraña un paso adelante en la tarea de construir una convivencia más armónica y pacífica entre los mexicanos</s>
+<s docid="06OP010414_825335" num="23" wdcount="3"> *Diputado Federal @manuelanorve </s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,41 @@
+<DOC>
+
+<DOCNO>
+<s docid="03BI010414_825448" num="1" wdcount="1"> 825448 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="03BI010414_825448" num="2" wdcount="1">03BI010414_825448</s>
+</FILEID>
+
+<HEAD>
+<s docid="03BI010414_825448" num="3" wdcount="7"> Aumentan embarazos de adolescentes en América Latina </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="03BI010414_825448" num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="03BI010414_825448" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="03BI010414_825448" num="6" wdcount="35"> El Banco Interamericano de Desarrollo (BID) advirtió hoy que América Latina, solo detrás de África, es la región donde más ha aumentado el número de embarazos en adolescentes, 40 por ciento de ellos no deseados</s>
+<s docid="03BI010414_825448" num="7" wdcount="38"> La cifra fue comentada durante una reunión de la vicepresidenta ejecutiva del BID, Julie Katzman, y la presidenta de la Fundación colombiana Juan Felipe Gómez, Catalina Escobar, en el marco del Foro Económico Mundial Sobre América Latina (FEMAL)</s>
+<s docid="03BI010414_825448" num="8" wdcount="39"> El BID y la fundación colombiana firmaron en fecha reciente un acuerdo de cooperación técnica por 308 mil dólares, mediante el cual la organización colombiana apoyará a madres adolescentes, con programas enfocados a romper el ciclo de la pobreza</s>
+<s docid="03BI010414_825448" num="9" wdcount="17"> El plan “360 grados” incluye formación en actividades productivas, acceso a servicios de salud y apoyo psicosocial</s>
+<s docid="03BI010414_825448" num="10" wdcount="20"> El BID observará el modelo para determinar si lo expande a nacionalmente y luego a otros países de América Latina</s>
+<s docid="03BI010414_825448" num="11" wdcount="22"> “Es imperativo que los gobiernos, la sociedad y los organismos internacionales trabajemos en conjunto para prevenir el embarazo en adolescentes”, comentó Katzman</s>
+<s docid="03BI010414_825448" num="12" wdcount="24"> Además consideró necesario para enfrentar el problema “mejorar la capacidad de decisión y generar condiciones de igualdad de género, especialmente entre mujeres adolescentes pobres”</s>
+<s docid="03BI010414_825448" num="13" wdcount="34"> Datos del BID indican que en América Latina viven 107 millones de adolescentes de entre 10 y 19 años de edad, de los cuales, unos 15 millones viven con menos de un dólar diario</s>
+<s docid="03BI010414_825448" num="14" wdcount="26"> El 20 por ciento de los nacimientos en la región son de madres menores de 20 años, con 40 por ciento de ellos no son deseados</s>
+<s docid="03BI010414_825448" num="15" wdcount="31"> El BID estimó que “el embarazo adolescente es un factor limitante para superar la pobreza, tiene consecuencias negativas de salud, psicológicas y sociales para la madre, el bebé y la comunidad”</s>
+<s docid="03BI010414_825448" num="16" wdcount="40"> El foro Económico Mundial al que asisten Katzman y Escobar arrancó el martes aunque las plenarias se realizarán el miércoles y jueves con la presencia de seis presidentes, y 600 asistentes, entre ministros, empresarios, analistas y ejecutivos de organizaciones especializadas.</s>
+
+
+</TEXT>
+
+</DOC>

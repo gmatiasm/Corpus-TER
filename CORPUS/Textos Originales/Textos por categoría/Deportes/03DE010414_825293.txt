@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="03DE010414_825293" num="1" wdcount="1"> 825293 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="03DE010414_825293" num="2" wdcount="1">03DE010414_825293</s>
+</FILEID>
+
+<HEAD>
+<s docid="03DE010414_825293" num="3" wdcount="6"> Destacan en Europa desempeño de Ochoa </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="03DE010414_825293" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="03DE010414_825293" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="03DE010414_825293" num="6" wdcount="28"> El guardameta mexicano que milita en el Ajaccio, Guillermo Ochoa, fue colocado en el 11 ideal de la jornada que elabora semana a semana el diario galo L’Equipe</s>
+<s docid="03DE010414_825293" num="7" wdcount="29"> El cancerbero tricolor volvió a destacar gracias a sus atajadas y principalmente por ayudar a su equipo a sumar un punto en el empate que consiguieron ante el Toulouse</s>
+<s docid="03DE010414_825293" num="8" wdcount="25"> Ochoa brilló a lo largo del partido, pero fue en la recta final del encuentro donde Memo mostró su gran calidad bajo los tres palos</s>
+<s docid="03DE010414_825293" num="9" wdcount="31"> El cuadro de Toulouse llegó en varias ocasiones a la portería del cancerbero e incluso provocaron un penal, mismo que fue detenido por el ex guardameta de las Águilas de América</s>
+<s docid="03DE010414_825293" num="10" wdcount="34"> Por otro lado, el diario español Marca, bajo su sección de El once ideal de los americanos por Europa, colocó al tapatío como el mejor portero de la pasada jornada en el Viejo Continente</s>
+<s docid="03DE010414_825293" num="11" wdcount="30"> Sobre la actuación del mexicano, destacó: “Soberbia actuación del guardameta mexicano, decisivo sobre todo por el penalti detenido en el último minuto y que salvó un punto contra el Toulouse</s>
+<s docid="03DE010414_825293" num="12" wdcount="9"> Pero ya antes había hecho paradas de muchísimo nivel”</s>
+
+
+</TEXT>
+
+</DOC>

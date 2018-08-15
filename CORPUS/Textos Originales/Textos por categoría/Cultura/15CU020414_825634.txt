@@ -1,0 +1,46 @@
+<DOC>
+
+<DOCNO>
+<s docid="15CU020414_825634" num="1" wdcount="1"> 825634 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="15CU020414_825634" num="2" wdcount="1">15CU020414_825634</s>
+</FILEID>
+
+<HEAD>
+<s docid="15CU020414_825634" num="3" wdcount="11"> El bel canto se apoderará del Alcázar del Castillo de Chapultepec </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="15CU020414_825634" num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="15CU020414_825634" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="15CU020414_825634" num="6" wdcount="40"> Más de 200 artistas, entre cantantes de ópera, pianistas e instrumentistas, participarán en el Festival de Ópera, que del 6 de abril al 8 de junio, celebrarán los 70 años de vida del Museo Nacional de Historia “Castillo de Chapultepec”</s>
+<s docid="15CU020414_825634" num="7" wdcount="15"> Se trata de una actividad organizada por Promoción de la Música y la Cultura A.C</s>
+<s docid="15CU020414_825634" num="8" wdcount="33"> y la iniciativa Balcones de Madero, con la cual se impulsa el talento de jóvenes cantantes procedentes de los estados de Colima, Baja California, Coahuila, Estado de México, Sonora, Sinaloa, Aguascalientes, Puebla, etcétera</s>
+<s docid="15CU020414_825634" num="9" wdcount="50"> Ledia Contreras, presidenta de Promoción de la Música y la Cultura A.C., informó que los recitales se ofrecerán en el Alcázar del Castillo de Chapultepec, los días 6, 13 y 27 de abril; 4, 11, 18 y 25 de mayo, así como el 8 de junio, a las 13:00 horas</s>
+<s docid="15CU020414_825634" num="10" wdcount="57"> En anuncio fue hecho anoche en la Casa de los Azulejos, ubicada justamente en la calle de Madero, en el Centro Histórico de la capital mexicana, donde nació la iniciativa Balcones de Madero, que arrancó en noviembre de 2012, con 16 conciertos a la semana, a lo largo de los cuales presentó a más de 250 artistas</s>
+<s docid="15CU020414_825634" num="11" wdcount="31"> Por separado, Contreras explicó a Notimex que la idea inicial fue dar a conocer y fomentar la música interpretada por cantantes profesionales, a los visitantes de la calle peatonal Francisco I</s>
+<s docid="15CU020414_825634" num="12" wdcount="10"> Madero, escenario donde se goza de una espléndida arquitectura colonial</s>
+<s docid="15CU020414_825634" num="13" wdcount="40"> Sin embargo, destacó, el proyecto pronto se convirtió en un sólido escaparate para “nuestras voces”, muchas de las cuales no se conocerían sin estos foros, creados ante la necesidad de más espacios para el arte y la cultura en México</s>
+<s docid="15CU020414_825634" num="14" wdcount="30"> En entrevista, destacó que además de estar formando un público deseoso de escuchar nuevos talentos, su interés es abrir cada vez más oportunidades para aquellos jóvenes que así lo deseen</s>
+<s docid="15CU020414_825634" num="15" wdcount="13"> “Ellos vienen y solicitan participar en las Serenatas de los Balcones de Madero</s>
+<s docid="15CU020414_825634" num="16" wdcount="23"> Nosotros los vamos programando y los apoyamos con el pago del pianista con quien ensayan y se presentan en los Balcones”, destacó Contreras</s>
+<s docid="15CU020414_825634" num="17" wdcount="44"> Sobre el elenco que celebrará los 70 años del Museo Nacional de Historia “Castillo de Chapultepec”, señaló que en la primera sesión, el 6 de abril, presentarán a talentos como Ana Karina Pegueros, Luz Vizcarra y Margarita Rosas, acompañadas al piano por David Dumat</s>
+<s docid="15CU020414_825634" num="18" wdcount="38"> El domingo siguiente, adelantó, estarán Izebel Alcaraz, Maximiliano Muñoz (hijo del cantante Manolo Muñoz), acompañados por el Coro de la Fundación Sebastián, que presentará su primer disco, apadrinado por el propio escultor Enrique Carbajal, mejor conocido como Sebastián</s>
+<s docid="15CU020414_825634" num="19" wdcount="38"> El 27 de abril se presentará la ópera “Rita” o “El marido maltratado”, una ópera cómica en un acto, con música de Gaetano Donizetti, destacó Contreras, quien puso énfasis en que cada presentación habrá algo nuevo que disfrutar</s>
+<s docid="15CU020414_825634" num="20" wdcount="32"> Por último, señaló que para concluir el Año de la ópera en los Balcones de Madero 2014, tienen programado un concierto diario del 21 al 30 de noviembre, a las 20 horas</s>
+<s docid="15CU020414_825634" num="21" wdcount="26"> La idea, sostuvo, es que este proyecto vaya formando parte de la vida de la ciudad de México, por lo que esperan presentarlo por muchos años</s>
+
+
+</TEXT>
+
+</DOC>

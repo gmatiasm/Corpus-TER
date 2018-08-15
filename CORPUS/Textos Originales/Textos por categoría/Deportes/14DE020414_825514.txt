@@ -1,0 +1,49 @@
+<DOC>
+
+<DOCNO>
+<s docid="14DE020414_825514" num="1" wdcount="1"> 825514 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="14DE020414_825514" num="2" wdcount="1">14DE020414_825514</s>
+</FILEID>
+
+<HEAD>
+<s docid="14DE020414_825514" num="3" wdcount="5"> Nada definido en la Champions </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="14DE020414_825514" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="14DE020414_825514" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="14DE020414_825514" num="6" wdcount="39"> Un golazo del brasileño Diego y el talento del portero Thibaut Courtois sirvieron para que el Atlético de Madrid saliera del Camp Nou con un valioso empate 1-1 en la ida de los cuartos de final de la Champions</s>
+<s docid="14DE020414_825514" num="7" wdcount="38"> Durante la primera mitad los dirigidos por Gerardo Martino tuvieron el dominio de las acciones y estuvieron cerca de abrir el marcador, pero la defensa del Atleti se empleó a fondo para aguantar los embates del equipo local</s>
+<s docid="14DE020414_825514" num="8" wdcount="25"> En el primer tiempo, ambas escuadras tuvieron bajas, Piqué en la defensa para el cuadro culé y Diego Costa en el ataque para los colchoneros</s>
+<s docid="14DE020414_825514" num="9" wdcount="16"> De Lionel Messi y Andrés Iniesta nació la mejor jugada del Barça en el primer tiempo</s>
+<s docid="14DE020414_825514" num="10" wdcount="32"> Leo recibió un pase vertical de Mascherano, fintó para romper la cintura de su perseguidor y centró con un gran servicio a Iniesta, cuyo remate fue rechazado por el uruguayo Diego Godín</s>
+<s docid="14DE020414_825514" num="11" wdcount="24"> Para la segunda mitad, ambas escuadras salieron con el objetivo de romper el cero y el Atleti fue el primero en conseguir la anotación</s>
+<s docid="14DE020414_825514" num="12" wdcount="26"> El golazo del brasileño Diego, quien entró en lugar del lesionado Costa, cayó como un jarro de agua fría, cuando la parte complementaria apenas había comenzado</s>
+<s docid="14DE020414_825514" num="13" wdcount="32"> Una falta de Iniesta sobre el propio Diego acabó en un cañonazo imparable que se coló por la escuadra de la portería defendida por Pinto, quien se lanzó tarde por el esférico</s>
+<s docid="14DE020414_825514" num="14" wdcount="31"> Al 71’, la magia de Iniesta puso un pase filtrado para Neymar, quien sólo esperó el momento para golpear el esférico de pierna derecha y mandarlo al fondo de la redes</s>
+<s docid="14DE020414_825514" num="15" wdcount="29"> Luego de conseguir el tanto del empate, los culés se lanzaron al frente en busca de la segunda anotación, pero no lograron ser efectivos al momento de la definición</s>
+<s docid="14DE020414_825514" num="16" wdcount="22"> El portero belga mantuvo con vida al Atlético hasta el final, especialmente en tres paradones a disparos de Busquets, Iniesta y Messi</s>
+<s docid="14DE020414_825514" num="17" wdcount="38"> Estas dos últimas intervenciones han sido descomunales: la primera tirándose abajo a la izquierda tras el remate de Andrés al recoger un rechace de la defensa; la segunda, sacando de la escuadra un lanzamiento de falta de Leo</s>
+<s docid="14DE020414_825514" num="18" wdcount="8"> La eliminatoria se decidirá en el Vicente Calderón</s>
+<s docid="14DE020414_825514" num="19" wdcount="10"> BAYERN Y EL UNITED, DEJAN EL PASE PARA LA VUELTA</s>
+<s docid="14DE020414_825514" num="20" wdcount="43"> El Manchester United y el Bayern Munich empataron 1-1 en el partido de ida de los Cuartos de Final de la Champions League disputado en Old Trafford, y se jugarán el pase a las Semifinales el próximo miércoles 9 de abril en Alemania</s>
+<s docid="14DE020414_825514" num="21" wdcount="41"> Cuando todos los pronósticos colocaban al conjunto bávaro como gran favorito para ganar en Inglaterra, los Red Devils se pusieron en ventaja con el gol del central serbio Nemanja Vidic al rematar de cabeza un tiro de esquina en el 58’</s>
+<s docid="14DE020414_825514" num="22" wdcount="60"> El Bayern, actual campeón del certamen europeo y recién coronado en la Bundesliga apenas en la jornada 27, reaccionó al 66’ y logró el empate por medio de Bastian Schweinsteiger, quien remató con la izquierda, sin controlar un pase de cabeza que le hizo el croata Mario Mandzukic, quien había entrado apenas tres minutos antes en sustitución de Thomas Muller</s>
+<s docid="14DE020414_825514" num="23" wdcount="38"> Sin embargo, Schweinsteiger fue expulsado en el 90’ por una segunda tarjeta amarilla y se perderá el partido de vuelta en Munich, igual que el español Javi Martínez, quien fue amonestado y deberá cumplir un partido de suspensión</s>
+<s docid="14DE020414_825514" num="24" wdcount="23"> El delantero mexicano Javier Hernández entró de cambió al 84’ por Danny Welbeck, pero poco pudo hacer en los minutos finales del encuentro</s>
+
+
+</TEXT>
+
+</DOC>

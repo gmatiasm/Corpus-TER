@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="15OP020414_825501"num="1" wdcount="1"> 825501 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="15OP020414_825501"num="2" wdcount="1">15OP020414_825501</s>
+</FILEID>
+
+<HEAD>
+<s docid="15OP020414_825501"num="3" wdcount="6"> Línea 12 ¿Quién es el culpable? </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="15OP020414_825501"num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="15OP020414_825501"num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="15OP020414_825501" num="6" wdcount="44"> Han transcurrido más de 20 horas de comparecencias; dos ex servidores públicos; uno de la actual administración; tres representantes del consorcio constructor; toneladas de papel y carpetas; y el resultado de la Comisión Especial Investigadora de la Línea 12 del Metro está en ceros</s>
+<s docid="15OP020414_825501" num="7" wdcount="31"> Como inicio, después de escuchar a los directamente involucrados, no se cuenta con información relevante que arroje luz sobre el escandaloso caso de corrupción del Año de Hidalgo de Marcelo Ebrard</s>
+<s docid="15OP020414_825501" num="8" wdcount="64"> Sin embargo, en el ámbito federal, la Secretaría de la Función Pública y el Auditor Superior de la Federación han anunciado que como parte de la auditoría aplicada a los recursos federales que superaron los 14 mil millones de pesos destinados a esta obra, el Gobierno del DF debe regresar casi 490 millones de pesos de los que no existe contrato, ni justificación alguna</s>
+<s docid="15OP020414_825501" num="9" wdcount="59"> De ahí la importancia de la propuesta que el Grupo Parlamentario del PAN ha presentado este martes ante la Comisión Especial, a fin de que el encargado de despacho de la Secretaría de la Función Pública y el Auditor Superior de la Federación puedan sostener una reunión de trabajo con los integrantes de dicha comisión de la Asamblea Legislativa</s>
+<s docid="15OP020414_825501" num="10" wdcount="58"> Por otro lado, es fundamental que exista sensibilidad del Gobierno del DF para que estos 490 millones de pesos, producto de la corrupción, no los pongan de su bolsillo y sus impuestos los capitalinos, que en todo caso los pague —ICA Alston y Carso— el consorcio a modo del hermano incómodo de la obra del Año de Hidalgo</s>
+<s docid="15OP020414_825501" num="11" wdcount="67"> Las auditorías que practican, tanto al SFP como la ASF, han arrojado por mucho, la única luz sobre este oscuro y grotesco acto de corrupción, que puede darle a la Comisión Especial Investigadora los elementos concretos que permitan señalar con nombre y apellido a los responsables ante la Contraloría General del GDF, y esta a su vez aplique sanciones ejemplares a los partícipes de las graves irregularidades</s>
+<s docid="15OP020414_825501" num="12" wdcount="52"> Para el GPPAN no es suficiente con la devolución de estos casi 490 millones de pesos, es necesario que se finquen responsabilidades, llegar al fondo de la verdad y que en breve, se realice lo conducente para que esta Línea Dorada vuelva a brindar servicio con la seguridad que los usuarios requieren</s>
+<s docid="15OP020414_825501" num="13" wdcount="10"> * Coordinador de la bancada del PAN en la ALDF </s>
+
+</TEXT>
+
+</DOC>

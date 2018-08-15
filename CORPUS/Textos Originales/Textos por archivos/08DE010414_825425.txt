@@ -1,0 +1,68 @@
+<DOC>
+
+<DOCNO>
+<s docid="08DE010414_825425" num="1" wdcount="1"> 825425 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="08DE010414_825425" num="2" wdcount="1">08DE010414_825425</s>
+</FILEID>
+
+<HEAD>
+<s docid="08DE010414_825425" num="3" wdcount="10"> Neymar rescata el empate para el Barcelona ante el Atlético  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="08DE010414_825425" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="08DE010414_825425" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="08DE010414_825425" num="6" wdcount="47"> Dos golazos, uno de Diego Ribas y otro de Neymar, para un nuevo empate entre el Barça y el Atlético de Madrid (1-1) en su cuarto enfrentamiento de la temporada, en una eliminatoria de cuartos de final de la Liga de Campeones que adquiere ligero color rojiblanco</s>
+<s docid="08DE010414_825425" num="7" wdcount="23"> El empate con goles obligará los del ‘Tata‘ Martino a marcar en el Calderón, después de un partido con más tensión que fútbol</s>
+<s docid="08DE010414_825425" num="8" wdcount="21"> Dos acciones puntuales marcaron el partido presidido por las lesiones de Gerard Piqué y de Diego Costa en la primera mitad</s>
+<s docid="08DE010414_825425" num="9" wdcount="33"> Al Barça le faltó brillantez, solo en la recta final apareció el desequilibrio de Iniesta y Neymar, justo en los momentos en los que Courtois se erigió en el mejor de su equipo</s>
+<s docid="08DE010414_825425" num="10" wdcount="39"> Los atléticos, que tuvieron dos grandes ocasiones en el primer tiempo no aprovechadas por David Villa, encontraron lo que buscaban -un gol- de una forma inesperada y en forma de magnífico tanto anotado por Diego Ribas desde 30 metros</s>
+<s docid="08DE010414_825425" num="11" wdcount="20"> En la víspera, dijo el ‘Tata‘ Martino que esperaba un Atlético con una salida a la inglesa y así fue</s>
+<s docid="08DE010414_825425" num="12" wdcount="14"> Los de Simeone con las líneas muy adelantadas, jugaron con los nervios del Barça</s>
+<s docid="08DE010414_825425" num="13" wdcount="16"> En cinco minutos, los azulgrana no tuvieron el balón, que corría al aliento de los colchoneros</s>
+<s docid="08DE010414_825425" num="14" wdcount="26"> Jugó el Atlético con los nervios del Barça y también con los de Pinto, que regaló un balón en un mal despeje en su primera intervención</s>
+<s docid="08DE010414_825425" num="15" wdcount="10"> Una recuperación de Arda y un pase interior sobre Villa</s>
+<s docid="08DE010414_825425" num="16" wdcount="24"> El asturiano en el minuto 5 congeló el tiempo en el Camp Nou con un remate junto al palo izquierdo de la meta local</s>
+<s docid="08DE010414_825425" num="17" wdcount="14"> Dos lesiones marcaron el primer tiempo, la de Piqué y la de Diego Costa</s>
+<s docid="08DE010414_825425" num="18" wdcount="27"> El central en el minuto 12, tras un salto con Diego Costa, y la del delantero, que era duda, a la media hora por un problema muscular</s>
+<s docid="08DE010414_825425" num="19" wdcount="16"> Perdió el Barça a un referente en defensa y el Atlético a su líder en ataque</s>
+<s docid="08DE010414_825425" num="20" wdcount="10"> Salió Bartra por Piqué y Diego Ribas por Diego Costa</s>
+<s docid="08DE010414_825425" num="21" wdcount="20"> Los locales sabían a lo que se enfrentaban, necesitaban paciencia y precisión, la primera la tuvieron, la segunda les faltó</s>
+<s docid="08DE010414_825425" num="22" wdcount="11"> En el primer tiempo, las mejores ocasiones fueron para los atléticos</s>
+<s docid="08DE010414_825425" num="23" wdcount="22"> Villa, en el minuto 5 y en el 46, las más claras, mientras el Barça, jugando en espacios reducidos, apenas pudo lucir</s>
+<s docid="08DE010414_825425" num="24" wdcount="31"> El partido se disputaba en una estrecha franja en el centro del campo, pero los azulgrana, aún jugando con mucha intensidad, eran incapaces de desmontar el dispositivo defensivo de los madrileños</s>
+<s docid="08DE010414_825425" num="25" wdcount="11"> Sin opciones, el Barça vivía de algún latigazo aislado de Messi</s>
+<s docid="08DE010414_825425" num="26" wdcount="17"> Una gran acción suya habilitó a Iniesta y Godín (m.26) se interpuso entre el manchego y Courtois</s>
+<s docid="08DE010414_825425" num="27" wdcount="30"> Buscando las bandas, el buen partido de Alba no estaba acompañado por Alves; buscando los pases filtrados, el Barça tampoco estaba fino ni en la recepción ni en la ejecución</s>
+<s docid="08DE010414_825425" num="28" wdcount="36"> Pese a la posesión del balón de los locales, el Atlético fue quien más peligro creó, el que tuvo las ocasiones más claras y no se desesperó pese a ir detrás del balón durante muchos minutos</s>
+<s docid="08DE010414_825425" num="29" wdcount="40"> Con pocas ideas y sin profundidad, la única noticia buena para los catalanes antes del descanso, al margen de mantener su portería a cero, fue que tres de los puntales del Atlético: Gabi, Koke y Arda ya tenían tarjetas amarillas</s>
+<s docid="08DE010414_825425" num="30" wdcount="6"> Pero en once minutos todo cambió</s>
+<s docid="08DE010414_825425" num="31" wdcount="18"> En una jugada aislada, en una acción sin aparente peligro, Diego Ribas le dio la vuelta a todo</s>
+<s docid="08DE010414_825425" num="32" wdcount="26"> El brasileño capturó un balón y empalmó un espectacular remate desde más de 30 metros que se coló en la escuadra de la meta de Pinto</s>
+<s docid="08DE010414_825425" num="33" wdcount="14"> El Atlético tenía lo que buscaba y el Barça aún tenía que remar más</s>
+<s docid="08DE010414_825425" num="34" wdcount="8"> Con el 0-1, el Barça seguía sin reaccionar</s>
+<s docid="08DE010414_825425" num="35" wdcount="9"> Sin noticias de Messi, de Iniesta ni de Xavi</s>
+<s docid="08DE010414_825425" num="36" wdcount="23"> Martino tardó doce minutos en reaccionar y recompuso el dibujo; Alexis por Cesc; Simeone en un instante quitó a su único delantero (Villa)</s>
+<s docid="08DE010414_825425" num="37" wdcount="13"> La entrada del chileno produjo un cambio de posiciones, que acabó resultando decisivo</s>
+<s docid="08DE010414_825425" num="38" wdcount="12"> En la primera acción de Neymar por la izquierda, el brasileño marcó</s>
+<s docid="08DE010414_825425" num="39" wdcount="17"> Una exquisita asistencia de Iniesta, un perfecto desmarque de Neymar y un remate cruzado (1-1, minuto 71)</s>
+<s docid="08DE010414_825425" num="40" wdcount="5"> El empate animó al Barça</s>
+<s docid="08DE010414_825425" num="41" wdcount="20"> Iniesta comandó las operaciones, bien secundado por Neymar, y el manchego obligó a Courtois a realizar una gran intervención (m.74)</s>
+<s docid="08DE010414_825425" num="42" wdcount="27"> El Atlético, parapetado atrás y con un solo punta, ya lo fió todo a la acumulación de jugadores y a que los azulgrana no volvieran a golpear</s>
+<s docid="08DE010414_825425" num="43" wdcount="19"> Y eso que Messi, en un lanzamiento de falta, tuvo cerca el 2-1, en una acción que salvó Courtois</s>
+<s docid="08DE010414_825425" num="44" wdcount="20"> El empate le da ventaja al Atlético, el Barça está obligado a marcar en la vuelta para no quedar fuera.</s>
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,47 @@
+<DOC>
+
+<DOCNO>
+<s docid="05CU010414_825275" num="1" wdcount="1"> 825275 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="05CU010414_825275" num="2" wdcount="1">05CU010414_825275</s>
+</FILEID>
+
+<HEAD>
+<s docid="05CU010414_825275" num="3" wdcount="12"> Las series de Tv de Octavio Paz, de libre acceso en www.elem.mx </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="05CU010414_825275" num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="05CU010414_825275" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="05CU010414_825275" num="6" wdcount="77"> La serie de programas de televisión que Octavio Paz protagonizó y en los cuales ofrece sus reflexiones sobre la poesía y la novela, la plástica, Sor Juana Inés de la Cruz, Los Contemporáneos, su discurso al recibir el Premio Nobel de Literatura en 1990, o cuando Mario Vargas Llosa dijo que México era la dictadura perfecta, se pueden consultar con libre acceso a partir de ayer en el portal de la Fundación Mexicana para las Letras (FLM)</s>
+<s docid="05CU010414_825275" num="7" wdcount="37"> Son más de 200 horas de grabación donde el autor de “Piedra de sol” conversa con intelectuales y escritores de México y del mundo en torno a las artes, la política y la historia de nuestro país</s>
+<s docid="05CU010414_825275" num="8" wdcount="40"> Las series son Encuentro Mundial de la Comunicación, Encuentros Vuelta 1 y 2, Conversaciones con Octavio Paz —realizada para celebrar los 70 años de vida del poeta—, México en la obra de Octavio Paz y La Poesía de Nuestro Tiempo</s>
+<s docid="05CU010414_825275" num="9" wdcount="32"> Estos programas se encuentran en la página de internet www.elem.mx, en el sitio Enciclopedia de la Literatura en México, y están divididos con 15 subtítulos: “Noche de poesía internacional”, “La experiencia poética</s>
+<s docid="05CU010414_825275" num="10" wdcount="5"> Primera parte”, “La experiencia poética</s>
+<s docid="05CU010414_825275" num="11" wdcount="28"> Segunda parte”, “El laberinto de la soledad”, “Sor Juana Inés de la Cruz o las trampas de la fe”, “Discurso del Premio Nobel”, “La poesía en nuestro tiempo</s>
+<s docid="05CU010414_825275" num="12" wdcount="17"> Jorge Luis Borges, O”, “México y sus pasados”, “Arte contemporáneo”, “Los Contemporáneos”, “La tradición poética de México</s>
+<s docid="05CU010414_825275" num="13" wdcount="7"> Primera parte”, “La tradición poética de México</s>
+<s docid="05CU010414_825275" num="14" wdcount="22"> Segunda parte”, “Poesía francesa”, “La persona y la obra de sor Juana Inés de la Cruz” y “La poesía de lengua inglesa”</s>
+<s docid="05CU010414_825275" num="15" wdcount="55"> En el Salón Generalito, del Antiguo Colegio de San Ildefonso, el presidente del Grupo Televisa, Emilio Azcárraga Jean, Jaime Martucelli Quintana, en representación del rector de la UNAM, José Narro Robles, y Miguel Limón Rojas, presidente de la FLM, formalizaron la entrega de las series para conmemorar el centenario del natalicio del Nobel de Literatura</s>
+<s docid="05CU010414_825275" num="16" wdcount="29"> Antes de comenzar la ceremonia se guardó un minuto de silenció en honor a la hija de Octavio Paz, la escritora Helena Paz Garro, quien falleció el pasado domingo</s>
+<s docid="05CU010414_825275" num="17" wdcount="53"> En su oportunidad, Jaime Martucelli Quintana, señaló que Televisa y la Fundación para la Letras Mexicanas suman esfuerzos para hacer llegar al mayor número posible de personas los programas del poeta, ensayista, diplomático y analista de las más importantes manifestaciones de la actividad humana: la literatura, la historia, la antropología y la política</s>
+<s docid="05CU010414_825275" num="18" wdcount="34"> Y el mejor homenaje que le podemos hacer a Paz, indica, es la difusión de su obra, la cual es fundamental para comprender a México, su complejidad, sus contradicciones y arribo a la democracia</s>
+<s docid="05CU010414_825275" num="19" wdcount="35"> “Porque la lectura de su obra es de gran importancia para comprender el carácter del mexicano, de nuestra configuración social, de las tradiciones, de las formas de poder y sus relaciones con la sociedad”, agrega</s>
+<s docid="05CU010414_825275" num="20" wdcount="35"> Explica que el acervo visual muestra algunos de los momentos relevantes en la vida del autor de Libertad bajo palabra, y especialmente su visión poética del estado, de la sociedad, la libertad y la democracia</s>
+<s docid="05CU010414_825275" num="21" wdcount="58"> Por su parte, Emilio Azcárraga Jean señala que la decisión de compartir con la Fundación para las Letras Mexicanas las videograbaciones “fue enriquecer el acervo de la Enciclopedia de la Literatura en México, el cual se encuentra en formación y con esto “honrar la voluntad del poeta de difundir con la mayor amplitud posible su pensamiento y obra”</s>
+<s docid="05CU010414_825275" num="22" wdcount="26"> Al respecto, Miguel Limón dijo que estos materiales audiovisuales son fundamentales para acercar a la población a las ideas y debates en que participó Octavio Paz.</s>
+
+
+</TEXT>
+
+</DOC>

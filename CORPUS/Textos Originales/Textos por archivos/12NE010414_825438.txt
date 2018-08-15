@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="12NE010414_825438" num="1" wdcount="1"> 825438 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="12NE010414_825438" num="2" wdcount="1">12NE010414_825438</s>
+</FILEID>
+
+<HEAD>
+<s docid="12NE010414_825438" num="3" wdcount="6"> Incorpora SAT 4.1 millones de contribuyentes  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="12NE010414_825438" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="12NE010414_825438" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="12NE010414_825438" num="6" wdcount="36"> El director del Servicio de Administración Tributaria (SAT), Aristóteles Núñez Sánchez, afirmó que se incorporaron 4.1 millones de contribuyentes al Régimen de Incorporación Fiscal (RIF), tras cumplirse el plazo para su registro, este 31 de marzo</s>
+<s docid="12NE010414_825438" num="7" wdcount="43"> En su vista al estado, el titular del SAT habló con los medios de comunicación para dar a conocer que de 3.8 millones que estaban en el Régimen de Pequeños Contribuyentes (Repeco) ingresaron 3.5 millones y 600 mil se incorporaron como nuevos contribuyentes</s>
+<s docid="12NE010414_825438" num="8" wdcount="25"> Dijo que de estos 600 mil, algunos se encontraban en la informalidad y otros en el régimen intermedio, ya que encontraron atractivo este nuevo régimen</s>
+<s docid="12NE010414_825438" num="9" wdcount="44"> Al sostener una plática con cámaras empresariales, enfatizó que estos no tienen por qué invertir en equipos de cómputo ni Internet, ya que para eso está la infraestructura del SAT, pero que podrán estar seguros de que este año no tendrán que pagar impuestos</s>
+<s docid="12NE010414_825438" num="10" wdcount="22"> Refirió que los sistemas están saturados, pues durante enero 1.1 millones de contribuyentes regularizaron su situación fiscal, derivado de la reforma hacendaria</s>
+<s docid="12NE010414_825438" num="11" wdcount="25"> “Afortunadamente estuvieron saturados tanto los sistemas como las oficinas, con una gran cantidad de contribuyentes haciendo presencia física para poder regularizar su situación fiscal”, indicó</s>
+<s docid="12NE010414_825438" num="12" wdcount="39"> Asimismo, refirió que en el caso de los campesinos y ejidatarios, según cifras el Inegi, son seis millones de productores los que se encuentran allí y estos no tienen que incorporarse al RIF, sino al Régimen del Sector Primario</s>
+<s docid="12NE010414_825438" num="13" wdcount="35"> Manifestó que si los productores tienen ingresos inferiores a 987 mil pesos en un año no pagan impuestos y tienen un régimen especial, ya que el RIF es para quienes venden mercancías y prestan servicios</s>
+
+
+</TEXT>
+
+</DOC>

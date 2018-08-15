@@ -1,0 +1,41 @@
+<DOC>
+
+<DOCNO>
+<s docid="12CU020414_825533" num="1" wdcount="1"> 825533 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="12CU020414_825533" num="2" wdcount="1">12CU020414_825533</s>
+</FILEID>
+
+<HEAD>
+<s docid="12CU020414_825533" num="3" wdcount="8"> La Anáhuac celebra con exposición de grandes maestros </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="12CU020414_825533" num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="12CU020414_825533" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="12CU020414_825533" num="6" wdcount="48"> La exposición 50 años, 50 artistas: encuentros y paralelismos celebra el medio siglo de la Universidad Anáhuac, con 50 obras, entre pinturas y esculturas, que reúne a artistas mexicanos y europeos de finales del siglo XIX y principios del XX, como Picasso, Dalí, Siqueiros, Miró, Izquierdo o Dr</s>
+<s docid="12CU020414_825533" num="7" wdcount="13"> Atl, provenientes de las colecciones de Andrés Blaisten y María Teresa Rodríguez Almazán</s>
+<s docid="12CU020414_825533" num="8" wdcount="64"> Sobre la selección, abierta al público hasta el 10 de abril en la Sala de exposiciones de la universidad, Sara Aroeste, curadora de la muestra, indicó que se establece un diálogo entre artistas mexicanos y europeos, sus técnicas y visiones, con obras como Paisaje inglés, obra temprana de Edgar Degas; Frutero, de Tamara Lempicka o el Retrato de Nora Beteta, de David Alfaro Siqueiros</s>
+<s docid="12CU020414_825533" num="9" wdcount="55"> Las obras se acomodan dentro de ocho ejes temáticos: el primero es la “Infancia”, donde La ronda, de José Clemente Orozco convive con Ronda, de George Braque, y el espectador puede notar no sólo diferentes técnicas, sino concepciones físicas de los personajes y sus costumbres, aquí también se encuentran El coco, de Emilio Baz Viaud</s>
+<s docid="12CU020414_825533" num="10" wdcount="25"> Con el “Circo”, el visitante se encuentra al Arlequín de Pablo Picasso, obra que muestra la parte melancólica de este personaje, fuera de la risa</s>
+<s docid="12CU020414_825533" num="11" wdcount="11"> A esta pintura la acompaña María Izquierdo con Escena de circo</s>
+<s docid="12CU020414_825533" num="12" wdcount="28"> “Paisaje” muestra cómo los artistas de ambas latitudes comparten una visión estética de su entorno, y la llevan a la pintura mediante las montañas, las nubes o lagos</s>
+<s docid="12CU020414_825533" num="13" wdcount="6"> Es aquí donde se encuentran Dr</s>
+<s docid="12CU020414_825533" num="14" wdcount="14"> Atl (Gerardo Murillo) y su Paisaje con el Iztaccíhuatl y André Derain con Paisaje</s>
+<s docid="12CU020414_825533" num="15" wdcount="55"> Con “Pueblo y ciudad” se refleja, a partir de pinturas de Katy Horna, Angelina Beloff o Diego Rivera, parte de los lugares en donde éstos artistas crecieron o vivieron, así como la sociedad que los rodeó, a través de las obras Escaleras a la catedral, España, Avenida Hidalgo y El puente de San Martín, respectivamente</s>
+<s docid="12CU020414_825533" num="16" wdcount="28"> Los otros temas que se revisan son “Retrato”, “Naturaleza muerta”, “Labor” y “Geometría y abstracción”, con autores como Luis Ortiz Monasterio, Paul Klee y Joan Miró, por ejemplo</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,48 @@
+<DOC>
+
+<DOCNO>
+<s docid="09CI010414_825255" num="1" wdcount="1"> 825255 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="09CI010414_825255" num="2" wdcount="1">09CI010414_825255</s>
+</FILEID>
+
+<HEAD>
+<s docid="09CI010414_825255" num="3" wdcount="15"> La SFP pide reembolso de 489 mdp por L-12; faltan más recursos por auditar: Contraloría </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="09CI010414_825255" num="4" wdcount="1"> Ciudad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="09CI010414_825255" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="09CI010414_825255" num="6" wdcount="80"> La Secretaría de la Función Pública (SFP) demandó al Gobierno del Distrito Federal (GDF) que regrese los 489 millones 422 mil 377 pesos que no fueron justificados —durante la administración de Marcelo Ebrard Casaubon— para la construcción de la Línea Dorada, la 12 del Metro (STC), debido a que se detectó que dichos recursos no estuvieron justificados ni formalizados mediante contratos, señaló en conferencia de prensa el encargado del despacho de la Secretaría de la Función Pública, Julián Oliva Ugalde</s>
+<s docid="09CI010414_825255" num="7" wdcount="42"> El funcionario adelantó que en los próximos días sostendrán diversas reuniones para revisar a fondo dónde quedó ese dinero y se reintegre a la federación, ya que se trata, enfatizó, “de recursos que el gobierno federal transfirió a la capital del país</s>
+<s docid="09CI010414_825255" num="8" wdcount="78"> Comentó que ya se cumplieron los tiempos para poder comprobar el dinero, por lo que ahora están obligados a regresarlo a la Tesorería de la Federación Aclaró que los recursos no comprobados por la administración de Ebrard Casaubon fueron otorgados por el gobierno de la república del ex presidente Felipe Calderón, en el marco del Fideicomiso para la Infraestructura en los Estados (FIES), y de transferencias de la Secretaría de Comunicaciones y Transportes (SCT) hacia el Fondo Metropolitano</s>
+<s docid="09CI010414_825255" num="9" wdcount="34"> En total, la Federación transfirió 14 mil 361 millones de pesos para la Línea 12 del Metro, que han sido auditados, de los cuales no se pudieron justificar 489 millones 422 mil 377 pesos</s>
+<s docid="09CI010414_825255" num="10" wdcount="31"> Oliva Ugalde, subsecretario de Responsabilidad Administrativa y Constatación Pública del SFP, adelantó que se revisarán otros 3 mil 471 millones de pesos a fin de determinar si estuvieron justificados mediante contratos</s>
+<s docid="09CI010414_825255" num="11" wdcount="22"> Dichas auditorías a los fondos ejercidos para la Línea 12 del Metro se realizaron en coordinación con la Contraloría del Distrito Federal</s>
+<s docid="09CI010414_825255" num="12" wdcount="23"> El funcionario reconoció que pusieron especial atención en este caso luego de la suspensión de la Línea 12 del Metro por supuestas fallas</s>
+<s docid="09CI010414_825255" num="13" wdcount="56"> Fue así como se detectó que las autoridades del anterior gobierno capitalino “no pudieron justificar el pago que realizó con recursos del Fondo Metropolitano de diversos convenios de reconocimiento de adeudos de obras inducidas por la cantidad de 489 millones 422 mil 377 pesos que no fueron formalizados mediante contrato conforme a las disposiciones jurídicas aplicables”</s>
+<s docid="09CI010414_825255" num="14" wdcount="50"> El responsable del despacho de la SFP estuvo acompañado por Francisco Ordaz Hernández, titular de la Unidad de Operación Regional y Contraloría Social de la SFP; Raúl Sánchez Kobashi, subsecretario de control y auditoría de la Gestión Pública de la SFP, y Pascual Cervantes Ojeda, director general de Comunicación Social</s>
+<s docid="09CI010414_825255" num="15" wdcount="53"> Aún faltan por comprobar tres mil millones de pesos que la Federación entregó al gobierno de Marcelo Ebrard para la construcción de la Línea 12 del Metro, afirmó el contralor interno del GDF, Hiram Almeida, luego de que la Secretaría de la Función Pública diera a conocer las irregularidades detectadas en las auditorías</s>
+<s docid="09CI010414_825255" num="16" wdcount="48"> Comentó que de los 7 mil 438 millones de pesos que auditó la Contraloría General del GDF y la Auditoría Superior de la Federación, la administración de Marcelo Ebrard sólo ha logrado acreditar 4 mil 094 millones de pesos, por lo que quedan 3 mil millones por solventar</s>
+<s docid="09CI010414_825255" num="17" wdcount="29"> Explicó que lo encontrado hasta el momento corresponde a los ejercicios fiscales que van del 2008 al 2011, por lo que quedan aún pendientes tres años más por auditar</s>
+<s docid="09CI010414_825255" num="18" wdcount="34"> Por ello, no descartó la posibilidad de encontrar más gasto no justificado en la polémica Línea 12 del Metro, ya que aún falta revisar el ejercicio de recursos en 2012 y parte de 2013</s>
+<s docid="09CI010414_825255" num="19" wdcount="47"> “Es viable toda vez que en el ejercicio 2012 no hemos tenido referencia hasta ahorita de observaciones, además de que todavía está pendiente la conclusión de los trabajos de 2013, o sea que es susceptible que haya algún tema adicional que pueda surgir”, indicó en entrevista telefónica</s>
+<s docid="09CI010414_825255" num="20" wdcount="30"> Al cuestionarle si la Contraloría investiga al ex director del proyecto Metro, Enrique Horcasitas Manjarrez, el funcionario respondió que hay diversos servidores públicos inmiscuidos en el gasto de los recursos</s>
+<s docid="09CI010414_825255" num="21" wdcount="28"> —Horcasitas es uno de ellos—, se le insistió, a lo que agregó: “Sí, con otros servidores públicos que están sujetos a la instauración de procedimientos administrativos de responsabilidad”</s>
+<s docid="09CI010414_825255" num="22" wdcount="45"> En ese sentido, Almeida Estrada aseveró que Horcasitas Manjarrez compareció en dos ocasiones, una de ellas por escrito, ante la Contraloría Interna derivado de la investigación que se realiza tras la queja que presentó el director del Sistema de Transporte Colectivo Metro, Joel Ortega Cuevas</s>
+<s docid="09CI010414_825255" num="23" wdcount="4"> ( Manuel Espino Bucio)</s>
+
+
+</TEXT>
+
+</DOC>

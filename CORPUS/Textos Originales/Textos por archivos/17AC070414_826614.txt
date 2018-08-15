@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="17AC070414_826614" num="1" wdcount="1"> 826614 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="17AC070414_826614" num="2" wdcount="1">17AC070414_826614</s>
+</FILEID>
+
+<HEAD>
+<s docid="17AC070414_826614" num="3" wdcount="15"> La imagen de las Islas Canarias es de nuevo foto del año de la NASA </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="17AC070414_826614" num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="17AC070414_826614" num="5" wdcount="1"> 2014-04-07 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="17AC070414_826614" num="6" wdcount="28"> Los seguidores en internet NASA eligieron, por segundo año consecutivo, una imagen de la Islas Canarias (España) como foto del año entre las miles captadas por varios satélites</s>
+<s docid="17AC070414_826614" num="7" wdcount="33"> El Observatorio de la Tierra de la agencia espacial estadounidense hizo público hoy el resultado final del segundo torneo que organiza para que internautas de todo el planeta escojan su imagen del año</s>
+<s docid="17AC070414_826614" num="8" wdcount="39"> En la fotografía ganadora, captada por el satélite Terra el 13 de junio de 2013, las siete islas del archipiélago canario, en el Atlántico, parecen navegar sobre el agua, dejando tras de sí una estela en el océano Atlántico</s>
+<s docid="17AC070414_826614" num="9" wdcount="33"> En realidad, la foto muestra cómo los vientos predominantes en el archipiélago, los alisios, azotan el norte de las islas, las rodean y dejan al sur una zona de calma sin apenas oleaje</s>
+<s docid="17AC070414_826614" num="10" wdcount="37"> El certamen comenzó con 32 imágenes preseleccionadas por la NASA, de las que llegaron a la final la fotografía de las Islas Canarias y la de la erupción del volcán Kliuchevskoi, en la península de Kamchatka (Rusia)</s>
+<s docid="17AC070414_826614" num="11" wdcount="45"> Entre las otras candidatas estaban una imagen de la rotura del mar de hielo en Alaska captada por el satélite Suomi NPP, o un mapa que refleja la contaminación ocasionada en los océanos por el tráfico marítimo a partir de las mediciones del satélite Aura</s>
+<s docid="17AC070414_826614" num="12" wdcount="41"> El año pasado, los seguidores de la NASA también eligieron una foto de las Islas Canarias, tomada por el satélite EO-1, de la gigantesca mancha verdosa que provocó en el océano Atlántico la erupción submarina en la isla de El Hierro</s>
+<s docid="17AC070414_826614" num="13" wdcount="61"> La imagen de este año fue tomada por Terra, un satélite de EEUU, Canadá y Japón lanzado en 1999 por la NASA para vigilar desde el espacio los cambios que se están produciendo en el planeta, con cinco instrumentos a bordo que proporcionan imágenes y datos de la atmósfera, el océano, el suelo, la nieve y el hielo y la energía</s>
+
+
+</TEXT>
+
+</DOC>

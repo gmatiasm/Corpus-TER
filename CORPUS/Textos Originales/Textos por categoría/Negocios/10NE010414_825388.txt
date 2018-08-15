@@ -1,0 +1,35 @@
+<DOC>
+
+<DOCNO>
+<s docid="10NE010414_825388" num="1" wdcount="1"> 825388 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="10NE010414_825388" num="2" wdcount="1">10NE010414_825388</s>
+</FILEID>
+
+<HEAD>
+<s docid="10NE010414_825388" num="3" wdcount="6"> Aumentan 5.65% anual remesas familiares: Banxico </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="10NE010414_825388" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="10NE010414_825388" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="10NE010414_825388" num="6" wdcount="39"> En febrero pasado, los recursos que ingresaron al país por concepto de remesas familiares sumaron mil 677.26 millones de dólares, un aumento de 5.65 por ciento respecto a igual mes del año pasado, informó el Banco de México (Banxico)</s>
+<s docid="10NE010414_825388" num="7" wdcount="44"> De esta forma, a febrero de este año, el envío de recursos al país de mexicanos residentes en otra nación, en especial en Estados Unidos, sumaron tres mil 267.49 millones de dólares, una variación de 7.15 por ciento comparado con igual bimestre de 2013</s>
+<s docid="10NE010414_825388" num="8" wdcount="39"> De acuerdo con datos del organismo, en el segundo mes del año el monto de remesas promedio se ubicó en 295.07 dólares, mientras que en enero pasado fue de 288.41 dólares, es decir un aumento de 2.30 por ciento</s>
+<s docid="10NE010414_825388" num="9" wdcount="48"> Respecto al número de operaciones, el Banxico señala que en el segundo mes del año éstas ascendieron a cinco mil 684.28 millones de dólares, con un aumento de 4.86 por ciento respecto al mismo mes del año pasado, y de 3.09 por ciento comparado con enero de 2014</s>
+<s docid="10NE010414_825388" num="10" wdcount="42"> Las transferencias electrónicas por el envío de remesas, en el segundo mes del año, fue mil 631.13 millones de dólares, cifra 5.01 por ciento mayor frente a lo reportado en similar periodo de 2013, cuando fue de mil 553.29 millones de dólares</s>
+
+
+</TEXT>
+
+</DOC>

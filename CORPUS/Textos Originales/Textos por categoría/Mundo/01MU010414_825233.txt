@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="01MU010414_825233" num="1" wdcount="1"> 825233 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="01MU010414_825233" num="2" wdcount="1">01MU010414_825233</s>
+</FILEID>
+
+<HEAD>
+<s docid="01MU010414_825233" num="3" wdcount="12"> El gobierno de Maduro libera de terroristas el epicentro de la revuelta </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="01MU010414_825233" num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="01MU010414_825233" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="01MU010414_825233" num="6" wdcount="46"> El gobierno venezolano afirmó ayer haber acabado con el toque de queda “impuesto por el terrorismo” en la ciudad de San Cristóbal, capital del estado fronterizo de Táchira y epicentro de las protestas contra el Ejecutivo encabezado por Nicolás Maduro desde hace más de un mes</s>
+<s docid="01MU010414_825233" num="7" wdcount="41"> “Acabamos toque de queda impuesto por el terrorismo en las avenidas Carabobo, Ferrero Tamayo y España de SC sin víctimas!”, informó a través de su cuenta en Twitter el jefe del Comando Estratégico Operacional de las Fuerzas Armadas, general Vladimir Padrino</s>
+<s docid="01MU010414_825233" num="8" wdcount="40"> En tanto, el director de la Policía Nacional Bolivariana (PNB), comisario Manuel Pérez, dijo a la televisora estatal VTV que en el operativo participaron alrededor de 250 agentes y fueron detenidas 11 personas por “ataques” contra las fuerzas de seguridad</s>
+<s docid="01MU010414_825233" num="9" wdcount="23"> Además, informó que el operativo se mantendrá “durante varias semanas “para evitar alteración al orden público y que vuelvan a montar las barricadas”</s>
+<s docid="01MU010414_825233" num="10" wdcount="31"> El alcalde del área metropolitana de Caracas, el opositor Antonio Ledezma, también se expresó a través de Twitter, desde donde acusó al Gobierno de “militarizar” el estado Táchira, fronterizo con Colombia</s>
+<s docid="01MU010414_825233" num="11" wdcount="44"> Venezuela vive desde hace semanas sumida en protestas antigubernamentales que en ocasiones se han tornado violentas y que dejan a día de hoy un saldo de 39 muertos, más de medio millar de heridos, 168 detenidos y 2,153 procesados, según datos de la Fiscalía</s>
+<s docid="01MU010414_825233" num="12" wdcount="2"> Vaticano, mediador</s>
+<s docid="01MU010414_825233" num="13" wdcount="45"> En la búsqueda de una solución al conflicto, tanto Gobierno como parte de la oposición acercan posturas para sentarse en una mesa con un mediador internacional, un papel que podría ejercer el Vaticano y que ha sido recibido con buenos ojos por las dos partes.</s>
+
+</TEXT>
+
+</DOC>

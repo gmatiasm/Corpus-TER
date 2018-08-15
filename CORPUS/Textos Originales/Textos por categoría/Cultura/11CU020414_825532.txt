@@ -1,0 +1,46 @@
+<DOC>
+
+<DOCNO>
+<s docid="11CU020414_825532"num="1" wdcount="1"> 825532 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="11CU020414_825532"num="2" wdcount="1">11CU020414_825532</s>
+</FILEID>
+
+<HEAD>
+<s docid="11CU020414_825532"num="3" wdcount="11"> Homenajearán a Luisa Josefina Hernández con el montaje de sus obras </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="11CU020414_825532"num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="11CU020414_825532"num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="11CU020414_825532" num="6" wdcount="18"> Con el estreno de Los grandes muertos, la escritora y dramaturga mexicana Luisa Josefina Hernández (1928) será homenajeada</s>
+<s docid="11CU020414_825532" num="7" wdcount="39"> Se trata de una saga de 11 obras de su autoría, de las cuales seis serán montadas por la Compañía Nacional de Teatro (CNT) en el Teatro Juan Ruiz de Alarcón, desde hoy y hasta el 13 de abril</s>
+<s docid="11CU020414_825532" num="8" wdcount="42"> “El galán de ultramar” inicia la saga de obras: propuestas que abordan temas como la dominación de los caciques, la civilización paternalista y el destino de las mujeres que a veces logran liberarse y en ocasiones son víctimas absolutas de esta civilización</s>
+<s docid="11CU020414_825532" num="9" wdcount="51"> La CNT, a través de la dirección del actor José Caballero, estrenará hoy por la noche el primer montaje en la Sala Juan Ruiz de Alarcón, del Centro Cultural Universitario (CCU) de la UNAM, instancia que coproduce, junto con el gobierno de Campeche y de la propia compañía adscrita al INBA</s>
+<s docid="11CU020414_825532" num="10" wdcount="1"> FUNCIONES</s>
+<s docid="11CU020414_825532" num="11" wdcount="35"> Las funciones de la temporada en el CCU son: miércoles, “El galán de ultramar”, 18:00 horas y “La amante”, 19:30 horas; jueves, “Fermento y sueño”, 18:00 horas y “Tres perros y un gato”, 19:30 horas</s>
+<s docid="11CU020414_825532" num="12" wdcount="10"> Viernes, “La sota”, 18:00 horas y “Los médicos”, 19:30 horas</s>
+<s docid="11CU020414_825532" num="13" wdcount="15"> Sábados, “El galán de ultramar”, 12:00 horas, “La amante” y “Fermento y sueño”, 18:00 horas</s>
+<s docid="11CU020414_825532" num="14" wdcount="16"> Domingos, “Tres perros y un gato”, 12:00 horas y “La sota” y “Los médicos”, 18:00 horas</s>
+<s docid="11CU020414_825532" num="15" wdcount="34"> Tras su estancia en la UNAM, las obras podrán verse en la Sala Héctor Mendoza, del 23 de abril al 4 de mayo: miércoles, “El galán de ultramar”, 18:00 horas, seguido por “La amante”</s>
+<s docid="11CU020414_825532" num="16" wdcount="13"> Jueves, “Fermento y sueño”, 18:00 horas, seguido por “Tres perros y un gato”</s>
+<s docid="11CU020414_825532" num="17" wdcount="9"> Viernes: “La sota”, 18:00 horas, seguido por “Los médicos”</s>
+<s docid="11CU020414_825532" num="18" wdcount="15"> Sábados: “El galán de ultramar”, 12:00 horas, seguido por “La amante” y “Fermento y sueño”</s>
+<s docid="11CU020414_825532" num="19" wdcount="15"> Domingos: “Tres perros y un gato”, 12:00 horas; seguido por “La sota” y “Los médicos”</s>
+<s docid="11CU020414_825532" num="20" wdcount="2"> Entrada libre</s>
+<s docid="11CU020414_825532" num="21" wdcount="2"> Cupo limitado</s>
+
+
+</TEXT>
+
+</DOC>

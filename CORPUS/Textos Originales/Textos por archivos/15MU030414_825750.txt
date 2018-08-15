@@ -1,0 +1,43 @@
+<DOC>
+
+<DOCNO>
+<s docid="15MU030414_825750"  num="1" wdcount="1"> 825750 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="15MU030414_825750"  num="2" wdcount="1">15MU030414_825750</s>
+</FILEID>
+
+<HEAD>
+<s docid="15MU030414_825750"  num="3" wdcount="15"> Tres muertos y 16 heridos, dos muy graves, en tiroteo en base militar de Texas </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="15MU030414_825750"  num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="15MU030414_825750"  num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="15MU030414_825750" num="6" wdcount="51"> Al menos cuatro personas murieron, entre ellas el presunto atacante, y otras 16 resultaron heridas, algunas de extrema gravedad, en un tiroteo en la base militar de Fort Hood (Texas), una de las mayores de EU y que en 2009 vivió otro trágico episodio que dejó 13 muertos y 30 heridos</s>
+<s docid="15MU030414_825750" num="7" wdcount="44"> Así lo explicó en rueda de prensa el presidente del Comité de Seguridad Nacional de la Cámara de Representantes, el republicano Michael McCaul, quien precisó que el presunto atacante vestía uniforme militar de la nación, aunque no se sabe todavía si estaba en activo</s>
+<s docid="15MU030414_825750" num="8" wdcount="2"> Iván López</s>
+<s docid="15MU030414_825750" num="9" wdcount="42"> Por el momento no se han confirmado más detalles sobre el suceso, aunque la cadena NBC, citando fuentes anónimas, asegura que el atacante fue identificado como Iván López, de 34 años, quien habría comenzado a disparar a sus compañeros tras una reyerta</s>
+<s docid="15MU030414_825750" num="10" wdcount="31"> Los médicos del hospital Scott & White, en Temple (Texas), explicaron que han tratado a cuatro heridos y que otras dos personas, “con heridas muy, muy severas”, estaban camino del centro</s>
+<s docid="15MU030414_825750" num="11" wdcount="40"> La primera llamada de alerta fue a las 16.30 horas locales y a las 17 horas las autoridades de la base difundieron un mensaje de alerta por Twitter para que todo el personal tomará refugio y sus operarios se movilizaran</s>
+<s docid="15MU030414_825750" num="12" wdcount="3"> La peor matanza</s>
+<s docid="15MU030414_825750" num="13" wdcount="27"> El recuerdo de la tragedia de 2009, la peor de la historia de EU cometida dentro de un cuartel militar, marcó la reacción del presidente Barack Obama</s>
+<s docid="15MU030414_825750" num="14" wdcount="4"> “Cualquier tiroteo es preocupante</s>
+<s docid="15MU030414_825750" num="15" wdcount="16"> Obviamente este ha reabierto el miedo por lo que ocurrió en Fort Hood hace cinco años</s>
+<s docid="15MU030414_825750" num="16" wdcount="11"> Estamos devastados de que algo así quizás haya ocurrido de nuevo</s>
+<s docid="15MU030414_825750" num="17" wdcount="25"> No quiero comentar los hechos hasta que no sepamos exactamente qué ocurrió”, dijo el presidente Barack Obama, desde Chicago, donde participa ayer en varios actos</s>
+<s docid="15MU030414_825750" num="18" wdcount="25"> Añadió que “no sabemos todavía qué es lo que ha pasado, pero obviamente la sensación de seguridad se ha vuelto a romper una vez más</s>
+<s docid="15MU030414_825750" num="19" wdcount="5"> Necesitamos saber exactamente qué ocurrió”.</s>
+
+</TEXT>
+
+</DOC>

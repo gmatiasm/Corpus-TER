@@ -1,0 +1,35 @@
+<DOC>
+
+<DOCNO>
+<s docid="10NA010414_825329" num="1" wdcount="1"> 825329 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="10NA010414_825329" num="2" wdcount="1">10NA010414_825329</s>
+</FILEID>
+
+<HEAD>
+<s docid="10NA010414_825329" num="3" wdcount="13"> Es desde la base como se construye el nuevo PRI: Raúl Domínguez Rex </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="10NA010414_825329" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="10NA010414_825329" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="10NA010414_825329" num="6" wdcount="55"> Es momento de que los priístas salgamos a trabajar a la calle, pues es desde la base como se construye el nuevo PRI, aseguró Raúl Domínguez Rex, dirigente del Partido Revolucionario Institucional al presidir la entrega de preseas al Mérito Militante 2012 y Distintivos Seccionales a destacados militantes de los municipios de Teotihuacán y Acolman</s>
+<s docid="10NA010414_825329" num="7" wdcount="34"> “No es tiempo de construir proyectos personales, aquellos que ofrezcan espacios para su proyección individual están equivocados, queremos candidaturas que se edifiquen desde la base, tocando puertas, porque así hemos construido al PRI”, añadió</s>
+<s docid="10NA010414_825329" num="8" wdcount="47"> Durante la reunión con la militancia, Domínguez Rex convocó al priísmo de la región de las Pirámides a construir liderazgos permanentes al interior del partido, que estén basados en el trabajo cercano con la sociedad, “no queremos gente que venga nada más en el proceso electoral”, apuntó</s>
+<s docid="10NA010414_825329" num="9" wdcount="46"> Acompañado de integrantes de la estructura del PRI mexiquense, el dirigente estatal del tricolor tomó protesta a los integrantes de los Comités Municipales de estas demarcaciones, y resaltó el valioso desempeño partidario que vienen realizando los priístas de esta región, pero de manera especial, las mujeres</s>
+<s docid="10NA010414_825329" num="10" wdcount="40"> Venimos a reconocerles ese talento que se hace allí en la calle, porque ustedes son mujeres comprometidas, adelantadas a su época, mujeres que a través de la gestión buscan las soluciones a los problemas de su colonia o comunidad, acotó</s>
+
+
+</TEXT>
+
+</DOC>

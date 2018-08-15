@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="01CI010414_825244" num="1" wdcount="1"> 825244 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="01CI010414_825244" num="2" wdcount="1">01CI010414_825244</s>
+</FILEID>
+
+<HEAD>
+<s docid="01CI010414_825244" num="3" wdcount="11"> Atrapan a cuarto implicado en asalto a joyería de Santa Fe </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="01CI010414_825244" num="4" wdcount="1"> Ciudad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="01CI010414_825244" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="01CI010414_825244" num="6" wdcount="50"> La Procuraduría capitalina informó ayer de la captura del cuarto implicado en el asalto a la joyería La Pequeña Suiza, ubicada en el Centro Comercial de Santa Fe, ocurrido el pasado 21 de marzo, el cual fue ubicado en un estacionamiento de una unidad habitacional de la Gustavo A.Madero</s>
+<s docid="01CI010414_825244" num="7" wdcount="52"> El titular de la institución, Rodolfo Ríos Garza, precisó que el detenido fue identificado como Jesús González Pérez, de 27 años, al comprobarse que su labor en el asalto fue el de vigilar que no llegara la policía, mientras sus otros tres cómplices —ya detenidos y procesados—, sustraían principalmente relojes del establecimiento</s>
+<s docid="01CI010414_825244" num="8" wdcount="35"> Además el sospechoso fue acusado por un taxista de haberle robado 800 pesos, luego de que subió a la unidad en la plaza comercial La Rosita, donde la banda de asaltantes abandonó la camioneta Volvo</s>
+<s docid="01CI010414_825244" num="9" wdcount="20"> Ríos Garza especificó que Jesús González fue detenido en el estacionamiento de la Unidad Habitacional El Milagro, delegación Gustavo A</s>
+<s docid="01CI010414_825244" num="10" wdcount="13"> Madero, por lo que quedó a disposición de la Fiscalía Central de Investigación</s>
+<s docid="01CI010414_825244" num="11" wdcount="53"> “Sobre su intervención en el robo a la joyería, de la que se sustrajeron 39 relojes de prestigiadas marcas y de los cuales 12 han sido recuperados, este sujeto aceptó haber participado en estos hechos coludido con otros sujetos, a invitación de un individuo apodado El Sapo —quien sigue prófugo—“, señaló el procurador</s>
+<s docid="01CI010414_825244" num="12" wdcount="49"> Agregó que el día de los hechos, “ambos sujetos se dirigieron a la estación del Metro Cuauhtémoc, donde se encontraron con El Chaparro —también prófugo— y sus cómplices, para después abordar una camioneta Volvo, la cual contaba con reporte de robo en el Estado de México”, comentó Ríos Garza</s>
+<s docid="01CI010414_825244" num="13" wdcount="53"> En sus declaraciones ante el Ministerio Público, el detenido dijo que al notar la llegada de policías se ocultó en la camioneta y escuchó varios disparos, al tiempo que uno de sus cómplices abordó la unidad y arrojó una bolsa de tela al interior, al tiempo que la pusieron en macha y huyeron</s>
+<s docid="01CI010414_825244" num="14" wdcount="56"> Ante estos hechos, dijo Ríos Garza, la PGJDF determinó ejercer acción penal en contra de Jesús González Pérez, por su probable participación en el delito de robo agravado calificado en pandilla, por lo que hace a la joyería, y por robo agravado calificado en perjuicio del taxista, delitos por lo que ingresó al Reclusorio Preventivo Norte.</s>
+
+</TEXT>
+
+</DOC>

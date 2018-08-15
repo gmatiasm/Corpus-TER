@@ -1,0 +1,34 @@
+<DOC>
+
+<DOCNO>
+<s docid="07MU010414_825391" num="1" wdcount="1"> 825391 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="07MU010414_825391" num="2" wdcount="1">07MU010414_825391</s>
+</FILEID>
+
+<HEAD>
+<s docid="07MU010414_825391" num="3" wdcount="9"> Reforzará OTAN su defensa colectiva en respuesta a Rusia </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="07MU010414_825391" num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="07MU010414_825391" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="07MU010414_825391" num="6" wdcount="36"> La Organización del Tratado del Atlántico Norte (OTAN) decidió hoy reforzar su defensa colectiva y podría desplegar tropas en sus países miembros del Este de Europa en respuesta a la movilización militar de Rusia en Crimea</s>
+<s docid="07MU010414_825391" num="7" wdcount="54"> “La Alianza desarrollará como un asunto urgente una serie de medidas adicionales para reforzar la defensa colectiva de la OTAN (que) podrían incluir despliegues o refuerzos de los activos militares de los aliados en los países miembros del Este”, informaron los ministros de Asuntos Exteriores de la Alianza luego de una reunión en Bruselas</s>
+<s docid="07MU010414_825391" num="8" wdcount="40"> Los cancilleres también ratificaron la decisión del pasado 3 de marzo de suspender “cualquier cooperación práctica civil o militar” con Rusia, a la vez que instaron al país a “dar pasos inmediatos para volver a cumplir con la legislación internacional”</s>
+<s docid="07MU010414_825391" num="9" wdcount="32"> En paralelo, acordaron con su homólogo ucraniano, Andrei Deshchytsia, “intensificar la cooperación” entre la OTAN y la ex república soviética para “promover reformas de defensa mediante entrenamiento y otro tipo de programas”</s>
+
+
+</TEXT>
+
+</DOC>

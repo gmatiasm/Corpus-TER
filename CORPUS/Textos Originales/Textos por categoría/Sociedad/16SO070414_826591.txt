@@ -1,0 +1,41 @@
+<DOC>
+
+<DOCNO>
+<s docid="16SO070414_826591" num="1" wdcount="1"> 826591 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="16SO070414_826591" num="2" wdcount="1">16SO070414_826591</s>
+</FILEID>
+
+<HEAD>
+<s docid="16SO070414_826591" num="3" wdcount="8"> Decide el Papa Francisco salvar al Banco Vaticano </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="16SO070414_826591" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="16SO070414_826591" num="5" wdcount="1"> 2014-04-07 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="16SO070414_826591" num="6" wdcount="33"> El Papa Francisco decidió salvar al Instituto para las Obras de Religión (IOR), conocido como “Banco Vaticano”, al mantenerlo dentro de las instancias del Vaticano pero con una reforma que asegure su transparencia</s>
+<s docid="16SO070414_826591" num="7" wdcount="49"> La sala de prensa de la Santa Sede informó este lunes que por voluntad del pontífice el IOR se adaptará a las normas de transparencia internacionales, y su única misión será la de "servir con prudencia y proporcionar servicios financieros especializados a la Iglesia Católica en todo el mundo"</s>
+<s docid="16SO070414_826591" num="8" wdcount="34"> Agregó que los servicios que pueden ser ofrecidos por el Instituto asisten al santo padre en su misión de pastor universal y soportan además instituciones e individuos que colaboran con él en su ministerio</s>
+<s docid="16SO070414_826591" num="9" wdcount="37"> Hace menos de un año el Papa instituyó una comisión especial “referente” encargada de analizar el estatus jurídico y la naturaleza del instituto, en el marco de una amplia reforma emprendida por él a las estructuras vaticanas</s>
+<s docid="16SO070414_826591" num="10" wdcount="35"> Existen diversas opiniones, incluso dentro de la Iglesia, sobre el IOR, que en el pasado se ha visto envuelto en casos de corrupción y de reciclaje de capitales, que han generado escándalo a nivel internacional</s>
+<s docid="16SO070414_826591" num="11" wdcount="27"> El mismo Papa aceptó que algunas personas le han recomendado cerrar ese organismo, convertirlo en una fundación y unos más le propusieron transformarlo en una banca ética</s>
+<s docid="16SO070414_826591" num="12" wdcount="36"> Finalmente decidió mantenerlo con el estatuto actual de instituto financiero y “reafirmó la importancia de su misión para el bien de la Iglesia católica, de la Santa Sede y del Estado de la Ciudad del Vaticano”</s>
+<s docid="16SO070414_826591" num="13" wdcount="39"> Existe “una propuesta de futuro” para el IOR, definida sobre la base de informaciones de su estatus legal, sobre su operación así como informaciones recogidas y presentadas al Papa y a su consejo de cardenales en febrero de 2014</s>
+<s docid="16SO070414_826591" num="14" wdcount="13"> Empero no se precisó en qué consiste esa propuesta, ni qué características tendrá</s>
+<s docid="16SO070414_826591" num="15" wdcount="26"> Sólo se aclaró que los actuales directivos llevarán a término un plan ya existente de reforma del IOR para adecuarlo a los estándares internacionales de transparencia</s>
+<s docid="16SO070414_826591" num="16" wdcount="28"> El instituto continuará bajo la supervisión de la Autoridad de Información Financiera, la secretaría del Vaticano responsable de combatir el lavado de dinero y el financiamiento al terrorismo</s>
+
+
+</TEXT>
+
+</DOC>

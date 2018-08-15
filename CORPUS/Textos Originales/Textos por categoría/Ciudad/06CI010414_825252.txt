@@ -1,0 +1,42 @@
+<DOC>
+
+<DOCNO>
+<s docid="06CI010414_825252" num="1" wdcount="1"> 825252 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="06CI010414_825252" num="2" wdcount="1">06CI010414_825252</s>
+</FILEID>
+
+<HEAD>
+<s docid="06CI010414_825252" num="3" wdcount="14"> Se defiende ICA: El tren provocó el desgaste y fallas en la Línea Dorada </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="06CI010414_825252" num="4" wdcount="1"> Ciudad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="06CI010414_825252" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="06CI010414_825252" num="6" wdcount="41"> El desgaste ondulatorio acelerado en la Línea 12 del Sistema de Transporte Colectivo Metro se originó por las características del tren, el método de operación y la falta de mantenimiento específico, señaló el consorcio constructor integrado por Carso, ICA y Alstom</s>
+<s docid="06CI010414_825252" num="7" wdcount="24"> Al comparecer ante la Comisión Especial Investigadora de la Asamblea Legislativa, los representantes técnicos de las empresas rechazaron que la obra presente fallas estructurales</s>
+<s docid="06CI010414_825252" num="8" wdcount="33"> “El mantenimiento específico para atender el desgaste ondulatorio acelerado, informado en su oportunidad, no formó parte de los alcances de nuestro contrato”, aseguró Miguel Ángel Ramírez Ordaz, representante de Ingenieros Civiles Asociales (ICA)</s>
+<s docid="06CI010414_825252" num="9" wdcount="32"> Ante diputados del PRD, PAN, PRI y Partido Verde, Ramírez Ordaz aseguró que el deterioro del balasto, durmientes y fijaciones tienen su origen en las vibraciones provocadas por el desgaste ondulatorio pronunciado</s>
+<s docid="06CI010414_825252" num="10" wdcount="43"> “Se constata tanto por el Consorcio como por opiniones preliminares de especialistas nacionales e internacionales que el origen del desgaste ondulatorio acelerado se debe a múltiples causas, destacando la diferencia geométrica rueda-riel, el desempeño dinámico del tren sobre las vías, entre otros”, agregó</s>
+<s docid="06CI010414_825252" num="11" wdcount="48"> Independientemente de los estudios que se realicen, el representante técnico señaló que el consorcio propone diversas acciones para solucionar los problemas en la llamada Línea Dorada como reperfilado del riel en la totalidad de la línea, mantenimiento a los aparatos de vía y adecuar los peraltes en cuervas</s>
+<s docid="06CI010414_825252" num="12" wdcount="21"> “El proveedor de los trenes (CAF) deberá hacer el reperfilado de las ruedas de acuerdo con la geometría del riel”, sostuvo</s>
+<s docid="06CI010414_825252" num="13" wdcount="29"> Aseguró que existen 27 evidencias donde el consorcio comunicó al Sistema de Transporte Colectivo y al Proyecto Metro la problemática, además de que le entregó una propuesta de mantenimiento</s>
+<s docid="06CI010414_825252" num="14" wdcount="27"> “Desde el 1 de noviembre de 2012 a la fecha el consorcio continúa presente, atendiendo actividades de mantenimiento (reposición de fijaciones y materiales desgastados), sin contrato”, comentó</s>
+<s docid="06CI010414_825252" num="15" wdcount="27"> “Desde el 1 de noviembre de 2012 a la fecha el Consorcio continua presente, atendiendo actividades de mantenimiento (reposición de fijaciones y materiales desgastados), sin contrato”, comentó</s>
+<s docid="06CI010414_825252" num="16" wdcount="34"> Por su parte, Rodel Omar Ocampo, representante de la francesa Alstom, explicó que los datos de entrada que recibió el Consorcio fueron de un tren conformado por ocho carros y terminó siendo de siete</s>
+<s docid="06CI010414_825252" num="17" wdcount="37"> “La distancia entre ejes es 12.6 igual que el carro que hoy está circulando y que finalmente adquirió el ECTC, la distancia o la longitud del carro en un caso es 17.8 y en otro es 19</s>
+<s docid="06CI010414_825252" num="18" wdcount="16"> Esta variación de distancia puede afectar en la inserción 16 del túnel o del viaducto”, expresó.</s>
+
+</TEXT>
+
+</DOC>

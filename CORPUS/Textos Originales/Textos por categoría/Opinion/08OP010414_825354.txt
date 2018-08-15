@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="08OP010414_825354" num="1" wdcount="1"> 825354 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="08OP010414_825354" num="2" wdcount="1">08OP010414_825354</s>
+</FILEID>
+
+<HEAD>
+<s docid="08OP010414_825354" num="3" wdcount="1"> El Buzón </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="08OP010414_825354" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="08OP010414_825354" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="08OP010414_825354" num="6" wdcount="34"> Denuncia abandono e inseguridad en espacios deportivos de la ciudad * Señor director: Quiero felicitarlo por permitir a la sociedad expresar los problemas de su ciudad y que, de esta manera, podamos ser escuchados</s>
+<s docid="08OP010414_825354" num="7" wdcount="19"> Por este medio, quisiera pedirle a las autoridades de la ciudad de México la creación de más espacios deportivos</s>
+<s docid="08OP010414_825354" num="8" wdcount="40"> Varias personas prefieren no practicar deporte al no contar con algún espacio para la práctica del deporte, ya sea por no tenerlo cerca de su vivienda, por la inseguridad o por las pésimas condiciones en que se encuentran los deportivos</s>
+<s docid="08OP010414_825354" num="9" wdcount="47"> Varios deportivos de la ciudad tienen instalaciones muy viejas, y varios de ellos se encuentran abandonados por las delegaciones, muchas partes de sus instalaciones se encuentran poco funcionales para realizar la práctica del deporte, además de no contar con varios servicios, por ejemplo, agua, electricidad o baños</s>
+<s docid="08OP010414_825354" num="10" wdcount="51"> Otro gran problema que tienen en la actualidad los espacios para la práctica del deporte es que los policías no realizan operativos de vigilancia y varios ladrones han aprovechado para arrebatarle sus pertenencias a las personas que van a realizar una actividad física; asimismo, es aprovechado por varias pandillas para drogarse</s>
+<s docid="08OP010414_825354" num="11" wdcount="41"> El mayor problema es que los espacios para la práctica del deporte son muy reducidos en la ciudad de México y es complicado trasladarse a ellos, por eso pido a la autoridad la realización de más espacios para practicar el deporte</s>
+<s docid="08OP010414_825354" num="12" wdcount="48"> Asimismo, quiero solicitar a los integrantes de todas las delegaciones que reparen los espacios para la práctica del deporte y se invierta en la reconstrucción de los mismos y además de que se fomente el deporte entre los jóvenes para evitar que sean tentados por las bandas criminales</s>
+<s docid="08OP010414_825354" num="13" wdcount="60"> Quisiera exhortar a las autoridades federales a que se invierta en el deporte para su fomento, práctica y además realice mayor inversión para la construcción de espacios deportivos Atentamente Josué Amaya, Nezahualcóyotl Pide arreglar drenaje y destapar coladeras ante lluvias en el DF * Señor director: Quiero decirles a las autoridades del Distrito Federal que revisen y arreglen las coladeras</s>
+<s docid="08OP010414_825354" num="14" wdcount="22"> Pedirles que limpien y, de ser necesario, arreglen el sistema de drenaje de la ciudad antes de que empiecen las lluvias fuertes</s>
+<s docid="08OP010414_825354" num="15" wdcount="56"> Es un buen momento para realizar lo necesario para impedir que se inunden las calles de la ciudad, además quisiera pedirles mayores multas a las personas que tiren basura en las coladeras, ya que gran parte del problema de las inundaciones se debe a que estas personas tiran su basura sin pensar y tapan las coladeras</s>
+<s docid="08OP010414_825354" num="16" wdcount="4"> Atentamente Sandra Orozco, Cuauhtémoc </s>
+
+
+</TEXT>
+
+</DOC>

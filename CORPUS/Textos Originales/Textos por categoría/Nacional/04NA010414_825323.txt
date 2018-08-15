@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="04NA010414_825323" num="1" wdcount="1"> 825323 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="04NA010414_825323" num="2" wdcount="1">04NA010414_825323</s>
+</FILEID>
+
+<HEAD>
+<s docid="04NA010414_825323" num="3" wdcount="15"> Aumenta a 5 mil 400 la cifra de niños migrantes que cruza por el país </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="04NA010414_825323" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="04NA010414_825323" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="04NA010414_825323" num="6" wdcount="31"> La senadora del Partido Acción Nacional (PAN), Gabriela Cuevas, presidenta de la Comisión de Migración señaló la alarmante cifra que alcanza el número de niños migrantes que cruzan por nuestro país</s>
+<s docid="04NA010414_825323" num="7" wdcount="59"> Precisó que tan sólo en el periodo del 2011 al 2013 se duplicó el número de niños no acompañados que fueron devueltos a sus países de origen, ya que en el 2011 fue de 2 mil 800, en tanto que para el 2013, la cifra se disparó a 5 mil 400 niños o adolescentes migrantes, separados o no acompañados</s>
+<s docid="04NA010414_825323" num="8" wdcount="34"> Y lo mismo ocurrió con el número de niños que se alojaron en las estaciones migratorias, agregó, cifra que se incrementó de 4 mil en 2011, a cerca de 10 mil el año pasado</s>
+<s docid="04NA010414_825323" num="9" wdcount="58"> Señaló que muchos de estos niños vienen escapando de realidades de inseguridad, de trata, de explotación o de violencia, ningún niño o niña va a dejar sus hogares, va a dejar su país y arriesgarse a migrar si no es por una necesidad de reunirse con su familia, de buscar mejores oportunidades o escapar de situaciones de violencia</s>
+<s docid="04NA010414_825323" num="10" wdcount="65"> Ante este panorama, Cuevas mencionó que un grupo de senadoras han venido trabajando una iniciativa para tratar esta problemática, en la que, entre otras cosas se proponen cuatro puntos: crear una comisión especializada para determinar el interés superior del niño, porque –explicó— en muchas ocasiones quien lo está dictaminando es la policía o los oficiales de Migración, o son aquellos que están cuidando algún albergue</s>
+<s docid="04NA010414_825323" num="11" wdcount="20"> Pero no hay una instancia realmente responsable de determinar cuál es el interés superior de estos niños, niñas o adolescentes</s>
+<s docid="04NA010414_825323" num="12" wdcount="78"> Segundo, establecer el principio de no devolución, y que es justamente de lo que México hoy se queja de Estados Unidos; tres, crear centros de atención y protección integral, que estarán a cargo de los DIF estatales, y que tendrán como objetivo la atención y no privación de la libertad de estos niños, y cuarto crear un registro único que nos permita generar información relevante para avanzar en el diseño, implementación y la evaluación de estas políticas públicas</s>
+
+
+</TEXT>
+
+</DOC>

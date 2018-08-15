@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="17CU030414_825829" num="1" wdcount="1"> 825829 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="17CU030414_825829" num="2" wdcount="1">17CU030414_825829</s>
+</FILEID>
+
+<HEAD>
+<s docid="17CU030414_825829" num="3" wdcount="10"> Analizan vigencia de la obra del filósofo danés SÍ¸ren Kierkegaard </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="17CU030414_825829" num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="17CU030414_825829" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="17CU030414_825829" num="6" wdcount="56"> El libro Conversaciones sobre Kierkegaard ofrece una serie textos de destacados filósofos de México y de otros países que contestan a una pregunta: ¿Cuál es la categoría y la particularidad del pensamiento de Kierkegaard más importante que lo hace vigente después de 200 años? El volumen, coordinado por Catalina Elena Dobre, Rafael García Pavón, Luis I</s>
+<s docid="17CU030414_825829" num="7" wdcount="30"> Guerrero Martínez y Leticia Valadez, muestra el interés y la pasión de varios investigadores, unidos sobre la obra del filósofo danés, así como para celebrar el bicentenario de su natalicio</s>
+<s docid="17CU030414_825829" num="8" wdcount="9"> Conversaciones sobre Kierkegaard, publicado por la editorial Rosa Ma</s>
+<s docid="17CU030414_825829" num="9" wdcount="39"> Porrúa, con el apoyo de Euroamérica, además de contar con pensadores como Evandro Agazzi, Alfonso López Quintas, John Caputo, Carlos Díaz, incluye también especialistas kierkegaardianos de países como México, Estados Unidos, Canadá, Inglaterra, Noruega, Dinamarca, Rumania, Italia, España, Portugal</s>
+<s docid="17CU030414_825829" num="10" wdcount="53"> El libro se complementa con las secciones “Y S&oslash;ren Kierkegaard está todavía vivo” (donde se presenta la importancia de Kierkegaard y su influencia): “Dos estampas biográficas” (la relación amorosa de Kierkegaard con Regine &Oslash;lsen); y algunas reproducciones de los manuscritos de Kierkegaard así como un dibujo original realizado por Juan Manuel Guerrero Valadez</s>
+<s docid="17CU030414_825829" num="11" wdcount="11"> Al final se presenta la exposición “El laberinto de la existencia</s>
+<s docid="17CU030414_825829" num="12" wdcount="18"> Kierkegaard y sus seudónimos”, exposición realizada con la ocasión del Congreso Internacional “El individuo frente a sí mismo</s>
+<s docid="17CU030414_825829" num="13" wdcount="18"> S&oslash;ren Kierkegaard a 200 años de su nacimiento”, organizado en la Universidad Iberoamericana, México, en abril de 2013</s>
+<s docid="17CU030414_825829" num="14" wdcount="52"> Este volumen está inspirado por el texto realizado por la UNESCO en 1963 Kierkegaard vivo, coordinado por Jean Wahl, con el que se celebraron ciento cincuenta años del nacimiento del danés, y el volumen Conversaciones sobre Kierkegaard representa el reto de rescatar y enfatizar la actualidad del filósofo danés para nuestros tiempos</s>
+
+
+</TEXT>
+
+</DOC>

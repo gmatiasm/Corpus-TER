@@ -1,0 +1,36 @@
+<DOC>
+
+<DOCNO>
+<s docid="04DE010414_825294" num="1" wdcount="1"> 825294 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="04DE010414_825294" num="2" wdcount="1">04DE010414_825294</s>
+</FILEID>
+
+<HEAD>
+<s docid="04DE010414_825294" num="3" wdcount="6"> Víctor Valdés estará siete meses fuera </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="04DE010414_825294" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="04DE010414_825294" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="04DE010414_825294" num="6" wdcount="49"> El guardameta del Barcelona, Víctor Valdés, víctima la semana pasada de una rotura de ligamento de la rodilla derecha, fue operado con éxito en Alemania y podría estar ausente de los terrenos de juego siete meses, anunció el club catalán, lo que le privará del Mundial de Brasil 2014</s>
+<s docid="04DE010414_825294" num="7" wdcount="29"> “Víctor Valdés ha sido intervenido este lunes por la mañana por los doctores Ulrich Boenisch y Ricard Pruna en Augsburgo, Alemania, de la rotura en el ligamento cruzado anterior</s>
+<s docid="04DE010414_825294" num="8" wdcount="22"> Se le ha practicado una sutura en el menisco interno de la rodilla derecha y la intervención ha finalizado de manera satisfactoria</s>
+<s docid="04DE010414_825294" num="9" wdcount="15"> El tiempo de baja aproximado es de siete mese”, escribe el Barça en un comunicado</s>
+<s docid="04DE010414_825294" num="10" wdcount="35"> Valdés (32 años, 20 partidos internacionales) no podría por tanto regresar a la competición hasta octubre o noviembre, lo que le impedirá estar en el Mundial de Brasil y tampoco podrá comenzar la próxima temporada</s>
+<s docid="04DE010414_825294" num="11" wdcount="37"> El futbolista, quien acaba su contrato el próximo 30 de junio, ha finalizado de la peor forma su relación con el Barcelona, después de una dilatada carrera en Can Barça desde que ingresó cuando era muy joven</s>
+
+
+</TEXT>
+
+</DOC>

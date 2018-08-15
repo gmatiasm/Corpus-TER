@@ -1,0 +1,36 @@
+<DOC>
+
+<DOCNO>
+<s docid="01OP010414_825246" num="1" wdcount="1"> 825246 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="01OP010414_825246" num="2" wdcount="1">01OP010414_825246</s>
+</FILEID>
+
+<HEAD>
+<s docid="01OP010414_825246" num="3" wdcount="4"> En letras de oro </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="01OP010414_825246" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="01OP010414_825246" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="01OP010414_825246" num="6" wdcount="74"> Próximamente la Asamblea Legislativa del Distrito Federal hará un homenaje post mortem e inscribirá en letras de oro los nombres de los escritores mexicanos Octavio Paz, José Revueltas y Efraín Huerta, con la intención de celebrar el centenario de sus natalicios y hacer un espacio para la cultura en el frontispicio del recinto que ahora alberga personajes prehispánicos, héroes nacionales de la Independencia, la Reforma y de la Revolución, así como de instituciones públicas</s>
+<s docid="01OP010414_825246" num="7" wdcount="40"> Este logro cultural se debe al trabajo y al esfuerzo que conjuntamente realizaron la Comisión de Cultura del órgano local legislativo y la Secretaría del ramo, olvidando el periodo oscurantista y de escándalos de la gestión de su anterior titular</s>
+<s docid="01OP010414_825246" num="8" wdcount="50"> Si bien es importante recordar a las mujeres y hombres que con su trabajo hicieron historia y enaltecieron el nombre de nuestro país con sus logros; también se debe apoyar y reconocer a quienes están sobresaliendo en diferentes aspectos de la cultura y las artes, en México y el mundo</s>
+<s docid="01OP010414_825246" num="9" wdcount="23"> Como ejemplo de ello está la reciente premiación que recibieron los mexicanos Alfonso Cuarón y Emmanuel Lubezki en la entrega del Oscar 2014</s>
+<s docid="01OP010414_825246" num="10" wdcount="33"> Cuarón y Lubezki son los primeros mexicanos en recibir un premio Oscar que es otorgado por la Academia de Ciencias y Artes Cinematográficas, en las categorías de director y director de fotografía respectivamente</s>
+<s docid="01OP010414_825246" num="11" wdcount="78"> Luego de ese merecido reconocimiento que festejamos todos los mexicanos, propondré al pleno de la ALDF se reconozca con la medalla al mérito de Artes a esta dupla de ejemplares cineastas mexicanos, pues no es posible que en otros países y en otras culturas se les realicen homenajes y reconocimientos, y en su país, sobre todo en la ciudad que los vio nacer, no haya un solo pronunciamiento o un evento que reconozca su esfuerzo, valor y trayectoria</s>
+<s docid="01OP010414_825246" num="12" wdcount="6">  Vicecoordinador del PRI en la ALDF </s>
+
+
+</TEXT>
+
+</DOC>

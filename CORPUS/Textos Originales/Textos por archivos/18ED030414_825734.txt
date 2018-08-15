@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="18ED030414_825734" num="1" wdcount="1"> 825734 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="18ED030414_825734" num="2" wdcount="1">18ED030414_825734</s>
+</FILEID>
+
+<HEAD>
+<s docid="18ED030414_825734" num="3" wdcount="10"> Impulsarán el reuso del agua en Tamaulipas rumbo a sustentabilidad </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="18ED030414_825734" num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="18ED030414_825734" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="18ED030414_825734" num="6" wdcount="54"> Con el fin de cubrir las crecientes demandas de agua de la población y el sector industrial de Tamaulipas, así como para avanzar hacia la sustentabilidad hídrica de la región, la Comisión Nacional del Agua (Conagua) y el Gobierno del Estado desarrollarán proyectos que faciliten el uso del agua tratada en los procesos industriales</s>
+<s docid="18ED030414_825734" num="7" wdcount="31"> Así se liberarán volúmenes de agua de primer uso y se destinarán al consumo del sector urbano, coincidieron el director General de la dependencia, David Korenfeld, y el gobernador Egidio Torre</s>
+<s docid="18ED030414_825734" num="8" wdcount="38"> Durante una reunión de trabajo, David Korenfeld hizo énfasis en la importancia del reúso del agua para dar viabilidad hídrica, principalmente a las entidades del norte del país, donde la disponibilidad de agua subterránea es cada vez menos</s>
+<s docid="18ED030414_825734" num="9" wdcount="69"> Asimismo, subrayó la importancia del proyecto de creación de reservas de agua presentado por el Estado, debido a que ese esquema contribuye a garantizar a mediano y largo plazos, el agua necesaria para el desarrollo de las principales ciudades de la entidad, lo cual sólo se podrá lograr si actualmente se usa el agua sustentablemente, se aprovechan las aguas tratadas y se moderniza el riego agrícola, entre otras acciones</s>
+<s docid="18ED030414_825734" num="10" wdcount="19"> Explicó que el uso del agua tratada, tanto en los procesos industriales como en el campo, genera múltiples beneficios</s>
+<s docid="18ED030414_825734" num="11" wdcount="28"> Por un lado, se reduce la explotación de los acuíferos y, por otro, se eleva el nivel de los procesos productivos, lo cual se traduce en eficiencias significativas</s>
+<s docid="18ED030414_825734" num="12" wdcount="60"> En su momento, el gobernador Egidio Torre detalló que el sector industrial podrá acceder al recurso que se genera en la Planta de Tratamiento de Aguas Residuales Tierra Negra y adelantó que para abastecer a las zonas industriales de Tampico, Ciudad Madero y Altamira, se proyecta la construcción de otras obras de saneamiento, las cuales también significarán grandes beneficios ambientales.</s>
+
+
+
+</TEXT>
+
+</DOC>

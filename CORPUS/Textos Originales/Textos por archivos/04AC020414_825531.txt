@@ -1,0 +1,48 @@
+<DOC>
+
+<DOCNO>
+<s docid="04AC020414_825531"num="1" wdcount="1"> 825531 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="04AC020414_825531"num="2" wdcount="1">04AC020414_825531</s>
+</FILEID>
+
+<HEAD>
+<s docid="04AC020414_825531"num="3" wdcount="9"> Hacen crecer músculo que se regenera a sí mismo </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="04AC020414_825531"num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="04AC020414_825531"num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="04AC020414_825531" num="6" wdcount="67"> Ingenieros biomédicos de la Universidad de Duke, en Durham, Carolina del Norte, Estados Unidos, han hecho crecer un músculo esquelético vivo que se parece mucho al real: se contrae con fuerza y rapidez, se integra en los ratones en los que se probó rápidamente, y por primera vez, demuestra la capacidad de curarse a sí mismo, tanto en el laboratorio como en el interior de un animal</s>
+<s docid="04AC020414_825531" num="7" wdcount="15"> El equipó probó el músculo de bioingeniería en la parte trasera de un ratón vivo</s>
+<s docid="04AC020414_825531" num="8" wdcount="44"> La nueva técnica, que se describe en la edición de esta semana de la revista Actas de la Academia Nacional de Ciencias, permitió la monitorización en tiempo real de la integración de los músculos y su maduración dentro de un animal vivo que camina</s>
+<s docid="04AC020414_825531" num="9" wdcount="45"> Tanto el músculo cultivado en el laboratorio como las técnicas experimentales son pasos importantes para hacer crecer músculos viables para el estudio de enfermedades y el tratamiento de lesiones, destaca uno de los autores, el doctor Nenad Bursac, profesor asociado de Ingeniería Biomédica en Duke</s>
+<s docid="04AC020414_825531" num="10" wdcount="14"> “El músculo que hemos hecho representa un importante avance para el campo -dice Bursa-</s>
+<s docid="04AC020414_825531" num="11" wdcount="21"> Es la primera vez que se crean músculos de ingeniería que se contraen con tanta fuerza como el músculo esquelético nativo”</s>
+<s docid="04AC020414_825531" num="12" wdcount="43"> Mediante años de perfeccionamiento de sus técnicas, un equipo dirigido por Bursac y el estudiante graduado Marcos Juhas descubrió que fabricar mejor los músculos requiere dos cosas: fibras musculares contráctiles bien desarrolladas y un grupo de células madre musculares conocidas como células satélite</s>
+<s docid="04AC020414_825531" num="13" wdcount="20"> Cada músculo tiene células satélite de reserva, listas para activarse después de una lesión y comenzar el proceso de regeneración</s>
+<s docid="04AC020414_825531" num="14" wdcount="27"> La clave para el éxito de estos científicos fue crear con éxito los microambientes, llamados nichos, donde estas células madre esperan la llamada para ponerse a trabajar</s>
+<s docid="04AC020414_825531" num="15" wdcount="24"> “El músculo bien desarrollado que fabricamos proporciona nichos para que vivan células satélite y, cuando sea necesario, restauren la musculatura robusta y su función”</s>
+<s docid="04AC020414_825531" num="16" wdcount="1"> VENENO</s>
+<s docid="04AC020414_825531" num="17" wdcount="32"> Para poner su músculo a prueba, los ingenieros lo estimularon con pulsos eléctricos y midieron su fuerza contráctil, demostrando que era diez veces más fuerte que cualquier músculo de ingeniería diseñado previamente</s>
+<s docid="04AC020414_825531" num="18" wdcount="32"> Estos expertos lo dañaron con una toxina que se encuentra en el veneno de serpiente para demostrar que las células satélite podrían activarse, multiplicarse y curar con éxito las fibras musculares lesionadas</s>
+<s docid="04AC020414_825531" num="19" wdcount="12"> Luego, las colocaron en un plato de laboratorio y en un ratón</s>
+<s docid="04AC020414_825531" num="20" wdcount="49"> Con la ayuda de Greg Palmer, profesor asistente de Oncología Radioterápica en la Escuela de Medicina de la Universidad de Duke, el equipo insertó su músculo cultivado en el laboratorio con una pequeña cámara colocada en la espalda de ratones vivos que estaba cubierta por un panel de vidrio</s>
+<s docid="04AC020414_825531" num="21" wdcount="20"> Cada dos días durante dos semanas, Juhas fotografió los músculos implantados a través de esa ventana para comprobar su progreso</s>
+<s docid="04AC020414_825531" num="22" wdcount="40"> Al modificar genéticamente las fibras musculares para producir destellos fluorescentes durante los picos de calcio, que hacen que los músculos se contraigan, los investigadores pudieron observar cómo los destellos se vuelven más brillantes cuando el músculo se hizo más fuerte</s>
+<s docid="04AC020414_825531" num="23" wdcount="28"> “Pudimos ver y medir en tiempo real cómo crecieron los vasos sanguíneos en las fibras musculares implantadas, curándose con la misma fuerza que su contraparte nativa”, subraya Juhas</s>
+<s docid="04AC020414_825531" num="24" wdcount="17"> Los científicos ahora analizan si su músculo biomimético puede ser usado para reparar enfermedades o lesiones actuales.</s>
+
+</TEXT>
+
+</DOC>

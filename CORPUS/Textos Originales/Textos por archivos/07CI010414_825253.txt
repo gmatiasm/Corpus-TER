@@ -1,0 +1,41 @@
+<DOC>
+
+<DOCNO>
+<s docid="07CI010414_825253" num="1" wdcount="1"> 825253 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="07CI010414_825253" num="2" wdcount="1">07CI010414_825253</s>
+</FILEID>
+
+<HEAD>
+<s docid="07CI010414_825253" num="3" wdcount="3"> Breves de Ciudad </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="07CI010414_825253" num="4" wdcount="1"> Ciudad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="07CI010414_825253" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="07CI010414_825253" num="6" wdcount="55"> Acusan a delegada de Tlalpan de proteger bases de taxis piratas Vecinos de Tlalpan lamentaron que la titular de esa demarcación, Maricela Contreras Julián, continué brindándole su apoyo a aquellos grupos que de alguna manera le representan votos a su partido, como es el caso de los taxistas irregulares, a quienes ayer entregó 32 bases</s>
+<s docid="07CI010414_825253" num="7" wdcount="36"> “Pero la delegada no se pone a pensar que con esto, ahora pagaremos más por el banderazo, pues antes estos taxis cobraban 8.74 pesos, pero ahora, al legalizarse los sitios, incrementarán el servicio hasta 13 pesos</s>
+<s docid="07CI010414_825253" num="8" wdcount="32"> No entendemos por qué hace cosas que para ella y su partido son buenas, pero para los ciudadanos nos resultan malas”, comentaron integrantes del Movimiento Popular de Pueblos y Colonias del Sur</s>
+<s docid="07CI010414_825253" num="9" wdcount="51"> Recordaron que desde que llegó al cargo, “le hemos pedido a la delegada haga algo contra los más de mil taxis ‘pirata’ que circulan en la zona del Ajusco, pues con su protección, autos particulares ofrecen el servicio de taxi, donde ocurre el mayor número de asaltos, secuestro exprés y violaciones</s>
+<s docid="07CI010414_825253" num="10" wdcount="21"> Esas unidades para la delegada, no existen, cuando todos sabemos que es su propia administración es la que los protege”, denunciaron</s>
+<s docid="07CI010414_825253" num="11" wdcount="57"> (Héctor Cruz López) PRI y PAN exigen castigo para quien ordeno instalar los parquímetros Diputados del PAN y PRI en la Asamblea Legislativa, exigieron al Gobierno del Distrito Federal (GDF) sancionar al funcionario que autorizó la instalación de parquímetros en el Centro de Coyoacán, sin contar con el aval del Instituto Nacional de Antropología e Historia (INAH)</s>
+<s docid="07CI010414_825253" num="12" wdcount="49"> Los panistas Priscila Vera Hernández y Edgar Borja Rangel, así como María de los Ángeles Moreno, del PRI, dudaron de que el INAH haya dado luz verde a este proyecto, ya que hasta el momento la Autoridad del Espacio Público (AEP) no ha presentado ningún documento que lo acredite</s>
+<s docid="07CI010414_825253" num="13" wdcount="15"> “Primero el INAH dijo que no y nos sentimos aliviados, pero vimos que siempre sí</s>
+<s docid="07CI010414_825253" num="14" wdcount="38"> Yo no sé si ya completaron el expediente tan deficiente que enviaron originalmente, nos preocupamos otra vez, pero tenemos que dar la pelea porque nuestros vecinos lo están pidiendo”, aseguró por su parte, María de los Ángeles Moreno</s>
+<s docid="07CI010414_825253" num="15" wdcount="30"> En conferencia de prensa, los legisladores reiteraron su llamado al jefe de Gobierno, Miguel Ángel Mancera Espinosa, para que realice una consulta ciudadana vinculatoria sobre la instalación de estos aparatos</s>
+<s docid="07CI010414_825253" num="16" wdcount="3"> (Manuel Espino Bucio)</s>
+
+
+</TEXT>
+
+</DOC>

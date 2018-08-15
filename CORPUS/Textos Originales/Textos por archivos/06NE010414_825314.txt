@@ -1,0 +1,78 @@
+<DOC>
+
+<DOCNO>
+<s docid="06NE010414_825314" num="1" wdcount="1"> 825314 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="06NE010414_825314" num="2" wdcount="1">06NE010414_825314</s>
+</FILEID>
+
+<HEAD>
+<s docid="06NE010414_825314" num="3" wdcount="6">  Cumplirá banca con la reforma financiera </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="06NE010414_825314" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="06NE010414_825314" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="06NE010414_825314" num="6" wdcount="16"> —¿A más de un año del inicio de esta administración, cuál es el balance que tienen? </s>
+<s docid="06NE010414_825314" num="7" wdcount="57"> —El primer año fue extraordinario, toda vez que los acuerdos políticos encabezados por el Presidente de la República y las diferentes fuerzas políticas lograron las reformas estructurales que son la plataforma para el despegue de la economía mexicana y tienen un impacto en la vida social y económica, el cual será de corto, mediano y largo plazo</s>
+<s docid="06NE010414_825314" num="8" wdcount="19"> Si se ve como parámetro de medición, el crecimiento fue bajo, pero se dio por problemas coyunturales, no estructurales</s>
+<s docid="06NE010414_825314" num="9" wdcount="12"> México hoy tiene condiciones que lo diferencian de países emergentes y desarrollados</s>
+<s docid="06NE010414_825314" num="10" wdcount="28"> Esperamos que este año repunte no sólo el gasto público, sino la inversión, el crecimiento en Estados Unidos, las exportaciones y el consumo interno que estuvo muy deprimido</s>
+<s docid="06NE010414_825314" num="11" wdcount="19">  —¿Hay condiciones para que la banca cumpla con el objetivo de la reforma financiera, más créditos y más baratos? </s>
+<s docid="06NE010414_825314" num="12" wdcount="19">  —Sí, la banca ha tenido una tendencia de crédito y reducción de tasas de interés muy notable desde 2003</s>
+<s docid="06NE010414_825314" num="13" wdcount="19">  El crédito ha crecido en promedio tres veces el PIB y las tasas de interés se han reducido significativamente</s>
+<s docid="06NE010414_825314" num="14" wdcount="23"> Por ejemplo, en 2006 pagabas hipotecas con tasas de interés de 15 por ciento; hoy hay de 8 por ciento a tasa fija</s>
+<s docid="06NE010414_825314" num="15" wdcount="30"> —Derivado de esta reforma, se espera un estudio de competencia del sector, </s>
+<s docid="06NE010414_825314" num="16" wdcount="2"> ¿les preocupa? </s>
+<s docid="06NE010414_825314" num="17" wdcount="16"> —La banca en México es uno de los sectores de consumo intenso de capital más competido</s>
+<s docid="06NE010414_825314" num="18" wdcount="15"> Incluso los índices de concentración de la banca mexicana comparada con Estados Unidos son similares</s>
+<s docid="06NE010414_825314" num="19" wdcount="18"> Las barreras a la entrada se han reducido desde 2005, una prueba es que ya somos 49 instituciones</s>
+<s docid="06NE010414_825314" num="20" wdcount="27"> Y la prueba del ácido, donde se verá si hay competencia, es la oferta y beneficios que hay al consumidor, como en créditos hipotecarios y de consumo</s>
+<s docid="06NE010414_825314" num="21" wdcount="15"> Por ello, no tengo duda que los resultados del estudio serán positivos para el sector</s>
+<s docid="06NE010414_825314" num="22" wdcount="11"> —¿Cómo espera crecer la banca con todo el paquete de reformas? </s>
+<s docid="06NE010414_825314" num="23" wdcount="33"> —Producto de reformas y de inversiones de capital, veremos requerimientos de financiamiento importantes y la banca mexicana estará ahí para contribuir en esas obras e inversión, lo cual impulsará más el desarrollo nacional</s>
+<s docid="06NE010414_825314" num="24" wdcount="29"> Considero que están sentadas las bases para lograr un desarrollo económico y sostenido, que es la única manera de combatir problemas como la pobreza, la inseguridad y el desempleo</s>
+<s docid="06NE010414_825314" num="25" wdcount="6"> —En cuanto a colocación de créditos, </s>
+<s docid="06NE010414_825314" num="26" wdcount="7"> ¿es preocupante el incremento en créditos personales? </s>
+<s docid="06NE010414_825314" num="27" wdcount="43"> —Es un foco amarillo, es innegable que la morosidad en estos créditos sí se ha incrementando y es una tendencia de algunos meses; es un tema que los bancos deben revisar, sobre todo que la originación de los créditos siga políticas para otorgarlo</s>
+<s docid="06NE010414_825314" num="28" wdcount="15"> También debemos establecer mecanismos para evitar que el cliente se sobre-endeude o deje de pagar</s>
+<s docid="06NE010414_825314" num="29" wdcount="18"> Es un tema para ocuparnos, y no pone en riesgo la salud y solvencia del sistema financiero mexicano</s>
+<s docid="06NE010414_825314" num="30" wdcount="7"> —¿Y los créditos a estados y municipios? </s>
+<s docid="06NE010414_825314" num="31" wdcount="19"> —No es un problema para México, el nivel de monto de créditos otorgados a ese sector no es elevado</s>
+<s docid="06NE010414_825314" num="32" wdcount="9"> No es malo si se destina a inversión productiva</s>
+<s docid="06NE010414_825314" num="33" wdcount="27"> Así que ni es excesivo, ni como país tenemos un problema y es un crédito que no se debe satanizar porque bien utilizado coadyuva al desarrollo regional</s>
+<s docid="06NE010414_825314" num="34" wdcount="23"> Aunque reconocemos que hay estados con problemas, pero es el menor de los casos, por ello no es un problema para el sistema</s>
+<s docid="06NE010414_825314" num="35" wdcount="4"> —Sobre el caso Oceanografía, </s>
+<s docid="06NE010414_825314" num="36" wdcount="6"> ¿cómo afecta este tema al sector? </s>
+<s docid="06NE010414_825314" num="37" wdcount="27"> —El presunto fraude que se cometió a Banamex afecta a todo el sistema porque fue por un importe muy grande, por ello no es un tema menor</s>
+<s docid="06NE010414_825314" num="38" wdcount="33"> La buena noticia es que el sistema regulatorio y prudencial que se ha construido demostró su fortaleza, porque siendo un presunto fraude tan grande, el banco afectado no vio debilitada sus solvencia financiera</s>
+<s docid="06NE010414_825314" num="39" wdcount="32"> No quiero decir que fue bueno lo que sucedió, es terrible, pero demuestra que el sistema financiero cuenta con un marco regulatorio potente que, a pesar de este caso, comprobó su robustez</s>
+<s docid="06NE010414_825314" num="40" wdcount="10">  —¿No obliga a revisar las prácticas en otorgamiento de créditos? </s>
+<s docid="06NE010414_825314" num="41" wdcount="31"> —Se han desarrollado mecanismos prudenciales y de control muy robustos por parte de las autoridades, y cada banco tiene que revisar sus políticas, pues todo es perfectible y lo podemos mejorar</s>
+<s docid="06NE010414_825314" num="42" wdcount="61"> En materia regulatoria, la Comisión Nacional Bancaria y de Valores tiene como objetivo cuidar la solvencia y fortaleza del sistema, y tener normas prudenciales que deben ser los suficientemente robustas (como lo son) para mantener ese activo del país, pero no pueden ser tan rigurosas o complejas que hagan que el objetivo de política pública de otorgamiento de crédito se frene</s>
+<s docid="06NE010414_825314" num="43" wdcount="26"> Se tiene que lograr un balance, no se puede caer en el extremo de tener sistemas excesivamente complejos y se llegue a frenar la actividad crediticia</s>
+<s docid="06NE010414_825314" num="44" wdcount="27"> Las reglas son las adecuadas, y se debe cuidar que los bancos las apliquen y se originen adecuadamente los créditos y vigile su evolución en el tiempo</s>
+<s docid="06NE010414_825314" num="45" wdcount="10"> Y te diría que en Bancomer no hay una “Oceanografía”</s>
+<s docid="06NE010414_825314" num="46" wdcount="8">  —¿Cuál es el panorama para finales de año? </s>
+<s docid="06NE010414_825314" num="47" wdcount="18">  —Estamos optimistas, esperamos un crecimiento del PIB de 3.4 por ciento, incluso puede tener un sesgo al alza</s>
+<s docid="06NE010414_825314" num="48" wdcount="12"> Incluso hacia el segundo semestre será cuando comiencen a verse resultados positivos</s>
+<s docid="06NE010414_825314" num="49" wdcount="26"> El conjunto de las reformas con las fortalezas del país y el crecimiento del Estados Unidos dará el crecimiento económico que requerimos en los próximos años</s>
+<s docid="06NE010414_825314" num="50" wdcount="7"> —¿Qué habrá para la 77 Convención Bancaria? </s>
+<s docid="06NE010414_825314" num="51" wdcount="38"> —La banca mexicana ha avanzado tanto en la penetración del crédito, a pesar de ser baja, como en porcentaje del PIB, pues hay que recordar que lleva 10 años de crecimiento, antes quebró y partió de las cenizas</s>
+<s docid="06NE010414_825314" num="52" wdcount="21"> Hoy hay buenas noticias y expectativas que anunciar en crédito a pymes, en bancarización, nuevos productos y nuevos canales de distribución</s>
+<s docid="06NE010414_825314" num="53" wdcount="20"> La convención servirá como un escenario para transmitir la visión positiva que tenemos los banqueros sobre el futuro de México.</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,60 @@
+<DOC>
+
+<DOCNO>
+<s docid="09AC040414_825960" num="1" wdcount="1"> 825960 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="09AC040414_825960" num="2" wdcount="1">09AC040414_825960</s>
+</FILEID>
+
+<HEAD>
+<s docid="09AC040414_825960" num="3" wdcount="11"> La Ciudad Universitaria es el símbolo de la superación del país </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="09AC040414_825960" num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="09AC040414_825960" num="5" wdcount="1"> 2014-04-04 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="09AC040414_825960" num="6" wdcount="33"> “En el mismo ámbito donde floreció la antigua cultura indígena, creadora de edificaciones como las descubiertas en Cuicuilco, se delimitó el espacio universitario años más tarde para una nueva forma de asentamiento humano</s>
+<s docid="09AC040414_825960" num="7" wdcount="42"> El destino de la Ciudad Universitaria fue erigirse al sur del gran valle, en el Pedregal, una zona por donde en todas partes se mira la lava, huella de la acción del dios del fuego, adorado por constructores de pirámides y templos</s>
+<s docid="09AC040414_825960" num="8" wdcount="39"> En la ciudad edificada para transmitir la cultura, creaciones de maestros como Rivera, Siqueiros y O’ Gorman, tornan visibles los estratos de la larga historia que dan cimiento a la historia del México moderno y a su Universidad Nacional</s>
+<s docid="09AC040414_825960" num="9" wdcount="26"> En esta amplía extensión del Pedregal la secuencia de culturas a partir del brote arcaico sellado con una corteza de lava, ha vuelto así a reanudarse”</s>
+<s docid="09AC040414_825960" num="10" wdcount="28"> Así describe el historiador Miguel León-Portilla el significado de la construcción de las instalaciones universitarias hoy Patrimonio de la Humanidad por la UNESCO y Premio Príncipe de Asturias</s>
+<s docid="09AC040414_825960" num="11" wdcount="49"> Las palabras del célebre defensor indigenista fueron retomadas ayer por José Narro Robles, rector de la máxima casa de estudios para conmemorar el 60 aniversario del inicio de actividades académicas en Ciudad Universitaria, que durante este periodo ha egresado a más de 3.8 millones de estudiantes desde sus aulas</s>
+<s docid="09AC040414_825960" num="12" wdcount="4"> EL “LUJO” DE CU</s>
+<s docid="09AC040414_825960" num="13" wdcount="39"> En sus inicios, los estudiantes llegaban a este remoto sitio en el sur de la ciudad de México en autobuses que los acercaban hasta el Parque de la Bombilla, donde tomaban uno más para llegar al campus, algunos caminaban</s>
+<s docid="09AC040414_825960" num="14" wdcount="4"> El lugar era deslumbrante</s>
+<s docid="09AC040414_825960" num="15" wdcount="13"> Llena de elogios por parte de los medios de comunicación, alguno refirió que </s>
+<s docid="09AC040414_825960" num="16" wdcount="11"> “¿Por qué si es tan hermosa, van a llenarla de estudiantes?”</s>
+<s docid="09AC040414_825960" num="17" wdcount="33"> Fue la primera vez que los estudiantes de las diversas facultades universitarias tenían un punto de encuentro, que en el barrio universitario en el Centro Histórico era difícil de lograr de manera natural</s>
+<s docid="09AC040414_825960" num="18" wdcount="29"> En esa transición del centro al sur, algunos extrañarían la comida árabe y china; asistir a los cines y teatros, así como a las “policlínicas” (cantinas) del Centro Histórico</s>
+<s docid="09AC040414_825960" num="19" wdcount="24"> Otros más verían con mayor entusiasmo cambiar de unas instalaciones a veces muy degradadas por nuevas aulas y amplios espacios deportivos, por sus laboratorios</s>
+<s docid="09AC040414_825960" num="20" wdcount="3"> “Era un lujo”</s>
+<s docid="09AC040414_825960" num="21" wdcount="51"> Éstas son algunas de las anécdotas que alumnos y académicos que hace seis décadas presenciaron la Ciudad Universitaria como la nueva casa de la UNAM, y quienes ayer narraron algunas de sus experiencias en el Teatro Carlos Lazo de la Facultad de Arquitectura, donde se llevó a cabo el evento conmemoratorio</s>
+<s docid="09AC040414_825960" num="22" wdcount="2"> MEJOR PAÍS</s>
+<s docid="09AC040414_825960" num="23" wdcount="40"> Hace 60 años —y bajo la rectoría de Nabor Carrillo y la presidencia de Adolfo Ruiz Cortines—, las primeras instalaciones de la institución en el Pedregal abarcaban 200 mil metros cuadrados, un par de años después alcanzó los 300 mil</s>
+<s docid="09AC040414_825960" num="24" wdcount="13"> En la actualidad, CU está desplegada sobre 1 millón 300 mil metros cuadrados</s>
+<s docid="09AC040414_825960" num="25" wdcount="10"> Sus 14 facultades albergaban a alrededor de 30 mil estudiantes</s>
+<s docid="09AC040414_825960" num="26" wdcount="18"> “CU es y fue un símbolo de la superación de nuestro país”, refirió Narro Robles durante su participación</s>
+<s docid="09AC040414_825960" num="27" wdcount="18"> “Ha sido un ejemplo de éxito de lo que los mexicanos y los universitarios pueden hacer y plantear”</s>
+<s docid="09AC040414_825960" num="28" wdcount="44"> A lo largo de la jornada, el rector puntualizó que Ciudad Universitaria es un espacio vivo que no ha terminado de crecer, que puede y debe seguir creciendo y aunque no tenemos ya tanto espacio para el crecimiento pero todavía hay forma de aprovechar</s>
+<s docid="09AC040414_825960" num="29" wdcount="38"> En la Facultad de Filosofía y Letras acotó que se construirá una extensión de sus bibliotecas y que permitirá tener los fondos de tres grandes universitarios y también un espacio para los estudiantes de literatura dramática y teatro</s>
+<s docid="09AC040414_825960" num="30" wdcount="27"> Cuestionado por los reporteros sobre la necesidad de contar con un auditorio en esta facultad enfatizó: “Necesitamos uno y está muy claro cuál es: el Justo Sierra</s>
+<s docid="09AC040414_825960" num="31" wdcount="7"> Es un reclamo de todos los universitarios</s>
+<s docid="09AC040414_825960" num="32" wdcount="36"> Es absolutamente injusto que un grupo minúsculo, no representativo, de gente en mucho ajena a la universidad, haya a lo largo de tantos años, haya aprovechado para beneficio absolutamente personal un espacio de todos los universitarios</s>
+<s docid="09AC040414_825960" num="33" wdcount="18"> Añadió que la comunidad exige que ese espacio se reintegre a la facultad y a todos los Universitarios</s>
+<s docid="09AC040414_825960" num="34" wdcount="29"> “Hay una estrategia.” Después de citar a León-Portilla, agregó que los universitarios somos depositarios, en CU y otros espacios, de uno de los mayores patrimonios que tiene nuestra nación</s>
+<s docid="09AC040414_825960" num="35" wdcount="36"> “Cuando uno se pregunta qué sería de la ciencia, cultura, arte vida, libertad, democracia, justicia y belleza de nuestro país, si no hubiera habido UNAM y CU podemos contestar que México sería diferente y no mejor”.</s>
+
+
+</TEXT>
+
+</DOC>

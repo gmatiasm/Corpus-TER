@@ -1,0 +1,36 @@
+<DOC>
+
+<DOCNO>
+<s docid="11ED020414_825545"num="1" wdcount="1"> 825545 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="11ED020414_825545"num="2" wdcount="1">11ED020414_825545</s>
+</FILEID>
+
+<HEAD>
+<s docid="11ED020414_825545"num="3" wdcount="9"> Demolerán centros de salud en Guerrero afectados por Manuel </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="11ED020414_825545"num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="11ED020414_825545"num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="11ED020414_825545" num="6" wdcount="60"> La Secretaría de Salud en Guerrero inició con la demolición de al menos 12 centros de salud, que fueron afectados por las inundaciones de la tormenta tropical Manuel y por averías que presentaban por algunos sismos de los años 2012 y 2013, cuyo monto de inversión se proyectó en los 60 millones de pesos del Fondo para Desastres Naturales (Fonden)</s>
+<s docid="11ED020414_825545" num="7" wdcount="61"> De manera simbólica, el secretario de Salud de Guerrero, Lázaro Mazón Alonso, y la jefa de la jurisdicción Sanitaria 07, correspondiente a Acapulco, dieron los primeros golpes de marro para la demolición del Centro de Salud “Renacimiento 1”, donde se alberga al esquema de Vectores y el antirrábico, lugar que quedó bajo el lodo por las lluvias en septiembre de 2013</s>
+<s docid="11ED020414_825545" num="8" wdcount="55"> El funcionario federal indicó que en el estado son un total de 12 centros de salud que resultaron afectados por las lluvias de la tormenta tropical Manuel en septiembre de 2013, además de los sismos de marzo de 2012 y otros que ocurrieron en 2013, por lo que era urgente la reparación y la reconstrucción</s>
+<s docid="11ED020414_825545" num="9" wdcount="68"> “Es un recurso del gobierno federal y es precisamente el gobierno federal el que va a ser las remodelaciones (…) son 12 centros de salud que se van a modificar y hay un hospital que es el de Tlacoapa, donde va a ser un hospital nuevo, si no que ahí se tiene que cambiar la escuela y casas, ahí estamos hablando más de 50 millones de pesos”, señaló</s>
+<s docid="11ED020414_825545" num="10" wdcount="50"> Dijo que tan solo en el hospital de Tlacoapa, ubicado en la montaña de Guerrero, se invertirán 54 millones de pesos porque será una construcción nueva, y que en Tecpan y Atoyac los montos de construcción de esos hospitales serán similares, pero por afectaciones de los sismos en años pasados</s>
+<s docid="11ED020414_825545" num="11" wdcount="82"> “La doctora y secretaria de salud, Mercedes Juan, estuvo presente en la conferencia y donde se dijo que se iba a autorizar ya la construcción de los centros de salud afectados, es parte de los recursos del Fonden que el gobernador había gestionado (…) No estamos contemplando los hospitales de Tecpan y de Petatlán que esos si fueron afectados por los sismos desde hace dos años y que cada uno de ellos trae una inversión de los 54 millones de pesos”, apuntó.</s>
+
+
+</TEXT>
+
+</DOC>

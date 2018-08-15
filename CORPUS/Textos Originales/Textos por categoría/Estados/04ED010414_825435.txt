@@ -1,0 +1,44 @@
+<DOC>
+
+<DOCNO>
+<s docid="04ED010414_825435" num="1" wdcount="1"> 825435 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="04ED010414_825435" num="2" wdcount="1">04ED010414_825435</s>
+</FILEID>
+
+<HEAD>
+<s docid="04ED010414_825435" num="3" wdcount="10"> Agradece Eruviel Ávila a Peña Nieto apoyo para combatir delincuencia </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="04ED010414_825435" num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="04ED010414_825435" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="04ED010414_825435" num="6" wdcount="32"> El gobernador del Estado de México, Eruviel Ávila Villegas, agradeció al presidente Enrique Peña Nieto el apoyo del gobierno federal, a fin de fortalecer en la entidad las acciones contra la delincuencia</s>
+<s docid="04ED010414_825435" num="7" wdcount="36"> Durante la entrega de apoyos de la Cruzada Nacional contra el Hambre que encabezó el mandatario federal, Ávila Villegas consideró que trabajando en equipo se podrán superar tantas limitaciones que aún se tienen en territorio mexiquense</s>
+<s docid="04ED010414_825435" num="8" wdcount="42"> “Reiteramos nuestro agradecimiento por todo el apoyo que nos ha brindado, especialmente por el apoyo que a través del secretario de Gobernación nos brindó para fortalecer las acciones en contra de los verdaderos enemigos de la sociedad, que son los delincuentes”, dijo</s>
+<s docid="04ED010414_825435" num="9" wdcount="36"> En otro tema, refirió que de acuerdo con los últimos datos del Consejo Nacional de Evaluación de la Política de Desarrollo Social (Coneval), la pobreza en la entidad ha disminuido, de 8.6 a 5.6 por ciento</s>
+<s docid="04ED010414_825435" num="10" wdcount="37"> “La carencia por acceso a los servicios de salud se redujeron de 30 al 25 por ciento, y la carencia por acceso a la alimentación se redujo del 31 al 17 por ciento”, añadió el mandatario estatal</s>
+<s docid="04ED010414_825435" num="11" wdcount="39"> En ese contexto, manifestó que eso indica que están rindiendo frutos los programas alimentarios del gobierno federal, y la inversión de más de cinco mil millones de pesos que el Estado de México realiza a través de 73 programas</s>
+<s docid="04ED010414_825435" num="12" wdcount="45"> En tanto, la titular de la Secretaría de Desarrollo Social (Sedesol), Rosario Robles Berlanga, sostuvo que ha seguido la instrucción de combatir la pobreza sin distingo de partidos ni de colores, pues “el único color y la única bandera que portamos es la de México”</s>
+<s docid="04ED010414_825435" num="13" wdcount="33"> Abundó que a un año y meses de haberse puesto en marcha la Cruzada Nacional contra el Hambre, de los siete millones de mexicanos que planteamos como población-objetivo, tres millones hoy comen mejor</s>
+<s docid="04ED010414_825435" num="14" wdcount="23"> Robles Berlanga recordó que la cruzada es un esfuerzo transversal, en el que participan muchas secretarías e instancias del gobierno de manera coordinada</s>
+<s docid="04ED010414_825435" num="15" wdcount="20"> “Y así aunque en las porras haya competencia, le quiero decir que en la realidad trabajamos de la mano”, agregó</s>
+<s docid="04ED010414_825435" num="16" wdcount="12"> La secretaria federal afirmó que las decisiones presidenciales son ya una realidad</s>
+<s docid="04ED010414_825435" num="17" wdcount="21"> El programa de Adultos Mayores en el Estado de México llega a 315 mil adultos mayores de 65 años y más</s>
+<s docid="04ED010414_825435" num="18" wdcount="17"> En esta entidad, indicó, está 10 por ciento de los adultos mayores que tenemos a nivel nacional</s>
+<s docid="04ED010414_825435" num="19" wdcount="26"> De la misma manera el programa de Jefas de Familia tiene ya 402 mil mujeres; Oportunidades ha crecido 60 por ciento de lo que había anteriormente</s>
+<s docid="04ED010414_825435" num="20" wdcount="45"> “En menos de dos años tenemos 60 por ciento del programa trabajando en el Estado de México, y este año vamos a llegar a 850 mil beneficiarios del Programa Oportunidades aquí, en sus diversas modalidades”, sostuvo al dar un balance de los distintos programas federales</s>
+
+</TEXT>
+
+</DOC>

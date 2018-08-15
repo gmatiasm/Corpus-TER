@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="06MU010414_825368" num="1" wdcount="1"> 825368 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="06MU010414_825368" num="2" wdcount="1">06MU010414_825368</s>
+</FILEID>
+
+<HEAD>
+<s docid="06MU010414_825368" num="3" wdcount="13"> Ucrania anuncia plan de retirada de su flota, aviones y armamento de Crimea </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="06MU010414_825368" num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="06MU010414_825368" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="06MU010414_825368" num="6" wdcount="24"> La retirada de la flota ucraniana de Crimea empezará esta semana, anunció hoy el jefe adjunto de la administración presidencial de Ucrania, Andréi Senchenko</s>
+<s docid="06MU010414_825368" num="7" wdcount="42"> "Existe un calendario, y su aplicación empezará esta semana con el repliegue de la Armada", dijo en rueda de prensa Senchenko, quien adelantó que los primeros navíos en abandonar las aguas crimeas serán la corbeta "Ternópol" y el buque de desembarco "Kirovograd"</s>
+<s docid="06MU010414_825368" num="8" wdcount="57"> Los primeros pasos del repliegue, autorizado hace unos días por el presidente ruso, Vladímir Putin, fueron acordados ayer en una reunión entre autoridades rusas y ucranianas celebrada en el puerto de Sebastópol, base compartida por la Armada de Ucrania y la Flota rusa del Mar Negro hasta la reciente plena incorporación de la rebelde península a Rusia</s>
+<s docid="06MU010414_825368" num="9" wdcount="30"> También está listo el calendario para la retirada de los aviones que no están en regla, que serán trasladados a la parte continental de Ucrania con medios de transporte especial</s>
+<s docid="06MU010414_825368" num="10" wdcount="28"> El resto del armamento y equipos que Rusia ha aceptado devolver a Ucrania serán transportados por ferrocarril, según el número dos de la administración de la presidencia ucraniana</s>
+<s docid="06MU010414_825368" num="11" wdcount="6"> "Ya han concluido las primeras cargas</s>
+<s docid="06MU010414_825368" num="12" wdcount="14"> Cuarenta y un tanques ucranianos han sido cargados y esperan ser enviados", explicó Senchenko</s>
+<s docid="06MU010414_825368" num="13" wdcount="31"> El presidente ruso ordenó el pasado viernes devolver a Ucrania el armamento, equipos, barcos y aviones de las unidades militares en Crimea que guardaron lealtad a Kiev hasta el último momento</s>
+<s docid="06MU010414_825368" num="14" wdcount="45"> Casi el 80 por ciento de los militares ucranianos emplazados en la península se pasaron al bando ruso o abandonaron las filas de las Fuerzas Armadas de Ucrania durante la intervención militar rusa en Crimea, que concluyó con la incorporación de ese territorio a Rusia</s>
+<s docid="06MU010414_825368" num="15" wdcount="24"> Apenas 4.000 de los casi 19.000 militares ucranianos en Crimea manifestaron su deseo de ser replegados para continuar al servicio de las FFAA ucranianas</s>
+
+
+</TEXT>
+
+</DOC>

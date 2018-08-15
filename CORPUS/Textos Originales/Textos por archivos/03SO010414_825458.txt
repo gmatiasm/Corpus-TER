@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="03SO010414_825458" num="1" wdcount="1"> 825458 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="03SO010414_825458" num="2" wdcount="1">03SO010414_825458</s>
+</FILEID>
+
+<HEAD>
+<s docid="03SO010414_825458" num="3" wdcount="5"> Enfermero violaba a pacientes sedadas </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="03SO010414_825458" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="03SO010414_825458" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="03SO010414_825458" num="6" wdcount="27"> Un enfermero del hospital Cedars Sinai de Los Ángeles fue acusado de abuso sexual contra al menos dos pacientes sedadas, reportó hoy el diario Los Ángeles Times</s>
+<s docid="03SO010414_825458" num="7" wdcount="23"> El enfermero Guillermo Fernando Díaz fue despedido y esta bajo investigación tras las acusaciones que han presentado a las autoridades policiacas las pacientes</s>
+<s docid="03SO010414_825458" num="8" wdcount="34"> La primera, cuya identidad no fue revelada, señaló que fue abusada sexualmente por el enfermero después de ser sedada mientras se encontraba en el centro médico, apuntó el diario en su página de internet</s>
+<s docid="03SO010414_825458" num="9" wdcount="38"> El Cedars Sinai es uno de los hospitales más prestigiados en esta región del sur de California e incluso se le llama el hospital de las estrellas por el número de figuras de Hollywood que ahí se atienden</s>
+<s docid="03SO010414_825458" num="10" wdcount="22"> La paciente se declaró “devastada” tras describir su incómodo momento en el que estaba sedada e incapacitada, débil y con temor, señaló</s>
+<s docid="03SO010414_825458" num="11" wdcount="28"> Las denuncias se dieron por separado durante 2013, por lo que la policía decidió hacer pública la denuncia y llamar a más personas que pudieran haber sido afectadas</s>
+<s docid="03SO010414_825458" num="12" wdcount="29"> Díaz, de 56 años, era un enfermero asignado en el área de pacientes con tratamientos de corazón, pero su licencia le fue revocada en noviembre pasado tras las denuncias</s>
+<s docid="03SO010414_825458" num="13" wdcount="31"> En la investigación del Departamento de Policía de Los Ángeles un detective descubrió dos acusaciones contra Díaz, una de ellas desde hace 14 años, pero no se le presentaron cargos criminales</s>
+
+
+</TEXT>
+
+</DOC>

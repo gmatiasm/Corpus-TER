@@ -1,0 +1,45 @@
+<DOC>
+
+<DOCNO>
+<s docid="07ES010414_825268" num="1" wdcount="1"> 825268 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="07ES010414_825268" num="2" wdcount="1">07ES010414_825268</s>
+</FILEID>
+
+<HEAD>
+<s docid="07ES010414_825268" num="3" wdcount="9"> Vive Latino recibió a más de 238 mil asistentes </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="07ES010414_825268" num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="07ES010414_825268" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="07ES010414_825268" num="6" wdcount="50"> La algarabía que se vivió en la décimo quinta edición del Festival Iberoamericano de Cultura Musical Vive Latino no sólo se enfocó en los espectáculos de 173 bandas de distintos géneros musicales, sino que hubo otras opciones para que se divirtieran los 238 mil 200 asistentes, según cifras de Ocesa</s>
+<s docid="07ES010414_825268" num="7" wdcount="18"> Durante los cuatro días de actividad del festival, la gente pudo encontrar distintas atracciones en el Foro Sol</s>
+<s docid="07ES010414_825268" num="8" wdcount="12"> La agrupación Zoé se encargó de cerrar el cuarto día del Vive</s>
+<s docid="07ES010414_825268" num="9" wdcount="12"> León Larregui y compañía llenó de melancolía la última noche del Festival</s>
+<s docid="07ES010414_825268" num="10" wdcount="27"> Canciones como “No hay dolor”, “Dos mil trece” y “Fin de semana” fueron algunas pruebas de que el grupo mexicano sigue vigente en el gusto del público</s>
+<s docid="07ES010414_825268" num="11" wdcount="32"> “Muchísimas gracias por esa energía tan hermosa”, dijo el cantante, para después interpretar en compañía de su banda “10 A.M”, “Vía Láctea”, “Nada” y demás hitazos que no pararon en ser ovacionados</s>
+<s docid="07ES010414_825268" num="12" wdcount="18"> Su viaje al pasado con canciones como “Reptilectric”, “Soñé” y “Paula” hicieron que cerraran satisfactoriamente la larga jornada</s>
+<s docid="07ES010414_825268" num="13" wdcount="37"> Minutos antes el músico Fito Páez, quien lució un abrigo blanco, presentó temas como “Llueve sobre mojado”, “Margarita”, “Al lado de ti” y “Locura ordinaria”, en la cual en esta última subió a una fanática al escenario</s>
+<s docid="07ES010414_825268" num="14" wdcount="42"> A las 22:30 horas del domingo, Marciano Cantero y Felipe Staiti, ambos miembros originales de la banda Enanitos Verdes, salieron al Escenario Unión Indio para complacer a aquellos seguidores del rock, quienes escucharon temas como “Besos Violentos” y “No Me Dejes Caer”</s>
+<s docid="07ES010414_825268" num="15" wdcount="15"> “Amores Lejanos” y “Mi Primer Día sin Ti” siguieron en el setlist de los argentinos</s>
+<s docid="07ES010414_825268" num="16" wdcount="18"> Uno de los temas más esperados fue “La Muralla Verde” uno de los clásicos de los Enanitos Verdes</s>
+<s docid="07ES010414_825268" num="17" wdcount="1"> Libros</s>
+<s docid="07ES010414_825268" num="18" wdcount="39"> Los amantes de la literatura encontraron en Rock & libros algunas ofertas de obras relacionadas con el mundo de la música, para ello se acondicionó un escenario para que algunas personalidades pudieran tener una convivencia cercana con los asistentes</s>
+<s docid="07ES010414_825268" num="19" wdcount="37"> El domingo, el primer anfitrión de este espacio fue el escritor Juan Villoro, quien leyó fragmentos de la obra Tiempo transcurrido, mientras que los músicos Alfonso André, Diego Herrera, Federico Fong y Javier Calderón musicalizaron el ambiente</s>
+<s docid="07ES010414_825268" num="20" wdcount="23"> Después de esto fue Xavier Velasco, quien relató algunas partes de su libro Diablo Guardián, acompañado de Paco Huidobro, integrante del grupo Fobia</s>
+
+
+</TEXT>
+
+</DOC>

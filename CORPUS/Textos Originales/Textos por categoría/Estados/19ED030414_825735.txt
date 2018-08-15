@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="19ED030414_825735" num="1" wdcount="1"> 825735 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="19ED030414_825735" num="2" wdcount="1">19ED030414_825735</s>
+</FILEID>
+
+<HEAD>
+<s docid="19ED030414_825735" num="3" wdcount="9"> Las pequeñas obras cambiaron el rumbo de Tlaxcala: MGZ </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="19ED030414_825735" num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="19ED030414_825735" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="19ED030414_825735" num="6" wdcount="54"> Con pequeñas acciones se realizó una gran obra que cambió el rumbo de Tlaxcala, aseveró el gobernador Mariano González Zarur durante una gira de trabajo por comunidades y colonias de la capital, donde este esfuerzo fue reconocido por los habitantes beneficiados con la pavimentación de calles, arreglo de escuelas y apoyos para el campo</s>
+<s docid="19ED030414_825735" num="7" wdcount="17"> González Zarur afirmó que producto del trabajo realizado cambiaron las estadísticas de Tlaxcala en los diversos rubros</s>
+<s docid="19ED030414_825735" num="8" wdcount="13"> “Y no es discurso, el avance se puede ver en todos lados”, remarcó</s>
+<s docid="19ED030414_825735" num="9" wdcount="23"> Consideró que para dar respuesta a la carencia y necesidad de la gente tuvo que suplir en muchas ocasiones a las autoridades municipales</s>
+<s docid="19ED030414_825735" num="10" wdcount="25"> No obstante, consideró que con estos trabajos en las comunidades, sobre todo en materia de infraestructura básica, Tlaxcala comenzó a repuntar en los indicadores nacionales</s>
+<s docid="19ED030414_825735" num="11" wdcount="42"> Este esfuerzo fue reconocido por una de las beneficiarias de la pavimentación de calles en La Loma Xicohténcatl, de la capital, Florencia Durán Zambrano, quien subrayó que las obras pequeñas que ha realizado esta administración son de gran impacto para la gente</s>
+<s docid="19ED030414_825735" num="12" wdcount="40"> “Los vecinos nos organizamos varias veces para mejorar nuestras calles, pero nunca fuimos escuchados, aunque estábamos dispuestos a cooperar, fue hasta que tocamos la puerta del amigo de los tlaxcaltecas, del Gobernador Mariano González Zarur, quien por fin respondió”, manifestó</s>
+<s docid="19ED030414_825735" num="13" wdcount="31"> En esta colonia, el mandatario supervisó los trabajos de pavimentación de adoquín y colocación de guarniciones en las calles 10 y 31, en los que se invirtieron 1.5 millones de pesos</s>
+<s docid="19ED030414_825735" num="14" wdcount="47"> Durante esta gira de trabajo, González Zarur estuvo acompañado por el presidente municipal de Tlaxcala, Adolfo Escobar, con quien recorrió las calles “Antonio Carvajal” y “Alcatraz” de la colonia Las Ánimas, que fueron rehabilitadas por el Gobierno del Estado con una inversión de dos millones de pesos</s>
+
+</TEXT>
+
+</DOC>

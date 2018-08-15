@@ -1,0 +1,52 @@
+<DOC>
+
+<DOCNO>
+<s docid="02DE010414_825292" num="1" wdcount="1"> 825292 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="02DE010414_825292" num="2" wdcount="1">02DE010414_825292</s>
+</FILEID>
+
+<HEAD>
+<s docid="02DE010414_825292" num="3" wdcount="4"> Barça-Atleti, un partido explosivo </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="02DE010414_825292" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="02DE010414_825292" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="02DE010414_825292" num="6" wdcount="55"> El duelo fratricida entre el Barcelona y el Atlético Madrid aviva los cuartos de final de la Liga de Campeones, que el Real Madrid afronta con ánimo de revancha ante el Dortmund, el Chelsea con ilusión en su vuelta a París y el Manchester United como un gran desafío ante el favorito, el Bayern Munich</s>
+<s docid="02DE010414_825292" num="7" wdcount="17"> La máxima competición continental entra en escena esta semana con los choques de ida de los cuartos</s>
+<s docid="02DE010414_825292" num="8" wdcount="17"> El tramo final en el destino hacia Lisboa, sede que albergará la pelea decisiva por el título</s>
+<s docid="02DE010414_825292" num="9" wdcount="21"> El Barcelona y el Atlético de Madrid trasladan a Europa la rivalidad que mantienen en la pelea por la Liga española</s>
+<s docid="02DE010414_825292" num="10" wdcount="36"> El conjunto azulgrana, metido de lleno en el duelo por el campeonato y rehabilitado con su victoria en el Santiago Bernabeu, aspira a ampliar a siete su presencia en las semifinales de la Liga de Campeones</s>
+<s docid="02DE010414_825292" num="11" wdcount="12"> El equipo rojiblanco pretende ampliar sus históricos registros en un año memorable</s>
+<s docid="02DE010414_825292" num="12" wdcount="44"> El conjunto de Diego Simeone, que no juega unos cuartos de final de esta competición desde 1997, aspira a su primera semifinal en la Liga de Campeones desde 1974, cuando alcanzó la final que perdió con el Bayern Munich en el encuentro de desempate</s>
+<s docid="02DE010414_825292" num="13" wdcount="5"> MESSI-COSTA TIENEN DUELO DE GOLES</s>
+<s docid="02DE010414_825292" num="14" wdcount="12"> Los dos delanteros se verán las caras hoy en el Camp Nou</s>
+<s docid="02DE010414_825292" num="15" wdcount="18"> Ambos atacantes llegan con una racha goleadora y nivel de juego que presagia una bonita disputa de arietes</s>
+<s docid="02DE010414_825292" num="16" wdcount="18"> El objetivo, convertirse en los protagonistas del encuentro de ida de cuartos de final de la Champions League</s>
+<s docid="02DE010414_825292" num="17" wdcount="22"> Lionel Messi, 23 goles en liga, ocho en Liga de Campeones y 38 en el total de competiciones en 38 encuentros jugados</s>
+<s docid="02DE010414_825292" num="18" wdcount="20"> Diego Costa, 25 dianas en Liga, siete en Europa, y 33 en los 44 choques que ha jugado esta temporada</s>
+<s docid="02DE010414_825292" num="19" wdcount="30"> Estos son los números demoledores de las dos estrellas de Barcelona y Atlético en el total de la temporada, y que llegan al partido en un momento de forma excelente</s>
+<s docid="02DE010414_825292" num="20" wdcount="25"> Lionel Messi ha marcado en los últimos cuatro choques de Liga, con ocho goles en estos partidos y una media de 2 tantos por encuentro</s>
+<s docid="02DE010414_825292" num="21" wdcount="29"> Números que no envidia el goleador rojiblanco, puesto que también ha anotado un gol en cada uno de los últimos cuatro choques de su equipo en la competición doméstica</s>
+<s docid="02DE010414_825292" num="22" wdcount="5"> EL MANU RECIBE AL CAMPEÓN</s>
+<s docid="02DE010414_825292" num="23" wdcount="17"> También hoy, el Manchester United recibe al vigente campeón, el Bayern Munich, ya coronado en la Bundesliga</s>
+<s docid="02DE010414_825292" num="24" wdcount="20"> Un reto para el conjunto inglés, que tiene en la Liga de Campeones la única posibilidad de lograr un título</s>
+<s docid="02DE010414_825292" num="25" wdcount="29"> Mucho han cambiado las cosas desde mayo de 1999, cuando el United dirigido entonces por Alex Ferguson, arrebató la Copa de Europa al cuadro bávaro en los minutos finales</s>
+<s docid="02DE010414_825292" num="26" wdcount="32"> Sin embargo, nada parece frenar al Bayern de Pep Guardiola, que inesperadamente empató el pasado sábado ante el Hoffenheim en la Liga germana y perdió por lesión al también español Thiago Alcántara</s>
+<s docid="02DE010414_825292" num="27" wdcount="9"> El Manchester, por su parte, goleó al Aston Villa</s>
+
+
+</TEXT>
+
+</DOC>

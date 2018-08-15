@@ -1,0 +1,43 @@
+<DOC>
+
+<DOCNO>
+<s docid="11MU010414_825480" num="1" wdcount="1"> 825480 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="11MU010414_825480" num="2" wdcount="1">11MU010414_825480</s>
+</FILEID>
+
+<HEAD>
+<s docid="11MU010414_825480" num="3" wdcount="9"> No se reportan víctimas mortales tras terremoto en Chile </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="11MU010414_825480" num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="11MU010414_825480" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="11MU010414_825480" num="6" wdcount="45"> El Gobierno de Chile indicó hoy que tras el terremoto de 8,2 grados de magnitud que afectó al norte del país la alerta de tsunami afecta todo el borde costero chileno -unos 4.000 kilómetros- y señaló que por ahora no se han reportado víctimas mortales</s>
+<s docid="11MU010414_825480" num="7" wdcount="41"> "Todos los comités de emergencia se encuentran operativos y la evacuación en todo el borde costero es preventivo pero nadie puede regresar a sus hogares hasta que no reciba una orden de la autoridad", declaró el subsecretario del Interior, Mahmud Aleuy</s>
+<s docid="11MU010414_825480" num="8" wdcount="59"> Aleuy, que llegó hasta las dependencias de las Oficina Nacional de Emergencia (Onemi) en Santiago, dijo a los periodistas que se registró un leve desprendimiento de tierra en el Morro de Arica, en el extremo norte de Chile, que hay caminos cortados en la localidad de Colchane y que hasta ahora no se ha informado de daños en viviendas</s>
+<s docid="11MU010414_825480" num="9" wdcount="35"> Respecto de la alerta de tsunami, Aleuy indicó que el mayor recogimiento del mar ha sucedido en la ciudad de Iquique, a 1.857 kilómetros al norte de Santiago, donde este ha alcanzado unos 2,5 metros</s>
+<s docid="11MU010414_825480" num="10" wdcount="17"> "En otras zonas costeras del norte se ha informado de 1,5 metros de recogimiento del mar", precisó</s>
+<s docid="11MU010414_825480" num="11" wdcount="29"> Informó también que la torre de control del aeropuerto internacional de Iquique se encuentra momentáneamente fuera de servicio y que la ciudad se encuentra a oscuras sin suministro eléctrico</s>
+<s docid="11MU010414_825480" num="12" wdcount="26"> En tanto, las emisoras locales informaron que los buques de la Armada están abandonando el puerto de Valparaíso hacía mar abierto para sortear un eventual tsunami</s>
+<s docid="11MU010414_825480" num="13" wdcount="20"> Lo propio están efectuando los barcos en el puerto de San Antonio, situado a 102 kilómetros al suroeste de Santiago</s>
+<s docid="11MU010414_825480" num="14" wdcount="16"> Además varios vuelos con destino al norte del país fueron cancelados, indicaron las autoridades aeroportuarias chilenas</s>
+<s docid="11MU010414_825480" num="15" wdcount="22"> Otros vuelos que habían despegado de Santiago poco antes del terremoto con destino a Iquique y Arica regresaron a la capital chilena</s>
+<s docid="11MU010414_825480" num="16" wdcount="38"> El Centro Nacional de Sismología de la Universidad de Chile, precisó que el fenómeno telúrico de 8,2 grados se sintió a las 20.47 horas (23.47 GMT) y su epicentro se situó a 85 kilómetros al suroeste de Cuya</s>
+<s docid="11MU010414_825480" num="17" wdcount="37"> Tras el terremoto se han registrado más de una decena de réplicas, muchas de entre 4 y 5 grados de magnitud que han provocado el corta total de la energía eléctrica en las ciudad del norte chileno</s>
+<s docid="11MU010414_825480" num="18" wdcount="12"> También el suministro de agua potable se ha suspendido Videos del sismo </s>
+
+
+</TEXT>
+
+</DOC>

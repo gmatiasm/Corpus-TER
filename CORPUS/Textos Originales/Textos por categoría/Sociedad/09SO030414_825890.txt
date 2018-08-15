@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="09SO030414_825890" num="1" wdcount="1"> 825890 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="09SO030414_825890" num="2" wdcount="1">09SO030414_825890</s>
+</FILEID>
+
+<HEAD>
+<s docid="09SO030414_825890" num="3" wdcount="6"> Los planos del Titanic serán subastados </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="09SO030414_825890" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="09SO030414_825890" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="09SO030414_825890" num="6" wdcount="49"> Los planos originales del Titanic, que fueron usados en la investigación sobre su hundimiento por parte de las autoridades británicas, serán subastados a finales de abril por la casa de subastas RR Auction, junto con la copa de que la superviviente Molly Brown entregó al capitán que los rescató</s>
+<s docid="09SO030414_825890" num="7" wdcount="64"> Según esta casa de subastas de Boston, estos planos, firmados el 1 de mayo de 1912 y con el sello del astillero Harland and Wolff, contienen anotaciones a mano que analizan el impacto del iceberg sobre el famosos transatlántico que el 14 de abril de ese año se hundió en las aguas del Atlántico Norte y tienen un precio de salida de 5.000 dólares</s>
+<s docid="09SO030414_825890" num="8" wdcount="47"> Entre las anotaciones destaca una marca en la caldera número 6 del barco, donde impactó contra un iceberg, y otra en las cámaras que no fueron lo suficientemente herméticas como para evitar que la construcción que habían apodado como "insumergible" acabara en el fondo del océano Atlántico</s>
+<s docid="09SO030414_825890" num="9" wdcount="13"> "Objetos de esta magnitud utilizados en investigaciones oficiales son prácticamente imposibles de obtener</s>
+<s docid="09SO030414_825890" num="10" wdcount="37"> Este es uno de los dos planos que han llegado a estar disponibles en el mercado", explica en un comunicado el vicepresidente de la casa de subastas, Bobby Livingston, que subastará 225 objetos relacionados con el Titanic</s>
+<s docid="09SO030414_825890" num="11" wdcount="53"> Más de 1.500 personas fallecieron en el hundimiento del transatlántico y entre los 705 supervivientes destacó Margaret Brown, conocida como "la insumergible Molly Brown", ya que de niña había sobrevivido a unas inundaciones en las que murió toda su familia, y sobre cuya vida llegó a hacerse un musical protagonizado por Debbie Reynolds</s>
+<s docid="09SO030414_825890" num="12" wdcount="50"> Brown entregó una copa de plata el 29 de mayo de 1912, la "Loving Cup", al capitán Arthur Rostron en agradecimiento a su trabajo en las operaciones de rescate a bordo del navío Carpathia, y ese premio saldrá a subasta con un precio de salida de 25.000 dólares (18.000 euros)</s>
+<s docid="09SO030414_825890" num="13" wdcount="31"> Además de los planos y la copa, RR Auction subastará piezas de la vajilla del Titanic, certificados de descarga, la lista de los supervivientes y fotografías e ilustraciones del mítico transatlántico</s>
+<s docid="09SO030414_825890" num="14" wdcount="34"> La investigación sobre el hundimiento del Titanic estuvo presidida por el juez Lord Mersey y arrancó el 2 de mayo de 1912, cerrándose el 3 de julio después del testimonio de hasta 100 testigos</s>
+<s docid="09SO030414_825890" num="15" wdcount="36"> Así, el 30 de julio el informe final concluyó que el hundimiento no había sido causado por fallos de diseño en el transatlántico, sino por la velocidad a la que navegaba en el momento del impacto.</s>
+
+
+</TEXT>
+
+</DOC>

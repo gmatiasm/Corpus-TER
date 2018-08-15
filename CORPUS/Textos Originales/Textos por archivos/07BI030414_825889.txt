@@ -1,0 +1,44 @@
+<DOC>
+
+<DOCNO>
+<s docid="07BI030414_825889" num="1" wdcount="1"> 825889 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="07BI030414_825889" num="2" wdcount="1">07BI030414_825889</s>
+</FILEID>
+
+<HEAD>
+<s docid="07BI030414_825889" num="3" wdcount="8"> Advierten riesgos a la salud por temperaturas altas </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="07BI030414_825889" num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="07BI030414_825889" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="07BI030414_825889" num="6" wdcount="32"> Al llegar la primavera las temperaturas altas traen nuevos riesgos para la salud humana, al incrementarse las posibilidades de padecer infecciones gastrointestinales, quemaduras en la piel y golpe de calor o insolación</s>
+<s docid="07BI030414_825889" num="7" wdcount="35"> En entrevista especialistas de la Secretaría de Salud (SSA) y del Instituto Mexicano del Seguro Social (IMSS) indicaron que en la época de calor la incidencia de enfermedades gastrointestinales aumenta más de 200 por ciento</s>
+<s docid="07BI030414_825889" num="8" wdcount="29"> Además las hospitalizaciones por esos padecimientos, así como por golpe de calor, se incrementan 20 por ciento, principalmente en abril y mayo cuando la temperatura ambiental es más alta</s>
+<s docid="07BI030414_825889" num="9" wdcount="40"> Los especialistas advirtieron de los riesgos de secuelas e incluso de muerte si no se atiende a tiempo una situación de golpe de calor, el cual sucede cuando la temperatura del cuerpo se eleva a 40 grados centígrados o más</s>
+<s docid="07BI030414_825889" num="10" wdcount="44"> El director general de la Coordinación de los Hospitales Federales de Referencia de la SSA, Francisco Navarro Reynoso, explicó que al ocurrir esto el paciente pierde líquidos, baja la presión arterial y se presentan alteraciones en el ritmo cardiaco y en la circulación sanguínea</s>
+<s docid="07BI030414_825889" num="11" wdcount="24"> Navarro Reynoso aclaró que esta situación es crítica si se presenta en niños y adultos mayores, por ser más vulnerables a cualquier situación clínica</s>
+<s docid="07BI030414_825889" num="12" wdcount="52"> Por su parte el pediatra José Luis Galicia Cruz, del Hospital Regional “Carlos McGregor” del IMSS, indicó que cuando hay golpe de calor el paciente no suda y la piel está seca, puede perder el conocimiento, tener convulsiones, caer en estado de coma y hasta morir si no se controla a tiempo</s>
+<s docid="07BI030414_825889" num="13" wdcount="33"> “El golpe de calor puede dañar las neuronas del sistema nervioso y puede condicionar hasta cierto retraso psicomotriz, generar convulsiones, la tiroides se seca y quedar con problemas de hipo o hipertiroidismo”, dijo</s>
+<s docid="07BI030414_825889" num="14" wdcount="33"> El golpe de calor también daña principalmente el corazón que podría quedar con arritmias y con daños al riñón, ante lo cual lo recomendable es hidratarse con moderación cada 20 minutos en promedio</s>
+<s docid="07BI030414_825889" num="15" wdcount="58"> Detalló que esta alteración de la regulación térmica corporal es la situación clínica que sigue a la fatiga de calor, en la cual el paciente puede desmayarse y ocurre, por ejemplo, cuando se viaja en el Metro y no hay la suficiente ventilación, y la que antecede a la insolación es cuando se presenta el riesgo de muerte</s>
+<s docid="07BI030414_825889" num="16" wdcount="36"> Sobre las enfermedades diarreicas que ocurren en la época de calor, ambos especialistas señalaron que son generadas por múltiples agentes, debido a que la gente come alimentos crudos, en mal estado o con una higiene deficiente</s>
+<s docid="07BI030414_825889" num="17" wdcount="40"> Ante ello exhortaron a la población a evitar consumir agua o alimentos en la calle porque pueden estar contaminados, tratar de conservar en refrigeración la comida que así lo requiera y sobre todo no comer carne, pescado o mariscos crudos</s>
+<s docid="07BI030414_825889" num="18" wdcount="36"> “Los pescados y mariscos tienen que estar bien cocidos, la creencia de que el limón cuece los ceviches no es cierta, necesitan el mecanismo de la cocción para poderse consumir de manera segura”, subrayó Francisco Navarro</s>
+<s docid="07BI030414_825889" num="19" wdcount="40"> Agregó que las enfermedades gastrointestinales pueden provocar diarrea y vómito, con lo cual el paciente se deshidrata y si no se controlan a tiempo esos cuadros es necesario hospitalizar para restituir los electrolitos perdidos con soluciones intravenosas como el suero.</s>
+
+
+</TEXT>
+
+</DOC>

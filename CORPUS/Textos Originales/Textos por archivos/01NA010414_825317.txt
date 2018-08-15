@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="01NA010414_825317" num="1" wdcount="1"> 825317 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="01NA010414_825317" num="2" wdcount="1">01NA010414_825317</s>
+</FILEID>
+
+<HEAD>
+<s docid="01NA010414_825317" num="3" wdcount="10"> Capturan a un asaltante de la joyería de Plaza Satélite </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="01NA010414_825317" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="01NA010414_825317" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="01NA010414_825317" num="6" wdcount="33"> Luego del asalto al departamento de joyería y relojería de una tienda departamental de Plaza Satélite, ubicada en Naucalpan, la Secretaría de Seguridad Ciudadana confirmó la detención de uno de los presuntos delincuentes</s>
+<s docid="01NA010414_825317" num="7" wdcount="25"> La dependencia informó que el detenido responde al nombre de Samuel Montero Palma, y dijo ser habitante de San Juan Ixtayopan, en Tláhuac, Distrito Federal</s>
+<s docid="01NA010414_825317" num="8" wdcount="31"> De acuerdo con la carpeta de investigación iniciada por estos hechos, testigos señalaron que los sujetos llegaron a la tienda y en segundos rompieron las vitrinas para extraer joyas, principalmente relojes</s>
+<s docid="01NA010414_825317" num="9" wdcount="31"> Sin embargo, al ser descubiertos se generó un enfrentamiento con elementos de la Policía Bancaria e Industrial (PIB) del DF, que tienen a su cargo la seguridad de la tienda departamental</s>
+<s docid="01NA010414_825317" num="10" wdcount="36"> Plaza Satélite cuenta con vigilancia de la PBI del DF y al interior de la plaza comercial existe vigilancia privada, además de elementos de los Cuerpos de Seguridad Auxiliar del Estado de México en el estacionamiento</s>
+<s docid="01NA010414_825317" num="11" wdcount="31"> La Dirección de Seguridad Ciudadana, Tránsito y Protección Civil de Naucalpan informó que al recibir reportes vía redes sociales, se montó un operativo en coordinación con la Secretaría de Seguridad Ciudadana</s>
+<s docid="01NA010414_825317" num="12" wdcount="40"> Jorge Jiménez Contreras, comisario de Seguridad Ciudadana de Naucalpan, precisó que los detalles de los hechos serán dados a conocer por la Procuraduría General de Justicia del Estado de México, dependencia que inició la carpeta de investigación para deslindar responsabilidades</s>
+<s docid="01NA010414_825317" num="13" wdcount="16"> El operativo implementado tras los hechos generó caos en los accesos del estacionamiento del centro comercial</s>
+
+</TEXT>
+
+</DOC>

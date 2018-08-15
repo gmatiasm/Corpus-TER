@@ -1,0 +1,46 @@
+<DOC>
+
+<DOCNO>
+<s docid="20BI090414_827116" num="1" wdcount="1"> 827116 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="20BI090414_827116" num="2" wdcount="1">20BI090414_827116</s>
+</FILEID>
+
+<HEAD>
+<s docid="20BI090414_827116" num="3" wdcount="7"> Incluye atún en tus recetas de cuaresma </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="20BI090414_827116" num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="20BI090414_827116" num="5" wdcount="1"> 2014-04-09 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="20BI090414_827116" num="6" wdcount="41"> Con el fin de obtener un equilibrio balanceado en nuestra alimentación, Herdez nos invita a incluir en nuestra dieta regular entre 2 y 3 latas de atún a la semana para aportarle a nuestro cuerpo las proteínas necesarias procedentes del pescado</s>
+<s docid="20BI090414_827116" num="7" wdcount="49"> En presentaciones en agua y aceite, Atún Herdez nos aporta beneficios que pueden ayudar a disminuir los triglicéridos en la sangre, la eliminación de grasa, el aumento de capacidad mental y el aumento del metabolismo entre muchos otros, todo esto gracias al contenido de Omega 3 y Vitamina B12</s>
+<s docid="20BI090414_827116" num="8" wdcount="23"> Consumir Omega 3 puede ayudar a reducir el riesgo de padecimientos cardíacos, disminuir el dolor de la artritis, reducir las complicaciones del asma</s>
+<s docid="20BI090414_827116" num="9" wdcount="13"> De igual forma puede ayudar al crecimiento y desarrollo de los niños pequeños</s>
+<s docid="20BI090414_827116" num="10" wdcount="23"> El atún, se convierte en una buena fuente de nutrición debido a su alto nivel de proteínas, minerales y sus bajas grasas saturadas</s>
+<s docid="20BI090414_827116" num="11" wdcount="20"> El consumirlo puede ayudar a disminuir los niveles de colesterol en la sangre y a tener una presión arterial ideal</s>
+<s docid="20BI090414_827116" num="12" wdcount="38"> Herdez, preocupado por la salud de los mexicanos, recomienda el consumo de atún ya que contiene altos porcentajes de yodo, el cual ayuda a nuestro metabolismo regulando el nivel de energía y el correcto funcionamiento de las células</s>
+<s docid="20BI090414_827116" num="13" wdcount="28"> Asimismo, contiene también altos niveles de Vitamina B3, la cual brinda un gran beneficio para el sistema circulatorio por ser una vitamina que se disuelve con el agua</s>
+<s docid="20BI090414_827116" num="14" wdcount="29"> Esta Cuaresma, Herdez nos presenta deliciosas recetas fáciles y rápidas de preparar que integrarán de manera ideal el atún a tu dieta regular Cazuelitas de jícama con atún Ingredientes</s>
+<s docid="20BI090414_827116" num="15" wdcount="30"> · 1 cucharadita de chile piquín en polvo Preparación Rebane las jícamas de tres centímetros cada una y con un cortador de galletas corte cada una para formar una cazuelita</s>
+<s docid="20BI090414_827116" num="16" wdcount="12"> Escurra las latas de atún Herdez e intégrelas al pepino finamente picado</s>
+<s docid="20BI090414_827116" num="17" wdcount="17"> Sazone con la sal, el limón y el cilantro picado.Rellene las cazuelitas y espolvoree con chile piquín</s>
+<s docid="20BI090414_827116" num="18" wdcount="36"> Y para que la puedas realizar, La Crónica online y Herdezz regalan un kit con 8 latas de atún, si mandas tu correo a promocionescronica@yahoo.com.mx y nos dices tres beneficios de comer atún para la salud</s>
+<s docid="20BI090414_827116" num="19" wdcount="24"> No olvides mandar tu nombre, dirección y teléfono, ya que si ganas, un representante de la Crónica podría llevar tu premio hasta tu hogar</s>
+<s docid="20BI090414_827116" num="20" wdcount="6"> (Promoción válida únicamente en el D.F</s>
+<s docid="20BI090414_827116" num="21" wdcount="11"> y con vigencia del 9 al 23 de abril de 2014)  </s>
+
+
+</TEXT>
+
+</DOC>

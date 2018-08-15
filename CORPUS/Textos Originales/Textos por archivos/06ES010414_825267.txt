@@ -1,0 +1,48 @@
+<DOC>
+
+<DOCNO>
+<s docid="06ES010414_825267" num="1" wdcount="1"> 825267 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="06ES010414_825267" num="2" wdcount="1">06ES010414_825267</s>
+</FILEID>
+
+<HEAD>
+<s docid="06ES010414_825267" num="3" wdcount="10"> Disco póstumo e inédito de Jackson será lanzado en mayo </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="06ES010414_825267" num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="06ES010414_825267" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="06ES010414_825267" num="6" wdcount="40"> Cinco años después de la muerte del Rey del pop, un álbum póstumo de Michael Jackson, compuesto de ocho canciones inéditas, será publicado mundialmente a mediados de mayo, anunció este lunes la casa de discos Epic Records, filial de Sony</s>
+<s docid="06ES010414_825267" num="7" wdcount="33"> El álbum, que estará disponible el 12 de mayo en Francia y el 13 en Estados Unidos, ha sido bautizado XSCAPE, el nombre de uno de los títulos que figura en el disco</s>
+<s docid="06ES010414_825267" num="8" wdcount="55"> Después de haber tenido acceso a cuatro décadas de archivos del Rey del pop, la casa de discos escogió ocho canciones, para las cuales Michael Jackson había terminado de grabar las partes vocales, pidiendo luego a unos productores que “volvieran más contemporánea” la música, “conservando al mismo tiempo su esencia e integridad”, indica el comunicado</s>
+<s docid="06ES010414_825267" num="9" wdcount="39"> “Michael dejó tras él unas proezas vocales que estamos orgullosos de presentar a través de las visión de productores con los cuales él trabajó o deseaba hacerlo”, recalcó el patrón de Epic Records, L.A Reid, citado en el comunicado</s>
+<s docid="06ES010414_825267" num="10" wdcount="13"> El disco es producido por el Presidente y CEO de Epic Records, L.A</s>
+<s docid="06ES010414_825267" num="11" wdcount="37"> Reid, quien después de una extracción inicial de los archivos del Estate de Jackson, se le concedió un acceso ilimitado a los tesoros que representan cuatro décadas de material sobre el que Jackson había completado su voz</s>
+<s docid="06ES010414_825267" num="12" wdcount="13"> El título de este álbum honra el proceso de nombrar álbumes de Michael</s>
+<s docid="06ES010414_825267" num="13" wdcount="29"> Él siempre escogió una canción del álbum para dar nombre a sus proyectos y, a partir de “Thriller”, usó siempre una palabra como título, siempre con una cualidad vanguardista</s>
+<s docid="06ES010414_825267" num="14" wdcount="7"> Esto es palpable en el nuevo proyecto</s>
+<s docid="06ES010414_825267" num="15" wdcount="35"> Escrito por Michael Jackson y Jerkins, Xscape tiene un significado trascendental en sí mismo, es la canción del álbum que fue contemporaneizado por el mismo productor que la grabó originalmente en el estudio de Michael</s>
+<s docid="06ES010414_825267" num="16" wdcount="1"> Detalles</s>
+<s docid="06ES010414_825267" num="17" wdcount="29"> El nuevo álbum contaría con temas nuevos y viejos, es decir, de todas las épocas, con dos nuevos remixes y versiones originales de las grabaciones inéditas de Michael Jackson</s>
+<s docid="06ES010414_825267" num="18" wdcount="21"> “A Place With No Name” y “Blue Gangsta”, grabados originalmente en 1998, serán remezclados por los nuevos productores para el album</s>
+<s docid="06ES010414_825267" num="19" wdcount="22"> ”Ambas versiones, antiguas y nuevas, de ambas canciones, están en el disco para satisfacer a ambos lados de los fans”, reveló Freeze</s>
+<s docid="06ES010414_825267" num="20" wdcount="18"> Temas como “Slave To The Rhythm” y “Do You Know Where Your Children Are” siendo mezclados y considerados</s>
+<s docid="06ES010414_825267" num="21" wdcount="31"> Y podrían considerarse también “I am a loser” o “I Was The Loser”, “Escape”, “She Was Lovin’ Me” y “Can’t Get Your Weight Off Of Me” de las sesiones de Invincible</s>
+<s docid="06ES010414_825267" num="22" wdcount="31"> Aunque “Slave To The Rhythm” es una de las pistas que están siendo consideradas para la liberación, es poco probable que aparezca en la forma de un dueto con Justin Bieber</s>
+<s docid="06ES010414_825267" num="23" wdcount="58"> El Estate ante esto habría dicho luego de la filtración del tema ”Para aquellos que han estado preguntando acerca de la grabación recientemente publicada ‘Slave 2 The Rhythm’ de Michael y Justin Bieber, dicha grabación no fue autorizada y se ha bajado”, más adelante agrega: “Es sin autorización y por lo tanto no hay ninguna intención para editarla”.</s>
+
+
+</TEXT>
+
+</DOC>

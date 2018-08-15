@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="20ES030414_825776" num="1" wdcount="1"> 825776 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="20ES030414_825776" num="2" wdcount="1">20ES030414_825776</s>
+</FILEID>
+
+<HEAD>
+<s docid="20ES030414_825776" num="3" wdcount="7"> Confirman concierto de Rolling Stones en Madrid </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="20ES030414_825776" num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="20ES030414_825776" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="20ES030414_825776" num="6" wdcount="38"> Los Rolling Stones vuelven en 2014 con un único concierto en España como parte de su 14 ON FIRE tour, el 25 de junio en el Estadio Santiago Bernabéu de Madrid, dio a conocer la promotora Doctor Music</s>
+<s docid="20ES030414_825776" num="7" wdcount="45"> Aseguró que los Rolling Stones siguen batiendo récords de ventas en todos los países de Europa y todo apunta a que en España pasará lo mismo, pues desde que se abrió la venta de entradas para su único concierto en España, las webs están colapsadas</s>
+<s docid="20ES030414_825776" num="8" wdcount="24"> Refirió que París fue la última ciudad en sumarse a esas “cifras de vértigo”, agotando las 75 mil entradas en menos de una hora</s>
+<s docid="20ES030414_825776" num="9" wdcount="43"> “Los Rolling Stones siguen sumando sold out a los shows ya confirmados, como el Pinkpop Festival de Holanda que agotó todas las entradas en tan solo 30 minutos o el Werchter Classic Festival de Bélgica que lo hizo en apenas una hora”, indicó</s>
+<s docid="20ES030414_825776" num="10" wdcount="26"> Berlín y Düsseldorf -precisó- colgaron también el cartel de “entradas agotadas” en tan sólo 8 y 25 minutos respectivamente, y Roma lo hizo en 2 horas</s>
+<s docid="20ES030414_825776" num="11" wdcount="35"> El precio de las entradas para ese concierto tan esperado del próximo verano será de 85, 105, 125 y 225 euros para las entradas de asiento reservado y 99 euros para las entradas de pista</s>
+<s docid="20ES030414_825776" num="12" wdcount="18"> También habrá disponibles entradas de Pista Premium a un precio de 199 euros (gastos de distribución no incluidos)</s>
+<s docid="20ES030414_825776" num="13" wdcount="25"> The Rolling Stones-14 ON FIRE tour significa el regreso de Mick Jagger, Keith Richards, Charlie Watts y Ronnie Wood a la carretera, afirmó Doctor Music</s>
+<s docid="20ES030414_825776" num="14" wdcount="29"> “Después de una impresionante gira por el Reino Unido y Estados Unidos el año pasado, ha llegado el momento de pasear su impresionante show por todo el mundo”, dijo</s>
+<s docid="20ES030414_825776" num="15" wdcount="38"> Aseguró que la banda compartirá con generaciones de fans un show cargado de grandes éxitos de los Stones como “Gimme Shelter” , “Paint It Black” , “Jumping Jack Flash” , “Tumbling Dice” , “It’s Only Rock ‘N’ Roll”.</s>
+
+</TEXT>
+
+</DOC>

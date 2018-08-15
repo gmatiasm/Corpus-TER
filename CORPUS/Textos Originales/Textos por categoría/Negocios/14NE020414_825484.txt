@@ -1,0 +1,44 @@
+<DOC>
+
+<DOCNO>
+<s docid="14NE020414_825484" num="1" wdcount="1"> 825484 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="14NE020414_825484" num="2" wdcount="1">14NE020414_825484</s>
+</FILEID>
+
+<HEAD>
+<s docid="14NE020414_825484" num="3" wdcount="1"> Corporativos </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="14NE020414_825484" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="14NE020414_825484" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="14NE020414_825484" num="6" wdcount="36"> General Motors, a través de su directora ejecutiva, Mary Barra, ofreció disculpas a los familiares de las víctimas de accidentes vinculados al sistema de ignición defectuoso de vehículos producidos por la automotriz, que causó 13 muertos</s>
+<s docid="14NE020414_825484" num="7" wdcount="33"> "Pensamos que la situación es trágica y nos disculpamos por lo que pasó, estamos realizando una investigación completa para entender", señaló Barra, quien asumió la dirección ejecutiva de la armadora en enero pasado</s>
+<s docid="14NE020414_825484" num="8" wdcount="24"> Oneworld, que reúne a las aerolíneas más grandes del mundo, está interesada en sumar a alguna empresa mexicana dada la importancia económica de México</s>
+<s docid="14NE020414_825484" num="9" wdcount="36"> El presidente ejecutivo de Oneworld, Bruce Ashby, comentó que esta alianza busca reunir a todos los mejores jugadores del mundo y por tanto, estar en las economías de mejor desempeño, entre las que se encuentra México</s>
+<s docid="14NE020414_825484" num="10" wdcount="18"> Apple Computers cumplió 38 años desde su fundación en 1976 por Steve Jobs, Steve Wozniak y Ronald Wayne</s>
+<s docid="14NE020414_825484" num="11" wdcount="49"> El portal AppleWeblog felicita a la empresa que encabeza, la cual de acuerdo con la lista Brandirectory de las marcas más valiosas tiene un valor de 104 mil millones de dólares, y señala que la inversión en ideas originales y diferentes ha sido el núcleo duro de la compañía</s>
+<s docid="14NE020414_825484" num="12" wdcount="31"> Agroconsult estimó que Brasil produciría un récord de 86,9 millones de toneladas de soja esta temporada, cifra menor a los 89,2 millones de toneladas que había previsto a fines de febrero</s>
+<s docid="14NE020414_825484" num="13" wdcount="30"> Además Brasil produciría un total de 71,2 millones de toneladas de maíz en la actual temporada 2013/14, menos que los 72,6 millones estimados anteriormente, dijo Andre Pessoa, director de Agroconsult</s>
+<s docid="14NE020414_825484" num="14" wdcount="40"> Avianca Holdings, una de las mayores aerolíneas de América Latina, colocó el martes 250 millones de dólares en la reapertura de un bono al 2020, con un rendimiento al vencimiento de un 7,44 por ciento, según un reporte de IFR</s>
+<s docid="14NE020414_825484" num="15" wdcount="29"> La reapertura tiene entre otros fines el financiamiento de la modernización de la flota de la compañía, según un comunicado que envió la compañía al regulador del mercado colombiano</s>
+<s docid="14NE020414_825484" num="16" wdcount="27"> Spring Mobile Solutions presentó en Colombia Gestión de Telecom, un servicio dirigido a las empresas que tiene por objetivo controlar y dar seguridad a las comunicaciones móviles</s>
+<s docid="14NE020414_825484" num="17" wdcount="42"> Se trata de una novedad en Colombia, donde hasta ahora los empresarios no tenían como controlar sus llamadas ni la posibilidad de recuperar contactos y datos ante la pérdida del teléfono o dispositivo móvil, e incluso asegurar sus comunicaciones y redes sociales</s>
+<s docid="14NE020414_825484" num="18" wdcount="31"> AT&T anunció un programa de recompra de acciones sobre el 6% de su capital accionarial, por un volumen de más de 10.000 millones de dólares a la cotización actual del papel</s>
+<s docid="14NE020414_825484" num="19" wdcount="36"> El programa autorizado por el directorio conllevará la compra de unos 300 millones de acciones, indicó el grupo en un comunicado en el que no establece el período durante el cual se procederá a la compra</s>
+
+
+</TEXT>
+
+</DOC>

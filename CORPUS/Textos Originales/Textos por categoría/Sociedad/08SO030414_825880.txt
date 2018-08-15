@@ -1,0 +1,45 @@
+<DOC>
+
+<DOCNO>
+<s docid="08SO030414_825880" num="1" wdcount="1"> 825880 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="08SO030414_825880" num="2" wdcount="1">08SO030414_825880</s>
+</FILEID>
+
+<HEAD>
+<s docid="08SO030414_825880" num="3" wdcount="13"> Obispos de Perú dicen que proyecto de unión civil gay atenta contra dignidad </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="08SO030414_825880" num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="08SO030414_825880" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="08SO030414_825880" num="6" wdcount="37"> La Conferencia Episcopal Peruana consideró que la propuesta de Unión Civil entre personas del mismo sexo "atenta contra la dignidad humana de los peruanos", además de distorsionar a la familia, en un comunicado difundido hoy en Lima</s>
+<s docid="08SO030414_825880" num="7" wdcount="38"> La declaración de los jerarcas de la Iglesia católica en Perú agregó que el proyecto presentado ante una comisión del Congreso "contraría el orden natural, distorsiona la verdadera identidad de la familia y contradice la finalidad del matrimonio"</s>
+<s docid="08SO030414_825880" num="8" wdcount="24"> Asimismo, "amenaza la sana orientación de los niños y menoscaba el más sólido fundamento de nuestra sociedad, que aspira a un desarrollo humano integral"</s>
+<s docid="08SO030414_825880" num="9" wdcount="35"> El proyecto de ley presentado el año pasado por el legislador Carlos Bruce busca reconocer que las parejas del mismo sexo puedan formar vínculos familiares, que tengan derecho a recibir una pensión, alimentos y cuidados</s>
+<s docid="08SO030414_825880" num="10" wdcount="13"> Asimismo, garantiza la protección contra la violencia familiar, pero no reconoce la adopción</s>
+<s docid="08SO030414_825880" num="11" wdcount="48"> La Conferencia Episcopal señaló que la propuesta de ley "pretende equiparar el matrimonio y la unión civil, preparando el camino para introducir en el Perú el matrimonio homosexual con la posibilidad de adoptar niños, que estarían privados de su derecho natural a tener un padre y una madre"</s>
+<s docid="08SO030414_825880" num="12" wdcount="35"> Los obispos peruanos "invitaron" a los parlamentarios a defender los valores de la familia, "como lo pide la Constitución Política del Perú y el sentir de la mayoría de los peruanos a quienes ustedes representan"</s>
+<s docid="08SO030414_825880" num="13" wdcount="42"> El martes pasado, un colectivo de organizaciones homosexuales en Perú entregó un padrón de 10.000 firmas de ciudadanos que apoyan el proyecto de ley de Unión Civil entre personas del mismo sexo a la Comisión de Justicia y Derechos Humanos del Parlamento</s>
+<s docid="08SO030414_825880" num="14" wdcount="49"> Las organizaciones homosexuales y de derechos humanos exhortaron a la Comisión de Justicia a emitir un dictamen favorable que garantice el derecho constitucional a la igualdad y no discriminación de las parejas homosexuales, como lo establece un informe favorable del Ministerio de Justicia y de la Defensoría del Pueblo</s>
+<s docid="08SO030414_825880" num="15" wdcount="23"> "Si mañana se aprobara la ley de unión civil, Perú sería un país más decente", declaró Bruce ese día en rueda de prensa</s>
+<s docid="08SO030414_825880" num="16" wdcount="26"> El legislador agregó que es prioritario velar por los derechos de las minorías, ya que no tienen la posibilidad de defender y reclamar que sean reconocidos</s>
+<s docid="08SO030414_825880" num="17" wdcount="22"> Bruce afirmó que "nadie pierde nada" con la aprobación del proyecto y que, más bien, significaría un acto de inclusión e igualdad</s>
+<s docid="08SO030414_825880" num="18" wdcount="36"> El arzobispo de Lima, Juan Luis Cipriani, propuso el pasado domingo que el proyecto de Unión Civil y el aborto terapéutico sean sometidos a un referéndum porque son temas que no los deben resolver "pocas personas"</s>
+<s docid="08SO030414_825880" num="19" wdcount="23"> Cipriani afirmó, en su programa radial, que ambos temas "no deberían definirlos 20 personas en un Congreso o cuatro grupos de unas ONG"</s>
+
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,50 @@
+<DOC>
+
+<DOCNO>
+<s docid="02AC010414_825279" num="1" wdcount="1"> 825279 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="02AC010414_825279" num="2" wdcount="1">02AC010414_825279</s>
+</FILEID>
+
+<HEAD>
+<s docid="02AC010414_825279" num="3" wdcount="14"> La mitad de casos de herpes zóster se registran en mayores de 60 años </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="02AC010414_825279" num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="02AC010414_825279" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="02AC010414_825279" num="6" wdcount="53"> Geriatras de Colombia y Brasil, participantes en el V Congreso Panamericano de Geriatría y Gerontología, que se realizó en esta ciudad, recomendaron a las familias y a las instituciones de salud de América Latina discutir sobre la necesidad de aplicar a las personas mayores de 60 años la vacuna contra el herpes zóster</s>
+<s docid="02AC010414_825279" num="7" wdcount="64"> Rosanna Ritchman, ex presidenta de la Sociedad Paulista de Infectología, de Brasil, y Carlos Cano, jefe del Departamento de Geriatría del Hospital Universitario San Ignacio, de Bogotá, Colombia, explicaron a Crónica que millones de adultos de la tercera edad padecen dolores intensos provocados por infecciones del virus Variccella Zóster, causante del herpes zóster, que es diferente al herpes común que afecta a los genitales</s>
+<s docid="02AC010414_825279" num="8" wdcount="26"> El herpes zóster que daña el sistema nervioso periférico y puede generar ardores que duran más de un año e incluso se prolongan toda la vida</s>
+<s docid="02AC010414_825279" num="9" wdcount="34"> Este virus es el mismo que provoca la varicela por lo que cualquier persona que haya padecido esa enfermedad tiene algunos de esos virus, en estado latente o en reposo, alojados en los ganglios</s>
+<s docid="02AC010414_825279" num="10" wdcount="16"> Cuando el sistema de defensas o inmune se debilita, vuelven a activarse y agreden al cuerpo</s>
+<s docid="02AC010414_825279" num="11" wdcount="17"> Los pacientes geriátricos son víctimas frecuentes del herpes zóster porque su sistema de defensas disminuye su fuerza</s>
+<s docid="02AC010414_825279" num="12" wdcount="20"> “Cuando uno tuvo varicela creó ciertos anticuerpos que mantienen controlado al virus del herpes zóster, aunque esté en el organismo</s>
+<s docid="02AC010414_825279" num="13" wdcount="52"> Pero esos anticuerpos van declinando con la edad debido a un proceso que se llama “inmuno-senecencia” y en la medida que el sistema inmunológico va disminuyendo su efectividad, a partir de los 50 años, estos virus se vuelven a activar”, detalló en entrevista el doctor Cano Gutiérrez, del Hospital Universitario San Ignacio</s>
+<s docid="02AC010414_825279" num="14" wdcount="45"> Según los Centros para la Prevención y Control de Enfermedades, de Estados Unidos, (CDC por sus siglas en inglés) de todos los casos reportados de herpes zóster la mitad ocurren en personas mayores de 60 años, debido a que su sistema inmune comienza a debilitarse</s>
+<s docid="02AC010414_825279" num="15" wdcount="38"> Esta infección provoca erupciones en la piel, en la mitad del cuerpo, pero también inflamación e irritación que dañan los ojos y dolores que hacen sentir el contacto con objetos como si se tratara de quemaduras con fuego</s>
+<s docid="02AC010414_825279" num="16" wdcount="1"> VACUNACIÓN</s>
+<s docid="02AC010414_825279" num="17" wdcount="29"> De las nueve vacunas que actualmente existen para aplicar a adultos mayores —por ejemplo contra influenza, neumococo, hepatitis, entre otras— la vacuna contra herpes zóster es la más nueva</s>
+<s docid="02AC010414_825279" num="18" wdcount="15"> En la mayoría de los países tiene menos de un año de haber sido autorizada</s>
+<s docid="02AC010414_825279" num="19" wdcount="17"> “Un problema que vemos muy claro en América Latina es la baja cobertura de vacunación de adultos</s>
+<s docid="02AC010414_825279" num="20" wdcount="24"> Cuando uno habla de vacunación siempre piensa en niños, pero hay otros grupos vulnerables en los que no pensamos, que son los adultos mayores</s>
+<s docid="02AC010414_825279" num="21" wdcount="38"> La falta de protección a esas otras personas vulnerables parte de un hecho concreto: falta información sobre qué es la vacunación para adultos, cuáles son las vacunas que existen y quiénes las podrían recibir”, dijo la doctora Ritchman</s>
+<s docid="02AC010414_825279" num="22" wdcount="39"> En el V Congreso Panamericano de Geriatría y Gerontología, que reúne a 500 expertos en salud y derechos de los adultos mayores del continente americano, se describió cómo el herpes zóster provoca un daño del nervio llamado neuralgia postherpética</s>
+<s docid="02AC010414_825279" num="23" wdcount="9"> Ésta se traduce en “dolor severo, lacerante y punzante”</s>
+<s docid="02AC010414_825279" num="24" wdcount="26"> Por lo anterior afirmaron que, desde un punto de vista conceptual, “la vacuna contra ese patógeno ya es considerada como “la primera vacuna contra el dolor”</s>
+<s docid="02AC010414_825279" num="25" wdcount="27"> Añadieron que la vacunación no sólo debe proteger contra la muerte sino contra deterioros que tiran por el suelo la calidad de vida de los adultos mayores.</s>
+
+
+</TEXT>
+
+</DOC>

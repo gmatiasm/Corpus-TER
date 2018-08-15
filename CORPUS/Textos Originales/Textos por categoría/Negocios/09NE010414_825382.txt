@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="09NE010414_825382" num="1" wdcount="1"> 825382 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="09NE010414_825382" num="2" wdcount="1">09NE010414_825382</s>
+</FILEID>
+
+<HEAD>
+<s docid="09NE010414_825382" num="3" wdcount="10"> Se mantiene dólar en $13.35 en bancos del Distrito Federal </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="09NE010414_825382" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="09NE010414_825382" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="09NE010414_825382" num="6" wdcount="45"> Al inicio de las operaciones en sucursales bancarias de la capital mexicana, el dólar se cotiza hasta en 13.35 pesos, por lo que no registra variación alguna respecto del cierre de la jornada cambiaria de ayer, y se compra en un mínimo de 12.51 pesos</s>
+<s docid="09NE010414_825382" num="7" wdcount="31"> En tanto, el euro avanza un centavo frente a la moneda mexicana, para venderse en un máximo de 18.26 pesos; mientras que el yen se oferta en 0.128 pesos por unidad</s>
+<s docid="09NE010414_825382" num="8" wdcount="46"> Banco Base estimó que el peso podría enfrentar ligeras presiones a la baja frente al dólar por la publicación de indicadores económicos durante la semana, mismos que darán señal sobre el desempeño económico de Estados Unidos, principalmente la nómina no agrícola de marzo el próximo viernes</s>
+<s docid="09NE010414_825382" num="9" wdcount="47"> Señaló que hace unos momentos, en Estados Unidos, se dio a conocer el indicador ISM manufacturero de marzo, el cual detalla una ligera desaceleración en dicho sector, relajando la especulación con respecto a la política monetaria de la Reserva Federal y favoreciendo al peso de manera temporal</s>
+<s docid="09NE010414_825382" num="10" wdcount="19"> A su vez, estimó que el tipo de cambio para este día oscile entre los 13.03 y 13.11 pesos</s>
+<s docid="09NE010414_825382" num="11" wdcount="34"> El Banco de México (Banxico) informó en el Diario Oficial de la Federación (DOF) que el tipo de cambio para solventar obligaciones en moneda extranjera pagaderas en la República Mexicana es de 13.0549 pesos</s>
+<s docid="09NE010414_825382" num="12" wdcount="42"> El instituto central fijó las tasas de Interés Interbancarias de Equilibrio (TIIE) a 28 y 91 en 3.8150 y 3.8100 por ciento, es decir una disminución de 0.0025 y 0.0020 puntos porcentuales de manera respectiva respecto a la sesión de la víspera.</s>
+
+
+</TEXT>
+
+</DOC>

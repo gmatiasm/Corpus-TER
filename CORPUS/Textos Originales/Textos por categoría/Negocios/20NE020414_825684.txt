@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="20NE020414_825684" num="1" wdcount="1"> 825684 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="20NE020414_825684" num="2" wdcount="1">20NE020414_825684</s>
+</FILEID>
+
+<HEAD>
+<s docid="20NE020414_825684" num="3" wdcount="7"> Bolsa Mexicana cierra con ganancia de 1.06% </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="20NE020414_825684" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="20NE020414_825684" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="20NE020414_825684" num="6" wdcount="31"> La Bolsa Mexicana de Valores (BMV) continuó este miércoles con su tendencia positiva, al ganar 1.06 por ciento, en línea con los mercados de Estados Unidos impulsados por datos económicos favorables</s>
+<s docid="20NE020414_825684" num="7" wdcount="26"> Así, el Índice de Precios y Cotizaciones (IPC) concluyó la sesión con un avance de 430.52, con lo que se ubicó en 40 mil 900.53 unidades</s>
+<s docid="20NE020414_825684" num="8" wdcount="39"> En la sesión de este miércoles en la BMV se operó un volumen de 376.7 millones de acciones por un importe de 12 mil 273.2 millones de pesos, donde 48 emisoras ganaron, 48 perdieron y ocho permanecieron sin variación</s>
+<s docid="20NE020414_825684" num="9" wdcount="30"> En Wall Street, el Dow Jones reportó un avance de 0.24 por ciento, el tecnológico Nasdaq subió 0.20 por ciento y el Standard and Poor´s 500 avanzó 0.29 por ciento</s>
+<s docid="20NE020414_825684" num="10" wdcount="38"> En este sentido, la casa de bolsa GMB indicó que los mercados estadounidenses fueron impulsados por los datos de nómina ADP, así como las órdenes de fábrica en ese país, los cuales estuvieron por encima de los estimados</s>
+<s docid="20NE020414_825684" num="11" wdcount="38"> De acuerdo con el reporte de la firma, en marzo se crearon 191 mil nuevos empleos privados en Estados Unidos, por encima de los 178 mil empleos del periodo anterior, pero menor a lo esperado por el conceso</s>
+<s docid="20NE020414_825684" num="12" wdcount="54"> Al respecto, Banco Base indicó que esta noticia alimentó la especulación sobre la posibilidad de datos oficiales positivos acerca del mercado laboral que se darán a conocer durante la presente semana, los cuales fortalecerían la probabilidad de que la Reserva Federal (Fed) continúe con su actual ritmo de recorte en sus compras de bonos</s>
+<s docid="20NE020414_825684" num="13" wdcount="54"> “De igual manera, las órdenes de fábrica del citado país mostraron su mayor incremento desde noviembre del año pasado, avanzando 1.6 por ciento durante febrero en contraste con enero, elevando el ánimo de los inversionistas e incrementando la certeza acerca de que la baja actividad económica de principios del trimestre corresponde al mal clima”</s>
+<s docid="20NE020414_825684" num="14" wdcount="43"> En México, se dio a conocer que el mes pasado el Indicador de Pedidos Manufactureros (IPM) presentó un descenso mensual de 0.18 puntos respecto al mes previo, al situarse en 52.1 puntos, de acuerdo con el Instituto Nacional de Estadística y Geografía (INEGI)</s>
+<s docid="20NE020414_825684" num="15" wdcount="42"> Cifras del organismo revelan que el IPM suma 55 meses consecutivos ubicándose por encima del umbral de 50 puntos; mientras que con cifras ajustadas por estacionalidad al interior del indicador se observó aumento en cuatro de sus componentes y retroceso de uno.</s>
+
+
+</TEXT>
+
+</DOC>

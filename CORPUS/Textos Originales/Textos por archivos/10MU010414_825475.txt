@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="10MU010414_825475" num="1" wdcount="1"> 825475 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="10MU010414_825475" num="2" wdcount="1">10MU010414_825475</s>
+</FILEID>
+
+<HEAD>
+<s docid="10MU010414_825475" num="3" wdcount="13"> Aprueba el Congreso de EU paquete de ayuda de mil mdd a Ucrania </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="10MU010414_825475" num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="10MU010414_825475" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="10MU010414_825475" num="6" wdcount="34"> La Cámara de Representantes de Estados Unidos se sumó hoy al Senado para aprobar por abrumadora mayoría un paquete de asistencia de mil millones de dólares para Ucrania, así como algunas sanciones para Rusia</s>
+<s docid="10MU010414_825475" num="7" wdcount="33"> Con una votación de 378-92 la Cámara Baja estadunidense bajo control republicano envió el proyecto a la Casa Blanca, por lo que sólo resta la promulgación oficial por parte del presidente Barack Obama</s>
+<s docid="10MU010414_825475" num="8" wdcount="40"> “La ley nos permitirá proveer apoyo crucial a Ucrania a través de garantías crediticias que facilitarán el acceso al financiamiento necesario, a fin de que Ucrania tome los pasos esenciales para restaurar la estabilidad económica”, señaló el portavoz Jay Carney</s>
+<s docid="10MU010414_825475" num="9" wdcount="21"> Asimismo, se comprometió a trabajar con otros países para apoyar al pueblo ucraniano en lo que calificó como un “momento crítico”</s>
+<s docid="10MU010414_825475" num="10" wdcount="28"> La iniciativa de ley excluyó sin embargo el tema de la reforma del Fondo Monetario Internacional (FMI), luego de presiones de los republicanos de la Cámara de Representantes</s>
+<s docid="10MU010414_825475" num="11" wdcount="46"> La Casa Blanca señaló que continuará instando a los republicanos y al Congreso a suspender el bloqueo a las reformas del FMI para asegurarse de que cuente con los recursos para cumplir su misión, así como para expandir el apoyo a Ucrania y a otros países</s>
+<s docid="10MU010414_825475" num="12" wdcount="22"> La iniciativa de ley aprueba asimismo sanciones adicionales contra ciudadanos rusos y ucranianos que tuvieron posiciones clave en la intervención de Crimea.</s>
+
+
+</TEXT>
+
+</DOC>

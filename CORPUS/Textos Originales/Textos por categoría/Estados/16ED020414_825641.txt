@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="16ED020414_825641" num="1" wdcount="1"> 825641 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="16ED020414_825641" num="2" wdcount="1">16ED020414_825641</s>
+</FILEID>
+
+<HEAD>
+<s docid="16ED020414_825641" num="3" wdcount="9"> Sur de Sonora registra 37 grados a la sombra </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="16ED020414_825641" num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="16ED020414_825641" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="16ED020414_825641" num="6" wdcount="32"> La Comisión Nacional del Agua (Conagua) informó que la temperatura máxima alcanzada en Sonora durante las últimas horas fue de 37 grados centígrados a la sombra en el sur de la entidad</s>
+<s docid="16ED020414_825641" num="7" wdcount="41"> El Organismo Cuenca Noroeste de la Conagua indicó en su reporte meteorológico diario que el registro más alto se presentó en la estación climatológica de la comunidad de San Bernardo, en el serrano municipio de Álamos, al sur del territorio sonorense</s>
+<s docid="16ED020414_825641" num="8" wdcount="30"> Asimismo, se reportaron 36.3 grados en El Cubil, 35.9 en la presa “El Novillo”, 35.5 en El Orégano II, 35 en Tezocoma y 34.5 grados a la sombra en Cocoraque</s>
+<s docid="16ED020414_825641" num="9" wdcount="24"> Las temperaturas mínimas de hoy fueron de 0.5 grados en Yécora, 1 en Bacanuchi, 4 en Arizpe, 4.5 en Ímuris y 5 en Querobabi</s>
+<s docid="16ED020414_825641" num="10" wdcount="37"> El frente frío número 48 se debilitó a un canal de baja presión, que se extiende sobre el norte de Baja California y Sonora, se espera que se intensifique de nuevo a frente frío durante el día</s>
+<s docid="16ED020414_825641" num="11" wdcount="37"> El fenómeno se asociará con un canal de baja presión y con la corriente en chorro, lo que ocasionará nublados con potencial de precipitaciones escasas, descenso de temperatura y viento de moderado a fuerte en la entidad</s>
+<s docid="16ED020414_825641" num="12" wdcount="18"> Se estiman rachas de viento mayores a los 60 kilómetros por hora en las regiones norte y oriente</s>
+<s docid="16ED020414_825641" num="13" wdcount="39"> El ambiente continuará muy frío al amanecer en las regiones norte y oriente y con temperaturas mínimas por debajo de 5 grados en las sierras más elevadas, mientras que en el día seguirán registrándose temperaturas máximas mayores 30 grados</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+
+<DOCNO>
+<s docid="03NA010414_825321" num="1" wdcount="1"> 825321 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="03NA010414_825321" num="2" wdcount="1">03NA010414_825321</s>
+</FILEID>
+
+<HEAD>
+<s docid="03NA010414_825321" num="3" wdcount="9"> Detienen a banda que asaltaba camiones repartidores en Atizapán </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="03NA010414_825321" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="03NA010414_825321" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="03NA010414_825321" num="6" wdcount="34"> Policías de Atizapán de Zaragoza capturaron en la colonia Emiliano Zapata a tres integrantes de una banda dedicada al robo de camiones repartidores de productos alimenticios, que operaban en la zona norte del municipio</s>
+<s docid="03NA010414_825321" num="7" wdcount="54"> Los hechos ocurrieron cuando el conductor de un camión de la empresa Danone, placas de circulación KZ24948, circulaba en las inmediaciones de la colonia Ampliación Emiliano Zapata, donde fue interceptado por los tripulantes de un automóvil Mini Cooper negro, quienes lo obligaron a seguir su ruta hasta que juntara una cantidad grande de dinero</s>
+<s docid="03NA010414_825321" num="8" wdcount="30"> Al llegar a una tienda para continuar con el reparto de productos, una cliente del lugar se percató de lo que ocurría y puso en alerta a la policía municipal</s>
+<s docid="03NA010414_825321" num="9" wdcount="21"> En tanto, después de despojar del dinero en efectivo al repartidor, los presuntos se dieron a la fuga en distintas direcciones</s>
+<s docid="03NA010414_825321" num="10" wdcount="63"> Los uniformados del Sector 4 de inmediato iniciaron la búsqueda de la unidad y el vehículo negro por las inmediaciones y en la avenida principal de la colonia Emiliano Zapata, se logró ubicar al Mini Cooper y detuvieron al conductor quien dijo llamarse José Israel Arellano Blanques de 36 años de edad, con domicilio en el municipio de Nicolás Romero, quien viajaba solo</s>
+
+
+</TEXT>
+
+</DOC>

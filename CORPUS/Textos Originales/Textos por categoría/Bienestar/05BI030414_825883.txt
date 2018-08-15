@@ -1,0 +1,62 @@
+<DOC>
+
+<DOCNO>
+<s docid="05BI030414_825883" num="1" wdcount="1"> 825883 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="05BI030414_825883" num="2" wdcount="1">05BI030414_825883</s>
+</FILEID>
+
+<HEAD>
+<s docid="05BI030414_825883" num="3" wdcount="7"> Hígado graso, precursor de la insuficiencia cardiaca </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="05BI030414_825883" num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="05BI030414_825883" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="05BI030414_825883" num="6" wdcount="24"> La obesidad, el síndrome metabólico y más recientemente la microbiota han surgido todos como temas de interés en el ámbito de la patología gastrointestinal</s>
+<s docid="05BI030414_825883" num="7" wdcount="26"> Estos padecimientos promueven la patogénesis de la esteatohepatitis no alcohólica (EHNA), una inflamación grasa del hígado y un problema relacionado con la alta morbilidad y mortalidad</s>
+<s docid="05BI030414_825883" num="8" wdcount="18"> El interés público por el tema y el conocimiento en torno a esta enfermedad se ha elevado considerablemente</s>
+<s docid="05BI030414_825883" num="9" wdcount="25"> Su gran prevalencia en todo el mundo la coloca como la enfermedad hepática más común que existe y las proyecciones indican que seguirá en aumento</s>
+<s docid="05BI030414_825883" num="10" wdcount="29"> México es un país donde los especialistas están especialmente al tanto de estos datos, dado que estudios recientes señalan que la población mexicana es sumamente susceptible a la enfermedad</s>
+<s docid="05BI030414_825883" num="11" wdcount="30"> Hoy en día, la obesidad y sus complicaciones son las principales causas de muerte en el mundo y en los últimos 30 años, su prevalencia ha ido constantemente al alza</s>
+<s docid="05BI030414_825883" num="12" wdcount="7"> En México, el problema es aún mayor</s>
+<s docid="05BI030414_825883" num="13" wdcount="39"> Según la Encuesta Nacional de Salud y Nutrición 2012 (ENSANUT), una tercera parte de todos los adolescentes entre las edades de 12 a 19 años y el 70 por ciento de todos los adultos son obesos o presentan sobrepeso</s>
+<s docid="05BI030414_825883" num="14" wdcount="12"> La causa principal de esta condición son los malos hábitos de salud</s>
+<s docid="05BI030414_825883" num="15" wdcount="23"> Generalmente, la esteatohepatitis no alcohólica es una condición silenciosa – en un principio, son pocos los síntomas que se manifiestan, a veces ninguno</s>
+<s docid="05BI030414_825883" num="16" wdcount="41"> En ocasiones el paciente puede tener algún dolor en la parte superior derecha del abdomen, y un estudio físico puede revelar un aumento en el tamaño del hígado o decoloración de la piel alrededor del cuello y las axilas (acantosis pigmentaria)</s>
+<s docid="05BI030414_825883" num="17" wdcount="37"> A medida que va progresando la enfermedad el paciente puede llegar a desarrollar los síntomas de una cirrosis hepática, y problemas como fatiga, debilidad e ictericia (cuando los ojos o la piel se tornan de color amarillento)</s>
+<s docid="05BI030414_825883" num="18" wdcount="69"> No obstante, muchas de las personas con esta condición, padecen de síndrome metabólico, que engloba toda una variedad de factores como cintura ancha (en hombres más de 100 centímetros y en mujeres más de 89), presión arterial elevada, niveles altos de triglicéridos y resistencia ante la insulina, que a su vez aumentan el riesgo de un ataque al corazón, un accidente cerebrovascular y la incidencia de diabetes tipo 2</s>
+<s docid="05BI030414_825883" num="19" wdcount="23"> “Muchas personas con esteatohepatitis no alcohólica son más propensas a morir por un ataque al corazón que por cirrosis hepática”, explicó el Dr</s>
+<s docid="05BI030414_825883" num="20" wdcount="11"> Howard Monsour, jefe de hepatología en el Hospital Metodista de Houston</s>
+<s docid="05BI030414_825883" num="21" wdcount="44"> “El ejercicio vigoroso, como es el caso del levantamiento de pesas, la natación, correr o hacer ejercicios aeróbicos, entre 75 y 150 minutos a la semana a una frecuencia cardíaca de 120+ latidos son todos elementos que ayudan a hacerle frente a este problema</s>
+<s docid="05BI030414_825883" num="22" wdcount="25"> Con perder un 12 por ciento del peso actual, sin importar el peso de partida de la persona, puede además eliminar la grasa del hígado”</s>
+<s docid="05BI030414_825883" num="23" wdcount="30"> El especialista agregó, “aquí la clave es descubrir el problema a tiempo, ya que así se puede ayudar a evitar la cirrosis hepática, la fibrosis y la diabetes tipo 2</s>
+<s docid="05BI030414_825883" num="24" wdcount="25"> Si un paciente no recibe esta evaluación, puede resultar con problemas hepáticos, cáncer del hígado, enfermedades cardiacas, accidentes cerebrovasculares y esencialmente una vida sumamente complicada”</s>
+<s docid="05BI030414_825883" num="25" wdcount="25"> En el Hospital Metodista de Houston, el Centro para las Enfermedades Hepáticas y Trasplantes ofrece atención de primer nivel a pacientes con problemas del hígado</s>
+<s docid="05BI030414_825883" num="26" wdcount="19"> Un equipo de expertos atiende a cada paciente individualmente para dar tratamiento a todos los aspectos de sus padecimientos</s>
+<s docid="05BI030414_825883" num="27" wdcount="28"> Mediante programas de investigación y clínicos innovadores, los especialistas y el equipo del Centro están totalmente comprometidos a extender las indicaciones para el buen tratamiento de estas enfermedades</s>
+<s docid="05BI030414_825883" num="28" wdcount="35"> Aunque el mercado de la salud cambie, la educación médica debe continuar De acuerdo a datos proporcionados por el INEGI, en México existen 202,160 médicos de primer contacto que están en riesgo de quedarse obsoletos</s>
+<s docid="05BI030414_825883" num="29" wdcount="87"> “El mercado de la salud en México cambió en los últimos años y esto impactará a la educación médica continua (EMC), especialmente la dirigida a los médicos de primer contacto, población en México de aproximadamente 202,160 médicos, de acuerdo a datos del INEGI en 2011, quienes de no continuar preparándose quedarán rezagados”, señaló Ángel Vázquez, director general de LiveMed ante más de 500 médicos de primer contacto en evento celebrado en la Ciudad de México, y agregó: “Un médico que no se actualiza constantemente se vuelve obsoleto”</s>
+<s docid="05BI030414_825883" num="30" wdcount="68"> Los principales cambios se deben a que ahora muchos pacientes pagan menos por la atención de diversos padecimientos debido a que en el país 7 de cada 10 medicamentos que se prescriben son genéricos, aunado a esto se presenta un mayor intercambio de recetas en las farmacias y la población en general tiende a automedicarse, basándose en información que consulta en internet o a través de la televisión</s>
+<s docid="05BI030414_825883" num="31" wdcount="64"> Anteriormente, “la industria farmacéutica era el principal motor de este tipo de educación, dichas empresas se han visto orilladas a reorientar recursos, hoy se enfocan en los médicos especialistas y en el desarrollo de productos innovadores, cuya labor ha sido invaluable a lo largo de la historia en el desarrollo de nuevas moléculas para el cuidado de la salud y preservación de la vida”</s>
+<s docid="05BI030414_825883" num="32" wdcount="97"> Ante este panorama, LiveMed, compañía de actualización médica continua, nacida hace 13 años como una plataforma acorde a las necesidades de los médicos de primer contacto, ofreció no quedarse sin hacer nada, hizo un llamado a los médicos de primer contacto a seguir trabajando de la mano, esto a través de opciones costo-efectivas para que puedan mantenerse vigentes a través de la educación médica continua, pero bajo un esquema más libre, que salvaguarde el nivel académico y la libertad de cátedra, al tiempo que busque mantener el modelo de certificación médica que viene cada vez más fuerte</s>
+<s docid="05BI030414_825883" num="33" wdcount="25"> La solución está en los programas de capacitación en línea, los cuales LiveMed se compromete a desarrollar y a poner al alcance de los médicos</s>
+<s docid="05BI030414_825883" num="34" wdcount="37"> “La manera en que los médicos pueden defenderse ante los cambios es estar preparados, ser buenos médicos, y esto se logrará al invertir en educación como se hace en otras profesiones”, finalizó el director general de LiveMed</s>
+<s docid="05BI030414_825883" num="35" wdcount="63"> Acerca de LiveMed Organización Latinoamericana que durante más de 13 años ha impartido educación médica de calidad mundial a profesionales de la salud en México, Latinoamérica y España, y en este tiempo ha desarrollado más de 1,500 cursos de capacitación y actualización médica, así como Foros Internacionales Médicos con contenidos académicos de primer nivel impartidos por líderes de opinión y académicos reconocidos internacionalmente</s>
+<s docid="05BI030414_825883" num="36" wdcount="20"> Todos los programas desarrollados por LiveMed son avalados por las más prestigiadas instituciones académicas y de salud a nivel internacional</s>
+<s docid="05BI030414_825883" num="37" wdcount="83"> LiveMed es también el organizador de ExpoMed, exposición internacional única en México, la cual víncula a profesionales de la salud con el sector de la proveeduría Médica Hospitalaria y para Farmacias, y que en 2014 realizará su 6ta edición; así como de Expo Salud y Bienestar, exposición enfocada en apoyar a la detección oportuna de padecimientos, ofrecer opciones y seguimiento puntual sobre salud, nutrición, fitness y belleza a cada uno de los visitantes que asistan a este foro sin precedente a nivel nacional.</s>
+
+
+</TEXT>
+
+</DOC>

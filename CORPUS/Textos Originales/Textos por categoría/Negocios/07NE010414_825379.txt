@@ -1,0 +1,36 @@
+<DOC>
+
+<DOCNO>
+<s docid="07NE010414_825379" num="1" wdcount="1"> 825379 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="07NE010414_825379" num="2" wdcount="1">07NE010414_825379</s>
+</FILEID>
+
+<HEAD>
+<s docid="07NE010414_825379" num="3" wdcount="11"> Aumenta en marzo actividad del sector de la manufactura de EU </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="07NE010414_825379" num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="07NE010414_825379" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="07NE010414_825379" num="6" wdcount="43"> La actividad del sector de la manufactura en Estados Unidos aumentó en marzo, con lo que sumó 10 meses consecutivos de incrementos, de acuerdo con el índice difundido hoy por el Instituto para la Administración del Abasto (ISM, por sus siglas en inglés)</s>
+<s docid="07NE010414_825379" num="7" wdcount="23"> El índice se ubicó en marzo en 53.7 por ciento, un repunte de 0.5 puntos porcentuales respecto del 53.2 por ciento de febrero</s>
+<s docid="07NE010414_825379" num="8" wdcount="16"> Una lectura por encima de los 50 puntos porcentuales significa expansión en la actividad del sector</s>
+<s docid="07NE010414_825379" num="9" wdcount="39"> Bradley Holcomb, director del comité de encuestas del ISM, indicó que muchos de los comentarios de los industriales tomados en cuenta para el índice reflejaron una favorable demanda y buenas condiciones para hacer negocios durante el mes de marzo</s>
+<s docid="07NE010414_825379" num="10" wdcount="30"> Holcomb manifestó que el optimismo prevaleció entre los encuestados pese a que aún se registraban preocupaciones respecto del clima particularmente adverso que afectó durante el invierno a todo Estados Unidos</s>
+<s docid="07NE010414_825379" num="11" wdcount="34"> Catorce de los 18 subsectores tomados en cuenta para el índice registraron incrementos en marzo, encabezados por los productos de petróleo y carbón, el equipo de transportación, y el mobiliario y los artículos relacionados.</s>
+
+
+</TEXT>
+
+</DOC>

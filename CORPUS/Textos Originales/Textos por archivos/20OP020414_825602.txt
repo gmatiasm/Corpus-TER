@@ -1,0 +1,65 @@
+<DOC>
+
+<DOCNO>
+<s docid="20OP020414_825602" num="1" wdcount="1"> 825602 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="20OP020414_825602" num="2" wdcount="1">20OP020414_825602</s>
+</FILEID>
+
+<HEAD>
+<s docid="20OP020414_825602" num="3" wdcount="3"> Lo que sigue </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="20OP020414_825602" num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="20OP020414_825602" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+<s docid="20OP020414_825602" num="6" wdcount="3"> Lo que sigue </s>
+<s docid="20OP020414_825602" num="7" wdcount="7"> ¿Y después de Los Caballeros Templarios, qué? </s>
+<s docid="20OP020414_825602" num="8" wdcount="11"> La historia de este grupo criminal se acerca a su fin</s>
+<s docid="20OP020414_825602" num="9" wdcount="7"> Se le recordará con horror y vergüenza</s>
+<s docid="20OP020414_825602" num="10" wdcount="12"> El gobierno federal ha conseguido detener o eliminar a sus jefes principales</s>
+<s docid="20OP020414_825602" num="11" wdcount="9"> Del grupo sólo quedará, se espera, un recuerdo amargo</s>
+<s docid="20OP020414_825602" num="12" wdcount="12"> No se regatea un reconocimiento a la acción eficaz de las instituciones</s>
+<s docid="20OP020414_825602" num="13" wdcount="19"> La fuerza del Estado no tiene rival en el país cuando se aplica con determinación, sin complacencias ni complicidades</s>
+<s docid="20OP020414_825602" num="14" wdcount="20"> El anhelo popular es que el lugar de Los Caballeros Templarios no lo ocupe otra banda criminal de nombre estrambótico</s>
+<s docid="20OP020414_825602" num="15" wdcount="8"> Que las instituciones llenen los vacíos de poder</s>
+<s docid="20OP020414_825602" num="16" wdcount="4"> De eso se trata</s>
+<s docid="20OP020414_825602" num="17" wdcount="22"> De salida Que el poder de los criminales se achique en Michoacán no supone que crezca el de los grupos de autodefensa</s>
+<s docid="20OP020414_825602" num="18" wdcount="18"> Al contrario, conforme caen jefes criminales y la banda se repliega procede acelerar la desmovilización de las autodefensas</s>
+<s docid="20OP020414_825602" num="19" wdcount="14"> Que grupos de ciudadanos armados deambulen por los caminos de Michoacán es un peligro</s>
+<s docid="20OP020414_825602" num="20" wdcount="18"> Ya se vio que le están agarrando cariño a imponer su voluntad por la fuerza de las armas</s>
+<s docid="20OP020414_825602" num="21" wdcount="11"> Los líderes de los grupos de autodefensa no son autoridades legales</s>
+<s docid="20OP020414_825602" num="22" wdcount="9"> Constituyen una anomalía que lacera al Estado de Derecho</s>
+<s docid="20OP020414_825602" num="23" wdcount="27"> Si esos líderes quieren el poder político que se afilien a algún partido para competir en elecciones y, sobre todo, primero que nada, que dejen las armas</s>
+<s docid="20OP020414_825602" num="24" wdcount="20"> Fonatur El Fondo Nacional de Fomento al Turismo cumple 40 años de apoyar a la infraestructura turística en el país</s>
+<s docid="20OP020414_825602" num="25" wdcount="17"> Decir que Fonatur desarrolla centros turísticos integralmente planeados es una descripción verdadera, pero que se queda corta</s>
+<s docid="20OP020414_825602" num="26" wdcount="8"> Fonatur ha construido ciudades, polos de desarrollo regional</s>
+<s docid="20OP020414_825602" num="27" wdcount="23"> Ahí están los casos de Cancún y Los Cabos que eran pueblos de pescadores y hoy son emporios de la industria de viajes</s>
+<s docid="20OP020414_825602" num="28" wdcount="9"> Ha tenido, como cualquier otra institución, triunfos y reveses</s>
+<s docid="20OP020414_825602" num="29" wdcount="10"> El saldo es favorable y todavía puede hacer mucho más</s>
+<s docid="20OP020414_825602" num="30" wdcount="20"> Cancelar un timbre postal conmemorativo es sólo el principio de una celebración mayor de los logros y desafíos de Fonatur</s>
+<s docid="20OP020414_825602" num="31" wdcount="18"> El siguiente escalón El compromiso del gobierno federal con la seguridad en el Estado de México se afianza</s>
+<s docid="20OP020414_825602" num="32" wdcount="18"> Después de los posicionamientos del gobernador Ávila y del secretario Osorio Chong, el compromiso subió al siguiente escalón</s>
+<s docid="20OP020414_825602" num="33" wdcount="20"> El propio presidente Peña Nieto reafirmó su compromiso para desplegar un trabajo coordinado para reforzar la seguridad en la entidad</s>
+<s docid="20OP020414_825602" num="34" wdcount="29"> Es cierto que los operativos en Michoacán han tenido resonancias negativas en municipios fronterizos del Estado de México, pero también es verdad que los narcomenudistas han intensificado sus acciones violentas</s>
+<s docid="20OP020414_825602" num="35" wdcount="14"> La sociedad mexiquense debe sumarse al esfuerzo gubernamental para que sea un movimiento colectivo</s>
+<s docid="20OP020414_825602" num="36" wdcount="13"> El dinero El gobierno de la ciudad de México reaccionó rápido y bien</s>
+<s docid="20OP020414_825602" num="37" wdcount="30"> Dijo que regresará a la Federación los casi quinientos millones de pesos que puso el gobierno federal para la construcción de la Línea 12 que no han podido ser justificados</s>
+<s docid="20OP020414_825602" num="38" wdcount="3"> Hasta ahí bien</s>
+<s docid="20OP020414_825602" num="39" wdcount="5"> Se desactiva un conflicto innecesario</s>
+<s docid="20OP020414_825602" num="40" wdcount="14"> Lo que sigue es saber, con lujo de detalle, qué paso con ese dinero</s>
+<s docid="20OP020414_825602" num="41" wdcount="9"> No se le puede dar vuelta a la hoja</s>
+<s docid="20OP020414_825602" num="42" wdcount="1"> pepegrillo@cronica.com.mx </s>
+
+</TEXT>
+
+</DOC>

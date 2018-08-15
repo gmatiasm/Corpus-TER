@@ -1,0 +1,36 @@
+<DOC>
+
+<DOCNO>
+<s docid="15NA010414_825339" num="1" wdcount="1"> 825339 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="15NA010414_825339" num="2" wdcount="1">15NA010414_825339</s>
+</FILEID>
+
+<HEAD>
+<s docid="15NA010414_825339" num="3" wdcount="11">  El gobierno y el PRI quieren quitarle dientes a reformas: PAN </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="15NA010414_825339" num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="15NA010414_825339" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="15NA010414_825339" num="6" wdcount="49"> La dirigencia nacional del PAN advirtió que el gobierno federal y el PRI pretenden “quitarle dientes y aniquilar en los hechos” reformas como la energética, de telecomunicaciones, así como la política-electoral al intentar aprobar leyes secundarias que respondan a la altura de las circunstancias por las que atraviesa México</s>
+<s docid="15NA010414_825339" num="7" wdcount="26"> Cecilia Romero, dirigente nacional del PAN, sostuvo que su partido no permitirá que el PRI pretenda minimizar esas reformas constitucionales y no dará pasos hacia atrás</s>
+<s docid="15NA010414_825339" num="8" wdcount="61"> “El Gobierno federal y el PRI tienen la intención de quitarle los dientes a las reformas, pero Acción Nacional está más que puesto para impedirlo, porque a través de la Constitución se lograron avances que no se veían en décadas en México y ahora no vamos a dar pasos hacia atrás porque el PRI no quiere continuar con estos cambios”, advirtió</s>
+<s docid="15NA010414_825339" num="9" wdcount="41"> Romero Castillo consideró que “nada bueno saldrá de las reformas estructurales” si éstas pretenden aniquilarse en los hechos, por lo que refrendó el compromiso de su partido para defender por encima de todo, las transformaciones profundas en beneficio de los mexicanos</s>
+<s docid="15NA010414_825339" num="10" wdcount="22"> Por no haberlas hecho antes –alertó— le costaron años de atraso al país, lo cual ya no pueden seguir costeando los mexicanos</s>
+<s docid="15NA010414_825339" num="11" wdcount="60"> Romero Castillo recordó que en el caso de la reforma político-electoral hay un plazo perentorio porque las elecciones de 2015 ya están a la vuelta de la esquina, y no se puede llegar al proceso electoral intermedio con leyes secundarias que no garanticen la equidad “sobre todo en las entidades de la República, donde se observa un claro atraso democrático”</s>
+<s docid="15NA010414_825339" num="12" wdcount="66"> En ese sentido aseveró que el PAN defenderá con todo la concepción del Instituto Nacional Electoral (INE) como única autoridad en la materia, en coordinación con los Organismos Públicos Locales; y pondrán especial cuidado en todo lo relacionado con los requisitos para candidaturas independientes, régimen de sanciones, fiscalización de partidos políticos y candidatos, el voto de los mexicanos en el exterior y el servicio profesional electoral</s>
+
+</TEXT>
+
+</DOC>

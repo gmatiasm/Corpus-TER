@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="19BI090414_827112" num="1" wdcount="1"> 827112 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="19BI090414_827112" num="2" wdcount="1">19BI090414_827112</s>
+</FILEID>
+
+<HEAD>
+<s docid="19BI090414_827112" num="3" wdcount="10"> Desarrollan prueba de sangre para detectar ADN presente en tumores </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="19BI090414_827112" num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="19BI090414_827112" num="5" wdcount="1"> 2014-04-09 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="19BI090414_827112" num="6" wdcount="21"> Científicos de la Universidad de Stanford buscan perfeccionar una prueba sanguínea para la detección de material genético presente en tumores cancerígenos</s>
+<s docid="19BI090414_827112" num="7" wdcount="38"> Un estudio publicado en la más reciente edición de la revista Nature Medicine presentó un método “ultrasensible” para cuantificar ADN (ácido desoxirribonucléico) que ha sido desprendido de tumores de cáncer de pulmón y termina en la corriente sanguínea</s>
+<s docid="19BI090414_827112" num="8" wdcount="38"> “El análisis del ADN circulante tiene el potencial de revolucionar la detección y el monitoreo de tumores”, indica el estudio realizado por el doctor Maximilian Diehn y colaboradores en la Escuela de Medicina de la Universidad de Stanford</s>
+<s docid="19BI090414_827112" num="9" wdcount="38"> Según el estudio, fue detectado el ADN circulante en el 100 por ciento de los pacientes con “células de cáncer de pulmón no pequeñas” y en el 50 por ciento en pacientes con cáncer en la primera etapa</s>
+<s docid="19BI090414_827112" num="10" wdcount="22"> La nueva tecnología “no invasiva” permite encontrar pequeñas cantidades de ADN y escanearlo para buscar mutaciones que están presentes en los tumores</s>
+<s docid="19BI090414_827112" num="11" wdcount="41"> Los autores indican que visualizan la aplicación de la tecnología de manera rutinaria en la clínica para detectar diversos tipos de ese padecimiento, así como para verificar si el tratamiento para combatirlo ha funcionado, facilitando la terapia contra el cáncer “personalizada”</s>
+<s docid="19BI090414_827112" num="12" wdcount="26"> La expectativa para la prueba hasta ahora en etapa experimental, es que se perfeccione para que la presencia de cáncer sea detectable en todos los casos</s>
+<s docid="19BI090414_827112" num="13" wdcount="29"> Reportes indican que los investigadores en Stanford y en otros centros de investigación están desarrollado pruebas para la detección de linfomas, cáncer de seno, de esófago y de páncreas</s>
+
+
+</TEXT>
+
+</DOC>

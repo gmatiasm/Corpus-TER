@@ -1,0 +1,38 @@
+<DOC>
+
+<DOCNO>
+<s docid="12SO050414_826299"num="1" wdcount="1"> 826299 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="12SO050414_826299"num="2" wdcount="1">12SO050414_826299</s>
+</FILEID>
+
+<HEAD>
+<s docid="12SO050414_826299"num="3" wdcount="10"> Busca ONG con arte mejorar la vida de personas sordas </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="12SO050414_826299"num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="12SO050414_826299"num="5" wdcount="1"> 2014-04-05 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="12SO050414_826299" num="6" wdcount="28"> La organización “Manik, Arte para Todos, AC” hizo su presentación oficial como un grupo que busca apoyar a las personas sordas en el ámbito social, laboral y educativo</s>
+<s docid="12SO050414_826299" num="7" wdcount="40"> Durante una conferencia de prensa, realizada en la Casa Cultural del Sordo, la organización urgió a los gobiernos en todos los niveles a poner atención a este grupo de la sociedad que sufre en muchas ocasiones exclusión social y discriminación</s>
+<s docid="12SO050414_826299" num="8" wdcount="44"> De acuerdo con esta organización de la sociedad civil, desatender a las personas sordas, que en total suman 649 mil 451 en el país, 45 mil en el Distrito Federal, merma sus oportunidades de desarrollo en ámbitos educativos, laborales, culturales y de espacios recreativos</s>
+<s docid="12SO050414_826299" num="9" wdcount="41"> Antonio Cruz, presidente de la asociación, declaró que Manik busca a través de propuestas creativas sensibilizar a la sociedad en general (sordos u oyentes) para desmentir la noción de que estas personas no son aptas para desarrollarse plenamente en la sociedad</s>
+<s docid="12SO050414_826299" num="10" wdcount="52"> “En MANIK apostamos a la creación de un mundo compuesto de muchos mundos, que reconozca y acepte su condición física de Sordo y su realidad social, por medio de propuestas creativas, recreativas y culturales, a través de la técnica de la improvisación en las áreas de teatro, artes plásticas, música y danza</s>
+<s docid="12SO050414_826299" num="11" wdcount="32"> MANIK busca sensibilizar a los participantes, Sordos u Oyentes, para modificar la noción de invalidez o imposibilidad que se adjudica a estas personas, por medio de la convivencia en espacios equitativos”, señaló</s>
+<s docid="12SO050414_826299" num="12" wdcount="29"> Al evento acudieron autoridades de la delegación Cuauhtémoc, quienes celebraron el trabajo que han realizado las organizaciones no gubernamentales para apoyar a las personas sordas o con otra discapacidad</s>
+<s docid="12SO050414_826299" num="13" wdcount="26"> Se comprometieron a buscar los espacios idóneos para que las actividades culturales se lleven a cabo, además de utilizar recursos para que el proyecto se fortalezca</s>
+
+
+</TEXT>
+
+</DOC>

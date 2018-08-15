@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="18SO070414_826643"num="1" wdcount="1"> 826643 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="18SO070414_826643"num="2" wdcount="1">18SO070414_826643</s>
+</FILEID>
+
+<HEAD>
+<s docid="18SO070414_826643"num="3" wdcount="8"> Líderes políticos se convierten en villanos de Disney </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="18SO070414_826643"num="4" wdcount="1"> Sociedad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="18SO070414_826643"num="5" wdcount="1"> 2014-04-07 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="18SO070414_826643" num="6" wdcount="22"> El controversial artista gráfico Saint Hoax retrató a trece líderes políticos como villanos de Disney en una serie de imágenes llamadas "Polivillains”</s></s>
+<s docid="18SO070414_826643" num="7" wdcount="121"> En su página de internet, el artista también conocido por convertir a los líderes políticos en “muñecas inflables”, presenta su serie con un fuerte “poema” “Érase una ardiente noche Cuando los izquierdistas tomaron la terrible derecha Y derechistas tomaron la malvada izquierda Agendas planeadas con absoluta habilidad Ojos sangrientos y sonrisa viciada Un largo camino pavimentado con el pecado Ellos no lanzan hechizos, ni tampoco respiran fuego Caracterizados como meticulosos mentirosos Intenciones ocultas tras el velo No hay nada mágico acerca de ese cuento Ellos cambian la página a un capítulo más oscuro Donde vivimos felices nunca jamás” En las imágenes destaca, el presidente de México, Enrique Peña Nieto, caracterizado como Gastón, el famoso villano de La Bella y la Bestia</s></s>
+<s docid="18SO070414_826643" num="8" wdcount="11"> Nicolás Maduro es el capitán Garfio venezolano, enemigo de Peter Pan</s></s>
+<s docid="18SO070414_826643" num="9" wdcoungt="20"> El líder norcoreano Kim Jong-un se convirtió en la reina de corazones de Alicia en el país de las maravillas</s></s>
+<s docid="18SO070414_826643" num="10" wdcount="13"> Vladimir Putin fue transformado en el villano de El Jorobado de Notre Dame</s></s>
+<s docid="18SO070414_826643" num="11" wdcount="19"> El presidente de Estados Unidos, Barack Obama como el brujo de magia negra de La princesa y el sapo</s></s>
+<s docid="18SO070414_826643" num="12" wdcount="7"> Dillma Rousseff es la madrastra de Cenicienta</s></s>
+<s docid="18SO070414_826643" num="13" wdcount="19"> Sarah Palin, líder estadunidense de los Republicanos, fue representada como Cruella De Vil, la famosa villana de 101 dálmatas</s></s>
+<s docid="18SO070414_826643" num="14" wdcount="19"> La difunta primera ministra de Reino Unido, Margaret Thatcher fue dibujada como la villana de Las Locuras del emperador</s>
+
+
+</TEXT>
+
+</DOC>

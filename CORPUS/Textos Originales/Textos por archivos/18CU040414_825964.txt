@@ -1,0 +1,69 @@
+<DOC>
+
+<DOCNO>
+<s docid="18CU040414_825964" num="1" wdcount="1"> 825964 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="18CU040414_825964" num="2" wdcount="1">18CU040414_825964</s>
+</FILEID>
+
+<HEAD>
+<s docid="18CU040414_825964" num="3" wdcount="10"> Hospitalizan al escritor Gabriel García Márquez; responde bien al tratamiento </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="18CU040414_825964" num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="18CU040414_825964" num="5" wdcount="1"> 2014-04-04 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="18CU040414_825964" num="6" wdcount="40"> El Nobel de Literatura Gabriel García Márquez se encuentra hospitalizado desde el 31 de marzo en el Instituto Nacional de Ciencias Médicas y Nutrición, Salvador Zubirán, por un cuadro de deshidratación y un proceso infeccioso pulmonar y de vías urinarias</s>
+<s docid="18CU040414_825964" num="7" wdcount="27"> La Secretaría de Salud confirmó el ingreso del autor de Cien años de soledad y, en un breve comunicado, señaló que “el paciente ha respondido al tratamiento</s>
+<s docid="18CU040414_825964" num="8" wdcount="10"> Una vez que complete sus antibióticos, se valorará su egreso”</s>
+<s docid="18CU040414_825964" num="9" wdcount="28"> Desde las primeras horas de ayer, medios nacionales e internacionales hacen guardia a las afueras del Instituto Nacional de Ciencias Médicas para conocer la evolución de García Márquez</s>
+<s docid="18CU040414_825964" num="10" wdcount="27"> En el lugar, pasado el mediodía, su hijo, Gonzalo García Barcha, dijo que Gabriel está consciente y podría ser dado de alta el próximo lunes o martes</s>
+<s docid="18CU040414_825964" num="11" wdcount="22"> “Le dio una pequeña infección hace unos días y preferimos traerlo al hospital porque es mayor (...) está evolucionando muy bien”, añade</s>
+<s docid="18CU040414_825964" num="12" wdcount="36"> Dijo que su padre está acompañado de su familia y que el autor de El amor en los tiempos del cólera, ingresó al hospital por un cuadro de “infección bronquial”, pero, aseguró, reacciona bien al tratamiento</s>
+<s docid="18CU040414_825964" num="13" wdcount="11"> Los mensajes de apoyo para el Nobel de Literatura fueron varios</s>
+<s docid="18CU040414_825964" num="14" wdcount="23"> El presidente de México, Enrique Peña Nieto, en un texto por Twitter, dijo que había sido informado de la hospitalización del autor colombiano</s>
+<s docid="18CU040414_825964" num="15" wdcount="16"> “Le deseo una pronta recuperación”, dijo Peña Nieto, que estuvo ayer de visita oficial en Panamá</s>
+<s docid="18CU040414_825964" num="16" wdcount="25"> En Colombia, el presidente Juan Manuel Santos deseó una pronta recuperación del Premio Nobel de Literatura 1982, el escritor “más grande de todos los tiempos”</s>
+<s docid="18CU040414_825964" num="17" wdcount="14"> “Nuestro país entero le desea una pronta recuperación, escribió en su cuenta de Twitter</s>
+<s docid="18CU040414_825964" num="18" wdcount="21"> Y en las redes sociales se abrieron las cuentas #FuerzaGabo y #GGM, donde miles de personas dan aliento al escritor colombiano</s>
+<s docid="18CU040414_825964" num="19" wdcount="2"> LA NOTICIA</s>
+<s docid="18CU040414_825964" num="20" wdcount="22"> Las primeras versiones de la hospitalización de Gabriel García Márquez fueron confusas y sin un diagnóstico oficial de la enfermedad que padece</s>
+<s docid="18CU040414_825964" num="21" wdcount="9"> Al paso de las horas, la información fue fluyendo</s>
+<s docid="18CU040414_825964" num="22" wdcount="35"> Su esposa, Mercedes Barcha, dijo que el ingreso de García Márquez al Instituto Nacional de Ciencias Médicas se debe a un “simple catarro”, pero se está recuperando y está en uno de los mejores hospitales</s>
+<s docid="18CU040414_825964" num="23" wdcount="22"> Mientras que Gonzalo García Barcha dijo que su padre “nunca estuvo en urgencias, sino en hospitalización normal y padece una infección bronquial”</s>
+<s docid="18CU040414_825964" num="24" wdcount="16"> Él se encuentra en un cuarto donde recibe “antibióticos como cualquier paciente con una infección así”</s>
+<s docid="18CU040414_825964" num="25" wdcount="32"> A las 19:20 horas, Gonzalo salió del hospital para dirigirse a su casa, pero dijo a los reporteros que mañana (hoy) informaría si hubiese algún cambio en la salud de su padre</s>
+<s docid="18CU040414_825964" num="26" wdcount="47"> Antes, los asistentes del autor colombiano, Mónica Alonso y Genovevo Quiroz, señalaron a los reporteros que hacen guardia que el estado de salud del autor de El amor en los tiempos del cólera, es el que se consigna en el comunicado que emitió la Secretaria de Salud</s>
+<s docid="18CU040414_825964" num="27" wdcount="16"> “Él está muy bien de salud, está estable y sus hijos lo acompañan”, añadió Genovevo Quiroz</s>
+<s docid="18CU040414_825964" num="28" wdcount="1"> rESIDENCIA</s>
+<s docid="18CU040414_825964" num="29" wdcount="17"> Gabriel García Márquez vive en México desde 1961, después de haber estado en Cuba y Nueva York</s>
+<s docid="18CU040414_825964" num="30" wdcount="23"> Y su reciente aparición pública fue su tradicional saludo a los reporteros el pasado 6 de marzo, cuando cumplió 87 años de vida</s>
+<s docid="18CU040414_825964" num="31" wdcount="32"> Ahí en su residencia al sur de la ciudad de México, con unas rosas amarillas, agradeció a los periodistas que año con año lo visitan para tomarle fotos y cantarle “Las mañanitas”</s>
+<s docid="18CU040414_825964" num="32" wdcount="6"> Ese día, estaba de buen humor</s>
+<s docid="18CU040414_825964" num="33" wdcount="12"> Salió a la puerta de su residencia y saludó a algunos periodistas</s>
+<s docid="18CU040414_825964" num="34" wdcount="10"> Sin embargo, tres días después fallecería su hermano menor, Gustavo</s>
+<s docid="18CU040414_825964" num="35" wdcount="38"> Otra de las recientes apariciones públicas del autor de Crónica de una muerte anunciada, fue el 29 de septiembre de 2013, cuando inauguró el Royal Bol, un boliche y sala de juegos en el complejo Garden Santa Fe</s>
+<s docid="18CU040414_825964" num="36" wdcount="9"> Ese día estuvo acompañado por su esposa, Mercedes Barcha</s>
+<s docid="18CU040414_825964" num="37" wdcount="20"> El novelista estaba contento y posó para las fotografías que le tomaron familiares en la mesa, así como reporteros gráficos</s>
+<s docid="18CU040414_825964" num="38" wdcount="7"> “Me siento bien, la comida estuvo bien”</s>
+<s docid="18CU040414_825964" num="39" wdcount="31"> Luego de la comida, García Márquez, quien vestía un traje color gris y calzaba zapatos negros, cortó el listón del boliche al lado de los dueños de ese centro de entretenimiento</s>
+<s docid="18CU040414_825964" num="40" wdcount="3"> PROBLEMAS DE SALUD</s>
+<s docid="18CU040414_825964" num="41" wdcount="18"> Desde hace varios años, el estado de salud de Gabriel García Márquez es tema que arroja diversas conjeturas</s>
+<s docid="18CU040414_825964" num="42" wdcount="8"> Sin embargo, sólo se puede hablar de dos</s>
+<s docid="18CU040414_825964" num="43" wdcount="30"> Una de éstas es la demencia senil —pérdida de la memoria—, mal que fue confirmado por su hermano Jorge, y de la cual su familia no ha querido abundar más</s>
+<s docid="18CU040414_825964" num="44" wdcount="28"> En 1999 se le diagnosticó cáncer linfático que, según García Márquez declaró en una entrevista concedida al diario colombiano El Tiempo, superó tras un tratamiento de tres meses</s>
+<s docid="18CU040414_825964" num="45" wdcount="15"> Y ahora esta deshidratación combinada con un proceso infeccioso bronquial y en las vías urinarias.</s>
+
+</TEXT>
+
+</DOC>

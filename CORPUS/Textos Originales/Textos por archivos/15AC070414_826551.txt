@@ -1,0 +1,70 @@
+<DOC>
+
+<DOCNO>
+<s docid="15AC070414_826551" num="1" wdcount="1"> 826551 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="15AC070414_826551" num="2" wdcount="1">15AC070414_826551</s>
+</FILEID>
+
+<HEAD>
+<s docid="15AC070414_826551" num="3" wdcount="9"> Asesinato de jaguar en Sonora no puede quedar impune </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="15AC070414_826551" num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="15AC070414_826551" num="5" wdcount="1"> 2014-04-07 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="15AC070414_826551" num="6" wdcount="14"> Una noche antes de su muerte, Corazón se encontraba bien del lado del río</s>
+<s docid="15AC070414_826551" num="7" wdcount="25"> Quizá habría salido en busca de alimento para sus crías; habría encontrado a un jabalí envenenado que finalmente consumaría un acto atroz, uno con dolo</s>
+<s docid="15AC070414_826551" num="8" wdcount="32"> El felino fue envenenado cerca de una ranchería y podría formar uno más de los casos de impunidad en el largo historial de crímenes contra la especie y la biodiversidad del país</s>
+<s docid="15AC070414_826551" num="9" wdcount="17"> Pero éste es diferente y podría sentar un antecedente para obtener justicia y evitar que sigan sucediendo</s>
+<s docid="15AC070414_826551" num="10" wdcount="50"> Han existido innumerables casos de cacería o asesinato de jaguares (Panthera onca) en México, sin embargo, no se ha podido castigar a los culpables —quienes cometen un delito federal que se paga con prisión— por falta de pruebas o del hallazgo del cadáver (que es desaparecido para no dejar evidencia)</s>
+<s docid="15AC070414_826551" num="11" wdcount="31"> No obstante, investigadores de la UNAM pueden sentar un precedente histórico en este escenario, puesto que por primera vez tienen evidencia del cuerpo de una jaguar en el norte de Sonora</s>
+<s docid="15AC070414_826551" num="12" wdcount="17"> Corazón formaba parte de una investigación y sus movimientos eran monitoreados mediante un collar de localización satelital</s>
+<s docid="15AC070414_826551" num="13" wdcount="43"> “En esta región del país es tradición que la gente defienda su ganado, bajo ideas de matar al depredador que se lo está comiendo —señala Ivonne Cassaigne, quien junto con Rodrigo Medellín, ambos del Instituto de Ecología de la UNAM, realiza la investigación—</s>
+<s docid="15AC070414_826551" num="14" wdcount="33"> La gente está matando a este espécimen en peligro de extinción y no había formas de comprobarlo ante un juez [de manera efectiva a su forma de proceder legalmente], sino hasta esta ocasión”</s>
+<s docid="15AC070414_826551" num="15" wdcount="29"> La científica llegó a la zona, al norte de Sonora, donde había ya esfuerzos de conservación conjunta entre investigadores y algunos ganaderos en un área de 50 mil hectáreas</s>
+<s docid="15AC070414_826551" num="16" wdcount="21"> Inició a trabajar la sección de un área de 7 mil 800 hectáreas donde hace ocho años había identificado ocho especímenes</s>
+<s docid="15AC070414_826551" num="17" wdcount="11"> Hoy en día, con el caso de Corazón, sólo quedan dos</s>
+<s docid="15AC070414_826551" num="18" wdcount="19"> Por rumores, los científicos junto con la asociación ecológica Naturalia se han enterado de diversos asesinatos en las rancherías</s>
+<s docid="15AC070414_826551" num="19" wdcount="15"> Muchos podrán ser falsos, lo cierto es que la población que han monitoreado ha bajado</s>
+<s docid="15AC070414_826551" num="20" wdcount="27"> En algunos casos, se han enterado por fotos o periodicazos, pero si bien la PGR ha presentado este tipo de pruebas, al llegar al juez las desechan</s>
+<s docid="15AC070414_826551" num="21" wdcount="15"> De acuerdo con los investigadores, ha habido casos en que los culpables aceptan haber matado </s>
+<s docid="15AC070414_826551" num="22" wdcount="2"> —¡incluso comido!— </s>
+<s docid="15AC070414_826551" num="23" wdcount="15"> al animal, pero aún así no se puede comprobar hasta no encontrar la evidencia física</s>
+<s docid="15AC070414_826551" num="24" wdcount="8"> Ahí está el problema porque nunca se encuentra</s>
+<s docid="15AC070414_826551" num="25" wdcount="2"> EVIDENCIA RASTRADA</s>
+<s docid="15AC070414_826551" num="26" wdcount="32"> En el caso de Corazón — la cual tenía unas rosetas de esa forma— tenía un collar satelital que seguían diario, el cual mandaba señales tres veces al día y se monitoreaba</s>
+<s docid="15AC070414_826551" num="27" wdcount="28"> Tenían las coordenadas de dónde estaba y el dispositivo estaba equipado además con un sensor de movimiento: si permanecía inmóvil durante ocho horas mandaba una señal de mortalidad</s>
+<s docid="15AC070414_826551" num="28" wdcount="11"> A las 8 am del 25 de febrero lanzó esa señal</s>
+<s docid="15AC070414_826551" num="29" wdcount="21"> La siguiente lectura ya no llegó, lo cual sugiere que habrían destruido el collar para que ya no registraran las coordenadas</s>
+<s docid="15AC070414_826551" num="30" wdcount="19"> Los investigadores mandaron a una persona a esa ubicación y encontró los restos del jaguar y del collar incinerados</s>
+<s docid="15AC070414_826551" num="31" wdcount="23"> Aún así pudieron extraer ADN de los huesos del felino y contaban con coordenadas anteriores y los pocos restos del collar como evidencias</s>
+<s docid="15AC070414_826551" num="32" wdcount="35"> Han utilizado estas pruebas para que la PGR y la Profepa las empleen y realicen interrogatorios en la ranchería y esta vez sí se aplique la ley, a diferencia de todos los casos anteriores impunes</s>
+<s docid="15AC070414_826551" num="33" wdcount="29"> Los científicos esperan que esta vez las evidencias sean suficientes para los jueces y desestimar del todo cualquier tipo de protección política a la que puedan allegarse los implicados</s>
+<s docid="15AC070414_826551" num="34" wdcount="34"> “Sabemos dónde murió y no han interrogado a los vaqueros del rancho, cuyo dueño es Jesús Barceló, quien se encontraba en Tucson Arizona y no creemos que haya sido interrogado tampoco”, enfatiza la investigadora</s>
+<s docid="15AC070414_826551" num="35" wdcount="40"> En este caso, incluso —añade— no podrán alegar que se trató en “defensa” de su ganado, puesto que, debido al monitoreo que tienen de los movimiento de la jaguar, sabían que estaba alimentándose de presas silvestres… de aquel funesto jabalí</s>
+<s docid="15AC070414_826551" num="36" wdcount="2"> SISTEMA ECOLÓGICO</s>
+<s docid="15AC070414_826551" num="37" wdcount="34"> De hecho la especialista ha sido impulsora de un seguro ganadero, donde el gobierno federal hace un pago a los rancheros por cabeza de ganado si demuestran que murió por un ataque de jaguar</s>
+<s docid="15AC070414_826551" num="38" wdcount="38"> Además las investigaciones que ha llevado a cabo van encaminadas a evitar que los felinos se acerquen a estas presas fáciles, y ha demostrado que basta con mantener saludables a sus fuentes naturales, como venados, jabalíes o pecaríes</s>
+<s docid="15AC070414_826551" num="39" wdcount="25"> “Hoy, el hombre llegó invadir su casa, empezó a tirarla y además y le quita su alimento, quitándole a sus presas”, señala, enérgico, Rodrigo Medellín</s>
+<s docid="15AC070414_826551" num="40" wdcount="26"> “Y además le ponemos unos animales tontos que no se defienden para decirle además al jaguar ‘ahí de ti donde te lo comas porque te mato’</s>
+<s docid="15AC070414_826551" num="41" wdcount="15"> No hay justicia ahí, el gato no tiene nada más que hacer, debe de comer”</s>
+<s docid="15AC070414_826551" num="42" wdcount="21"> Añadió que los jaguarereros mexicanos están completamente comprometidos a detener a aquellos que matan a los jaguares a diestra y siniestra</s>
+<s docid="15AC070414_826551" num="43" wdcount="24"> “Queremos que todo mundo en el país se entere de que ya no se va a aceptar una muerte más de jaguar, se acabó</s>
+<s docid="15AC070414_826551" num="44" wdcount="43"> Toda la sociedad debe entender que ante un acto así, tenemos la responsabilidad denunciar y asegurar que se actúe y entender que matar un jaguar es un delito federal que se castiga con la cárcel porque es una especie en peligro de extinción</s>
+<s docid="15AC070414_826551" num="45" wdcount="12"> Sea quien sea que lo haya hecho, no importa su nivel socioeconómico”.</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,42 @@
+<DOC>
+
+<DOCNO>
+<s docid="09ES010414_825376" num="1" wdcount="1"> 825376 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="09ES010414_825376" num="2" wdcount="1">09ES010414_825376</s>
+</FILEID>
+
+<HEAD>
+<s docid="09ES010414_825376" num="3" wdcount="9"> Charlie Sheen despide la soltería con una fiesta salvaje </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="09ES010414_825376" num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="09ES010414_825376" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="09ES010414_825376" num="6" wdcount="36"> El controvertido actor Charlie Sheen organizó una fiesta el mes de noviembre pasado en la que la abundancia de mujeres fue la nota predominante, lo que no fue del agrado de su actual prometida, Brett Rossi</s>
+<s docid="09ES010414_825376" num="7" wdcount="4"> "Fue una fiesta genial</s>
+<s docid="09ES010414_825376" num="8" wdcount="13"> Siendo una fiesta de Charlie Sheen hay, como siempre, más chicas que chicos</s>
+<s docid="09ES010414_825376" num="9" wdcount="31"> Todo el mundo lo estaba pasando fenomenal, excepto una persona", contó a RadarOnline.com una invitada al festejo, que tuvo lugar en la residencia de Charlie en Mulholland Estate, en Beverly Hills</s>
+<s docid="09ES010414_825376" num="10" wdcount="37"> La estrella del porno, de 24 años, mostró sin reparos su enfado por la cantidad de féminas convocadas, lo que le llevó a dejar claro que una fiesta así no se volvería a repetir en mucho tiempo</s>
+<s docid="09ES010414_825376" num="11" wdcount="3"> "No estaba contenta</s>
+<s docid="09ES010414_825376" num="12" wdcount="21"> Todos los invitados habían dejado en la puerta su teléfono móvil y habían firmado un acuerdo para no revelar ningún detalle</s>
+<s docid="09ES010414_825376" num="13" wdcount="11"> La fiesta tenía una comida estupenda y Charlie, claramente, estaba disfrutando</s>
+<s docid="09ES010414_825376" num="14" wdcount="17"> No pareció darse cuenta de que sería la última fiesta de ese tipo durante mucho, mucho tiempo</s>
+<s docid="09ES010414_825376" num="15" wdcount="18"> Mientras esté con Brett no habrá más fiestas con el harén de mujeres de Charlie", añadió la fuente</s>
+<s docid="09ES010414_825376" num="16" wdcount="14"> Charlie pidió matrimonio a su novia el pasado día de San Valentín, en Hawái</s>
+<s docid="09ES010414_825376" num="17" wdcount="22"> Aunque la boda está todavía parada, dado que ha de finalizar primero su divorcio de Jonathan Ross, quien fuera su primer marido</s>
+
+
+</TEXT>
+
+</DOC>

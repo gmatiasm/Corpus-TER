@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="17ES020414_825554" num="1" wdcount="1"> 825554 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="17ES020414_825554" num="2" wdcount="1">17ES020414_825554</s>
+</FILEID>
+
+<HEAD>
+<s docid="17ES020414_825554" num="3" wdcount="12"> Los Monólogos de la vagina se van a Broadway en idioma español </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="17ES020414_825554" num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="17ES020414_825554" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="17ES020414_825554" num="6" wdcount="22"> La obra de teatro, Los Monólogos de la vagina, volverá al circuito off-Broadway, pero esta vez en su adaptación al idioma español</s>
+<s docid="17ES020414_825554" num="7" wdcount="21"> La dramaturgia de Eve Ensler se presentará a modo de pre-estreno a partir del 6 de mayo en el Teatro Westside</s>
+<s docid="17ES020414_825554" num="8" wdcount="43"> Bajo la dirección del mexicano Jaime Matarredona y la producción de Morris Gilbert y Federico González Compeán, quienes son los mismos responsables del montaje en la ciudad de México, la puesta en escena se llevará a cabo con un elenco rotativo no confirmado</s>
+<s docid="17ES020414_825554" num="9" wdcount="19"> “Estamos orgullosos de presentar este show en español en el Westside Theatre, uno de los más prestigiosos de ‘off-Broadway’</s>
+<s docid="17ES020414_825554" num="10" wdcount="36"> Es un logro que esperamos que abra las puertas a un mundo de posibilidades tanto para el teatro en español, como para la población de habla hispana de Estados Unidos”, expresaron los productores en un comunicado</s>
+<s docid="17ES020414_825554" num="11" wdcount="55"> La producción seguirá el modelo de la puesta en escena que se presenta en el DF desde el 2000, pero Matarredona aclaró que no se trata de una “versión mexicana” sino de “una traducción del texto mucho más universal y enfocado a lo que viven los latinos es Estados Unidos en su vida cotidiana”, dijo</s>
+<s docid="17ES020414_825554" num="12" wdcount="64"> Entre las actrices que han representado la obra alrededor del mundo se encuentran Brooke Shields, Cate Blanchett, Claire Danes, Cynthia Nixon, Glenn Close, Goldie Hawn, Jane Fonda, Jennifer Hudson, Kate Winslet, Kerry Washington, Lily Tomlin, Lucy Lawless, Marisa Tomei, Meryl Streep, Oprah Winfrey, Queen Latifah, Rosario Dawson, Rosie Pérez, Salma Hayek, Susan Sarandon, Susie Essman, Thandie Newton, Viola Davis, Whoopi Goldberg y Winona Ryder</s>
+<s docid="17ES020414_825554" num="13" wdcount="57"> Por su parte, en México están nombres como Lilia Aragón, Andrea Legarreta, Ofelia Guilmail, Lupita Jones, Mónica Garza, Anabel Ochoa, Rocío Banquells, Bianca Marroquín, IrasemaTterrazas, Susana Moscatel, Maya Zapata, Susana Alexander, Nuria Bages, Diana Bracho, Itatí Cantoral, Laura Flores, Raquel Garza, Cynthia Klitbo, Carmen Montejo, Ludwika y Dominika Paleta, Dalilah Polanco, Patricia Reyes Espíndola y Stephanie Salas</s>
+
+
+
+</TEXT>
+
+</DOC>

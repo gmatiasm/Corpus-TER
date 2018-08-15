@@ -1,0 +1,35 @@
+<DOC>
+
+<DOCNO>
+<s docid="08CU010414_825385" num="1" wdcount="1"> 825385 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="08CU010414_825385" num="2" wdcount="1">08CU010414_825385</s>
+</FILEID>
+
+<HEAD>
+<s docid="08CU010414_825385" num="3" wdcount="11"> Hallan ejemplar de "Azul" de Darío en biblioteca privada de Nicaragua </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="08CU010414_825385" num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="08CU010414_825385" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="08CU010414_825385" num="6" wdcount="36"> Un valioso ejemplar original de la obra “Azul”, del poeta nicaragüense Rubén Darío (18 enero 1867-6 febrero 1916), considerada una de las más relevantes del modernismo literario, fue encontrado en una biblioteca privada, se informó hoy</s>
+<s docid="08CU010414_825385" num="7" wdcount="33"> David Sampson relató que su bisabuelo Juan de Dios Vanegas, un destacado estudioso y abogado, guardó importantes documentos históricos desde los años 1800 y “una réplica original del libro de Darío, titulado “Azul”</s>
+<s docid="08CU010414_825385" num="8" wdcount="30"> Se ha descubierto una “reliquia literaria” en su biblioteca, dijo Miguel Martínez, responsable del Departamento de Archivo en el Museo Archivo “Rubén Darío”, de León, en el noroeste de Managua</s>
+<s docid="08CU010414_825385" num="9" wdcount="25"> El libro es uno de los 500 del tiraje editado el 30 de julio de 1888, en Valparaíso, Chile, declaró Martínez a El Nuevo Diario</s>
+<s docid="08CU010414_825385" num="10" wdcount="13"> En el Archivo Histórico se conserva un ejemplar de la edición en Chile</s>
+<s docid="08CU010414_825385" num="11" wdcount="19"> El segundo tiraje se efectuó en Guatemala con una edición del poeta llamado “El Padre del Modernismo literario” hispanoamericano</s>
+<s docid="08CU010414_825385" num="12" wdcount="12"> “Azul” recopila poemas y cuentos escritos por Darío en Chile entre 1886-1889</s>
+<s docid="08CU010414_825385" num="13" wdcount="14"> En el modernismo el color azul y el cisne blanco eran símbolos del movimiento</s>
+<s docid="08CU010414_825385" num="14" wdcount="37"> Los cuentos en prosa incluyen “El rey burgués”, “La Ninfa”, “El fardo”, “El velo de la reina Mab”, “La canción del oro”, “El rubí”, “El palacio del sol”, “El pájaro azul” y “Palomas blancas y garzas morenas”.</s>
+

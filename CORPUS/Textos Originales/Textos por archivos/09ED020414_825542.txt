@@ -1,0 +1,32 @@
+<DOC>
+
+<DOCNO>
+<s docid="09ED020414_825542" num="1" wdcount="1"> 825542 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="09ED020414_825542" num="2" wdcount="1">09ED020414_825542</s>
+</FILEID>
+
+<HEAD>
+<s docid="09ED020414_825542" num="3" wdcount="10"> Atención digna a grupos vulnerables distingue a Toluca, afirma alcaldesa </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="09ED020414_825542" num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="09ED020414_825542" num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="09ED020414_825542" num="6" wdcount="61"> La alcaldesa de Toluca, Martha Hilda González Calderón, encabezó la entrega de auxiliares auditivos, sillas de ruedas y lentes, en beneficio de 240 personas del municipio, acompañada por la presidenta del sistema DIF Toluca, Diana Elisa González Calderón, y el representante del secretario de Salud de la entidad, César Nomar Gómez Monge, Pedro Montoya Moreno, coordinador de Salud de dicha secretaría</s>
+<s docid="09ED020414_825542" num="7" wdcount="82"> En su mensaje, González Calderón refrendó su compromiso con las personas con discapacidad y dijo que la atención a grupos vulnerables distingue a Toluca como Municipio Educador, además de que hay la responsabilidad de brindar las herramientas necesarias a aquellos grupos con algún grado de vulnerabilidad para contribuir a mejorar su calidad de vida Reconoció el apoyo y coordinación de la Secretaría de Salud estatal que, dijo, se traduce en mejores condiciones para los toluqueños y las toluqueñas que más lo necesitan</s>
+<s docid="09ED020414_825542" num="8" wdcount="40"> En presencia de miembros del Cabildo y de autoridades municipales, la presidenta del sistema DIF de Toluca, Diana Elisa González Calderón, indicó que en esta ocasión se entregaron 110 auxiliares auditivos, 100 juegos de lentes y 30 sillas de ruedas.</s>
+
+</TEXT>
+
+</DOC>

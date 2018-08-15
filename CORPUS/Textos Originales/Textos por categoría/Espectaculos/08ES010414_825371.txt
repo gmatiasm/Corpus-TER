@@ -1,0 +1,37 @@
+<DOC>
+
+<DOCNO>
+<s docid="08ES010414_825371" num="1" wdcount="1"> 825371 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="08ES010414_825371" num="2" wdcount="1">08ES010414_825371</s>
+</FILEID>
+
+<HEAD>
+<s docid="08ES010414_825371" num="3" wdcount="8"> Muere Frankie Knuckles, padre de la música house </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="08ES010414_825371" num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="08ES010414_825371" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="08ES010414_825371" num="6" wdcount="36"> El músico, productor y DJ, Frankie Knuckles, a quien se le atribuye la creación de la "house music", falleció el lunes a los 59 años de edad por causas no divulgadas, informaron hoy los medios estadounidenses</s>
+<s docid="08ES010414_825371" num="7" wdcount="42"> Knuckles, conocido como "el padrino" del estilo de música bailable de Chicago que revolucionó los clubes en las décadas de 1970 y 1980, "murió inesperadamente en su casa", indicó en un breve mensaje electrónico su socio empresarial de muchos años Frederick Dunson</s>
+<s docid="08ES010414_825371" num="8" wdcount="32"> Además del desarrollo y la promoción del sonido y la cultura de la "house music", Knuckles trabajó en la producción de grabaciones de artistas como Whitney Houston, Michael Jackson y Depeche Mode</s>
+<s docid="08ES010414_825371" num="9" wdcount="42"> "Nadie se pone de acuerdo acerca de quién inventó el ‘blues‘ o quién dio origen al ‘rock‘n‘roll‘, pero no cabe la menor duda de que la ‘house music‘ vino de Frankie Knuckles", señaló en su versión de internet la revista Rolling Stone</s>
+<s docid="08ES010414_825371" num="10" wdcount="47"> En sus clubes de Chicago, el Warehouse entre 1977 y 1982, y el Power Plant (1983 a 1985), las prolongadas sesiones musicales de Knuckles incluyeron sus mezclas y ediciones de una amplia gama de grabaciones desde disco a post punk, Rhyth and Blues y el Eurodisco sintetizado</s>
+<s docid="08ES010414_825371" num="11" wdcount="75"> La producción de Knuckles incluye algunas piezas que se han convertido en clásicas de la música bailable incluidas sus colaboraciones con Jamie Principle en "Your Love( 1986) y "Baby Wants to Ride en 1987; "Tears"(1989) con Satoshi Tomiiee y Robert Owens; "The Whistle Song"(1991); y sus recombinaciones de la pieza de Chaka Khan "Ain‘t Nobody" (1989), la de Sounds of Blackness "The Pressure" (1992), y "Blind" (2008) una creación de Hercules and Love Affair (2008))</s>
+
+
+
+</TEXT>
+
+</DOC>

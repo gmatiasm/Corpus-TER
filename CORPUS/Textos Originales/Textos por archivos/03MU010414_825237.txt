@@ -1,0 +1,45 @@
+<DOC>
+
+<DOCNO>
+<s docid="03MU010414_825237" num="1" wdcount="1"> 825237 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="03MU010414_825237" num="2" wdcount="1">03MU010414_825237</s>
+</FILEID>
+
+<HEAD>
+<s docid="03MU010414_825237" num="3" wdcount="12"> Putin retira un batallón de la frontera de Ucrania tras pedirlo Obama </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="03MU010414_825237" num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="03MU010414_825237" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="03MU010414_825237" num="6" wdcount="39"> Rusia anunció ayer la retirada de su 15° Batallón Motorizado de la frontera con Ucrania, después de que el presidente de Estados Unidos, Barack Obama, pidiera el repliegue de las tropas rusas para rebajar la tensión en la zona</s>
+<s docid="03MU010414_825237" num="7" wdcount="42"> Dicho batallón abandonó ayer la región de Rostov del Don, que limita con Ucrania, con destino a su base de emplazamiento habitual en Samara, que se encuentra a más de mil kilómetros de la frontera, según anunció el Ministerio ruso de Defensa</s>
+<s docid="03MU010414_825237" num="8" wdcount="25"> La fuente explicó que dicho batallón había efectuado durante las últimas semanas en Rostov diferentes ejercicios, incluido maniobras de tiro, exploración y otras tácticas militares</s>
+<s docid="03MU010414_825237" num="9" wdcount="3"> 40 mil soldados</s>
+<s docid="03MU010414_825237" num="10" wdcount="47"> El Secretario de Defensa de Estados Unidos, Chuck Hagel, no quiso comentar las informaciones de que Rusia ha comenzado a retirar tropas de su frontera con Ucrania y aseguró que aún permanecen allí “una tremenda concentración de fuerzas en la frontera, de decenas de milse de soldados”</s>
+<s docid="03MU010414_825237" num="11" wdcount="29"> El Pentágono estima que Rusia ha llegado a acumular más de 40,000 tropas frente a las regiones del este y sur de Ucrania, donde existe una mayoría de rusohablantes</s>
+<s docid="03MU010414_825237" num="12" wdcount="35"> Este número hace temer a las autoridades de Kiev una invasión de su territorio para anexionarse las regiones orientales rusoparlantes después de que Moscú se hubiera hecho ya recientemente con la península ucraniana de Crimea</s>
+<s docid="03MU010414_825237" num="13" wdcount="3"> “No estamos preparados”</s>
+<s docid="03MU010414_825237" num="14" wdcount="8"> “Las tropas rusas no están sólo en Crimea</s>
+<s docid="03MU010414_825237" num="15" wdcount="8"> Están a lo largo de las fronteras ucranianas</s>
+<s docid="03MU010414_825237" num="16" wdcount="11"> Están en el sur, en el este y en el norte</s>
+<s docid="03MU010414_825237" num="17" wdcount="28"> Podría haber un gran ataque contra el territorio continental de Ucrania y nos estamos preparando para ello”, aseguró Andréi Parubiy, secretario del Consejo de Defensa y Seguridad Nacional</s>
+<s docid="03MU010414_825237" num="18" wdcount="1"> Desarme</s>
+<s docid="03MU010414_825237" num="19" wdcount="45"> El ministro de Exteriores francés, Laurent Fabius, advirtió ayer que, tras la crisis de Ucrania, que renunció de forma voluntaria a su arsenal atómico en los años noventa, algunos países podrían pensar que el único modo de mantener su integridad territorial es obtener armas nucleares</s>
+<s docid="03MU010414_825237" num="20" wdcount="22"> “Algunos podrían pensar que la única solución es convertirse en potencia nuclear”, aseguró Fabius al ser preguntado sobre la crisis de Crimea.</s>
+
+
+</TEXT>
+
+</DOC>

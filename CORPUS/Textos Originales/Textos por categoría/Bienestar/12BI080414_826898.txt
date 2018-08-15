@@ -1,0 +1,47 @@
+<DOC>
+
+<DOCNO>
+<s docid="12BI080414_826898" num="1" wdcount="1"> 826898 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="12BI080414_826898" num="2" wdcount="1">12BI080414_826898</s>
+</FILEID>
+
+<HEAD>
+<s docid="12BI080414_826898" num="3" wdcount="6"> Cirugía bariátrica mejora calidad de vida </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="12BI080414_826898" num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="12BI080414_826898" num="5" wdcount="1"> 2014-04-08 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="12BI080414_826898" num="6" wdcount="68"> Un estudio realizado por investigadores de la Clínica Cleveland, mostró que la cirugía bariátrica es un tratamiento altamente eficaz y duradero para la personas que presentan diabetes tipo 2 y que viven con obesidad o sobrepeso, permitiendo que la mayoría de éstas personas que se someten a la cirugía no deban usar insulina ni tengan que tomar medicamentos para la diabetes hasta tres años después de la misma</s>
+<s docid="12BI080414_826898" num="7" wdcount="99"> El estudio denominado STAMPEDE (Surgical Therapy And Medications Potentially Eradicate Diabetes Efficiently)que se publicó en el The New England Journal of Medicine y se presentó en la Sesión Científica Anual del Colegio Estadounidense de Cardiología en Washington, D.C, mostró que los pacientes que se sometieron a la cirugía bariátrica experimentaron una mejora en su calidad de vida, así como la reducción de toma de medicamentos cardiovasculares, de reducción de glucosa - del 5 al 10 % tomó insulina en comparación con el 55 % del grupo de terapia médica-, así como para controlar la presión arterial y el colesterol</s>
+<s docid="12BI080414_826898" num="8" wdcount="52"> La obesidad es uno de los principales detonantes de la diabetes tipo 2, según la Asociación Estadounidense de Diabetes, hasta 1 de cada 3 adultos estadounidenses tendrá diabetes en el 2050 si continúan las tendencias actuales, por lo que los expertos en salud desarrollaron el término “diabesidad” para referirse a esta epidemia</s>
+<s docid="12BI080414_826898" num="9" wdcount="21"> Sangeeta Kashyap, endocrinóloga y una de las principales autoras de la investigación del Instituto Bariátrico y Metabólico de la Clínica Cleveland</s>
+<s docid="12BI080414_826898" num="10" wdcount="26"> Asimismo, destacó que “los datos muestran que la cirugía bariátrica es igual de efectiva en el tratamiento de diabetes tipo 2 en personas con obesidad leve</s>
+<s docid="12BI080414_826898" num="11" wdcount="63"> Es por esto que el plan de seguro de salud de la Clínica Cleveland ahora cubre cirugía bariátrica para los miembros que tienen obesidad leve y diabetes no controlada” Después de 3 años, los investigadores pudieron evaluar el impacto de la diabetes y la obesidad en la calidad de vida de los pacientes con el uso de un cuestionario validado (SF-36, Rand Corp.)</s>
+<s docid="12BI080414_826898" num="12" wdcount="35"> Los datos muestran mejoras significativas en 5 de 8 dominios mentales y físicos para pacientes en el grupo del bypass gástrico y 2 de 8 dominios para pacientes en el grupo de gastrectomía en manga</s>
+<s docid="12BI080414_826898" num="13" wdcount="9"> No hubo mejora en el grupo de terapia médica</s>
+<s docid="12BI080414_826898" num="14" wdcount="30"> “Nos enfocamos en la calidad de vida, porque a final de cuentas se trata de ayudar a nuestros pacientes a vivir una vida más feliz y sana”, dijo el Dr</s>
+<s docid="12BI080414_826898" num="15" wdcount="1"> Schauer</s>
+<s docid="12BI080414_826898" num="16" wdcount="83"> “Cuando se comparan con los de la gastrectomía en manga y de terapia médica, los pacientes de bypass gástrico alcanzaron una mayor pérdida de peso, tomaron menos medicamentos y tuvieron una tasa de éxito más alta en el control de la diabetes así como una mejor calidad de vida” El estudio arrojó nuevos datos que se enfocaron en la función renal, la cual se mide por la cantidad de albumina en la orina y un marcador de daño renal ocasionado por la diabetes</s>
+<s docid="12BI080414_826898" num="17" wdcount="15"> El nivel de albumina fue significativamente más bajo sólo en el grupo de bypass gástrico</s>
+<s docid="12BI080414_826898" num="18" wdcount="17"> Los investigadores de la Clínica Cleveland han estado a la vanguardia de la investigación en este campo</s>
+<s docid="12BI080414_826898" num="19" wdcount="47"> Además del estudio STAMPEDE, las innovadoras investigaciones dirigidas por la Clínica Cleveland incluyen un estudio que muestra por primera vez que la cirugía bariátrica puede mejorar notablemente la diabetes tipo 1 e incluso hacer que algunos pacientes reduzcan su uso de insulina en más del 60 %</s>
+<s docid="12BI080414_826898" num="20" wdcount="14"> Los resultados se publicaron en la edición de marzo de 2014 de Diabetes Care</s>
+<s docid="12BI080414_826898" num="21" wdcount="40"> Un sub-estudio de STAMPEDE, publicado en Diabetes Care en el 2013, encontró que la cirugía de bypass gástrico revierte la diabetes al restaurar de forma única la función pancreática en pacientes con obesidad moderada con diabetes tipo 2 no controlada</s>
+<s docid="12BI080414_826898" num="22" wdcount="19"> Aún se necesitan más investigaciones para seguir estudiando la cirugía bariátrica como opción de tratamiento para pacientes con diabetes.</s>
+
+
+</TEXT>
+
+</DOC>

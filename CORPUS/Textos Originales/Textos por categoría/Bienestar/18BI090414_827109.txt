@@ -1,0 +1,49 @@
+<DOC>
+
+<DOCNO>
+<s docid="18BI090414_827109" num="1" wdcount="1"> 827109 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="18BI090414_827109" num="2" wdcount="1">18BI090414_827109</s>
+</FILEID>
+
+<HEAD>
+<s docid="18BI090414_827109" num="3" wdcount="7"> El café nos protege de padecer tromboembolismo </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="18BI090414_827109" num="4" wdcount="1"> Bienestar </s>
+</CATEGORY>
+
+<DATE>
+<s docid="18BI090414_827109" num="5" wdcount="1"> 2014-04-09 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="18BI090414_827109" num="6" wdcount="31"> La incidencia anual de tromboembolismo venoso (TEV) es de 1-2 casos por cada 1000 personas-años en los países desarrollados y es la principal causa prevenible de muerte hospitalaria en Estados Unidos</s>
+<s docid="18BI090414_827109" num="7" wdcount="16"> El TEV es multifactorial, el riesgo se ve incrementado mayormente conforme aumenta la edad del paciente</s>
+<s docid="18BI090414_827109" num="8" wdcount="13"> Sin embargo 25-50% de los casos se presentan en ausencia de factores predisponentes</s>
+<s docid="18BI090414_827109" num="9" wdcount="33"> La relación entre los factores relacionados al estilo de vida y la enfermedad arterial se han estudiado ampliamente; no obstante, el estudio de la relación entre estilo de vida y TEV es limitado</s>
+<s docid="18BI090414_827109" num="10" wdcount="35"> Estudios epidemiológicos han reportado resultados divergentes entre la asociación del consumo de café y el riesgo de enfermedad cardiovascular (ECV), pero estudios de cohorte más recientes han demostrado una relación inversa entre este binomio (café-ECV)</s>
+<s docid="18BI090414_827109" num="11" wdcount="32"> Únicamente un estudio ha investigado la asociación entre el consumo de café y la trombosis venosa, en una población de 37,393 mujeres entre 55y 69 años que fueron seguidas durante 13 años</s>
+<s docid="18BI090414_827109" num="12" wdcount="30"> Al final este estudio reportó una débil asociación inversa entre café y ETV, pero la asociación desapareció después de que se realizaron ajustes al índice de masa corporal y diabetes</s>
+<s docid="18BI090414_827109" num="13" wdcount="33"> Aunque existen escasos datos, también se han presentado estudios que sugieren que el café incrementa la actividad fibrinolítica del sistema de coagulación, atribuyendo a la cafeína propiedades en el acortamiento de la fibrinolisis</s>
+<s docid="18BI090414_827109" num="14" wdcount="23"> Otros estudios han demostrado la capacidad de la cafeína para incrementar la actividad del plasminógeno en los tejidos y disminuirlo a nivel plasmático</s>
+<s docid="18BI090414_827109" num="15" wdcount="44"> El objetivo del presente estudio prospectivo realizado en 26,755 pacientes con seguimiento a 13 años, fue investigar la asociación entre el consumo de café y el riesgo de ETV y probar si esta relación es lineal, en la cohorte de la población general estudiada</s>
+<s docid="18BI090414_827109" num="16" wdcount="11"> Durante el desarrollo del estudio se reportaron 462 eventos de ETV</s>
+<s docid="18BI090414_827109" num="17" wdcount="29"> El consumo diario de 5 o 6 tazas se relacionó significantemente asociado a un riesgo reducido del 33% de VTE, comparativamente al de los pacientes que no consumieron café</s>
+<s docid="18BI090414_827109" num="18" wdcount="23"> En el caso de los altos consumidores de café (más de 6 tazas al día), se presentó una débil asociación inversa entre café-ETV</s>
+<s docid="18BI090414_827109" num="19" wdcount="26"> El alto contenido de polifenoles (especialmente flavonoides y ácidos fenólicos) en el café pueden explicar la relación inversa entre su consumo y el riesgo de ETV</s>
+<s docid="18BI090414_827109" num="20" wdcount="27"> Es sabido que los polifenoles de la dieta inhiben la agregación plaquetaria y se ha demostrado que el consumo de 200 ml de café inhibe esta actividad</s>
+<s docid="18BI090414_827109" num="21" wdcount="7"> Dicha inhibición es independiente de la cafeína</s>
+<s docid="18BI090414_827109" num="22" wdcount="20"> En contraste la reactividad de las plaquetas es estimulada al administrar cantidades de cafeína equivalentes a 1 taza de café</s>
+<s docid="18BI090414_827109" num="23" wdcount="47"> De tal manera, los autores señalan, que la inhibición de la reactividad plaquetaria por el consumo de café, refleja la superioridad del efecto inhibidor de los polifenoles vs el efecto estimulador de la cafeína sobre las plaquetas, lo que contribuye a la protección contra eventos de ETV</s>
+<s docid="18BI090414_827109" num="24" wdcount="39"> Finalmente el estudio, concluye que existe una posible relación inversa entre el consumo de café y ETV y, además, que el consumo moderado de café puede ser asociado a un menor riesgo de ETV en la población en general</s>
+<s docid="18BI090414_827109" num="25" wdcount="16"> Y que existe la necesidad de más estudios en la población general para soportar esta relación</s>
+
+</TEXT>
+
+</DOC>

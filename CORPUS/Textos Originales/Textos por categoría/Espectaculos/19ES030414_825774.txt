@@ -1,0 +1,42 @@
+<DOC>
+
+<DOCNO>
+<s docid="19ES030414_825774" num="1" wdcount="1"> 825774 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="19ES030414_825774" num="2" wdcount="1">19ES030414_825774</s>
+</FILEID>
+
+<HEAD>
+<s docid="19ES030414_825774" num="3" wdcount="5"> Verónica Castro vuelve al teatro </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="19ES030414_825774" num="4" wdcount="1"> Espectáculos </s>
+</CATEGORY>
+
+<DATE>
+<s docid="19ES030414_825774" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="19ES030414_825774" num="6" wdcount="35"> Tras varios años de ausencia en el mundo del espectáculo, la actriz mexicana Verónica Castro regresará en septiembre próximo al teatro para protagonizar el musical Mame, basado en la novela Auntie Mame, de Patrick Dennis</s>
+<s docid="19ES030414_825774" num="7" wdcount="48"> La protagonista de exitosas telenovelas, que suma casi 50 años de carrera, viene dispuesta a disfrutar de su trabajo y no padecerlo, como cuando al mismo tiempo estelarizaba telenovelas, grababa discos, cantaba en palenques, conducía programas en la pantalla chica y viajaba de promoción por todo el mundo</s>
+<s docid="19ES030414_825774" num="8" wdcount="35"> “Me está costando mucho desprenderme de esta paz que había encontrado, venir a la lucha y a la entrega, pero estoy contenta, es una obra importante para mí”, declaró Verónica Castro en conferencia de prensa</s>
+<s docid="19ES030414_825774" num="9" wdcount="32"> En Mame, que se estrenará en el Teatro 1 del Centro Cultural Roshfrans (antes Telmex), dará vida a la extravagante Mame Dennis, tía de Patrick, quien es abandonado al morir su padre</s>
+<s docid="19ES030414_825774" num="10" wdcount="24"> Al cuidado de ella, el pequeño es introducido a su excéntrico y liberal estilo de vida, pero cuando crece, él decide tomar otro rumbo</s>
+<s docid="19ES030414_825774" num="11" wdcount="14"> Los exitosos Pérez (2009) es la más reciente producción televisiva que Verónica Castro hizo</s>
+<s docid="19ES030414_825774" num="12" wdcount="42"> Después se retiró de los escenarios para vivir “tranquila, pues subir un día al avión, al otro estar en un palenque, hacer la portada de una revista y un programa, eran cosas que viví tan rápido y que ni siquiera las disfrutaba</s>
+<s docid="19ES030414_825774" num="13" wdcount="6"> Creo que saturé mucho la pantalla”</s>
+<s docid="19ES030414_825774" num="14" wdcount="40"> Por ello, ahora regresa con el único propósito de disfrutar el ser dirigida por el prestigioso coreógrafo y bailarín francés Stephane Boko, quien ha creado coreografías para la Ópera de Québec, Ópera Bastilla de París y el Circo del Sol</s>
+<s docid="19ES030414_825774" num="15" wdcount="47"> “El teatro es mi escuela, donde me inicié, lo que estudié, donde me presenté y creo que es una gran oportunidad porque además se aprovecharán los avances tecnológicos para hacer una gran producción”, explicó acompañada del productor Ricardo Ortega, quien más adelante revelará otros nombres del elenco</s>
+<s docid="19ES030414_825774" num="16" wdcount="48"> Castro, quien asegura no tiene exclusividad con ninguna televisora, admitió que no es bailarina, por lo que no hará coreografías muy elaboradas, “tampoco soy cantante, aunque le echo ganas e hice La mujer del año (1995), pero no es lo mismo Los tres Mosqueteros, que 20 años después</s>
+<s docid="19ES030414_825774" num="17" wdcount="22"> la referida obra, dijo, “bailaba, me subía, me bajaba y brincaba, pero ahora ya no tengo 40 años, estoy por cumplir 62”</s>
+<s docid="19ES030414_825774" num="18" wdcount="21"> En ese contexto, aseguró sentirse mejor de salud luego de que en varias ocasiones fue intervenida quirúrgicamente de la columna vertebral.</s>
+
+</TEXT>
+
+</DOC>

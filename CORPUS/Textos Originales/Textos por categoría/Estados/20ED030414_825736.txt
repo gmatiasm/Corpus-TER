@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="20ED030414_825736" num="1" wdcount="1"> 825736 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="20ED030414_825736" num="2" wdcount="1">20ED030414_825736</s>
+</FILEID>
+
+<HEAD>
+<s docid="20ED030414_825736" num="3" wdcount="15"> La UAG pedirá apoyo a la Federación para saldar adeudo por 600 millones de pesos  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="20ED030414_825736" num="4" wdcount="1"> Estados </s>
+</CATEGORY>
+
+<DATE>
+<s docid="20ED030414_825736" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="20ED030414_825736" num="6" wdcount="47"> El rector de la Universidad Autónoma de Guerrero (UAG), Javier Saldaña Almazán, dijo que buscará que el gobierno federal invierta en la máxima casa de estudios para enfrentar el adeudo de 600 millones de pesos que se tiene por el reconocimiento de antigüedad de la plantilla laboral</s>
+<s docid="20ED030414_825736" num="7" wdcount="55"> Entrevistado, luego de reunirse con estudiantes afectados de la carrerea de derecho, quienes antes marcharon hacia el zócalo porteño exigiendo el reconocimiento de la certificación del plan de estudios, el rector de la UAG señaló que el estado enfrenta un abismo en la generación de empleos, vivienda y educación comparado con otras entidades del país</s>
+<s docid="20ED030414_825736" num="8" wdcount="49"> Para evitar que se vayan más jóvenes de migrantes a Estados Unidos, se tiene el proyecto de abrir 10 nuevas carreras para el ingreso de 3 mil 700 jóvenes y estarán en las regiones de Tierra Caliente, Centro, Norte, La Montaña y en dos municipios de la Costa Chica</s>
+<s docid="20ED030414_825736" num="9" wdcount="37"> Pero se requiere que el gobierno del estado autorice y firme el financiamiento para estos nuevos espacios y también buscar el reconocimiento de las 6 mil horas y mil plazas que mantiene la Universidad Autónoma de Guerrero</s>
+<s docid="20ED030414_825736" num="10" wdcount="40"> (Mar Horacio Ramos en Acapulco) “Hay un abismo en educación comparado con otros estados, con las 10 nuevas carreras tendremos 3 mil 700 jóvenes en la universidad que habremos de evitar que se vayan de mojados a los Estados Unidos</s>
+<s docid="20ED030414_825736" num="11" wdcount="16"> A este grado estamos como Guerrero, tenemos mucho por hacer un joven preparado tendrá mejor futuro”</s>
+<s docid="20ED030414_825736" num="12" wdcount="31"> Añadió que las 6 mil horas y mil plazas generan un déficit de 200 millones de pesos y recordó que en el 2013 la deuda era de 226 millones de pesos</s>
+<s docid="20ED030414_825736" num="13" wdcount="28"> Lamentó que la UAG esté olvidada y descuidada por parte del gobierno federal y se requiere el apoyo de la Dirección de Subsidio a las Universidades del país</s>
+<s docid="20ED030414_825736" num="14" wdcount="53"> “La crisis financiera se agravó para la UAgro con el paso de las tormentas Manuel e Ingrid que dejó daños en la infraestructura de muchas preparatorias y unidades académicas…buscamos revertir este grado de marginación que sufre la universidad, hemos sido descuidados en esa parte de nuestras condiciones como estado, hemos sido casi olvidados”</s>
+<s docid="20ED030414_825736" num="15" wdcount="38"> Javier Saldaña dio a conocer que no ha sido sencillo lograr el cambio en la mentalidad del cuerpo docente y administrativo y eso ha llevado a que lo hayan denunciado ante los organismos electorales por supuesta campaña anticipada.</s>
+
+</TEXT>
+
+</DOC>

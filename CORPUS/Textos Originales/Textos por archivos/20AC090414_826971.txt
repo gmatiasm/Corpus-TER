@@ -1,0 +1,41 @@
+<DOC>
+
+<DOCNO>
+<s docid="20AC090414_826971" num="1" wdcount="1"> 826971 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="20AC090414_826971" num="2" wdcount="1">20AC090414_826971</s>
+</FILEID>
+
+<HEAD>
+<s docid="20AC090414_826971" num="3" wdcount="7"> Cerezos espaciales florecen inexplicablemente antes de tiempo </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="20AC090414_826971" num="4" wdcount="1"> Academia </s>
+</CATEGORY>
+
+<DATE>
+<s docid="20AC090414_826971" num="5" wdcount="1"> 2014-04-09 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="20AC090414_826971" num="6" wdcount="37"> Varios cerezos que brotaron a partir de semillas enviadas al espacio en 2008 han asombrado a los botánicos japoneses, al haber logrado florecer varios años antes de lo normal, sin que la ciencia pueda explicar este fenómeno</s>
+<s docid="20AC090414_826971" num="7" wdcount="29"> Las semillas de las que germinaron fueron enviadas en un cohete junto al astronauta japonés Koichi Wakata a la Estación Espacial Internacional (EEI), de la que hoy es comandante</s>
+<s docid="20AC090414_826971" num="8" wdcount="40"> El proyecto, bautizado como “Cerezo del espacio” y concebido por la empresa tokiota Japan Manned Space Systems, consistió en enviar 265 semillas en mayo de 2008 a la estación espacial, de donde regresaron, junto a Wakata, en julio de 2009</s>
+<s docid="20AC090414_826971" num="9" wdcount="32"> Todas ellas pertenecían al legendario y reverenciado Chujo Hime Seigan-sakura, un cerezo de unos mil 250 años de edad plantado en el templo Ganjoji de la ciudad de Gifu (oeste de Japón)</s>
+<s docid="20AC090414_826971" num="10" wdcount="49"> El botánico Takao Yoshimura, de 78 años, decidió plantar una de ellas hace cuatro años en el mismo Gangoki, y optó por cubrir la tierra con musgo de turbera debido a lo difícil que ha sido siempre hacer crecer algo a partir de los frutos del Chujo Hime Seigan-sakura</s>
+<s docid="20AC090414_826971" num="11" wdcount="26"> El árbol que brotó en Gangoji ha sido noticia este año por su inusualmente rápido florecimiento, según contó hoy en su edición web el diario Asahi</s>
+<s docid="20AC090414_826971" num="12" wdcount="28"> En esos cuatro años, el joven cerezo ha alcanzado los cuatro metros y esta primavera, por primera vez, produjo diez brotes que florecieron el pasado 4 de abril</s>
+<s docid="20AC090414_826971" num="13" wdcount="2"> SIN RESPUESTA</s>
+<s docid="20AC090414_826971" num="14" wdcount="42"> El propio Yoshimura, aseguró al Asahi, que un cerezo tarda unos 10 años o más en dar flores, y explicó que otros árboles plantados de esas “semillas espaciales” en las prefecturas de Kochi (sur) y Yamanashi (centro) también han florecido este año</s>
+<s docid="20AC090414_826971" num="15" wdcount="30"> Por su parte, el botánico, Kaori Tomita, que participó en el proyecto “Cerezo del espacio”, afirmó que la ciencia no puede explicar de momento el rápido desarrollo de estos especímenes</s>
+<s docid="20AC090414_826971" num="16" wdcount="45"> “Existe, teóricamente, la posibilidad de que el entorno cósmico tuviera un determinado impacto en los agentes de las semillas que controlan la floración y el proceso de crecimiento, aunque en realidad no tenemos manera de averiguar por qué los árboles han florecido tan pronto”, sentenció.</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="18NE020414_825497"num="1" wdcount="1"> 825497 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="18NE020414_825497"num="2" wdcount="1">18NE020414_825497</s>
+</FILEID>
+
+<HEAD>
+<s docid="18NE020414_825497"num="3" wdcount="8"> Desborda optimismo la SHCP; creceremos 4.7% en 2015 </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="18NE020414_825497"num="4" wdcount="1"> Negocios </s>
+</CATEGORY>
+
+<DATE>
+<s docid="18NE020414_825497"num="5" wdcount="1"> 2014-04-02 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="18NE020414_825497" num="6" wdcount="65"> Para el 2015 se proyecta que el PIB de México registrará un crecimiento anual de alrededor de 4.7 por ciento, proyección que contempla la expectativa de que la economía de Estados Unidos continuará acelerándose, al registrar un incremento esperado de 3.0 por ciento en el caso del PIB y de 3.6 por ciento para la producción industrial, señaló la Secretaría de Hacienda y Crédito Público</s>
+<s docid="18NE020414_825497" num="7" wdcount="65"> A través del documento sobre los Lineamientos Económicos Anticipados para el 2015, que envió al Senado y a la Cámara de Diputados, la Secretaría de Hacienda señaló que la estimación de crecimiento considera que la demanda interna en el país se seguirá fortaleciendo y que comenzará a observarse efectos de las reformas estructurales aprobadas en 2013 en materia financiera, de telecomunicaciones, energética, social y fiscal</s>
+<s docid="18NE020414_825497" num="8" wdcount="40"> Estima que en 2015 el valor real de las exportaciones de bienes y servicios tenga un crecimiento anual de 7.0 por ciento; además, calcula que la inversión y el consumo registren expansiones anuales de 7.7 y 4.4 por ciento, respectivamente</s>
+<s docid="18NE020414_825497" num="9" wdcount="39"> La SHCP anticipó que a finales del 2015 la inflación se ubicará en un nivel consistente con el objetivo de 3 por ciento con un intervalo de variabilidad de más/menos un punto porcentual establecido por el Banco de México</s>
+<s docid="18NE020414_825497" num="10" wdcount="39"> También prevé que durante el próximo año la cuenta corriente de la balanza de pagos registrará un déficit de alrededor de 1.8 por ciento del PIB, y que éste será financiado a través del ingreso de inversión extranjera directa</s>
+<s docid="18NE020414_825497" num="11" wdcount="17"> Pero advierte que "este escenario se encuentra sujeto a los factores de riesgo en el entorno internacional"</s>
+<s docid="18NE020414_825497" num="12" wdcount="24"> Hacienda ubica el déficit público en 3.0 por ciento del PIB en 2015, "nivel congruente con la capacidad e financiamiento global del sector público"</s>
+<s docid="18NE020414_825497" num="13" wdcount="21"> Además, el precio de referencia para la mezcla mexicana de crudo de exportación prevé que será de 75 dólares por barril</s>
+<s docid="18NE020414_825497" num="14" wdcount="27"> Respecto a ingresos presupuestarios, estima que en 2015 serán mayores en 152.4 miles de millones de pesos respecto al monto previsto en la Ley de Ingresos 2014</s>
+
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,40 @@
+<DOC>
+
+<DOCNO>
+<s docid="19NA010414_825347"num="1" wdcount="1"> 825347 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="19NA010414_825347"num="2" wdcount="1">19NA010414_825347</s>
+</FILEID>
+
+<HEAD>
+<s docid="19NA010414_825347"num="3" wdcount="9"> En marcha, operativo para abatir violencia en Edomex: Segob </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="19NA010414_825347"num="4" wdcount="1"> Nacional </s>
+</CATEGORY>
+
+<DATE>
+<s docid="19NA010414_825347"num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="19NA010414_825347" num="6" wdcount="66"> El secretario de Gobernación, Miguel Ángel Osorio Chong, anunció ayer la implementación de un plan estratégico conjunto con el gobierno del Estado de México, en el que participan desde el sábado las secretarías de la Defensa Nacional y de Marina, la PGR, la Policía Federal y el Cisen, para detener la ola de violencia en la entidad y devolver la paz y tranquilidad a sus habitantes</s>
+<s docid="19NA010414_825347" num="7" wdcount="55"> En un mensaje en el que estuvo acompañado por el gobernador Eruviel Ávila, dirigido desde la sede de la dependencia federal, Osorio Chong informó que “se ha diseñado un plan estratégico de respaldo y de apoyo absoluto y total al Estado de México”, que permanecerá el resto de la administración del presidente Enrique Peña Nieto</s>
+<s docid="19NA010414_825347" num="8" wdcount="30"> Garantizó al igual que en otras entidades donde se han instrumentado planes de esta naturaleza, también en el Estado de México habrá resultados positivos, aunque no estimó tiempo para ello</s>
+<s docid="19NA010414_825347" num="9" wdcount="32"> Aclaró que la estrategia no abarca a todos los municipios de la entidad, sino solamente la parte sur, aunque dio por hecho que los efectos habrá de reflejarse en todo el territorio</s>
+<s docid="19NA010414_825347" num="10" wdcount="67"> El responsable de la política interior del país explicó que la determinación de poner en marcha este plan estratégico se deriva de una reunión que sostuvo en días pasados el gobernador Eruviel Ávila con el Gabinete de Seguridad Nacional, donde se analizaron las condiciones por las que atraviesa en este momento el Estado de México, y se observó que hay “mayores dificultades en el tema de seguridad”</s>
+<s docid="19NA010414_825347" num="11" wdcount="73"> Osorio Chong enlistó algunas de las acciones que ya fueron puestas en marcha, como es el hecho de que la Policía Federal duplicó el número de elementos en la entidad, y las secretarías de la Defensa y Marina, así como la PGR, incrementaron también su presencia en tareas de vigilancia, además de que se pusieron en operación grupos especiales que atenderán de inmediato el combate a delitos como el secuestro y la extorsión</s>
+<s docid="19NA010414_825347" num="12" wdcount="36"> De igual forma, inició ya el uso privilegiado de la inteligencia con la participación de los tres ámbitos de gobierno, a fin de maximizar la eficacia de las operaciones y reducir la violencia en el estado</s>
+<s docid="19NA010414_825347" num="13" wdcount="38"> En forma paulatina, agregó, se aumentarán las capacidades tecnológicas de vigilancia y monitoreo a través de la actualización de los centros de comando municipales para su eficiente operación con el Centro de Control, Comando y Comunicación del estado</s>
+<s docid="19NA010414_825347" num="14" wdcount="52"> De igual forma, el titular de la SEGOB dijo que se trabaja ya para hacer más efectiva la coordinación del Mando Único de policía en respaldo al gobierno estatal y los municipios, y se apoya al gobierno del estado “en la restructuración de los cuerpos de seguridad y de procuración de justicia”</s>
+<s docid="19NA010414_825347" num="15" wdcount="48"> “Se incrementará el despliegue coordinador entre corporaciones federales y estatales en carreteras y caminos secundarios; se realizarán operativos en municipios y las colonias más afectadas por robos y asaltos y, desde el fin de semana pasado, se efectúan operativos de revisión de giros negros y centros nocturnos”, agregó</s>
+<s docid="19NA010414_825347" num="16" wdcount="35"> Se trata, dijo finalmente el secretario Osorio Chong, de “agregar efectividad a la acción de gobierno; todo un esquema de coordinación, predominio de la inteligencia y articulación de capacidades entre los diferentes niveles de gobierno”</s>
+
+</TEXT>
+
+</DOC>

@@ -1,0 +1,43 @@
+<DOC>
+
+<DOCNO>
+<s docid="18DE030414_825771" num="1" wdcount="1"> 825771 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="18DE030414_825771" num="2" wdcount="1">18DE030414_825771</s>
+</FILEID>
+
+<HEAD>
+<s docid="18DE030414_825771" num="3" wdcount="8"> Mexicanos buscan ganar en el Bosque México Championship </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="18DE030414_825771" num="4" wdcount="1"> Deportes </s>
+</CATEGORY>
+
+<DATE>
+<s docid="18DE030414_825771" num="5" wdcount="1"> 2014-04-03 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="18DE030414_825771" num="6" wdcount="44"> El Club de Golf el Bosque, en León, Guanajuato, se encuentra en óptimas condiciones para recibir el torneo El Bosque México Championship del Web.com Tour, a jugarse del 10 al 13 de abril, así lo informó Fernando Horgan, presidente del comité organizador del evento</s>
+<s docid="18DE030414_825771" num="7" wdcount="51"> Será la sexta ocasión consecutiva que el Web.com Tour haga parada en el Club del Golf el Bosque, pero ésta vez Horgan no descarta que alguno de los mexicanos alcancen la victoria dado el buen momento por el que pasan Carlos Ortiz, Sebastián Vázquez, Oscar Fraustro y José de Jesús Rodríguez</s>
+<s docid="18DE030414_825771" num="8" wdcount="17"> “Cualquiera de los cuatro no sólo están a la altura de pasar el corte, sino de ganar</s>
+<s docid="18DE030414_825771" num="9" wdcount="40"> A nuestro torneo le hace falta el triunfo de un mexicano”, dijo Horgan vía telefónica desde la ciudad de León, a unos días para llevarse a cabo el único torneo en México de la gira de ascenso al PGA Tour</s>
+<s docid="18DE030414_825771" num="10" wdcount="41"> De los cuatro jugadores citados, José de Jesús Rodríguez es de los que más conoce el campo de El Bosque, considerado uno de los más largos y complejos en nuestro país con sus 7,707 yardas, par 72, diseñado por Steve Newgent</s>
+<s docid="18DE030414_825771" num="11" wdcount="11"> El Camarón Rodríguez ocupó la sexta posición en la pasada edición</s>
+<s docid="18DE030414_825771" num="12" wdcount="28"> “Aunque Carlos es muy joven está jugando muy bien, ganó en Panamá; Oscar tiene mucha experiencia en la gira y Sebastián ha demostrado que también tiene buen nivel</s>
+<s docid="18DE030414_825771" num="13" wdcount="38"> Pero en el field de 144 jugadores también contaremos con golfistas que ya han jugado en el PGA Tour, por eso invitamos a todo el público que asistan a presenciar un gran torneo de golf”, precisó Fernando Horgan</s>
+<s docid="18DE030414_825771" num="14" wdcount="56"> Para la edición del 2014, al campo se le han hecho resiembra de árboles, se ha dado mantenimiento extra a los fosos de arena, al sistema hidráulico, entre otros aspectos, “es un campo que ofrece todo lo necesario tanto al jugador como al espectador y en el que premia los buenos tiros y castiga los malos</s>
+<s docid="18DE030414_825771" num="15" wdcount="13"> Todos se divierten porque fue concebido para recibir un torneo de alto nivel”</s>
+<s docid="18DE030414_825771" num="16" wdcount="36"> Además de los cuatro mexicanos con tarjeta en la gira, Fernando Horgan cree que golfistas como Antonio y Efrén Serna (jugadores locales), Andrés García o Armando Favela podrían estar también en lucha por los mejores resultados</s>
+<s docid="18DE030414_825771" num="17" wdcount="6"> En el field suman 22 mexicanos</s>
+
+
+
+</TEXT>
+
+</DOC>

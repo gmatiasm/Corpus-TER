@@ -1,0 +1,64 @@
+<DOC>
+
+<DOCNO>
+<s docid="10OP010414_825358"num="1" wdcount="1"> 825358 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="10OP010414_825358"num="2" wdcount="1">10OP010414_825358</s>
+</FILEID>
+
+<HEAD>
+<s docid="10OP010414_825358"num="3" wdcount="12"> Que el Tianguis Turístico del 2016 sea en la ciudad de México </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="10OP010414_825358"num="4" wdcount="1"> Opinión </s>
+</CATEGORY>
+
+<DATE>
+<s docid="10OP010414_825358"num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="10OP010414_825358" num="6" wdcount="30"> La maestra Gloria Guevara tomó en su momento una decisión que sacudió a la comunidad turística del país: sacar al Tianguis Turístico de Acapulco y transformarlo en un evento itinerante</s>
+<s docid="10OP010414_825358" num="7" wdcount="6"> Las resistencias no se hicieron esperar</s>
+<s docid="10OP010414_825358" num="8" wdcount="17"> Me cuento entre los que pesaban que la entonces titular de Turismo había cometido una equivocación grave</s>
+<s docid="10OP010414_825358" num="9" wdcount="2"> Pero no</s>
+<s docid="10OP010414_825358" num="10" wdcount="6"> El equivocado, lo reconozco, era yo</s>
+<s docid="10OP010414_825358" num="11" wdcount="11"> El cambio le cayó bien al tianguis, que tomó nuevos bríos</s>
+<s docid="10OP010414_825358" num="12" wdcount="32"> Las ediciones en Bahía de Banderas y Puebla fueron una verdadera fiesta para las ciudades sedes y pronto, en el mes de mayo, Quintana Roo se prepara para salir con banderas desplegadas</s>
+<s docid="10OP010414_825358" num="13" wdcount="16"> Con el cambio de gobierno y el arribo del PRI a Los Pinos ocurrió algo interesante</s>
+<s docid="10OP010414_825358" num="14" wdcount="34"> Peña Nieto, como parte de su campaña y para preparar el terreno de un eventual regreso del tricolor al poder en Guerrero, ofreció regresar al Tianguis a Acapulco sin que dejara de ser itinerante</s>
+<s docid="10OP010414_825358" num="15" wdcount="41"> Me explico: el tianguis de este año será en Cancún, el del 2015 en Acapulco y también el del 2017, de manera que falta decidir, y ya es tiempo de hacerlo, qué ciudad será la sede del tianguis para el 2016</s>
+<s docid="10OP010414_825358" num="16" wdcount="21"> Comienza a tomar fuerza una corriente de opinión que respalda la idea que la sede sea para la ciudad de México</s>
+<s docid="10OP010414_825358" num="17" wdcount="12"> Es una idea estupenda a la que desde este espacio me sumo</s>
+<s docid="10OP010414_825358" num="18" wdcount="46"> Sería un reconocimiento a una metrópoli que posee una densidad cultural sin parangón en el continente americano y que se encuentra a la mitad de una transformación de alcances históricos: dejar de ser una ciudad sólo de negocios para ser un importante destino de turismo cultural</s>
+<s docid="10OP010414_825358" num="19" wdcount="20"> El tianguis no requiere playa, sino un escenario óptimo para la interacción, como en cualquier tianguis, entre vendedores y compradoras</s>
+<s docid="10OP010414_825358" num="20" wdcount="10"> La idea es hacer negocios, los más que se pueda</s>
+<s docid="10OP010414_825358" num="21" wdcount="17"> También montar a lo largo de cuatro o cinco días un mega-operativo de relaciones públicas y promoción</s>
+<s docid="10OP010414_825358" num="22" wdcount="51"> La ciudad de México, acostumbrada a los grandes eventos, tiene todo para organizar un tianguis que conjugue un entorno adecuado para hacer negocios con eventos de alto impacto, como los que se hacían en la década de los años 70 cuando el tianguis se posicionó en los cuernos de la luna</s>
+<s docid="10OP010414_825358" num="23" wdcount="19"> Hacer el tianguis en el Distrito Federal generaría beneficios para estados vecinos, como Morelos, Estado de México e Hidalgo</s>
+<s docid="10OP010414_825358" num="24" wdcount="14"> Sería sencillo organizar, antes o después, viajes de familiarización con periodistas nacionales e internacionales</s>
+<s docid="10OP010414_825358" num="25" wdcount="37"> En la ciudad de México están varios de los mejores centros comerciales de América Latina y, aunque se dice poco, se considera uno de los lugares donde se puede comer mejor, pues cuenta con innumerables restaurantes prestigiosos</s>
+<s docid="10OP010414_825358" num="26" wdcount="13"> La oferta de cuartos es enorme, casi 50 mil para todos los presupuestos</s>
+<s docid="10OP010414_825358" num="27" wdcount="27"> Sabía usted que hay aquí, en el DF, más de 180 museos de todo tipo, incluidos algunos como el de Antropología e Historia que tienen prestigio global</s>
+<s docid="10OP010414_825358" num="28" wdcount="6"> Tiene también modernos centros de convenciones</s>
+<s docid="10OP010414_825358" num="29" wdcount="22"> El reto sería establecer las mejores rutas de acceso hacia corredor el Reforma-Centro Histórico para que el tráfico no sea un problema</s>
+<s docid="10OP010414_825358" num="30" wdcount="7"> La ciudad de México merece la oportunidad</s>
+<s docid="10OP010414_825358" num="31" wdcount="18"> Miguel Ángel Mancera y Miguel Torruco, jefe de gobierno y secretario de Turismo, respectivamente, son gente seria, confiable</s>
+<s docid="10OP010414_825358" num="32" wdcount="13"> Si dicen que pueden es porque están seguros de organizar un evento exitoso</s>
+<s docid="10OP010414_825358" num="33" wdcount="25"> Debe haber otras ciudades que aspiren a realizar el evento, pero la ciudad de México es una opción formidable que se debe tomar en cuenta</s>
+<s docid="10OP010414_825358" num="34" wdcount="42"> SAT.- La Secretaría de Turismo federal dio a conocer que quienes viajan a México, en esta inminente Semana Santa, cuentan con diversas facilidades que la Secretaría de Hacienda y Crédito Público (SHCP) está implementando a través del Servicio de Administración Tributaria (SAT)</s>
+<s docid="10OP010414_825358" num="35" wdcount="32"> La Declaración de Aduana puede llenarse por internet antes de llegar al país y entregarla al momento de cruzar la aduana a México, con lo que se evitarán molestias durante su arribo</s>
+<s docid="10OP010414_825358" num="36" wdcount="31"> Del 28 de marzo al 28 de abril de 2014, la franquicia para los pasajeros de nacionalidad mexicana (paisanos) que arriben al país por vía terrestre se amplía a 500 dólares</s>
+<s docid="10OP010414_825358" num="37" wdcount="15"> Además, el excedente de la franquicia se puede pagar con tarjeta de crédito o débito</s>
+<s docid="10OP010414_825358" num="38" wdcount="16"> Los pasajeros pueden introducir, sin el pago de impuestos, mercancía cuyo valor no exceda la franquicia</s>
+<s docid="10OP010414_825358" num="39" wdcount="2"> jasaicamacho@yahoo.com @juan_asai  </s>
+
+
+</TEXT>
+
+</DOC>

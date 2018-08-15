@@ -1,0 +1,48 @@
+<DOC>
+
+<DOCNO>
+<s docid="04MU010414_825240"num="1" wdcount="1"> 825240 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="04MU010414_825240"num="2" wdcount="1">04MU010414_825240</s>
+</FILEID>
+
+<HEAD>
+<s docid="04MU010414_825240"num="3" wdcount="10"> Más sequías, más inundaciones, más pobreza, más refugiados, más guerras  </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="04MU010414_825240"num="4" wdcount="1"> Mundo </s>
+</CATEGORY>
+
+<DATE>
+<s docid="04MU010414_825240"num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="04MU010414_825240" num="6" wdcount="18"> El cambio climático no es una amenaza futura, es una realidad con impacto visible en los seis continentes</s>
+<s docid="04MU010414_825240" num="7" wdcount="25"> Esta es la conclusión del informe elaborado por expertos de la ONU de 70 países, en el que dibujan un paisaje poco menos que apocalíptico</s>
+<s docid="04MU010414_825240" num="8" wdcount="26"> Las previsiones de ahora al año 2,100 son más sequías, más inundaciones, más pobreza; y en consecuencia, más refugiados y más guerras por los recursos naturales</s>
+<s docid="04MU010414_825240" num="9" wdcount="43"> El nuevo documento elaborado por el II Panel Intergubernamental de la ONU sobre Cambio Climático (IPCC) , ha sido redactado durante una semana en Yokohama (en la bahía de Tokio) por 500 expertos de 70 países a partir de los últimos estudios científicos</s>
+<s docid="04MU010414_825240" num="10" wdcount="42"> Se trata de “uno de los más amplios informes científicos de la historia”, que incluye “sólidas evidencias de todas las disciplinas”, según dijo al presentar el documento en rueda de prensa el secretario de la Organización Mundial de Meteorología (OMM), Michel Jarraud</s>
+<s docid="04MU010414_825240" num="11" wdcount="2"> “120 impactos”</s>
+<s docid="04MU010414_825240" num="12" wdcount="31"> El experto afirmó que “ya no hay ninguna duda de que el clima está cambiando”, y añadió que “el 95 por ciento de este cambio se debe a la actividad humana”</s>
+<s docid="04MU010414_825240" num="13" wdcount="30"> El cambio climático “ya ha tenido impactos observados y documentados en todo el planeta”, destacó en la misma línea el vicepresidente del panel de la ONU, el argentino Vicente Barros</s>
+<s docid="04MU010414_825240" num="14" wdcount="30"> En particular, el documento recoge “120 impactos en los seis continentes con atribución total o parcial al cambio climático”, destacó el profesor de Climatología de la Universidad de Buenos Aires</s>
+<s docid="04MU010414_825240" num="15" wdcount="36"> Entre ellos hay bajadas del rendimiento de los cultivos en diversas partes del mundo, “eventos climáticos extremos” como olas de calor, tifones, lluvias torrenciales, inundaciones, sequías y cambios en los patrones migratorios de diversas especies animales</s>
+<s docid="04MU010414_825240" num="16" wdcount="2"> Menos maíz</s>
+<s docid="04MU010414_825240" num="17" wdcount="29"> El descenso del rendimiento agrícola “se observa en regiones como el Sur de Europa o Sudamérica”, y sobre todo en cultivos como el maíz o el trigo, según Barros</s>
+<s docid="04MU010414_825240" num="18" wdcount="36"> Pero las mayores consecuencias del cambio climático sobre la seguridad alimentaria se observarán en zonas como África o el Sudeste asiático, “donde la población rural hace en su mayor parte una economía de subsistencia”, precisó Barros</s>
+<s docid="04MU010414_825240" num="19" wdcount="12"> “Esto afectará a cientos de millones de personas si no hacemos nada</s>
+<s docid="04MU010414_825240" num="20" wdcount="16"> El mundo debe tomarse este informe muy en serio”, alertó el presidente del IPCC, Rajendra Pachauri</s>
+<s docid="04MU010414_825240" num="21" wdcount="41"> La privación alimentaria y los eventos climáticos extremos “provocarán con toda seguridad un aumento de los flujos migratorios y de los conflictos entre poblaciones, y tendrán implicaciones en la integridad territorial, sobre todo en las zonas menos desarrolladas”, subrayó el experto</s>
+<s docid="04MU010414_825240" num="22" wdcount="37"> “El informe es claro: el impacto del cambio climático sobre la alimentación es peor de lo que se había estimado”, afirmó el experto de Oxfam International Tim Gore, quien llamó a la “acción urgente” de los gobiernos</s>
+<s docid="04MU010414_825240" num="23" wdcount="35"> Greenpeace, asimismo, instó a los líderes políticos “a acelerar la transición hacia energías limpias y seguras” para evitar “amenazas mayores sobre la seguridad humana” y “para proteger bosques, océanos y especies naturales de importancia vital”</s>
+
+
+</TEXT>
+
+</DOC>

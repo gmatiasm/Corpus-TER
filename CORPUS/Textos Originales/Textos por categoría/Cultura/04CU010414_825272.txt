@@ -1,0 +1,44 @@
+<DOC>
+
+<DOCNO>
+<s docid="04CU010414_825272" num="1" wdcount="1"> 825272 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="04CU010414_825272" num="2" wdcount="1">04CU010414_825272</s>
+</FILEID>
+
+<HEAD>
+<s docid="04CU010414_825272" num="3" wdcount="12"> Octavio Paz fue la mente más brillante del siglo XX: Peña Nieto </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="04CU010414_825272" num="4" wdcount="1"> Cultura </s>
+</CATEGORY>
+
+<DATE>
+<s docid="04CU010414_825272" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="04CU010414_825272" num="6" wdcount="42"> Al encabezar un homenaje a Octavio Paz por el centenario de su natalicio, el presidente Enrique Peña Nieto aseguró que sus ideas alientan al gobierno federal a construir una sociedad de derechos que viva en democracia, libertad de crítica y de diálogo</s>
+<s docid="04CU010414_825272" num="7" wdcount="56"> Si bien dejó en claro que “el cambio tiene que ser obra de la sociedad entera”, el mandatario aludió a la convicción del Nobel de Literatura 1990 en el sentido de que “la democracia política y la convivencia civilizada entre los hombres exigen la tolerancia y la aceptación de valores e ideas distintos a los nuestros”</s>
+<s docid="04CU010414_825272" num="8" wdcount="16"> Para ello, dijo, “debemos buscar y anteponer lo que nos une, sobre aquello que nos separa”</s>
+<s docid="04CU010414_825272" num="9" wdcount="24"> “Esa concepción nos convoca a seguir trabajando por un México más incluyente en el que se escuche y respete a quienes piensan distinto”, destacó</s>
+<s docid="04CU010414_825272" num="10" wdcount="50"> En presencia de Marie Jo, viuda de Paz, los Premios Nobel de Literatura Jean-Marie Gustave Le Clézio y Wole Soyinka, así como del Nobel de Química, Mario Molina, el mandatario refrendó el compromiso invariable del gobierno con la libertad de expresión y el derecho de los mexicanos a ser informados</s>
+<s docid="04CU010414_825272" num="11" wdcount="42"> Desde la Biblioteca de México, cuyo patio principal lleva ahora el nombre de Octavio Paz, el presidente ensalzó el ejercicio del diálogo en todos los niveles, “convencidos de que la razón y el entendimiento son instrumentos imprescindibles para construir un mejor México”</s>
+<s docid="04CU010414_825272" num="12" wdcount="18"> “Paz refería que todas las grandes cosas que los hombres hemos hecho han sido hijas del diálogo”, agregó</s>
+<s docid="04CU010414_825272" num="13" wdcount="58"> En la ceremonia, el poeta Eduardo Lizalde y la actriz Diana Bracho leyeron fragmentos de la obra de Paz; también se proyectó un video en el cual Paz relata extractos de su vida y se inauguró la exposición Octavio Paz: de la Palabra a la mirada, que integran libros, mamparas con sus frases más recordadas, fotografías y videos</s>
+<s docid="04CU010414_825272" num="14" wdcount="37"> En su mensaje, el presidente Peña Nieto aseguró que Octavio Paz fue la mente mexicana más clara, plena y brillante del siglo XX y con su obra proyectó con grandeza el nombre de México en el mundo</s>
+<s docid="04CU010414_825272" num="15" wdcount="37"> “Es el único mexicano que ha sido galardonado con el Premio Nobel de Literatura y, sin duda, el más universal de nuestros pensadores”, señaló ante autoridades de cultura e integrantes de la comunidad de escritores del país</s>
+<s docid="04CU010414_825272" num="16" wdcount="10"> Aseguró que Paz “tuvo una visión global, completa y generosa</s>
+<s docid="04CU010414_825272" num="17" wdcount="54"> Creía en el mejoramiento constante de la humanidad; reflexionó profundamente sobre la condición del hombre y sus libertades; fue maestro y formador de maestros: varios de los más prominentes intelectuales, poetas y pensadores de la actualidad se nutrieron de sus ideas, su sensibilidad, la convicción de sus principios y la profundidad de su obra”</s>
+<s docid="04CU010414_825272" num="18" wdcount="62"> Tras reiterar sus condolencias por la muerte de Helena Paz Garro, hija de Octavio Paz y Elena Garro y quien falleció el domingo, el mandatario anunció que en septiembre se realizará una magna exposición con las obras de los artistas nacionales y extranjeros sobre los que Octavio Paz escribió páginas memorables; esta colección proviene de decenas de museos de todo el mundo</s>
+<s docid="04CU010414_825272" num="19" wdcount="43"> Enseguida, en presencia de los titulares de la SEP y de Conaculta, el mandatario ofreció estar siempre cerca de los creadores, escritores, artistas y académicos, “para nutrirse de sus conocimientos, de sus experiencias y propuestas, pero también para promover y proyectar su talento”.</s>
+
+
+</TEXT>
+
+</DOC>

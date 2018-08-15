@@ -1,0 +1,39 @@
+<DOC>
+
+<DOCNO>
+<s docid="13CI010414_825416" num="1" wdcount="1"> 825416 </s>
+</DOCNO>
+
+<FILEID>
+<s docid="13CI010414_825416" num="2" wdcount="1">13CI010414_825416</s>
+</FILEID>
+
+<HEAD>
+<s docid="13CI010414_825416" num="3" wdcount="10"> GDF reembolsará los 489 mdp a la Federación por L12 </s>
+</HEAD>
+
+<CATEGORY>
+<s docid="13CI010414_825416" num="4" wdcount="1"> Ciudad </s>
+</CATEGORY>
+
+<DATE>
+<s docid="13CI010414_825416" num="5" wdcount="1"> 2014-04-01 </s>
+</DATE>
+
+<TEXT>
+
+
+<s docid="13CI010414_825416" num="6" wdcount="52"> El reembolso de 489 millones de pesos que pidió la Secretaría de la Función Pública (SFP) al Gobierno del Distrito Federal (GDF), es un golpe a las finanzas de la capital, pero hay margen para regresarlos a la Tesorería de la Federación, aseguró el secretario de Finanzas del DF, Edgar Amador Zamora</s>
+<s docid="13CI010414_825416" num="7" wdcount="34"> Sin embargo, reconoció que será difícil reacomodar las partidas presupuestales para reunir dicha cantidad que no fue justificada en el gasto de las obras de la Línea 12 del Sistema de Transporte Colectivo Metro</s>
+<s docid="13CI010414_825416" num="8" wdcount="41"> “No es un requerimiento que vaya a dislocar las finanzas públicas locales, tenemos margen de maniobra para acomodarlo, pero no va a ser nada sencillo, ya que va a implicar una reasignación presupuestal en algunas áreas, en todas en realidad”, indicó</s>
+<s docid="13CI010414_825416" num="9" wdcount="24"> Al participar en la presentación del Reporte Económico de la Ciudad de México 2013, el funcionario adelantó que reasignarán el gasto corriente y operativo</s>
+<s docid="13CI010414_825416" num="10" wdcount="30"> “Va a ser una afectación importante al presupuesto de la ciudad, por lo que tenemos que ver de dónde vamos a sacar los recursos porque no es poca cosa”, recalcó</s>
+<s docid="13CI010414_825416" num="11" wdcount="43"> Descartó utilizar alguna partida de los programas sociales o de los sueldos de los servidores públicos para reunir los 489 millones de pesos que pidió la Secretaría de la Función Pública, luego de realizar auditorías en conjunto con la Contraloría General del GDF</s>
+<s docid="13CI010414_825416" num="12" wdcount="31"> En compañía del titular de la Secretaría de Desarrollo Económico, Salomón Chertorivsky, el funcionario aseguró que será difícil mover los salarios nóminales, por lo que optarán mejor por el gasto operativo</s>
+<s docid="13CI010414_825416" num="13" wdcount="7"> “Los sueldos nóminales son difícil de ajustar</s>
+<s docid="13CI010414_825416" num="14" wdcount="10"> El principal objetivo es el gasto operativo en general”, subrayó</s>
+
+
+</TEXT>
+
+</DOC>
